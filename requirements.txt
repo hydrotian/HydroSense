@@ -1,0 +1,6 @@
+# Core dependencies
+requests>=2.31.0
+
+# Optional but recommended
+# For better SSL handling
+certifi>=2023.0.0
