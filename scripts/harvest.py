@@ -256,7 +256,7 @@ class GeminiClient:
     def __init__(self, api_key: str = None):
         self.api_key = api_key or GEMINI_API_KEY
         self.base_url = "https://generativelanguage.googleapis.com/v1beta"
-        self.model = "gemini-1.5-flash"
+        self.model = "gemini-2.0-flash-lite"
         self.rate_limit_delay = 4.0  # 15 requests/minute = 4s between requests
 
     def is_relevant(self, title: str, abstract: str, journal: str) -> Dict:
@@ -489,7 +489,7 @@ def main():
     # Gemini LLM configuration
     if GEMINI_API_KEY:
         print(f"🔑 Gemini API Configuration:")
-        print(f"   Model: gemini-1.5-flash")
+        print(f"   Model: gemini-2.0-flash-lite")
         print(f"   Rate limit: 4s delay between requests")
         gemini_available = True
     else:
