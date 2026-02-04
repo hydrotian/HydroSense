@@ -758,6 +758,9 @@ def main():
     # Jekyll post filename
     post_file = f"{posts_dir}/{until_str}-daily-harvest.md"
 
+    # Get day for title
+    day = datetime.strptime(until_str, '%Y-%m-%d').day
+
     # Write Jekyll post with front matter
     with open(post_file, 'w', encoding='utf-8') as f:
         # Front matter for jekyll-gitbook theme

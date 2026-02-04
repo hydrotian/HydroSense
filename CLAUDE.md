@@ -156,15 +156,21 @@ HydroSense/
 ├── _config.yml              # Jekyll configuration
 ├── Gemfile                  # Ruby dependencies
 ├── index.md                 # Homepage
-├── _pages/                  # Static pages (about, etc.)
-├── _pages/2025.md          # Year navigation page
-├── _pages/2025/            # 2025 posts
-│   ├── january.md          # Month navigation page
-│   ├── february.md         # Month navigation page
-│   ├── 2025-01-03-daily-harvest.md
-│   ├── 2025-01-31-monthly-summary.md
-│   └── ...
-└── _pages/2026/            # 2026 posts
+├── _pages/
+│   ├── about.md            # About page
+│   ├── 2025/               # Year folder
+│   │   ├── index.md        # Year landing page
+│   │   ├── january/        # Month folder
+│   │   │   ├── index.md    # Month landing page
+│   │   │   ├── 2025-01-03-daily-harvest.md
+│   │   │   ├── 2025-01-31-monthly-summary.md
+│   │   │   └── ...
+│   │   ├── february/       # Month folder
+│   │   │   ├── index.md
+│   │   │   └── ...
+│   │   └── ...
+│   └── 2026/               # Future year folder
+└── scripts/harvest.py      # Harvesting script
 ```
 
 ### Local Development
@@ -191,15 +197,15 @@ Uses the `jekyll-gitbook` theme (https://github.com/sighingnow/jekyll-gitbook) w
 
 **Daily Reports:**
 1. Generate report using `scripts/harvest.py`
-2. Script automatically saves to `_pages/YYYY/YYYY-MM-DD-daily-harvest.md`
+2. Script automatically:
+   - Creates month folder if needed: `_pages/YYYY/monthname/`
+   - Creates month index page: `_pages/YYYY/monthname/index.md`
+   - Saves post to: `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md`
 3. Front matter template:
 ```yaml
 ---
 layout: page
 title: "January 03 - Daily Harvest"
-parent: January
-grand_parent: 2025
-nav_order: 3
 date: 2025-01-03
 categories: [daily, 2025, january]
 tags: [hydrology, paper-harvest, research]
@@ -208,12 +214,15 @@ tags: [hydrology, paper-harvest, research]
 
 **Monthly Summaries:**
 1. Create manually or with a script
-2. Save to `_pages/YYYY/YYYY-MM-31-monthly-summary.md`
-3. Set `nav_order: 31` to appear after daily reports
+2. Save to `_pages/YYYY/monthname/YYYY-MM-31-monthly-summary.md`
+3. Use same front matter as daily reports
 
-**Important:** Before adding daily reports for a new month:
-1. Create month navigation page: `_pages/YYYY/monthname.md`
-2. Set proper `parent: YYYY` and `nav_order`
+**Important:** The nested folder structure creates the navigation hierarchy:
+- `_pages/2025/` = Year level
+- `_pages/2025/january/` = Month level
+- `_pages/2025/january/*.md` = Individual posts
+
+Jekyll-gitbook automatically generates sidebar navigation from this folder structure.
 
 ### Search Configuration
 
@@ -252,12 +261,12 @@ To manually trigger deployment:
 
 ### Navigation Hierarchy
 
-The site uses a three-level hierarchy:
-- **Level 1:** Year pages (e.g., `2025.md`)
-- **Level 2:** Month pages (e.g., `january.md` with `parent: 2025`)
-- **Level 3:** Daily/monthly posts (with `parent: January` and `grand_parent: 2025`)
+The site uses a three-level hierarchy based on folder structure:
+- **Level 1:** `_pages/2025/` folder (year level)
+- **Level 2:** `_pages/2025/january/` folder (month level)
+- **Level 3:** `_pages/2025/january/*.md` files (individual posts)
 
-Jekyll-GitBook automatically generates the sidebar navigation tree from these relationships.
+Jekyll-gitbook automatically generates the sidebar navigation tree from the folder hierarchy. Index pages (`index.md`) provide landing pages for each year and month.
 
 ## Blog Site (GitHub Pages)
 
