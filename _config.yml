@@ -1,0 +1,99 @@
+# HydroSense Blog Configuration
+# Jekyll site for paper harvest reports
+
+# Site settings
+title: HydroSense
+long_title: HydroSense - Intelligent Paper Harvesting
+email: hydro.luna.bot@gmail.com
+description: >-
+  Automated literature tracking for hydrology and water resources research.
+  Daily and monthly summaries of publications from top-tier journals.
+
+# GitHub Pages deployment
+baseurl: "/hydrosense"
+url: "https://hydrotian.github.io"
+
+# Theme
+remote_theme: sighingnow/jekyll-gitbook
+
+# GitBook theme configuration
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+# Search configuration
+search:
+  enabled: true
+  # Enable full content search including abstracts
+  # May be slower for large sites but provides comprehensive results
+  index_full_content: true
+
+# Collections for organizing content by year/month
+collections:
+  posts_2025:
+    output: true
+    permalink: /:collection/:year/:month/:title/
+  posts_2026:
+    output: true
+    permalink: /:collection/:year/:month/:title/
+
+# Sidebar organization
+# Posts will be organized hierarchically: Year -> Month -> Daily/Monthly reports
+ordered_collections:
+  - posts_2025
+  - posts_2026
+
+# Syntax highlighting
+syntax_highlighter_style: colorful
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
+  - jekyll-toc
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - scripts/
+  - requirements.txt
+  - .env
+  - .env.example
+  - README.md
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Include
+include:
+  - _pages
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      toc: true
+  - scope:
+      path: ""
+      type: "posts_2025"
+    values:
+      layout: "post"
+      toc: true
+  - scope:
+      path: ""
+      type: "posts_2026"
+    values:
+      layout: "post"
+      toc: true

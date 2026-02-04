@@ -187,6 +187,32 @@ See full list in `harvest.py`.
 - S2 coverage: ~75-85% typical
 - OpenAlex provides fallback coverage
 
+## Blog Site
+
+HydroSense includes a Jekyll-based blog site that hosts daily and monthly harvest reports with full-text search.
+
+**Live Site:** [https://hydrotian.github.io/hydrosense/](https://hydrotian.github.io/hydrosense/)
+
+### Features
+- Daily harvest reports organized by year and month
+- Monthly summaries with trends and highlights
+- Full-text search (authors, journals, titles, abstracts)
+- Clean, book-like interface with sidebar navigation
+- Mobile responsive
+
+### Local Development
+```bash
+# Install Jekyll dependencies
+bundle install
+
+# Serve locally
+bundle exec jekyll serve
+
+# Visit: http://localhost:4000/hydrosense/
+```
+
+See `BLOG_README.md` for detailed documentation on the blog site.
+
 ## Contributing
 
 Contributions welcome! Please feel free to:

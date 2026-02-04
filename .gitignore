@@ -4,54 +4,31 @@ __pycache__/
 *$py.class
 *.so
 .Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual environments
-venv/
 env/
-ENV/
-.venv
+venv/
+*.egg-info/
 
-# IDE
+# Environment variables
+.env
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+Gemfile.lock
+
+# macOS
+.DS_Store
+
+# IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-.DS_Store
-
-# Logs
-*.log
-
-# Output files
-*.md
-!README.md
-*.txt
-!requirements.txt
 
 # Temporary files
 *.tmp
-.cache/
-
-# API keys (if stored in separate file)
-.env
-config.json
-secrets.json
-
-# OS
-.DS_Store
-Thumbs.db
+*.bak
