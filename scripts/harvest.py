@@ -250,6 +250,97 @@ class SemanticScholarClient:
         self.rate_limit_delay = 1.5
 
 
+class GeminiClient:
+    """Gemini API client for binary relevance classification (Stage 1 LLM filtering)."""
+
+    def __init__(self, api_key: str = None):
+        self.api_key = api_key or GEMINI_API_KEY
+        self.base_url = "https://generativelanguage.googleapis.com/v1beta"
+        self.model = "gemini-1.5-flash"
+        self.rate_limit_delay = 4.0  # 15 requests/minute = 4s between requests
+
+    def is_relevant(self, title: str, abstract: str, journal: str) -> Dict:
+        """
+        Determine if a paper is relevant to hydrology research using LLM classification.
+
+        Returns:
+            Dict with 'relevant' (bool), 'confidence' (float), 'reason' (str)
+        """
+        if not self.api_key:
+            logger.warning("No Gemini API key configured, skipping LLM check")
+            return {'relevant': True, 'confidence': 0.5, 'reason': 'No API key'}
+
+        prompt = f"""You are a hydrology research assistant. Determine if this paper is relevant.
+
+RESEARCHER'S DOMAIN:
+- E3SM Earth system modeling
+- MOSART river routing
+- Reservoirs and dams
+- Water management
+- Hydrologic connectivity
+- Land-river coupling
+- Surface hydrology
+- Streamflow and runoff modeling
+
+RELEVANT TOPICS:
+- Hydrology and water resources
+- River/reservoir operations
+- Flood and drought modeling
+- Land surface hydrology
+- Water management infrastructure
+- Climate impacts on water
+- Earth system models
+
+IRRELEVANT (unless hydrology-focused):
+- Pure atmospheric science (no water focus)
+- Marine/ocean-only studies
+- Medical/biochemistry
+- Pure ecology without water connection
+- Agriculture without water resources focus
+
+PAPER TO EVALUATE:
+Title: {title}
+Abstract: {abstract[:1500]}
+Journal: {journal}
+
+OUTPUT (JSON only, no markdown):
+{{"relevant": true/false, "confidence": 0.0-1.0, "reason": "brief explanation"}}"""
+
+        try:
+            url = f"{self.base_url}/models/{self.model}:generateContent"
+            params = {'key': self.api_key}
+
+            payload = {
+                "contents": [{
+                    "parts": [{"text": prompt}]
+                }],
+                "generationConfig": {
+                    "temperature": 0.1,
+                    "maxOutputTokens": 100
+                }
+            }
+
+            response = requests.post(url, params=params, json=payload, timeout=30)
+            response.raise_for_status()
+
+            data = response.json()
+            text = data.get('candidates', [{}])[0].get('content', {}).get('parts', [{}])[0].get('text', '')
+
+            # Parse JSON from response
+            import json
+            text = text.strip().replace('```json', '').replace('```', '')
+            result = json.loads(text)
+
+            # Clean up reason
+            result['reason'] = result.get('reason', '').strip()
+
+            time.sleep(self.rate_limit_delay)
+            return result
+
+        except Exception as e:
+            logger.warning(f"Gemini API error: {e}")
+            return {'relevant': True, 'confidence': 0.5, 'reason': f'API error: {str(e)[:50]}'}
+
 
 def format_journal_list(all_papers: List[Dict], selected_papers: List[Dict]) -> str:
     """Create a text-based journal list with paper counts."""
@@ -395,6 +486,17 @@ def main():
         s2_available = False
         print(f"\n⚠️  Semantic Scholar not available: {e}\n")
 
+    # Gemini LLM configuration
+    if GEMINI_API_KEY:
+        print(f"🔑 Gemini API Configuration:")
+        print(f"   Model: gemini-1.5-flash")
+        print(f"   Rate limit: 4s delay between requests")
+        gemini_available = True
+    else:
+        print(f"⚠️  Gemini API not configured (set GEMINI_API_KEY in .env)")
+        gemini_available = False
+    print()
+
     all_papers = []
 
     # Fetch from each journal
@@ -508,11 +610,47 @@ def main():
             is_peer_reviewed = paper_type == 'journal-article'
 
             if is_top_tier and matched_topics and is_peer_reviewed:
+                # Stage 1: Gemini LLM binary relevance check
+                gemini = GeminiClient()
+                llm_result = gemini.is_relevant(
+                    s2_title,
+                    s2_abstract,
+                    paper.get('journal', journal)
+                )
+
+                # Log LLM decision
+                llm_status = "✅ RELEVANT" if llm_result.get('relevant') else "❌ NOT RELEVANT"
+                logger.info(f"  🤖 Gemini: {llm_status} ({llm_result.get('confidence', 0):.2f}) - {llm_result.get('reason', '')[:50]}")
+
+                # Only include if LLM says relevant
+                if not llm_result.get('relevant', True):
+                    logger.info(f"  ✗ Rejected by Gemini LLM")
+                    continue
+
                 # Part 1: Top-tier + topics + peer-reviewed ONLY
+                paper['llm_result'] = llm_result
                 part1_papers.append(paper)
                 logger.info(f"  ⭐ PART 1: Top-tier + topics: {', '.join(matched_topics[:2])}")
             elif not is_top_tier and matched_topics and is_peer_reviewed:
+                # Stage 1: Gemini LLM binary relevance check (Part 2)
+                gemini = GeminiClient()
+                llm_result = gemini.is_relevant(
+                    s2_title,
+                    s2_abstract,
+                    paper.get('journal', journal)
+                )
+
+                # Log LLM decision
+                llm_status = "✅ RELEVANT" if llm_result.get('relevant') else "❌ NOT RELEVANT"
+                logger.info(f"  🤖 Gemini: {llm_status} ({llm_result.get('confidence', 0):.2f}) - {llm_result.get('reason', '')[:50]}")
+
+                # Only include if LLM says relevant
+                if not llm_result.get('relevant', True):
+                    logger.info(f"  ✗ Rejected by Gemini LLM")
+                    continue
+
                 # Part 2: High-impact + topics + peer-reviewed ONLY
+                paper['llm_result'] = llm_result
                 part2_papers.append(paper)
                 logger.info(f"  ✓ PART 2: High-impact + topics: {', '.join(matched_topics[:2])}")
             elif is_top_tier and matched_fields:
