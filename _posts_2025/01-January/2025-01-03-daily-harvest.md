@@ -44,7 +44,6 @@ Reviews of Geophysics                              (1/1)
 
 - Part 1 (Top-tier + topics): 4
 - Part 2 (High-impact + topics): 8
-- Part 3 (Top-tier + fields): 2
 
 ### Filtering Criteria
 
@@ -230,32 +229,4 @@ Analysis of the spatiotemporal trends of urban scale and urban vitality on ecosy
 
 ---
 
-# Part 3: Top-Tier Journals + Field Match Only (2 papers)
-
-*Top-tier content in relevant fields (may include news, editorials, and research articles).*
-
-### Image segmentation with traveling waves in an exactly solvable recurrent neural network
-
-**Authors:** Luisa H. B. Liboni, Roberto C. Budzinski, Alexandra N. Busch, Sindy Löwe, Thomas A. Keller et al. (7 authors)
-**Journal:** Proceedings of the National Academy of Sciences ⭐ (2025-01-03)
-**DOI:** [10.1073/pnas.2321319121](https://doi.org/10.1073/pnas.2321319121)
-
-**Matched Fields:** computer science
-
-**Abstract:**
-
-Significance Neural networks are powerful tools for processing visual inputs, but precisely how this processing is performed remains unclear. We introduce a recurrent neural network that can perform simple image segmentation while also being exactly mathematically solvable. This allows us to "open the box" to understand precisely how the internal connections within the network create visual computations in terms of a mathematical equation. This framework surpasses the standard level of understanding of how neural networks process visual input, creating an advance in "explainable AI". These results may open a different path in machine learning powered by recurrent neural networks that allow precise mathematical insight, in addition to shedding light on the potential function of recurrent co...
-
----
-
-### Quantum-limited stochastic optical neural networks operating at a few quanta per activation
-
-**Authors:** Shi-Yuan Ma, Tianyu Wang, Jérémie Laydevant, Logan G. Wright, Peter L. McMahon
-**Journal:** Nature Communications ⭐ (2025-01-03)
-**DOI:** [10.1038/s41467-024-55220-y](https://doi.org/10.1038/s41467-024-55220-y)
-
-**Matched Fields:** computer science
-
-**Abstract:**
-
-Energy efficiency in computation is ultimately limited by noise, with quantum limits setting the fundamental noise floor. Analog physical neural networks hold promise for improved energy efficiency compared to digital electronic neural networks. However, they are typically operated in a relatively high-power regime so that the signal-to-noise ratio (SNR) is large (>10), and the noise can be treated as a perturbation. We study optical neural networks where all layers except the last are operated in the limit that each neuron can be activated by just a single photon, and as a result the noise on neuron activations is no longer merely perturbative. We show that by using a physics-based probabilistic model of the neuron activations in training, it is possible to perform accurate machine-learni...
+# Part 2: High-Impact Journals + Topic Match (8 papers)

@@ -460,8 +460,8 @@ def main():
     #until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
     # For older papers (better S2 coverage):
-    from_str = "2025-01-03"
-    until_str = "2025-01-03"
+    from_str = "2025-01-01"
+    until_str = "2025-01-01"
     # ============================================================
 
     print(f"\n{'='*70}")
@@ -783,8 +783,7 @@ def main():
         # Breakdown
         f.write(f"### Selection Breakdown\n\n")
         f.write(f"- Part 1 (Top-tier + topics): {len(part1)}\n")
-        f.write(f"- Part 2 (High-impact + topics): {len(part2)}\n")
-        f.write(f"- Part 3 (Top-tier + fields): {len(part3)}\n\n")
+        f.write(f"- Part 2 (High-impact + topics): {len(part2)}\n\n")
 
         # Filtering criteria
         f.write(f"### Filtering Criteria\n\n")
@@ -805,14 +804,6 @@ def main():
             f.write(f"# Part 2: High-Impact Journals + Topic Match ({len(part2)} papers)\n\n")
             f.write("*Peer-reviewed research articles from high-impact journals that match your topics.*\n\n")
             for i, paper in enumerate(part2, 1):
-                f.write(format_paper(paper))
-                f.write("\n\n---\n\n")
-
-        # Part 3
-        if part3:
-            f.write(f"# Part 3: Top-Tier Journals + Field Match Only ({len(part3)} papers)\n\n")
-            f.write("*Top-tier content in relevant fields (may include news, editorials, and research articles).*\n\n")
-            for i, paper in enumerate(part3, 1):
                 f.write(format_paper(paper))
                 f.write("\n\n---\n\n")
 

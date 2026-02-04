@@ -1,0 +1,84 @@
+# Custom navigation for HydroSense
+# Organized by Year > Month > Daily Reports
+
+2025:
+  title: 2025
+  children:
+    January:
+      title: January
+      children:
+        - title: "2025-01-03 Daily Harvest"
+          url: /posts_2025/2025/01-january/2025-01-03-daily-harvest.html
+    February:
+      title: February
+      children:
+    March:
+      title: March
+      children:
+    April:
+      title: April
+      children:
+    May:
+      title: May
+      children:
+    June:
+      title: June
+      children:
+    July:
+      title: July
+      children:
+    August:
+      title: August
+      children:
+    September:
+      title: September
+      children:
+    October:
+      title: October
+      children:
+    November:
+      title: November
+      children:
+    December:
+      title: December
+      children:
+
+2026:
+  title: 2026
+  children:
+    January:
+      title: January
+      children:
+    February:
+      title: February
+      children:
+    March:
+      title: March
+      children:
+    April:
+      title: April
+      children:
+    May:
+      title: May
+      children:
+    June:
+      title: June
+      children:
+    July:
+      title: July
+      children:
+    August:
+      title: August
+      children:
+    September:
+      title: September
+      children:
+    October:
+      title: October
+      children:
+    November:
+      title: November
+      children:
+    December:
+      title: December
+      children:

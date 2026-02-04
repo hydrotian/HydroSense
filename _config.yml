@@ -22,6 +22,20 @@ toc:
   h_min: 1
   h_max: 3
 
+# Custom navigation (no content headings in sidebar)
+navigation:
+  enabled: true
+  hide_toc: false
+
+# Disable collection-based automatic navigation (we use custom nav)
+gitbook:
+  # Hide the auto-generated page TOC from sidebar
+  disable_toc_article: false
+  # Hide page-level navigation
+  hide_meta: true
+  # Navigation depth
+  nav_level: 3
+
 # Search configuration
 search:
   enabled: true
