@@ -739,25 +739,31 @@ def main():
     month_num = datetime.strptime(until_str, '%Y-%m-%d').strftime('%m')
     year = until_str[:4]
     
-    # Create Jekyll post path (now using _pages structure)
-    posts_dir = f"{project_dir}/_pages/{year}"
+    # Create Jekyll post path (nested folder structure: _pages/2025/january/)
+    month_folder = month_name.lower()
+    posts_dir = f"{project_dir}/_pages/{year}/{month_folder}"
     os.makedirs(posts_dir, exist_ok=True)
+
+    # Create month index page if it doesn't exist
+    month_index = f"{posts_dir}/index.md"
+    if not os.path.exists(month_index):
+        with open(month_index, 'w', encoding='utf-8') as f:
+            f.write("---\n")
+            f.write("layout: page\n")
+            f.write(f"title: {month_name}\n")
+            f.write("---\n\n")
+            f.write(f"# {month_name} {year}\n\n")
+            f.write(f"Daily harvest reports and monthly summary for {month_name} {year}.\n")
 
     # Jekyll post filename
     post_file = f"{posts_dir}/{until_str}-daily-harvest.md"
 
-    # Get day number for nav_order
-    day = datetime.strptime(until_str, '%Y-%m-%d').day
-
     # Write Jekyll post with front matter
     with open(post_file, 'w', encoding='utf-8') as f:
-        # Front matter with navigation hierarchy
+        # Front matter for jekyll-gitbook theme
         f.write("---\n")
-        f.write("layout: default\n")
+        f.write("layout: page\n")
         f.write(f'title: "{month_name} {day:02d} - Daily Harvest"\n')
-        f.write(f"parent: {month_name}\n")
-        f.write(f"grand_parent: {year}\n")
-        f.write(f"nav_order: {day}\n")
         f.write(f"date: {until_str}\n")
         f.write(f'categories: [daily, {year}, {month_name.lower()}]\n')
         f.write(f'tags: [hydrology, paper-harvest, research]\n')

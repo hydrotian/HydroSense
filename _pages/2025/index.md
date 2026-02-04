@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
 title: 2025
-nav_order: 2
-has_children: true
 ---
 
 # 2025 Harvest Reports

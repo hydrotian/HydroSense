@@ -1,9 +1,6 @@
 ---
-layout: default
+layout: page
 title: "February 2025 - Monthly Summary"
-parent: February
-grand_parent: 2025
-nav_order: 28
 date: 2025-02-28
 categories: [monthly, 2025, february]
 tags: [summary, trends, hydrology]

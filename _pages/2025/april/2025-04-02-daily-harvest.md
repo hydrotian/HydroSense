@@ -1,17 +1,14 @@
 ---
-layout: default
-title: "March 26 - Daily Harvest"
-parent: March
-grand_parent: 2025
-nav_order: 26
-date: 2025-03-26
-categories: [daily, 2025, march]
+layout: page
+title: "April 02 - Daily Harvest"
+date: 2025-04-02
+categories: [daily, 2025, april]
 tags: [hydrology, paper-harvest, research]
 ---
 
 # Paper Harvest Report
 
-**Date Range:** 2025-03-26 to 2025-03-26
+**Date Range:** 2025-04-02 to 2025-04-02
 
 ## Summary
 
@@ -42,7 +39,7 @@ Geophysical Research Letters                       (1/8)
 ### Climate-driven changes in global river discharge patterns
 
 **Authors:** John Smith, Jane Doe, Alice Johnson
-**Journal:** Science ⭐ (2025-03-26)
+**Journal:** Science ⭐ (2025-04-02)
 **DOI:** [10.1126/science.example001](https://doi.org/10.1126/science.example001)
 
 **Matched Topics:** river, runoff, climate change
@@ -56,7 +53,7 @@ Global river discharge patterns are experiencing significant changes due to clim
 ### Machine learning for seasonal streamflow forecasting
 
 **Authors:** Bob Zhang, Carol White
-**Journal:** Nature Communications ⭐ (2025-03-26)
+**Journal:** Nature Communications ⭐ (2025-04-02)
 **DOI:** [10.1038/s41467-025-example](https://doi.org/10.1038/s41467-025-example)
 
 **Matched Topics:** seasonal, streamflow, hydrologic model
@@ -70,7 +67,7 @@ Seasonal streamflow forecasting is critical for water resource management. We de
 ### Reservoir operations under extreme drought conditions
 
 **Authors:** David Lee, Emily Chen, Frank Martinez
-**Journal:** Geophysical Research Letters ⭐ (2025-03-26)
+**Journal:** Geophysical Research Letters ⭐ (2025-04-02)
 **DOI:** [10.1029/2025GL012345](https://doi.org/10.1029/2025GL012345)
 
 **Matched Topics:** reservoir, drought, water management
@@ -86,7 +83,7 @@ Reservoir systems face unprecedented challenges under multi-year drought conditi
 ### Urban flood risk assessment using deep learning
 
 **Authors:** Grace Park, Henry Liu
-**Journal:** Water Resources Research (2025-03-26)
+**Journal:** Water Resources Research (2025-04-02)
 **DOI:** [10.1029/2024WR067890](https://doi.org/10.1029/2024WR067890)
 
 **Matched Topics:** flood, urban hydrology
@@ -100,7 +97,7 @@ Urban flooding poses increasing risks due to infrastructure aging and climate ch
 ### Hydropower generation under climate variability
 
 **Authors:** Isabel Martinez, Jake Anderson
-**Journal:** Scientific Reports (2025-03-26)
+**Journal:** Scientific Reports (2025-04-02)
 **DOI:** [10.1038/s41598-025-12345-x](https://doi.org/10.1038/s41598-025-12345-x)
 
 **Matched Topics:** hydropower, climate change

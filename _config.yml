@@ -13,39 +13,18 @@ description: >-
 baseurl: ""
 url: "https://hydrosense.simhydro.com"
 
-# Theme - Just the Docs for hierarchical navigation
-remote_theme: just-the-docs/just-the-docs
+# Theme
+remote_theme: sighingnow/jekyll-gitbook
 
-# Just the Docs theme configuration
-# Enable search
-search_enabled: true
+# GitBook theme configuration
+# Disable showing page TOC in sidebar (only show page titles)
+toc:
+  enabled: false
+
+# Search configuration
 search:
-  # Search includes page content
-  heading_level: 2
-  previews: 3
-  preview_words_before: 5
-  preview_words_after: 10
-  tokenizer_separator: /[\s/]+/
-  rel_url: true
-  button: false
-
-# Enable navigation
-nav_enabled: true
-
-# Aux links for the upper right navigation
-aux_links:
-  "Back to SimHydro":
-    - "https://simhydro.com"
-
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
-
-# Footer content
-footer_content: "Powered by CrossRef, Semantic Scholar, OpenAlex, and Gemini LLM"
-
-# Color scheme
-color_scheme: light
+  enabled: true
+  index_full_content: true
 
 # Search configuration
 search:
