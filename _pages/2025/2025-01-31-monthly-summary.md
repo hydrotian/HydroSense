@@ -1,6 +1,6 @@
 ---
-layout: page
-title: ""January 2025 - Monthly Summary""
+layout: default
+title: "January 2025 - Monthly Summary"
 parent: January
 grand_parent: 2025
 nav_order: 31

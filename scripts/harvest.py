@@ -753,7 +753,7 @@ def main():
     with open(post_file, 'w', encoding='utf-8') as f:
         # Front matter with navigation hierarchy
         f.write("---\n")
-        f.write("layout: page\n")
+        f.write("layout: default\n")
         f.write(f'title: "{month_name} {day:02d} - Daily Harvest"\n')
         f.write(f"parent: {month_name}\n")
         f.write(f"grand_parent: {year}\n")

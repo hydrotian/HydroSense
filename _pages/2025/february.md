@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: February
 parent: 2025
 nav_order: 2

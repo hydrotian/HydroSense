@@ -1,6 +1,6 @@
 ---
-layout: page
-title: ""2025-01-03 Daily Harvest""
+layout: default
+title: "2025-01-03 Daily Harvest"
 parent: January
 grand_parent: 2025
 nav_order: 3
