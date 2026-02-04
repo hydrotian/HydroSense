@@ -10,8 +10,8 @@ description: >-
   Daily and monthly summaries of publications from top-tier journals.
 
 # GitHub Pages deployment
-baseurl: "/hydrosense"
-url: "https://hydrotian.github.io"
+baseurl: ""
+url: "https://hydrosense.simhydro.com"
 
 # Theme
 remote_theme: sighingnow/jekyll-gitbook
