@@ -17,12 +17,12 @@ Part 3 (Field Awareness): Top-tier journals + Field match only
   • Must match RELEVANT_FIELDS (S2 classification)
   • Allows all content types (news, editorials, research)
 
-Output: Markdown report saved to /Users/zhou014/Local_Drive/Temp/harvest_<date>.md
+Output: Markdown report saved to <project_directory>/harvest_<date>.md
 
 Usage:
     1. Configure date range in main() function
     2. Run: python harvest.py
-    3. Check output in /Users/zhou014/Local_Drive/Temp/
+    3. Check output in project directory
 """
 
 import logging
@@ -730,9 +730,34 @@ def main():
                 print(f"\n--- Paper {i}/{len(part3)} ---")
                 print(format_paper(paper))
 
-    # Save to file (markdown format)
-    output_file = f"/Users/zhou014/Local_Drive/Temp/harvest_{until_str}.md"
-    with open(output_file, 'w', encoding='utf-8') as f:
+    # Save to file (Jekyll format)
+    # Get project directory (where harvest.py is located)
+    project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    
+    # Determine post category
+    month_name = datetime.strptime(until_str, '%Y-%m-%d').strftime('%B')
+    month_num = datetime.strptime(until_str, '%Y-%m-%d').strftime('%m')
+    year = until_str[:4]
+    
+    # Create Jekyll post path
+    posts_dir = f"{project_dir}/_posts_{year}/{month_num}-{month_name}"
+    os.makedirs(posts_dir, exist_ok=True)
+    
+    # Jekyll post filename
+    post_file = f"{posts_dir}/{until_str}-daily-harvest.md"
+    
+    # Write Jekyll post with front matter
+    with open(post_file, 'w', encoding='utf-8') as f:
+        # Front matter
+        f.write("---\n")
+        f.write("layout: post\n")
+        f.write(f'title: "Daily Harvest - {datetime.strptime(until_str, "%Y-%m-%d").strftime("%B %d, %Y")}"\n')
+        f.write(f"date: {until_str}\n")
+        f.write(f'categories: [daily, {year}, {month_name.lower()}]\n')
+        f.write(f'tags: [hydrology, paper-harvest, research]\n')
+        f.write("toc: true\n")
+        f.write("---\n\n")
+        
         f.write(f"# Paper Harvest Report\n\n")
         f.write(f"**Date Range:** {from_str} to {until_str}\n\n")
 
@@ -791,7 +816,8 @@ def main():
                 f.write(format_paper(paper))
                 f.write("\n\n---\n\n")
 
-    print(f"\n\n📁 Full report saved to: {output_file}")
+    print(f"\n\n📁 Jekyll post saved to: {post_file}")
+    print(f"🌐 Blog URL: https://hydrotian.github.io/hydrosense/{year}/{month_name.lower()}/{until_str}-daily-harvest.html")
 
 
 if __name__ == "__main__":
