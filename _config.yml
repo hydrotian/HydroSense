@@ -17,24 +17,9 @@ url: "https://hydrosense.simhydro.com"
 remote_theme: sighingnow/jekyll-gitbook
 
 # GitBook theme configuration
+# Disable showing page TOC in sidebar
 toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
-
-# Custom navigation (no content headings in sidebar)
-navigation:
-  enabled: true
-  hide_toc: false
-
-# Disable collection-based automatic navigation (we use custom nav)
-gitbook:
-  # Hide the auto-generated page TOC from sidebar
-  disable_toc_article: false
-  # Hide page-level navigation
-  hide_meta: true
-  # Navigation depth
-  nav_level: 3
+  enabled: false
 
 # Search configuration
 search:
@@ -45,16 +30,19 @@ search:
 
 # Collections for organizing content by year/month
 collections:
+  pages:
+    output: true
+    permalink: /:path/
   posts_2025:
     output: true
-    permalink: /:collection/:year/:month/:title/
+    permalink: /2025/:name/
   posts_2026:
     output: true
-    permalink: /:collection/:year/:month/:title/
+    permalink: /2026/:name/
 
-# Sidebar organization
-# Posts will be organized hierarchically: Year -> Month -> Daily/Monthly reports
+# Sidebar organization - order of collections in sidebar
 ordered_collections:
+  - pages
   - posts_2025
   - posts_2026
 

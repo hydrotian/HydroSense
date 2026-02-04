@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Daily Harvest - January 03, 2025"
+title: "2025-01-03 Daily Harvest"
 date: 2025-01-03
 categories: [daily, 2025, january]
 tags: [hydrology, paper-harvest, research]
-toc: true
 ---
 
 # Paper Harvest Report
