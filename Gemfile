@@ -1,9 +1,6 @@
 source "https://rubygems.org"
 
-# Jekyll
-gem "jekyll", "~> 4.3"
-
-# GitHub Pages compatibility
+# GitHub Pages compatibility (includes Jekyll)
 gem "github-pages", group: :jekyll_plugins
 
 # Plugins
