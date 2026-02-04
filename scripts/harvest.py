@@ -456,8 +456,8 @@ def main():
     # DATE RANGE CONFIGURATION
     # ============================================================
     # For recent papers (uncomment for daily production runs):
-    #from_str = (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')
-    #until_str = datetime.now().strftime('%Y-%m-%d')
+    #from_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+    #until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
     # For older papers (better S2 coverage):
     from_str = "2025-01-03"
