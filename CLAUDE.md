@@ -157,6 +157,120 @@ HydroSense/
 ├── Gemfile                  # Ruby dependencies
 ├── index.md                 # Homepage
 ├── _pages/                  # Static pages (about, etc.)
+├── _pages/2025.md          # Year navigation page
+├── _pages/2025/            # 2025 posts
+│   ├── january.md          # Month navigation page
+│   ├── february.md         # Month navigation page
+│   ├── 2025-01-03-daily-harvest.md
+│   ├── 2025-01-31-monthly-summary.md
+│   └── ...
+└── _pages/2026/            # 2026 posts
+```
+
+### Local Development
+
+```bash
+# Install Jekyll dependencies
+bundle install
+
+# Serve locally
+bundle exec jekyll serve
+
+# Site will be available at http://localhost:4000/
+```
+
+### Theme: Jekyll-GitBook
+
+Uses the `jekyll-gitbook` theme (https://github.com/sighingnow/jekyll-gitbook) which provides:
+- Sidebar navigation with hierarchical structure
+- Built-in full-text search (including abstracts)
+- Clean, book-like layout
+- Table of contents for long posts
+
+### Adding New Posts
+
+**Daily Reports:**
+1. Generate report using `scripts/harvest.py`
+2. Script automatically saves to `_pages/YYYY/YYYY-MM-DD-daily-harvest.md`
+3. Front matter template:
+```yaml
+---
+layout: page
+title: "January 03 - Daily Harvest"
+parent: January
+grand_parent: 2025
+nav_order: 3
+date: 2025-01-03
+categories: [daily, 2025, january]
+tags: [hydrology, paper-harvest, research]
+---
+```
+
+**Monthly Summaries:**
+1. Create manually or with a script
+2. Save to `_pages/YYYY/YYYY-MM-31-monthly-summary.md`
+3. Set `nav_order: 31` to appear after daily reports
+
+**Important:** Before adding daily reports for a new month:
+1. Create month navigation page: `_pages/YYYY/monthname.md`
+2. Set proper `parent: YYYY` and `nav_order`
+
+### Search Configuration
+
+Full-text search is enabled in `_config.yml`:
+```yaml
+search:
+  enabled: true
+  index_full_content: true
+```
+
+This indexes:
+- Paper titles
+- Author names
+- Journal names
+- Abstracts
+- Keywords and topics
+- All markdown content
+
+### GitHub Pages Deployment
+
+The site is deployed via GitHub Actions (`.github/workflows/jekyll.yml`):
+- Automatically builds on push to main branch
+- Deploys to `https://hydrosense.simhydro.com`
+- No pre-building required
+
+To manually trigger deployment:
+1. Go to Actions tab in GitHub
+2. Select "Deploy Jekyll site to Pages"
+3. Click "Run workflow"
+
+### File Naming Conventions
+
+- Daily reports: `YYYY-MM-DD-daily-harvest.md`
+- Monthly summaries: `YYYY-MM-31-monthly-summary.md`
+- Organize all posts in `_pages/YYYY/` for automatic navigation
+
+### Navigation Hierarchy
+
+The site uses a three-level hierarchy:
+- **Level 1:** Year pages (e.g., `2025.md`)
+- **Level 2:** Month pages (e.g., `january.md` with `parent: 2025`)
+- **Level 3:** Daily/monthly posts (with `parent: January` and `grand_parent: 2025`)
+
+Jekyll-GitBook automatically generates the sidebar navigation tree from these relationships.
+
+## Blog Site (GitHub Pages)
+
+The repository includes a Jekyll-based blog site that hosts daily and monthly harvest reports.
+
+### Structure
+
+```
+HydroSense/
+├── _config.yml              # Jekyll configuration
+├── Gemfile                  # Ruby dependencies
+├── index.md                 # Homepage
+├── _pages/                  # Static pages (about, etc.)
 ├── _posts_2025/            # 2025 posts collection
 │   ├── 01-January/         # January daily reports
 │   │   ├── 2025-01-03-daily-harvest.md
