@@ -26,10 +26,20 @@ Usage:
 """
 
 import logging
+import os
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 import requests
 import time
+
+# Load API keys from .env file (not committed to git)
+from dotenv import load_dotenv
+load_dotenv()
+
+# API Keys (from environment variables)
+SEMANTIC_SCHOLAR_API_KEY = os.getenv('SEMANTIC_SCHOLAR_API_KEY')
+GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
+CROSSREF_EMAIL = os.getenv('CROSSREF_EMAIL')
 
 # Setup logging
 logging.basicConfig(
@@ -373,11 +383,12 @@ def main():
 
     # S2 enrichment with API key
     try:
-        api_key = 'OKVOtDo3wH73buAYzt0K04I98JzT2EXA6nNlzkPu'
-        s2 = SemanticScholarClient(api_key=api_key)
-        s2_available = True
-        print(f"\n🔑 Semantic Scholar API Configuration:")
-        print(f"   Key: ...{api_key[-8:]}")
+        if SEMANTIC_SCHOLAR_API_KEY:
+            s2 = SemanticScholarClient(api_key=SEMANTIC_SCHOLAR_API_KEY)
+            s2_available = True
+            masked_key = f"...{SEMANTIC_SCHOLAR_API_KEY[-8:]}" if len(SEMANTIC_SCHOLAR_API_KEY) > 8 else "***"
+            print(f"\n🔑 Semantic Scholar API Configuration:")
+            print(f"   Key: {masked_key}")
         print(f"   Rate limit: {s2.rate_limit_delay}s delay between requests (conservative)")
         print(f"   x-api-key header: {'x-api-key' in s2.session.headers}\n")
     except Exception as e:
