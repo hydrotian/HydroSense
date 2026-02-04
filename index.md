@@ -5,49 +5,33 @@ title: HydroSense
 
 # HydroSense - Intelligent Paper Harvesting
 
-Welcome to HydroSense, an automated literature tracking system for hydrology and water resources research.
+Automated literature tracking for hydrology and water resources research.
+
+## Recent Reports
+
+### 2025
+
+Browse all reports using the sidebar navigation, organized by **Year → Month → Daily Reports**.
+
+**Recent Highlights:**
+- [📊 February 2025 - Monthly Summary](/2025/2025-02-28-monthly-summary/)
+- [📊 January 2025 - Monthly Summary](/2025/2025-01-31-monthly-summary/)
+- [Apr 30 - Daily Harvest](/2025/2025-04-30-daily-harvest/)
+- [Apr 23 - Daily Harvest](/2025/2025-04-23-daily-harvest/)
+- [Mar 26 - Daily Harvest](/2025/2025-03-26-daily-harvest/)
+- [Mar 19 - Daily Harvest](/2025/2025-03-19-daily-harvest/)
 
 ## About
 
-HydroSense automatically monitors publications from top-tier and high-impact journals in hydrology, climate science, and earth system modeling. Papers are classified using a three-tier priority system:
+HydroSense automatically monitors publications from top-tier and high-impact journals in hydrology, climate science, and earth system modeling.
 
-- **Daily Reports**: Papers published each day, organized by relevance
-- **Monthly Summaries**: Curated highlights and trends from each month
+**Search:** Use the search box in the sidebar to find papers by author names, journal names, keywords, or topics.
 
-## Organization
+**Classification System:**
+- **Part 1**: Top-tier journals (Nature, Science, GRL, etc.) matching specific hydrology topics
+- **Part 2**: High-impact specialized journals (WRR, JoH, HESS) matching topics
 
-Reports are organized chronologically:
-- **2025** → **January** → Daily reports (Jan 1, Jan 2, etc.)
-- **2025** → **February** → Daily reports
-- **Monthly summaries** at the end of each month
-
-## Search
-
-Use the search box above to find papers by:
-- Author names
-- Journal names
-- Keywords and topics
-- Paper titles
-- Abstract content
-
-## Three-Tier Classification
-
-### Part 1: Top-Tier + Topics
-Highest priority papers from Nature, Science, GRL, etc. that match specific research topics in hydrology and water resources.
-
-### Part 2: High-Impact + Topics
-Important papers from specialized journals (WRR, JoH, HESS) matching research topics.
-
-### Part 3: Field Awareness
-All content from top-tier journals in relevant fields (includes news, editorials, perspectives).
-
-## Tracked Journals
-
-**Top-Tier (11 journals):**
-Nature, Science, PNAS, Geophysical Research Letters, Nature Climate Change, Nature Geoscience, Nature Water, Nature Communications, Nature Reviews Earth & Environment, Reviews of Geophysics, Bulletin of the American Meteorological Society
-
-**High-Impact (18 journals):**
-Water Resources Research, Journal of Hydrology, Hydrology and Earth System Sciences, Advances in Water Resources, and more.
+**Tracked Journals:** 11 top-tier + 18 high-impact journals including Nature, Science, Water Resources Research, and more.
 
 ---
 

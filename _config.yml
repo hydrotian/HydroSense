@@ -29,22 +29,11 @@ search:
   index_full_content: true
 
 # Collections for organizing content by year/month
+# Using pages collection to enable hierarchical navigation
 collections:
   pages:
     output: true
     permalink: /:path/
-  posts_2025:
-    output: true
-    permalink: /2025/:name/
-  posts_2026:
-    output: true
-    permalink: /2026/:name/
-
-# Sidebar organization - order of collections in sidebar
-ordered_collections:
-  - pages
-  - posts_2025
-  - posts_2026
 
 # Syntax highlighting
 syntax_highlighter_style: colorful
@@ -83,19 +72,6 @@ include:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: "pages"
     values:
-      layout: "post"
-      toc: true
-  - scope:
-      path: ""
-      type: "posts_2025"
-    values:
-      layout: "post"
-      toc: true
-  - scope:
-      path: ""
-      type: "posts_2026"
-    values:
-      layout: "post"
-      toc: true
+      layout: "page"

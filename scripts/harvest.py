@@ -739,23 +739,28 @@ def main():
     month_num = datetime.strptime(until_str, '%Y-%m-%d').strftime('%m')
     year = until_str[:4]
     
-    # Create Jekyll post path
-    posts_dir = f"{project_dir}/_posts_{year}/{month_num}-{month_name}"
+    # Create Jekyll post path (now using _pages structure)
+    posts_dir = f"{project_dir}/_pages/{year}"
     os.makedirs(posts_dir, exist_ok=True)
-    
+
     # Jekyll post filename
     post_file = f"{posts_dir}/{until_str}-daily-harvest.md"
-    
+
+    # Get day number for nav_order
+    day = datetime.strptime(until_str, '%Y-%m-%d').day
+
     # Write Jekyll post with front matter
     with open(post_file, 'w', encoding='utf-8') as f:
-        # Front matter
+        # Front matter with navigation hierarchy
         f.write("---\n")
-        f.write("layout: post\n")
-        f.write(f'title: "Daily Harvest - {datetime.strptime(until_str, "%Y-%m-%d").strftime("%B %d, %Y")}"\n')
+        f.write("layout: page\n")
+        f.write(f'title: "{month_name} {day:02d} - Daily Harvest"\n')
+        f.write(f"parent: {month_name}\n")
+        f.write(f"grand_parent: {year}\n")
+        f.write(f"nav_order: {day}\n")
         f.write(f"date: {until_str}\n")
         f.write(f'categories: [daily, {year}, {month_name.lower()}]\n')
         f.write(f'tags: [hydrology, paper-harvest, research]\n')
-        f.write("toc: true\n")
         f.write("---\n\n")
         
         f.write(f"# Paper Harvest Report\n\n")
