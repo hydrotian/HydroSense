@@ -70,8 +70,19 @@ table {
   }
 
   .site-header {
-    background-color: #2c2c2e;
+    background-color: #2c2c2e !important;
     border-bottom-color: #3a3a3c;
+  }
+
+  // Fix header wrapper and all child elements
+  .site-header,
+  .site-header > *,
+  .main-header,
+  .search,
+  .search-input-wrap,
+  .site-nav,
+  .site-button {
+    background-color: #2c2c2e !important;
   }
 
   .site-title,
