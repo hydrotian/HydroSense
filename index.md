@@ -10,17 +10,18 @@ Automated literature tracking for hydrology and water resources research.
 
 ## Recent Reports
 
-### 2025
-
 Browse all reports using the sidebar navigation, organized by **Year → Month → Daily Reports**.
 
 **Recent Highlights:**
-- [📊 February 2025 - Monthly Summary](/2025/2025-02-28-monthly-summary/)
-- [📊 January 2025 - Monthly Summary](/2025/2025-01-31-monthly-summary/)
-- [Apr 30 - Daily Harvest](/2025/2025-04-30-daily-harvest/)
-- [Apr 23 - Daily Harvest](/2025/2025-04-23-daily-harvest/)
-- [Mar 26 - Daily Harvest](/2025/2025-03-26-daily-harvest/)
-- [Mar 19 - Daily Harvest](/2025/2025-03-19-daily-harvest/)
+
+{% assign all_posts = site.pages | where_exp: "page", "page.grand_parent == '2025'" | sort: "date" | reverse %}
+{% for post in all_posts limit:10 %}
+{% if post.title contains "Monthly Summary" %}
+- 📊 [{{ post.title }}]({{ post.url | relative_url }})
+{% else %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endif %}
+{% endfor %}
 
 ## About
 
