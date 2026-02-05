@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: "April 02 - Daily Harvest"
+parent: April
+grand_parent: 2025
+nav_order: 2
 date: 2025-04-02
 categories: [daily, 2025, april]
 tags: [hydrology, paper-harvest, research]

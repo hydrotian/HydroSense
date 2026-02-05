@@ -1,0 +1,241 @@
+// HydroSense Custom Styles
+
+// Import better fonts from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Code+Pro:wght@400;600&display=swap');
+
+// Apply custom fonts
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code, pre {
+  font-family: 'Source Code Pro', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+}
+
+// Improve main content spacing
+.main-content {
+  padding: 2rem 3rem;
+  max-width: 900px;
+
+  @media (max-width: 768px) {
+    padding: 1.5rem 1rem;
+  }
+}
+
+// Better sidebar styling
+.side-bar {
+  border-right: 1px solid;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+// Improved navigation items
+.navigation-list {
+  padding: 0;
+}
+
+.navigation-list-item {
+  margin-bottom: 0.25rem;
+}
+
+.navigation-list-link {
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  transition: all 0.15s ease;
+  font-weight: 500;
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    text-decoration: none;
+  }
+
+  &.active {
+    font-weight: 600;
+  }
+}
+
+// Better code blocks
+pre {
+  border-radius: 6px;
+  border: 1px solid;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+// Improve headings
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+// Better links
+a {
+  text-decoration: none;
+  transition: color 0.15s ease;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Improve search
+.search-input-wrap {
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.search-input {
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.95rem;
+}
+
+// Better buttons
+.btn {
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+  transition: all 0.15s ease;
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// Site header improvements
+.site-header {
+  border-bottom: 1px solid;
+  padding: 1rem 1.5rem;
+}
+
+.site-title {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+// Aux links styling
+.aux-nav {
+  .aux-nav-list-item {
+    margin-left: 1rem;
+  }
+}
+
+// Table improvements
+table {
+  border-radius: 6px;
+  overflow: hidden;
+
+  th {
+    font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.03);
+  }
+
+  td, th {
+    padding: 0.75rem;
+  }
+}
+
+// Font size classes for controls
+.font-small {
+  font-size: 14px !important;
+
+  .main-content {
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.75rem; }
+    h3 { font-size: 1.5rem; }
+    h4 { font-size: 1.25rem; }
+    p, li { font-size: 0.875rem; }
+  }
+}
+
+.font-medium {
+  font-size: 16px !important;
+
+  .main-content {
+    h1 { font-size: 2.25rem; }
+    h2 { font-size: 2rem; }
+    h3 { font-size: 1.75rem; }
+    h4 { font-size: 1.5rem; }
+    p, li { font-size: 1rem; }
+  }
+}
+
+.font-large {
+  font-size: 18px !important;
+
+  .main-content {
+    h1 { font-size: 2.5rem; }
+    h2 { font-size: 2.25rem; }
+    h3 { font-size: 2rem; }
+    h4 { font-size: 1.75rem; }
+    p, li { font-size: 1.125rem; }
+  }
+}
+
+// Theme and font controls container
+.site-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-left: auto;
+}
+
+.font-size-controls, .theme-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.25rem;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+}
+
+.control-btn {
+  background: transparent;
+  border: none;
+  padding: 0.4rem 0.6rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: all 0.15s ease;
+  font-family: 'Inter', sans-serif;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  &.active {
+    background: rgba(44, 123, 229, 0.15);
+    color: #2c7be5;
+  }
+}
+
+.font-btn {
+  @extend .control-btn;
+
+  &[data-size="small"] { font-size: 12px; }
+  &[data-size="medium"] { font-size: 14px; }
+  &[data-size="large"] { font-size: 16px; }
+}
+
+.theme-btn {
+  @extend .control-btn;
+  font-size: 16px;
+  padding: 0.4rem 0.5rem;
+}
+
+// Improve footer
+.site-footer {
+  padding: 2rem 1.5rem;
+  border-top: 1px solid;
+  font-size: 0.875rem;
+}

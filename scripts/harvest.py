@@ -747,10 +747,15 @@ def main():
     # Create month index page if it doesn't exist
     month_index = f"{posts_dir}/index.md"
     if not os.path.exists(month_index):
+        # Determine month order (1-12)
+        month_order = datetime.strptime(until_str, '%Y-%m-%d').month
         with open(month_index, 'w', encoding='utf-8') as f:
             f.write("---\n")
-            f.write("layout: page\n")
+            f.write("layout: default\n")
             f.write(f"title: {month_name}\n")
+            f.write(f"parent: {year}\n")
+            f.write(f"nav_order: {month_order}\n")
+            f.write("has_children: true\n")
             f.write("---\n\n")
             f.write(f"# {month_name} {year}\n\n")
             f.write(f"Daily harvest reports and monthly summary for {month_name} {year}.\n")
@@ -763,10 +768,13 @@ def main():
 
     # Write Jekyll post with front matter
     with open(post_file, 'w', encoding='utf-8') as f:
-        # Front matter for jekyll-gitbook theme
+        # Front matter for just-the-docs theme
         f.write("---\n")
-        f.write("layout: page\n")
+        f.write("layout: default\n")
         f.write(f'title: "{month_name} {day:02d} - Daily Harvest"\n')
+        f.write(f"parent: {month_name}\n")
+        f.write(f"grand_parent: {year}\n")
+        f.write(f"nav_order: {day}\n")
         f.write(f"date: {until_str}\n")
         f.write(f'categories: [daily, {year}, {month_name.lower()}]\n')
         f.write(f'tags: [hydrology, paper-harvest, research]\n')

@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: "January 10 - Daily Harvest"
+parent: January
+grand_parent: 2025
+nav_order: 10
 date: 2025-01-10
 categories: [daily, 2025, january]
 tags: [hydrology, paper-harvest, research]

@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: "March 12 - Daily Harvest"
+parent: March
+grand_parent: 2025
+nav_order: 12
 date: 2025-03-12
 categories: [daily, 2025, march]
 tags: [hydrology, paper-harvest, research]

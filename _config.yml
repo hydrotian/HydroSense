@@ -14,17 +14,46 @@ baseurl: ""
 url: "https://hydrosense.simhydro.com"
 
 # Theme
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: just-the-docs/just-the-docs
 
-# GitBook theme configuration
-# Disable showing page TOC in sidebar (only show page titles)
-toc:
-  enabled: false
+# Custom color scheme
+color_scheme: hydrosense
 
 # Search configuration
+search_enabled: true
 search:
-  enabled: true
-  index_full_content: true
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Navigation
+nav_enabled: true
+nav_sort: case_sensitive
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Aux links (top right)
+aux_links:
+  "Back to SimHydro":
+    - "https://simhydro.com"
+
+# Footer
+footer_content: "Powered by CrossRef, Semantic Scholar, OpenAlex, and Gemini LLM"
+
+# Enable heading anchors
+heading_anchors: true
+
+# External navigation links
+nav_external_links:
+  - title: SimHydro Main Site
+    url: https://simhydro.com
+    hide_icon: false
 
 # Search configuration
 search:

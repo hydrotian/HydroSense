@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: "January 2025 - Monthly Summary"
+parent: January
+grand_parent: 2025
+nav_order: 31
 date: 2025-01-31
 categories: [monthly, 2025, january]
 tags: [summary, trends, hydrology]

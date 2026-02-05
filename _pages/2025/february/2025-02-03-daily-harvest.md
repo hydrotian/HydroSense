@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: "February 03 - Daily Harvest"
+parent: February
+grand_parent: 2025
+nav_order: 3
 date: 2025-02-03
 categories: [daily, 2025, february]
 tags: [hydrology, paper-harvest, research]

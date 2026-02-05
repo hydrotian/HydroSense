@@ -1,6 +1,7 @@
 ---
-layout: home
-title: HydroSense
+layout: default
+title: Home
+nav_order: 1
 ---
 
 # HydroSense - Intelligent Paper Harvesting
