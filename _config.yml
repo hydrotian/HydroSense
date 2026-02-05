@@ -3,11 +3,8 @@
 
 # Site settings
 title: HydroSense
-long_title: HydroSense - Intelligent Paper Harvesting
-email: hydro.luna.bot@gmail.com
 description: >-
   Automated literature tracking for hydrology and water resources research.
-  Daily and monthly summaries of publications from top-tier journals.
 
 # GitHub Pages deployment
 baseurl: ""
@@ -94,9 +91,13 @@ exclude:
   - .env.example
   - README.md
   - CONTRIBUTING.md
+  - CLAUDE.md
+  - BLOG_README.md
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - LICENSE
+  - papers/
 
 # Include
 include:
