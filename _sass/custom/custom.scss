@@ -101,16 +101,22 @@ a {
 // Site header improvements
 .site-header {
   border-bottom: 1px solid;
-  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
 .site-title {
   font-weight: 700;
   font-size: 1.25rem;
+  flex-shrink: 0;
 }
 
 // Aux links styling
 .aux-nav {
+  margin-left: auto;
+
   .aux-nav-list-item {
     margin-left: 1rem;
   }
@@ -148,28 +154,31 @@ table {
 .site-controls {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 0.5rem;
   margin-left: auto;
+  margin-right: 0.5rem;
 }
 
 .font-size-controls, .theme-toggle {
   display: flex;
   align-items: center;
-  gap: 0.25rem;
-  padding: 0.25rem;
+  gap: 0.125rem;
+  padding: 0.125rem;
   background: rgba(0, 0, 0, 0.05);
-  border-radius: 6px;
+  border-radius: 4px;
 }
 
 .control-btn {
   background: transparent;
   border: none;
-  padding: 0.4rem 0.6rem;
+  padding: 0.25rem 0.4rem;
   cursor: pointer;
-  border-radius: 4px;
-  font-weight: 500;
+  border-radius: 3px;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1;
   transition: all 0.15s ease;
-  font-family: 'Inter', sans-serif;
+  font-family: inherit;
 
   &:hover {
     background: rgba(0, 0, 0, 0.1);
@@ -183,16 +192,17 @@ table {
 
 .font-btn {
   @extend .control-btn;
+  min-width: 1.5rem;
 
-  &[data-size="small"] { font-size: 0.75rem; }
-  &[data-size="medium"] { font-size: 0.875rem; }
-  &[data-size="large"] { font-size: 1rem; }
+  &[data-size="small"] { font-size: 0.625rem; }
+  &[data-size="medium"] { font-size: 0.75rem; }
+  &[data-size="large"] { font-size: 0.875rem; }
 }
 
 .theme-btn {
   @extend .control-btn;
-  font-size: 1rem;
-  padding: 0.4rem 0.5rem;
+  font-size: 0.875rem;
+  padding: 0.25rem 0.35rem;
 }
 
 // Improve footer
@@ -200,4 +210,42 @@ table {
   padding: 2rem 1.5rem;
   border-top: 1px solid;
   font-size: 0.875rem;
+}
+
+// Theme switching support via CSS variables
+// Dark theme overrides
+[data-theme="hydrosense_dark"] {
+  background-color: #1a1d23;
+  color: #e6edf3;
+
+  .side-bar {
+    background-color: #1f2228;
+  }
+
+  .main-content {
+    background-color: #1a1d23;
+    color: #e6edf3;
+  }
+
+  a {
+    color: #58a6ff;
+  }
+
+  code {
+    background-color: #2d3139;
+    color: #ff7b72;
+  }
+
+  pre {
+    background-color: #2d3139;
+  }
+
+  .site-header {
+    background-color: #1f2228;
+    border-bottom-color: #373e47;
+  }
+
+  .border {
+    border-color: #373e47 !important;
+  }
 }

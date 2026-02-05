@@ -37,12 +37,16 @@
         controlsContainer = document.createElement('div');
         controlsContainer.className = 'site-controls';
 
-        // Insert before aux-nav if it exists, otherwise append
-        const auxNav = header.querySelector('.aux-nav');
+        // Find the main-header element which contains site title and nav
+        const mainHeader = header.querySelector('.main-header') || header;
+        const auxNav = mainHeader.querySelector('.aux-nav');
+
         if (auxNav) {
-          auxNav.parentNode.insertBefore(controlsContainer, auxNav);
+          // Insert just before aux-nav
+          auxNav.before(controlsContainer);
         } else {
-          header.appendChild(controlsContainer);
+          // Append to main-header or header
+          mainHeader.appendChild(controlsContainer);
         }
       }
       controlsContainer.appendChild(controls);
@@ -105,11 +109,14 @@
       if (!controlsContainer) {
         controlsContainer = document.createElement('div');
         controlsContainer.className = 'site-controls';
-        const auxNav = header.querySelector('.aux-nav');
+
+        const mainHeader = header.querySelector('.main-header') || header;
+        const auxNav = mainHeader.querySelector('.aux-nav');
+
         if (auxNav) {
-          auxNav.parentNode.insertBefore(controlsContainer, auxNav);
+          auxNav.before(controlsContainer);
         } else {
-          header.appendChild(controlsContainer);
+          mainHeader.appendChild(controlsContainer);
         }
       }
       controlsContainer.appendChild(toggle);
@@ -130,14 +137,17 @@
   }
 
   function applyTheme(theme) {
+    // Just-the-Docs uses jtd-theme-[name] classes
+    const root = document.documentElement;
+
     // Remove existing theme classes
-    document.documentElement.classList.remove('hydrosense', 'hydrosense_dark');
+    root.className = root.className.replace(/jtd-theme-\w+/g, '');
 
     // Add new theme class
-    document.documentElement.classList.add(theme);
+    root.classList.add('jtd-theme-' + theme);
 
-    // Update color-scheme meta tag for better browser integration
-    document.documentElement.setAttribute('data-color-scheme', theme);
+    // Also set data attribute for CSS
+    root.setAttribute('data-theme', theme);
   }
 
   function updateThemeButtons(activeTheme) {
