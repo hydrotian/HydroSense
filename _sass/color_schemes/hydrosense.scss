@@ -1,48 +1,6 @@
-// HydroSense Custom Color Scheme
-// Clean, modern design with good readability
+// HydroSense Light Color Scheme
+// Based on Just-the-Docs light theme with light blue links
 
-// Background colors
-$body-background-color: #ffffff;
-$sidebar-color: #f8f9fa;
-$code-background-color: #f6f8fa;
-$table-background-color: #ffffff;
-$feedback-color: #f8f9fa;
-
-// Text colors
-$body-text-color: #2c3e50;
-$body-heading-color: #1a252f;
-$nav-child-link-color: #5c6975;
-$search-result-preview-color: #5c6975;
-
-// Link colors - light blue instead of purple
+// Link colors - light blue instead of default purple
 $link-color: #5b9bd5;
 $btn-primary-color: #5b9bd5;
-
-// Border colors
-$border-color: #e1e4e8;
-
-// Navigation (use rem for consistency)
-$nav-width: 17.5rem;
-$nav-width-md: 16.25rem;
-
-// Search
-$search-background-color: #ffffff;
-$search-border-color: #e1e4e8;
-
-// Code
-$code-color: #d63384;
-
-// Font sizes - use default Just-the-Docs sizes
-// Removed custom overrides - using theme defaults
-
-// Spacing
-$sp-1: 0.25rem;
-$sp-2: 0.5rem;
-$sp-3: 0.75rem;
-$sp-4: 1rem;
-$sp-5: 1.5rem;
-$sp-6: 2rem;
-$sp-7: 2.5rem;
-$sp-8: 3rem;
-$sp-9: 3.5rem;
-$sp-10: 4rem;

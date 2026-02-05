@@ -13,8 +13,11 @@ url: "https://hydrosense.simhydro.com"
 # Theme
 remote_theme: just-the-docs/just-the-docs
 
-# Custom color scheme
+# Color scheme - custom with light blue links
 color_scheme: hydrosense
+
+# Enable color scheme selector (for dark mode toggle)
+color_scheme_supports_dark: true
 
 # Search configuration
 search_enabled: true
