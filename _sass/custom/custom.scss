@@ -85,13 +85,38 @@ table {
   }
 
   code {
-    background-color: #2c2c2e;
+    background-color: #2c2c2e !important;
     color: #ff7b72;
   }
 
   pre {
-    background-color: #2c2c2e;
+    background-color: #2c2c2e !important;
     border-color: #3a3a3c;
+
+    code {
+      background-color: #2c2c2e !important;
+      color: #e8e8e8;
+    }
+  }
+
+  // Fix code blocks in main content
+  .main-content {
+    pre {
+      background-color: #2c2c2e !important;
+    }
+
+    code {
+      background-color: #2c2c2e !important;
+    }
+  }
+
+  // Fix highlight blocks
+  .highlight {
+    background-color: #2c2c2e !important;
+
+    pre {
+      background-color: #2c2c2e !important;
+    }
   }
 
   .search-input {
@@ -120,5 +145,45 @@ table {
 
   h1, h2, h3, h4, h5, h6 {
     color: #ffffff;
+  }
+
+  // Fix aux links (Back to SimHydro banner)
+  .aux-nav {
+    background-color: #2c2c2e;
+
+    a {
+      color: #64b5f6;
+      background-color: transparent;
+
+      &:hover {
+        color: #90caf9;
+      }
+    }
+  }
+
+  // Fix site footer
+  .site-footer {
+    background-color: #2c2c2e;
+    border-top-color: #3a3a3c;
+  }
+
+  // Fix navigation list
+  .navigation-list {
+    background-color: transparent;
+  }
+
+  .navigation-list-link {
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.05);
+    }
+
+    &.active {
+      background-color: rgba(100, 181, 246, 0.1);
+    }
+  }
+
+  // Fix search results
+  .search-results {
+    background-color: #2c2c2e;
   }
 }
