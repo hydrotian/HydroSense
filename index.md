@@ -14,7 +14,7 @@ Browse all reports using the sidebar navigation, organized by **Year → Month �
 
 **Recent Highlights:**
 
-{% assign all_posts = site.pages | where_exp: "page", "page.grand_parent == '2025'" | sort: "date" | reverse %}
+{% assign all_posts = site.pages | where_exp: "page", "page.date and page.grand_parent" | sort: "date" | reverse %}
 {% for post in all_posts limit:10 %}
 {% if post.title contains "Monthly Summary" %}
 - 📊 [{{ post.title }}]({{ post.url | relative_url }})

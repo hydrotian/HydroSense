@@ -460,8 +460,8 @@ def main():
     #until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
     # For older papers (better S2 coverage):
-    from_str = "2026-01-31"
-    until_str = "2026-01-31"
+    from_str = "2026-01-01"
+    until_str = "2026-01-01"
     # ============================================================
 
     print(f"\n{'='*70}")
@@ -743,6 +743,21 @@ def main():
     month_folder = month_name.lower()
     posts_dir = f"{project_dir}/_pages/{year}/{month_folder}"
     os.makedirs(posts_dir, exist_ok=True)
+
+    # Create year index page if it doesn't exist
+    year_index = f"{project_dir}/_pages/{year}/index.md"
+    if not os.path.exists(year_index):
+        # nav_order: use last 2 digits so 2025->25, 2026->26, etc.
+        year_order = int(year) - 2023
+        with open(year_index, 'w', encoding='utf-8') as f:
+            f.write("---\n")
+            f.write("layout: default\n")
+            f.write(f"title: {year}\n")
+            f.write(f"nav_order: {year_order}\n")
+            f.write("has_children: true\n")
+            f.write("---\n\n")
+            f.write(f"# {year} Harvest Reports\n\n")
+            f.write(f"All paper harvest reports from {year}, organized by month.\n")
 
     # Create month index page if it doesn't exist
     month_index = f"{posts_dir}/index.md"
