@@ -460,8 +460,8 @@ def main():
     #until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
     # For older papers (better S2 coverage):
-    from_str = "2025-01-01"
-    until_str = "2025-01-01"
+    from_str = "2026-01-31"
+    until_str = "2026-01-31"
     # ============================================================
 
     print(f"\n{'='*70}")
@@ -733,12 +733,12 @@ def main():
     # Save to file (Jekyll format)
     # Get project directory (where harvest.py is located)
     project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    
+
     # Determine post category
     month_name = datetime.strptime(until_str, '%Y-%m-%d').strftime('%B')
     month_num = datetime.strptime(until_str, '%Y-%m-%d').strftime('%m')
     year = until_str[:4]
-    
+
     # Create Jekyll post path (nested folder structure: _pages/2025/january/)
     month_folder = month_name.lower()
     posts_dir = f"{project_dir}/_pages/{year}/{month_folder}"
@@ -779,7 +779,7 @@ def main():
         f.write(f'categories: [daily, {year}, {month_name.lower()}]\n')
         f.write(f'tags: [hydrology, paper-harvest, research]\n')
         f.write("---\n\n")
-        
+
         f.write(f"# Paper Harvest Report\n\n")
         f.write(f"**Date Range:** {from_str} to {until_str}\n\n")
 
