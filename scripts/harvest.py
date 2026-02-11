@@ -259,6 +259,67 @@ class GeminiClient:
         self.model = "gemini-2.0-flash-lite"
         self.rate_limit_delay = 4.0  # 15 requests/minute = 4s between requests
 
+    def generate_daily_summary(self, papers: List[Dict]) -> str:
+        """
+        Generate a brief AI summary of the day's harvested papers.
+
+        Uses Gemini 2.5 Flash Lite for fast, cost-effective summarization.
+
+        Args:
+            papers: List of Part 1 + Part 2 paper dicts with 'title' and 'abstract' keys
+
+        Returns:
+            A summary paragraph string, or empty string on failure.
+        """
+        if not self.api_key or not papers:
+            return ''
+
+        # Build paper descriptions for the prompt
+        paper_descriptions = []
+        for p in papers[:30]:  # Cap at 30 papers to stay within token limits
+            title = p.get('title', 'Untitled')
+            abstract = p.get('abstract', '')
+            if abstract:
+                abstract = abstract[:300]
+            paper_descriptions.append(f"- {title}: {abstract}")
+
+        papers_text = "\n".join(paper_descriptions)
+
+        prompt = f"""You are a hydrology research assistant. Summarize the key themes and highlights from today's harvested papers in 1 short paragraph (3-5 sentences). Focus on the major research themes, notable findings, and any emerging trends. Write in a concise, informative style suitable for a daily research briefing.
+
+Today's papers:
+{papers_text}
+
+Write only the summary paragraph, no headers or bullet points."""
+
+        try:
+            summary_model = "gemini-2.5-flash-lite"
+            url = f"{self.base_url}/models/{summary_model}:generateContent"
+            params = {'key': self.api_key}
+
+            payload = {
+                "contents": [{
+                    "parts": [{"text": prompt}]
+                }],
+                "generationConfig": {
+                    "temperature": 0.3,
+                    "maxOutputTokens": 300
+                }
+            }
+
+            response = requests.post(url, params=params, json=payload, timeout=30)
+            response.raise_for_status()
+
+            data = response.json()
+            text = data.get('candidates', [{}])[0].get('content', {}).get('parts', [{}])[0].get('text', '')
+
+            time.sleep(self.rate_limit_delay)
+            return text.strip()
+
+        except Exception as e:
+            logger.warning(f"Gemini summary generation failed: {e}")
+            return ''
+
     def is_relevant(self, title: str, abstract: str, journal: str) -> Dict:
         """
         Determine if a paper is relevant to hydrology research using LLM classification.
@@ -460,8 +521,8 @@ def main():
     #until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
     # For older papers (better S2 coverage):
-    from_str = "2026-01-01"
-    until_str = "2026-01-01"
+    from_str = "2026-01-30"
+    until_str = "2026-01-30"
     # ============================================================
 
     print(f"\n{'='*70}")
@@ -489,7 +550,7 @@ def main():
     # Gemini LLM configuration
     if GEMINI_API_KEY:
         print(f"🔑 Gemini API Configuration:")
-        print(f"   Model: gemini-2.0-flash-lite")
+        print(f"   Model: gemini-2.5-flash-lite")
         print(f"   Rate limit: 4s delay between requests")
         gemini_available = True
     else:
@@ -694,6 +755,17 @@ def main():
     part3 = relevant_papers.get('part3', [])
     total = len(part1) + len(part2) + len(part3)
 
+    # Generate AI summary from Part 1 + Part 2 papers
+    daily_summary = ''
+    if gemini_available and (part1 or part2):
+        logger.info("Generating AI daily summary with Gemini 2.5 Flash Lite...")
+        gemini = GeminiClient()
+        daily_summary = gemini.generate_daily_summary(part1 + part2)
+        if daily_summary:
+            logger.info(f"  Summary generated ({len(daily_summary)} chars)")
+        else:
+            logger.warning("  Summary generation failed or returned empty")
+
     # Count papers with abstracts
     all_selected = part1 + part2 + part3
     papers_with_abstract = sum(1 for p in all_selected if p.get('abstract'))
@@ -798,34 +870,19 @@ def main():
         f.write(f"# Paper Harvest Report\n\n")
         f.write(f"**Date Range:** {from_str} to {until_str}\n\n")
 
-        # Summary statistics
+        # Summary statistics (computed here, used below)
         selection_pct = (total/len(all_papers)*100) if len(all_papers) > 0 else 0
         abstract_pct = (papers_with_abstract/total*100) if total > 0 else 0
         s2_coverage = (s2_found/len(all_papers)*100) if len(all_papers) > 0 else 0
 
-        f.write(f"## Summary\n\n")
-        f.write(f"- **Papers Published:** {len(all_papers)} (research articles from tracked journals)\n")
-        f.write(f"- **Papers Selected:** {total} ({selection_pct:.1f}%)\n")
-        f.write(f"- **Papers with Abstracts:** {papers_with_abstract}/{total} ({abstract_pct:.1f}%)\n")
-        f.write(f"- **Semantic Scholar Coverage:** {s2_found}/{len(all_papers)} ({s2_coverage:.1f}%)\n")
-        f.write(f"  - Not in S2: {s2_not_found} papers (404 errors are normal for non-indexed content)\n\n")
+        # One-line selection count
+        f.write(f"**{len(part1)}** top-tier and **{len(part2)}** high-impact papers were selected out of **{len(all_papers)}** total publications ({selection_pct:.1f}%).\n\n")
 
-        # Add journal list with counts
-        f.write(f"### Papers by Journal\n\n")
-        f.write(f"```\n")
-        f.write(format_journal_list(all_papers, all_selected))
-        f.write(f"\n```\n\n")
-        f.write(f"*Format: Journal Name (selected/published)*\n\n")
+        # AI-generated summary
+        if daily_summary:
+            f.write(f"## Today's Highlights\n\n")
+            f.write(f"{daily_summary}\n\n")
 
-        # Breakdown
-        f.write(f"### Selection Breakdown\n\n")
-        f.write(f"- Part 1 (Top-tier + topics): {len(part1)}\n")
-        f.write(f"- Part 2 (High-impact + topics): {len(part2)}\n\n")
-
-        # Filtering criteria
-        f.write(f"### Filtering Criteria\n\n")
-        f.write(f"**Relevant Fields:** {', '.join(RELEVANT_FIELDS)}\n\n")
-        f.write(f"**Topics:** {', '.join(TOPICS)}\n\n")
         f.write("---\n\n")
 
         # Part 1
@@ -843,6 +900,32 @@ def main():
             for i, paper in enumerate(part2, 1):
                 f.write(format_paper(paper))
                 f.write("\n\n---\n\n")
+
+        # Statistics at the bottom
+        f.write("---\n\n")
+        f.write(f"## Statistics\n\n")
+        f.write(f"- **Papers Published:** {len(all_papers)} (research articles from tracked journals)\n")
+        f.write(f"- **Papers Selected:** {total} ({selection_pct:.1f}%)\n")
+        f.write(f"- **Papers with Abstracts:** {papers_with_abstract}/{total} ({abstract_pct:.1f}%)\n")
+        f.write(f"- **Semantic Scholar Coverage:** {s2_found}/{len(all_papers)} ({s2_coverage:.1f}%)\n")
+        f.write(f"  - Not in S2: {s2_not_found} papers (404 errors are normal for non-indexed content)\n\n")
+
+        # Journal list with counts
+        f.write(f"### Papers by Journal\n\n")
+        f.write(f"```\n")
+        f.write(format_journal_list(all_papers, all_selected))
+        f.write(f"\n```\n\n")
+        f.write(f"*Format: Journal Name (selected/published)*\n\n")
+
+        # Breakdown
+        f.write(f"### Selection Breakdown\n\n")
+        f.write(f"- Part 1 (Top-tier + topics): {len(part1)}\n")
+        f.write(f"- Part 2 (High-impact + topics): {len(part2)}\n\n")
+
+        # Filtering criteria
+        f.write(f"### Filtering Criteria\n\n")
+        f.write(f"**Relevant Fields:** {', '.join(RELEVANT_FIELDS)}\n\n")
+        f.write(f"**Topics:** {', '.join(TOPICS)}\n\n")
 
     print(f"\n\n📁 Jekyll post saved to: {post_file}")
     print(f"🌐 Blog URL: https://hydrotian.github.io/hydrosense/{year}/{month_name.lower()}/{until_str}-daily-harvest.html")
