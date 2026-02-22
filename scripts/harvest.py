@@ -20,14 +20,16 @@ Part 3 (Field Awareness): Top-tier journals + Field match only
 Output: Markdown report saved to <project_directory>/harvest_<date>.md
 
 Usage:
-    1. Configure date range in main() function
-    2. Run: python harvest.py
-    3. Check output in project directory
+    python harvest.py                      # Default: 30 days ago
+    python harvest.py --date 2026-01-13  # Specific date
+    python harvest.py --backfill          # Next backfill date (from counter file)
 """
 
+import argparse
 import logging
 import os
 from datetime import datetime, timedelta
+import sys
 from typing import List, Dict, Optional
 import requests
 import time
@@ -47,6 +49,37 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+
+# Backfill counter file
+BACKFILL_COUNTER_FILE = os.path.join(os.path.dirname(__file__), '.backfill_counter')
+BACKFILL_START_DATE = datetime(2020, 1, 1)
+
+
+def get_next_backfill_date():
+    """Get the next backfill date from counter file."""
+    if os.path.exists(BACKFILL_COUNTER_FILE):
+        with open(BACKFILL_COUNTER_FILE, 'r') as f:
+            days_offset = int(f.read().strip())
+    else:
+        days_offset = 0
+    
+    next_date = BACKFILL_START_DATE + timedelta(days=days_offset)
+    return next_date.strftime('%Y-%m-%d'), days_offset
+
+
+def increment_backfill_counter():
+    """Increment the backfill counter after successful harvest."""
+    if os.path.exists(BACKFILL_COUNTER_FILE):
+        with open(BACKFILL_COUNTER_FILE, 'r') as f:
+            days_offset = int(f.read().strip())
+    else:
+        days_offset = 0
+    
+    with open(BACKFILL_COUNTER_FILE, 'w') as f:
+        f.write(str(days_offset + 1))
+    
+    logger.info(f"Backfill counter incremented to {days_offset + 1}")
 
 
 # Tracked journals (from FieldSense config)
@@ -512,17 +545,30 @@ def format_paper(paper: Dict) -> str:
 
 def main():
     """Main harvester logic."""
+    
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(description='Paper Harvester')
+    parser.add_argument('--date', type=str, help='Specific date to harvest (YYYY-MM-DD)')
+    parser.add_argument('--backfill', action='store_true', help='Run backfill for next date')
+    parser.add_argument('--no-increment', action='store_true', help='Do not increment backfill counter')
+    args = parser.parse_args()
 
     # ============================================================
     # DATE RANGE CONFIGURATION
     # ============================================================
-    # For recent papers (daily production runs):
-    from_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
-    until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+    if args.date:
+        # Specific date provided
+        from_str = args.date
+        until_str = args.date
+    elif args.backfill:
+        # Backfill mode - get next date from counter
+        from_str, _ = get_next_backfill_date()
+        until_str = from_str
+    else:
+        # Default: 30 days ago
+        from_str = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
+        until_str = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
 
-    # For a specific date (testing), uncomment below:
-    # from_str = "2026-01-13"
-    # until_str = "2026-01-13"
     # ============================================================
 
     print(f"\n{'='*70}")
@@ -929,6 +975,10 @@ def main():
 
     print(f"\n\n📁 Jekyll post saved to: {post_file}")
     print(f"🌐 Blog URL: https://hydrotian.github.io/hydrosense/{year}/{month_name.lower()}/{until_str}-daily-harvest.html")
+
+    # Increment backfill counter if in backfill mode
+    if args.backfill and not args.no_increment:
+        increment_backfill_counter()
 
 
 if __name__ == "__main__":
