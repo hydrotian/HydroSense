@@ -516,13 +516,13 @@ def main():
     # ============================================================
     # DATE RANGE CONFIGURATION
     # ============================================================
-    # For recent papers (uncomment for daily production runs):
-    #from_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
-    #until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+    # For recent papers (daily production runs):
+    from_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+    until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
-    # For older papers (better S2 coverage):
-    from_str = "2026-01-30"
-    until_str = "2026-01-30"
+    # For a specific date (testing), uncomment below:
+    # from_str = "2026-01-13"
+    # until_str = "2026-01-13"
     # ============================================================
 
     print(f"\n{'='*70}")
