@@ -29,7 +29,6 @@ import argparse
 import logging
 import os
 from datetime import datetime, timedelta
-import sys
 from typing import List, Dict, Optional
 import requests
 import time
@@ -548,10 +547,15 @@ def format_paper(paper: Dict) -> str:
     # Abstract - always show if available (provides context when no recommendations)
     abstract = paper.get('abstract')
     if abstract:
-        # Clean XML tags
-        abstract = str(abstract).replace('<jats:p>', '').replace('</jats:p>', '')
-        abstract = abstract.replace('<jats:title>', '').replace('</jacs:title>', '')
-        abstract = abstract.replace('<jats:italic>', '*').replace('</jats:italic>', '*')
+        # Clean JATS XML tags more thoroughly
+        import re
+        abstract = str(abstract)
+        # Remove common JATS tags
+        abstract = re.sub(r'<jats:[^>]+>', '', abstract)
+        abstract = re.sub(r'</jats:[^>]+>', '', abstract)
+        # Clean any remaining angle brackets that look like tags
+        abstract = re.sub(r'<[^>]+>', '', abstract)
+        abstract = abstract.strip()
         # Truncate if too long
         if len(abstract) > 800:
             abstract = abstract[:800] + "..."
@@ -565,10 +569,18 @@ def format_paper(paper: Dict) -> str:
 
 def main():
     """Main harvester logic."""
-    
+
     # Parse command-line arguments
+    def valid_date(s):
+        """Validate date string is in YYYY-MM-DD format."""
+        try:
+            datetime.strptime(s, '%Y-%m-%d')
+            return s
+        except ValueError:
+            raise argparse.ArgumentTypeError(f"Invalid date '{s}'. Use YYYY-MM-DD format.")
+
     parser = argparse.ArgumentParser(description='Paper Harvester')
-    parser.add_argument('--date', type=str, help='Specific date to harvest (YYYY-MM-DD)')
+    parser.add_argument('--date', type=valid_date, help='Specific date to harvest (YYYY-MM-DD)')
     parser.add_argument('--backfill', action='store_true', help='Run backfill for next date')
     parser.add_argument('--no-increment', action='store_true', help='Do not increment backfill counter')
     args = parser.parse_args()
@@ -585,9 +597,9 @@ def main():
         from_str, _ = get_next_backfill_date()
         until_str = from_str
     else:
-        # Default: 30 days ago
+        # Default: last 30 days (from 30 days ago to yesterday)
         from_str = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
-        until_str = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
+        until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
     # ============================================================
 
