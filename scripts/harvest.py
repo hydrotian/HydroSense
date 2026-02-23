@@ -53,32 +53,52 @@ logger = logging.getLogger(__name__)
 
 # Backfill counter file
 BACKFILL_COUNTER_FILE = os.path.join(os.path.dirname(__file__), '.backfill_counter')
+# Backfill starts from 2020-01-01; earlier records are out of scope / less reliable for this project.
+# Update this date if the desired historical coverage changes.
 BACKFILL_START_DATE = datetime(2020, 1, 1)
+
+
+def _read_backfill_days_offset() -> int:
+    """Safely read the backfill counter from file.
+
+    Returns 0 if the file does not exist, is empty, or contains invalid data.
+    """
+    if not os.path.exists(BACKFILL_COUNTER_FILE):
+        return 0
+
+    with open(BACKFILL_COUNTER_FILE, 'r') as f:
+        raw_value = f.read().strip()
+
+    if not raw_value:
+        # Treat empty content as zero
+        return 0
+
+    try:
+        return int(raw_value)
+    except ValueError:
+        logger.warning(
+            "Backfill counter file '%s' contains invalid data '%s'; resetting to 0",
+            BACKFILL_COUNTER_FILE,
+            raw_value,
+        )
+        return 0
 
 
 def get_next_backfill_date():
     """Get the next backfill date from counter file."""
-    if os.path.exists(BACKFILL_COUNTER_FILE):
-        with open(BACKFILL_COUNTER_FILE, 'r') as f:
-            days_offset = int(f.read().strip())
-    else:
-        days_offset = 0
-    
+    days_offset = _read_backfill_days_offset()
+
     next_date = BACKFILL_START_DATE + timedelta(days=days_offset)
     return next_date.strftime('%Y-%m-%d'), days_offset
 
 
 def increment_backfill_counter():
     """Increment the backfill counter after successful harvest."""
-    if os.path.exists(BACKFILL_COUNTER_FILE):
-        with open(BACKFILL_COUNTER_FILE, 'r') as f:
-            days_offset = int(f.read().strip())
-    else:
-        days_offset = 0
-    
+    days_offset = _read_backfill_days_offset()
+
     with open(BACKFILL_COUNTER_FILE, 'w') as f:
         f.write(str(days_offset + 1))
-    
+
     logger.info(f"Backfill counter incremented to {days_offset + 1}")
 
 
