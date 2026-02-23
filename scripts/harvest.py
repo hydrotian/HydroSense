@@ -20,11 +20,12 @@ Part 3 (Field Awareness): Top-tier journals + Field match only
 Output: Markdown report saved to <project_directory>/harvest_<date>.md
 
 Usage:
-    1. Configure date range in main() function
-    2. Run: python harvest.py
-    3. Check output in project directory
+    python harvest.py                      # Default: 30 days ago
+    python harvest.py --date 2026-01-13  # Specific date
+    python harvest.py --backfill          # Next backfill date (from counter file)
 """
 
+import argparse
 import logging
 import os
 from datetime import datetime, timedelta
@@ -47,6 +48,57 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+
+# Backfill counter file
+BACKFILL_COUNTER_FILE = os.path.join(os.path.dirname(__file__), '.backfill_counter')
+# Backfill starts from 2020-01-01; earlier records are out of scope / less reliable for this project.
+# Update this date if the desired historical coverage changes.
+BACKFILL_START_DATE = datetime(2020, 1, 1)
+
+
+def _read_backfill_days_offset() -> int:
+    """Safely read the backfill counter from file.
+
+    Returns 0 if the file does not exist, is empty, or contains invalid data.
+    """
+    if not os.path.exists(BACKFILL_COUNTER_FILE):
+        return 0
+
+    with open(BACKFILL_COUNTER_FILE, 'r') as f:
+        raw_value = f.read().strip()
+
+    if not raw_value:
+        # Treat empty content as zero
+        return 0
+
+    try:
+        return int(raw_value)
+    except ValueError:
+        logger.warning(
+            "Backfill counter file '%s' contains invalid data '%s'; resetting to 0",
+            BACKFILL_COUNTER_FILE,
+            raw_value,
+        )
+        return 0
+
+
+def get_next_backfill_date():
+    """Get the next backfill date from counter file."""
+    days_offset = _read_backfill_days_offset()
+
+    next_date = BACKFILL_START_DATE + timedelta(days=days_offset)
+    return next_date.strftime('%Y-%m-%d'), days_offset
+
+
+def increment_backfill_counter():
+    """Increment the backfill counter after successful harvest."""
+    days_offset = _read_backfill_days_offset()
+
+    with open(BACKFILL_COUNTER_FILE, 'w') as f:
+        f.write(str(days_offset + 1))
+
+    logger.info(f"Backfill counter incremented to {days_offset + 1}")
 
 
 # Tracked journals (from FieldSense config)
@@ -495,10 +547,15 @@ def format_paper(paper: Dict) -> str:
     # Abstract - always show if available (provides context when no recommendations)
     abstract = paper.get('abstract')
     if abstract:
-        # Clean XML tags
-        abstract = str(abstract).replace('<jats:p>', '').replace('</jats:p>', '')
-        abstract = abstract.replace('<jats:title>', '').replace('</jacs:title>', '')
-        abstract = abstract.replace('<jats:italic>', '*').replace('</jats:italic>', '*')
+        # Clean JATS XML tags more thoroughly
+        import re
+        abstract = str(abstract)
+        # Remove common JATS tags
+        abstract = re.sub(r'<jats:[^>]+>', '', abstract)
+        abstract = re.sub(r'</jats:[^>]+>', '', abstract)
+        # Clean any remaining angle brackets that look like tags
+        abstract = re.sub(r'<[^>]+>', '', abstract)
+        abstract = abstract.strip()
         # Truncate if too long
         if len(abstract) > 800:
             abstract = abstract[:800] + "..."
@@ -513,16 +570,37 @@ def format_paper(paper: Dict) -> str:
 def main():
     """Main harvester logic."""
 
+    # Parse command-line arguments
+    def valid_date(s):
+        """Validate date string is in YYYY-MM-DD format."""
+        try:
+            datetime.strptime(s, '%Y-%m-%d')
+            return s
+        except ValueError:
+            raise argparse.ArgumentTypeError(f"Invalid date '{s}'. Use YYYY-MM-DD format.")
+
+    parser = argparse.ArgumentParser(description='Paper Harvester')
+    parser.add_argument('--date', type=valid_date, help='Specific date to harvest (YYYY-MM-DD)')
+    parser.add_argument('--backfill', action='store_true', help='Run backfill for next date')
+    parser.add_argument('--no-increment', action='store_true', help='Do not increment backfill counter')
+    args = parser.parse_args()
+
     # ============================================================
     # DATE RANGE CONFIGURATION
     # ============================================================
-    # For recent papers (daily production runs):
-    from_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
-    until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+    if args.date:
+        # Specific date provided
+        from_str = args.date
+        until_str = args.date
+    elif args.backfill:
+        # Backfill mode - get next date from counter
+        from_str, _ = get_next_backfill_date()
+        until_str = from_str
+    else:
+        # Default: last 30 days (from 30 days ago to yesterday)
+        from_str = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
+        until_str = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
 
-    # For a specific date (testing), uncomment below:
-    # from_str = "2026-01-13"
-    # until_str = "2026-01-13"
     # ============================================================
 
     print(f"\n{'='*70}")
@@ -929,6 +1007,10 @@ def main():
 
     print(f"\n\n📁 Jekyll post saved to: {post_file}")
     print(f"🌐 Blog URL: https://hydrotian.github.io/hydrosense/{year}/{month_name.lower()}/{until_str}-daily-harvest.html")
+
+    # Increment backfill counter if in backfill mode
+    if args.backfill and not args.no_increment:
+        increment_backfill_counter()
 
 
 if __name__ == "__main__":
