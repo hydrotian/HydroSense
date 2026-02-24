@@ -1,0 +1,407 @@
+/Users/luna/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-02-23 14:00:12,431 - INFO -   Fetching from 1476-4687 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:13,023 - INFO -     Found 1 papers
+2026-02-23 14:00:13,024 - INFO -   Fetching from 1095-9203 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:13,225 - INFO -     Found 27 papers
+2026-02-23 14:00:13,226 - INFO -   Fetching from 1091-6490 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:13,404 - INFO -     Found 10 papers
+2026-02-23 14:00:13,405 - INFO -   Fetching from 1944-8007 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:13,575 - INFO -     Found 0 papers
+2026-02-23 14:00:13,575 - INFO -   Fetching from 1520-0477 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:13,736 - INFO -     Found 0 papers
+2026-02-23 14:00:13,736 - INFO -   Fetching from 1758-6798 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:13,987 - INFO -     Found 2 papers
+2026-02-23 14:00:13,987 - INFO -   Fetching from 1752-0908 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:14,386 - INFO -     Found 1 papers
+2026-02-23 14:00:14,386 - INFO -   Fetching from 2731-6084 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:14,634 - INFO -     Found 0 papers
+2026-02-23 14:00:14,635 - INFO -   Fetching from 1944-9208 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:15,051 - INFO -     Found 0 papers
+2026-02-23 14:00:15,051 - INFO -   Fetching from 2041-1723 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:15,458 - INFO -     Found 21 papers
+2026-02-23 14:00:15,458 - INFO -   Fetching from 2662-138X (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:15,584 - INFO -     Found 0 papers
+2026-02-23 14:00:15,584 - INFO -   Fetching from 1944-7973 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:15,873 - INFO -     Found 0 papers
+2026-02-23 14:00:15,873 - INFO -   Fetching from 1879-2707 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:16,272 - INFO -     Found 0 papers
+2026-02-23 14:00:16,273 - INFO -   Fetching from 1607-7938 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:16,473 - INFO -     Found 0 papers
+2026-02-23 14:00:16,473 - INFO -   Fetching from 1872-9657 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:16,704 - INFO -     Found 0 papers
+2026-02-23 14:00:16,704 - INFO -   Fetching from 1520-0442 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:17,002 - INFO -     Found 0 papers
+2026-02-23 14:00:17,003 - INFO -   Fetching from 2190-4987 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:17,211 - INFO -     Found 0 papers
+2026-02-23 14:00:17,211 - INFO -   Fetching from 1365-2486 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:17,452 - INFO -     Found 1 papers
+2026-02-23 14:00:17,452 - INFO -   Fetching from 1748-9326 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:17,586 - INFO -     Found 0 papers
+2026-02-23 14:00:17,586 - INFO -   Fetching from 2169-8996 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:17,875 - INFO -     Found 0 papers
+2026-02-23 14:00:17,875 - INFO -   Fetching from 1525-7541 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:18,113 - INFO -     Found 0 papers
+2026-02-23 14:00:18,113 - INFO -   Fetching from 1942-2466 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:18,382 - INFO -     Found 0 papers
+2026-02-23 14:00:18,382 - INFO -   Fetching from 1872-6828 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:18,673 - INFO -     Found 0 papers
+2026-02-23 14:00:18,673 - INFO -   Fetching from 2993-5210 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:18,800 - INFO -     Found 0 papers
+2026-02-23 14:00:18,801 - INFO -   Fetching from 1991-9603 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:18,929 - INFO -     Found 1 papers
+2026-02-23 14:00:18,930 - INFO -   Fetching from 2328-4277 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:19,061 - INFO -     Found 0 papers
+2026-02-23 14:00:19,061 - INFO -   Fetching from 2052-4463 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:19,365 - INFO -     Found 4 papers
+2026-02-23 14:00:19,365 - INFO -   Fetching from 2045-2322 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:19,633 - INFO -     Found 0 papers
+2026-02-23 14:00:19,633 - INFO -   Fetching from 1099-1085 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:20,061 - INFO -     Found 0 papers
+2026-02-23 14:00:20,061 - INFO -   Fetching from 1752-1688 (2020-01-02 to 2020-01-02)
+2026-02-23 14:00:20,350 - INFO -     Found 0 papers
+2026-02-23 14:00:20,350 - INFO - 
+Total papers fetched from CrossRef: 68
+2026-02-23 14:00:20,351 - INFO - 
+Applying three-tier classification:
+2026-02-23 14:00:20,351 - INFO -   Part 1: Top-tier + topics (with recommendations)
+2026-02-23 14:00:20,351 - INFO -   Part 2: High-impact + topics (no recommendations)
+2026-02-23 14:00:20,351 - INFO -   Part 3: Top-tier + fields only (no recommendations)
+
+2026-02-23 14:00:20,351 - INFO - [1/68] Supercharged immune cells shrink tumours with RNA vaccine’s help...
+2026-02-23 14:00:23,013 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:23,013 - INFO - [2/68] Optically contorting into new dimensions...
+2026-02-23 14:00:24,774 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:24,774 - INFO - [3/68] Kill, but don't be killed...
+2026-02-23 14:00:26,501 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:26,501 - INFO - [4/68] Generating a new transcriptional network...
+2026-02-23 14:00:28,247 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:28,248 - INFO - [5/68] Filling a blank canvas...
+2026-02-23 14:00:30,011 - INFO -   ○ PART 3: Top-tier + fields: computer science
+2026-02-23 14:00:30,011 - INFO - [6/68] Parasite perturbation of immunity...
+2026-02-23 14:00:31,758 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:31,759 - INFO - [7/68] The neural substrate of memory...
+2026-02-23 14:00:33,485 - INFO -   ○ PART 3: Top-tier + fields: computer science
+2026-02-23 14:00:33,485 - INFO - [8/68] An artemisinin resistance mechanism...
+2026-02-23 14:00:35,131 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:35,132 - INFO - [9/68] A movement orchestrated by DNA damage...
+2026-02-23 14:00:36,749 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:36,749 - INFO - [10/68] Mechanism of tubulin autoregulation...
+2026-02-23 14:00:38,389 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:38,390 - INFO - [11/68] Human dendrites are special...
+2026-02-23 14:00:40,317 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:40,317 - INFO - [12/68] Copper on the half shell...
+2026-02-23 14:00:42,192 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:42,193 - INFO - [13/68] Looking for chiral Majoranas...
+2026-02-23 14:00:43,951 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:43,951 - INFO - [14/68] Checkpoint cross-talk...
+2026-02-23 14:00:45,713 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:45,713 - INFO - [15/68] A possible propagating Majorana...
+2026-02-23 14:00:47,458 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:47,459 - INFO - [16/68] Postantibiotic recovery...
+2026-02-23 14:00:49,461 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:49,461 - INFO - [17/68] Cancer in diverse populations...
+2026-02-23 14:00:51,151 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:51,151 - INFO - [18/68] Finding the fivefold path...
+2026-02-23 14:00:52,851 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:52,851 - INFO - [19/68] Miniaturizing particle accelerators...
+2026-02-23 14:00:54,597 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:54,597 - INFO - [20/68] EPA science advisers slammed the agency for ignoring science. Here is ...
+2026-02-23 14:00:56,575 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:56,575 - INFO - [21/68] Subtle origin for complex shapes...
+2026-02-23 14:00:58,243 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:58,243 - INFO - [22/68] It's knot what you know...
+2026-02-23 14:00:59,942 - INFO -   ✗ Rejected: No match
+2026-02-23 14:00:59,943 - INFO - [23/68] Manipulating the gap...
+2026-02-23 14:01:01,584 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:01,585 - INFO - [24/68] Electrostatics guide chromophore twist...
+2026-02-23 14:01:03,335 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:03,335 - INFO - [25/68] Tailoring electronic properties...
+2026-02-23 14:01:05,072 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:05,073 - INFO - [26/68] Beating the freeze...
+2026-02-23 14:01:06,823 - INFO -   ○ PART 3: Top-tier + fields: geology
+2026-02-23 14:01:06,823 - INFO - [27/68] Middle Stone Age cooking...
+2026-02-23 14:01:08,575 - INFO -   ○ PART 3: Top-tier + fields: geography
+2026-02-23 14:01:08,575 - INFO - [28/68] Single-cell chemical transcriptomics...
+2026-02-23 14:01:10,198 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:10,198 - INFO - [29/68] Impaired endothelium-mediated cerebrovascular reactivity promotes anxi...
+2026-02-23 14:01:11,950 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:11,950 - INFO - [30/68] Robust hepatitis E virus infection and transcriptional response in hum...
+2026-02-23 14:01:13,642 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:13,643 - INFO - [31/68] The formation of the thumb requires direct modulation of
+             ...
+2026-02-23 14:01:15,250 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:15,251 - INFO - [32/68] An anticancer gold(III)-activated porphyrin scaffold that covalently m...
+2026-02-23 14:01:17,035 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:17,035 - INFO - [33/68] Structure of the cell-binding component of the
+                    <i>...
+2026-02-23 14:01:18,728 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:18,728 - INFO - [34/68] A de novo peroxidase is also a promiscuous yet stereoselective carbene...
+2026-02-23 14:01:20,472 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:20,473 - INFO - [35/68] Improved protein structure prediction using predicted interresidue ori...
+2026-02-23 14:01:22,256 - INFO -   ○ PART 3: Top-tier + fields: computer science
+2026-02-23 14:01:22,256 - INFO - [36/68] Biophysical principles of choanoflagellate self-organization...
+2026-02-23 14:01:23,867 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:23,867 - INFO - [37/68] Rotary catalysis of bovine mitochondrial F
+            <sub>1</sub>
+  ...
+2026-02-23 14:01:25,569 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:25,570 - INFO - [38/68] Bile acids and ceramide overcome the entry restriction for GII.3 human...
+2026-02-23 14:01:27,387 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:27,387 - INFO - [39/68] Human fingerprint in global weather...
+2026-02-23 14:01:29,377 - INFO -   ○ PART 3: Top-tier + fields: environmental science
+2026-02-23 14:01:29,377 - INFO - [40/68] Firing up ambition...
+2026-02-23 14:01:31,339 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:31,339 - INFO - [41/68] Global ocean heat content in the Last Interglacial...
+2026-02-23 14:01:33,420 - INFO -   ○ PART 3: Top-tier + fields: geology
+2026-02-23 14:01:33,420 - INFO - [42/68] Ultrafast charge ordering by self-amplified exciton–phonon dynamics in...
+2026-02-23 14:01:35,109 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:35,109 - INFO - [43/68] MAP3Kinase-dependent SnRK2-kinase activation is required for abscisic ...
+2026-02-23 14:01:42,300 - INFO -   🤖 Gemini: ❌ NOT RELEVANT (0.90) - The paper focuses on plant biology, specifically t
+2026-02-23 14:01:42,300 - INFO -   ✗ Rejected by Gemini LLM
+2026-02-23 14:01:42,300 - INFO - [44/68] In vivo functional analysis of non-conserved human lncRNAs associated ...
+2026-02-23 14:01:44,228 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:44,229 - INFO - [45/68] Ultrafast photomechanical transduction through thermophoretic implosio...
+2026-02-23 14:01:45,917 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:45,918 - INFO - [46/68] Sertoli cell ablation and replacement of the spermatogonial niche in m...
+2026-02-23 14:01:47,586 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:47,586 - INFO - [47/68] Early-exposure to new sex pheromone blends alters mate preference in f...
+2026-02-23 14:01:49,233 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:49,233 - INFO - [48/68] An early phase of instructive plasticity before the typical onset of s...
+2026-02-23 14:01:50,964 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:50,965 - INFO - [49/68] Forces during cellular uptake of viruses and nanoparticles at the vent...
+2026-02-23 14:01:52,734 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:52,734 - INFO - [50/68] B cell-intrinsic epigenetic modulation of antibody responses by dietar...
+2026-02-23 14:01:54,566 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:54,567 - INFO - [51/68] Direct observation of dynamic protein interactions involving human mic...
+2026-02-23 14:01:56,313 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:56,314 - INFO - [52/68] Engineering grain boundaries at the 2D limit for the hydrogen evolutio...
+2026-02-23 14:01:58,081 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:58,082 - INFO - [53/68] Realization of Lieb lattice in covalent-organic frameworks with tunabl...
+2026-02-23 14:01:59,823 - INFO -   ✗ Rejected: No match
+2026-02-23 14:01:59,823 - INFO - [54/68] Genome-scale reconstructions of the mammalian secretory pathway predic...
+2026-02-23 14:02:01,655 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:01,655 - INFO - [55/68] Identification of recurrent FHL2-GLI2 oncogenic fusion in sclerosing s...
+2026-02-23 14:02:08,327 - INFO -   🤖 Gemini: ❌ NOT RELEVANT (1.00) - The paper focuses on cancer genetics and ovarian t
+2026-02-23 14:02:08,327 - INFO -   ✗ Rejected by Gemini LLM
+2026-02-23 14:02:08,327 - INFO - [56/68] Measuring local-directional resolution and local anisotropy in cryo-EM...
+2026-02-23 14:02:09,941 - INFO -   ○ PART 3: Top-tier + fields: computer science
+2026-02-23 14:02:09,942 - INFO - [57/68] An artificial spiking afferent nerve based on Mott memristors for neur...
+2026-02-23 14:02:11,681 - WARNING -   ⚠ Rate limited by S2 - waiting 5 seconds then continuing...
+2026-02-23 14:02:16,831 - INFO -   ✗ Skipping this paper due to rate limit
+2026-02-23 14:02:16,831 - INFO - [58/68] Tissue-infiltrating macrophages mediate an exosome-based metabolic rep...
+2026-02-23 14:02:18,601 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:18,601 - INFO - [59/68] Conjunction of triboelectric nanogenerator with induction coils as wir...
+2026-02-23 14:02:20,227 - INFO -   ○ PART 3: Top-tier + fields: computer science
+2026-02-23 14:02:20,227 - INFO - [60/68] Retinoic acid degradation shapes zonal development of vestibular organ...
+2026-02-23 14:02:21,995 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:21,995 - INFO - [61/68] Microfluidic control over topological states in channel-confined nemat...
+2026-02-23 14:02:23,732 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:23,732 - INFO - [62/68] Gut stem cell aging is driven by mTORC1 via a p38 MAPK-p53 pathway...
+2026-02-23 14:02:25,458 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:25,458 - INFO - [63/68] Conversion of coastal wetlands, riparian wetlands, and peatlands incre...
+2026-02-23 14:02:27,208 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:27,209 - INFO - [64/68] Volcanic ash forecast using ensemble-based data assimilation: an ensem...
+2026-02-23 14:02:28,839 - INFO -   ✗ Not in S2 (404 - paper not indexed)
+2026-02-23 14:02:28,839 - INFO - [65/68] Single-cell RNA sequencing of human kidney...
+2026-02-23 14:02:30,675 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:30,675 - INFO - [66/68] The GenTree Dendroecological Collection, tree-ring and wood density da...
+2026-02-23 14:02:37,733 - INFO -   🤖 Gemini: ✅ RELEVANT (0.70) - While the paper focuses on tree-ring data and wood
+2026-02-23 14:02:37,733 - INFO -   ✓ PART 2: High-impact + topics: climate change
+2026-02-23 14:02:37,733 - INFO - [67/68] PGxCorpus, a manually annotated corpus for pharmacogenomics...
+2026-02-23 14:02:39,548 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:39,549 - INFO - [68/68] The accumulation profiles of terpene metabolites in three Muscat table...
+2026-02-23 14:02:41,281 - INFO -   ✗ Rejected: No match
+2026-02-23 14:02:41,281 - INFO - 
+📊 Classification Results:
+2026-02-23 14:02:41,281 - INFO -    Part 1 (Top-tier + topics): 0
+2026-02-23 14:02:41,281 - INFO -    Part 2 (High-impact + topics): 1
+2026-02-23 14:02:41,282 - INFO -    Part 3 (Top-tier + fields only): 9
+2026-02-23 14:02:41,282 - INFO -    Total selected: 10/68
+2026-02-23 14:02:41,282 - INFO - 
+📈 Semantic Scholar Coverage:
+2026-02-23 14:02:41,282 - INFO -    Found in S2: 66 (97.1%)
+2026-02-23 14:02:41,282 - INFO -    Not in S2 (404): 1
+2026-02-23 14:02:41,282 - INFO -    Errors/Rate limits: 1
+
+2026-02-23 14:02:41,282 - INFO - Generating AI daily summary with Gemini 2.5 Flash Lite...
+2026-02-23 14:02:46,434 - INFO -   Summary generated (529 chars)
+
+======================================================================
+📚 Paper Harvest: 2020-01-02 to 2020-01-02
+======================================================================
+
+
+🔑 Semantic Scholar API Configuration:
+   Key: ...6nNlzkPu
+   Rate limit: 1.5s delay between requests (conservative)
+   x-api-key header: True
+
+🔑 Gemini API Configuration:
+   Model: gemini-2.5-flash-lite
+   Rate limit: 4s delay between requests
+
+
+======================================================================
+📋 Papers Selected: 10
+   Part 1 (Top-tier + topics): 0
+   Part 2 (High-impact + topics): 1
+   Part 3 (Top-tier + fields): 9
+   Papers with abstracts: 8/10
+======================================================================
+
+
+=== PART 1: TOP-TIER + TOPICS (with recommendations) ===
+
+
+
+=== PART 2: HIGH-IMPACT + TOPICS ===
+
+
+--- Paper 1/1 ---
+### The GenTree Dendroecological Collection, tree-ring and wood density data from seven tree species across Europe
+
+**Authors:** Elisabet Martínez-Sancho, Lenka Slámová, Sandro Morganti, Claudio Grefen, Barbara Carvalho et al. (74 authors)
+**Journal:** Scientific Data (2020-01-02)
+**DOI:** [10.1038/s41597-019-0340-y](https://doi.org/10.1038/s41597-019-0340-y)
+
+**Matched Topics:** climate change
+**Matched Fields:** geography
+
+**Abstract:**
+
+The dataset presented here was collected by the GenTree project (EU-Horizon 2020), which aims to improve the use of forest genetic resources across Europe by better understanding how trees adapt to their local environment. This dataset of individual tree-core characteristics including ring-width series and whole-core wood density was collected for seven ecologically and economically important European tree species: silver birch (Betula pendula), European beech (Fagus sylvatica), Norway spruce (Picea abies), European black poplar (Populus nigra), maritime pine (Pinus pinaster), Scots pine (Pinus sylvestris), and sessile oak (Quercus petraea). Tree-ring width measurements were obtained from 3600 trees in 142 populations and whole-core wood density was measured for 3098 trees in 125 populatio...
+
+
+=== PART 3: TOP-TIER + FIELDS ONLY ===
+
+
+--- Paper 1/9 ---
+### Filling a blank canvas
+
+**Authors:** Peter Stern
+**Journal:** Science ⭐ (2020-01-02)
+**DOI:** [10.1126/science.367.6473.37-d](https://doi.org/10.1126/science.367.6473.37-d)
+
+**Matched Fields:** computer science
+
+**Abstract:**
+
+Neuroscience
+Natural scenes can be decoded in the brain in the early visual cortex. Decoding is a product of planned output (feedforward) corrected by experience (feedback). Morgan et al. occluded one quadrant of the visual field of human participants and then presented them with images of landscape scenes. Responses in the visual cortex (areas V1 and V2) were measured for each person by functional magnetic resonance imaging. Even in the occluded region, information about the scene was being decoded. To access what the brain had modeled for the occluded region, participants were asked to complete the image by line drawings on an electronic drawing tablet. The drawings were shown to all participants, who scored how well the “averaged” drawing for each scene matched the complete image. Menta...
+
+--- Paper 2/9 ---
+### The neural substrate of memory
+
+**Authors:** Gemma Alderton
+**Journal:** Science ⭐ (2020-01-02)
+**DOI:** [10.1126/science.367.6473.36-i](https://doi.org/10.1126/science.367.6473.36-i)
+
+**Matched Fields:** computer science
+
+**Abstract:**
+
+Neuroscience
+The ability to form memory is an essential trait that allows learning and the accumulation of knowledge. But what is a memory? There has been a long history of searching for the neuronal substrate that forms memory in the brain, and the emerging view is that ensembles of engram cells explain how memories are formed and retrieved. In a Review, Josselyn and Tonegawa discuss the evidence for engram cells as a substrate of memory, particularly in rodents; what we have learned so far about the features of memory, including memory formation, retrieval over time, and loss; and future directions to understand how memory becomes knowledge.
+
+Science , this issue p. [eaaw4325][1]
+
+ [1]: /lookup/doi/10.1126/science.aaw4325
+
+--- Paper 3/9 ---
+### Beating the freeze
+
+**Authors:** H. Jesse Smith
+**Journal:** Science ⭐ (2020-01-02)
+**DOI:** [10.1126/science.367.6473.37-a](https://doi.org/10.1126/science.367.6473.37-a)
+
+**Matched Fields:** geology
+
+**Abstract:**
+
+Snowball Earth
+Despite multiple episodes during the Cryogenian period in which the planet was mostly covered in ice for millions of years—essentially shutting down air–sea exchange and causing widespread ocean anoxia—marine aerobic eukaryotes somehow survived those Snowball Earth conditions. How did they do it? Lechte et al. show that oxygenated glacial meltwater was supplied to the oceans near ice sheet grounding lines, offering a lifeline to microbial communities there. This process may have created glaciomarine oxygen oases that were critical to the survival and evolution of those organisms during episodes of extreme glaciation.
+
+Proc. Natl. Acad. Sci. U.S.A. 116 , 25478 (2019).
+
+--- Paper 4/9 ---
+### Middle Stone Age cooking
+
+**Authors:** Andrew M. Sugden
+**Journal:** Science ⭐ (2020-01-02)
+**DOI:** [10.1126/science.367.6473.36-f](https://doi.org/10.1126/science.367.6473.36-f)
+
+**Matched Fields:** geography
+
+**Abstract:**
+
+Archaeology
+Early evidence of cooked starchy plant food is sparse, yet the consumption of starchy roots is likely to have been a key innovation in the human diet. Wadley et al. report the identification of whole, charred rhizomes of plants of the genus Hypoxis from Border Cave, South Africa, dated up to 170,000 years ago. These archaeobotanical remains represent the earliest direct evidence for the cooking of underground storage organs. The edible Hypoxis rhizomes appear to have been cooked and consumed in the cave by the Middle Stone Age humans at the site. Hypoxis has a wide geographical distribution, suggesting that the rhizomes could have been a ready and reliable carbohydrate source for Homo sapiens in Africa, perhaps facilitating the mobility of human populations.
+
+Science , this iss...
+
+--- Paper 5/9 ---
+### Improved protein structure prediction using predicted interresidue orientations
+
+**Authors:** Jianyi Yang, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov et al. (6 authors)
+**Journal:** Proceedings of the National Academy of Sciences ⭐ (2020-01-02)
+**DOI:** [10.1073/pnas.1914677117](https://doi.org/10.1073/pnas.1914677117)
+
+**Matched Fields:** computer science
+
+**Abstract:**
+
+Significance Protein structure prediction is a longstanding challenge in computational biology. Through extension of deep learning-based prediction to interresidue orientations in addition to distances, and the development of a constrained optimization by Rosetta, we show that more accurate models can be generated. Results on a set of 18 de novo-designed proteins suggests the proposed method should be directly applicable to current challenges in de novo protein design. The prediction of interresidue contacts and distances from coevolutionary data using deep learning has considerably advanced protein structure prediction. Here, we build on these advances by developing a deep residual network for predicting interresidue orientations, in addition to distances, and a Rosetta-constrained energy...
+
+--- Paper 6/9 ---
+### Human fingerprint in global weather
+
+**Authors:** Seung-Ki Min
+**Journal:** Nature Climate Change ⭐ (2020-01-02)
+**DOI:** [10.1038/s41558-019-0670-y](https://doi.org/10.1038/s41558-019-0670-y)
+
+**Matched Fields:** environmental science
+
+*Abstract not available*
+
+--- Paper 7/9 ---
+### Global ocean heat content in the Last Interglacial
+
+**Authors:** S. Shackleton, D. Baggenstos, J. A. Menking, M. N. Dyonisius, B. Bereiter et al. (15 authors)
+**Journal:** Nature Geoscience ⭐ (2020-01-02)
+**DOI:** [10.1038/s41561-019-0498-0](https://doi.org/10.1038/s41561-019-0498-0)
+
+**Matched Fields:** geology
+
+*Abstract not available*
+
+--- Paper 8/9 ---
+2026-02-23 14:02:46,442 - INFO - Backfill counter incremented to 2
+### Measuring local-directional resolution and local anisotropy in cryo-EM maps
+
+**Authors:** Jose Luis Vilas, Hemant D. Tagare, Javier Vargas, Jose Maria Carazo, Carlos Oscar S. Sorzano
+**Journal:** Nature Communications ⭐ (2020-01-02)
+**DOI:** [10.1038/s41467-019-13742-w](https://doi.org/10.1038/s41467-019-13742-w)
+
+**Matched Fields:** computer science
+
+**Abstract:**
+
+The introduction of local resolution has enormously helped the understanding of cryo-EM maps. Still, for any given pixel it is a global, aggregated value, that makes impossible the individual analysis of the contribution of the different projection directions. We introduce MonoDir, a fully automatic, parameter-free method that, starting only from the final cryo-EM map, decomposes local resolution into the different projection directions, providing a detailed level of analysis of the final map. Many applications of directional local resolution are possible, and we concentrate here on map quality and validation. It is important to analyse the local resolution of cryo-EM maps. Here the authors present MonoDir, a fully automatic and parameter free method for the directional local resolution an...
+
+--- Paper 9/9 ---
+### Conjunction of triboelectric nanogenerator with induction coils as wireless power sources and self-powered wireless sensors
+
+**Authors:** Chi Zhang, Jinkai Chen, Weipeng Xuan, Shuyi Huang, Bin You et al. (13 authors)
+**Journal:** Nature Communications ⭐ (2020-01-02)
+**DOI:** [10.1038/s41467-019-13653-w](https://doi.org/10.1038/s41467-019-13653-w)
+
+**Matched Fields:** computer science
+
+**Abstract:**
+
+Here we demonstrate a magnetic resonance coupling based wireless triboelectric nanogenerator (TENG) and fully self-powered wireless sensors. By integrating a microswitch and an inductor with the TENG, the pulsed voltage output is converted into a sinusoidal voltage signal with a fixed frequency. This can be transmitted wirelessly from the transmit coil to the resonant-coupled receiver coil with an efficiency of 73% for a 5 cm distance between the two coils (10 cm diameter). Analytic models of the oscillating and coupled voltage signals for the wireless energy transfer are developed, showing excellent agreement with the experimental results. A TENG of 40 × 50 mm2 can wirelessly light up 70 LEDs or charge up a 15 μF capacitor to 12.5 V in ~90 s. The system is further utilized for two types o...
+
+
+📁 Jekyll post saved to: /Users/luna/Work/Projects/HydroSense/_pages/2020/january/2020-01-02-daily-harvest.md
+🌐 Blog URL: https://hydrotian.github.io/hydrosense/2020/january/2020-01-02-daily-harvest.html
