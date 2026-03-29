@@ -4,10 +4,14 @@ An intelligent paper harvesting tool for hydrology and water resources research.
 
 ## Features
 
-- **Three-Tier Priority System**: Automatically classifies papers by relevance and importance
+- **Two-Tier Priority System**: Automatically classifies papers by relevance and importance
   - **Part 1**: Peer-reviewed articles from top-tier journals matching your research topics
   - **Part 2**: Peer-reviewed articles from high-impact journals matching your topics
-  - **Part 3**: All content from top-tier journals in relevant fields (includes news and editorials)
+
+- **LLM-Enhanced Filtering**:
+  - Gemini 2.5 Flash Lite for binary relevance classification
+  - AI-generated daily summaries highlighting key themes
+  - Reduces false positives from keyword-only matching
 
 - **Multi-Source Data Integration**:
   - CrossRef API for comprehensive paper metadata
@@ -20,7 +24,8 @@ An intelligent paper harvesting tool for hydrology and water resources research.
   - Peer-review status verification
   - Customizable journal lists
 
-- **Rich Output**: Markdown reports with:
+- **Rich Output**: Jekyll-compatible Markdown reports with:
+  - AI-generated daily highlights
   - Paper abstracts
   - Author information
   - DOI links
@@ -32,13 +37,13 @@ An intelligent paper harvesting tool for hydrology and water resources research.
 ### Prerequisites
 
 - Python 3.7+
-- Semantic Scholar API key (free, get yours at https://www.semanticscholar.org/product/api)
+- API keys (see Setup below)
 
 ### Setup
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/HydroSense.git
+git clone https://github.com/hydrotian/HydroSense.git
 cd HydroSense
 ```
 
@@ -47,39 +52,44 @@ cd HydroSense
 pip install -r requirements.txt
 ```
 
-3. Configure your API key:
-   - Open `harvest.py`
-   - Replace `api_key` value on line ~375 with your Semantic Scholar API key
+3. Configure API keys:
+```bash
+cp .env.example .env
+# Edit .env with your actual API keys
+```
+
+Required keys in `.env`:
+- `SEMANTIC_SCHOLAR_API_KEY`: Free at https://www.semanticscholar.org/product/api
+- `GEMINI_API_KEY`: Free at https://aistudio.google.com
+- `CROSSREF_EMAIL`: Optional, for faster CrossRef polite pool access
 
 ## Usage
 
 ### Quick Start
 
-1. Set your date range in `harvest.py`:
-```python
-# For recent papers (last 3 days)
-from_str = (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')
-until_str = datetime.now().strftime('%Y-%m-%d')
-
-# Or for specific dates
-from_str = "2025-01-01"
-until_str = "2025-01-07"
-```
-
-2. Run the harvester:
 ```bash
-python harvest.py
+# Default: harvest papers from the last 30 days
+python scripts/harvest.py
+
+# Harvest a specific date
+python scripts/harvest.py --date 2026-01-15
+
+# Backfill mode: harvest next date in sequence (starting from 2020-01-01)
+python scripts/harvest.py --backfill
+
+# Backfill without incrementing the counter (for testing)
+python scripts/harvest.py --backfill --no-increment
 ```
 
-3. Check the output:
-   - Report saved to: `/Users/zhou014/Local_Drive/Temp/harvest_<date>.md`
-   - Console shows progress and statistics
+### Output
+
+Reports are saved as Jekyll posts to `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md` and automatically appear on the blog site when pushed.
 
 ### Customization
 
 #### Modify Journal List
 
-Edit the `JOURNALS` list in `harvest.py`:
+Edit the `JOURNALS` list in `scripts/harvest.py`:
 ```python
 JOURNALS = [
     {"name": "Nature", "issn": "1476-4687", "category": "top-tier"},
@@ -108,53 +118,20 @@ RELEVANT_FIELDS = [
 ]
 ```
 
-## Output Format
-
-The tool generates a structured Markdown report with:
-
-### Summary Section
-- Total papers published
-- Papers selected by tier
-- Semantic Scholar coverage statistics
-- Papers by journal distribution
-
-### Part 1: Top-Tier + Topics (Peer-reviewed)
-Highest priority papers for detailed reading.
-
-### Part 2: High-Impact + Topics (Peer-reviewed)
-Important papers from specialized journals.
-
-### Part 3: Field Awareness
-News, editorials, and research for staying aware of field developments.
-
 ## Rate Limits
 
-- **Semantic Scholar**: 1 request/second (with API key)
-- **CrossRef**: Polite rate (0.1s delay)
+- **Semantic Scholar**: 1.5s delay (conservative for 1 req/sec limit)
+- **CrossRef**: 0.1s delay
 - **OpenAlex**: 0.1s delay
+- **Gemini**: 4.0s delay (15 requests/minute limit)
 
 **Estimated runtime**: ~15-20 minutes for 600-700 papers
-
-## Configuration
-
-### API Keys
-- **Semantic Scholar**: Required (set in `harvest.py`)
-- **CrossRef**: Optional email for polite pool access
-- **OpenAlex**: No key required
-
-### Output Directory
-Default: `/Users/zhou014/Local_Drive/Temp/`
-
-Modify in `harvest.py`:
-```python
-output_file = f"/your/custom/path/harvest_{until_str}.md"
-```
 
 ## Tracked Journals
 
 ### Top-Tier (11 journals)
 - Nature, Science, PNAS
-- Geophysical Research Letters
+- Geophysical Research Letters, BAMS
 - Nature Climate Change, Nature Geoscience, Nature Water
 - Nature Communications, Nature Reviews Earth & Environment
 - Reviews of Geophysics
@@ -162,42 +139,27 @@ output_file = f"/your/custom/path/harvest_{until_str}.md"
 ### High-Impact (18 journals)
 Water Resources Research, Journal of Hydrology, Hydrology and Earth System Sciences, and more.
 
-See full list in `harvest.py`.
+See full list in `scripts/harvest.py`.
 
 ## Technical Details
 
 - **Language**: Python 3.7+
-- **External APIs**: CrossRef, Semantic Scholar, OpenAlex
-- **Output Format**: Markdown
-- **Classification**: Three-tier priority system with peer-review filtering
-
-## Troubleshooting
-
-**429 Rate Limit Errors**
-- Increase `rate_limit_delay` in SemanticScholarClient (line ~237)
-- Ensure API key is correctly configured
-
-**No Papers Found**
-- Check date range (papers may not be indexed yet)
-- Verify journal ISSNs are correct
-- Ensure TOPICS match paper content
-
-**Missing Abstracts**
-- Normal for recent papers (can take weeks to index)
-- S2 coverage: ~75-85% typical
-- OpenAlex provides fallback coverage
+- **External APIs**: CrossRef, Semantic Scholar, OpenAlex, Gemini
+- **Output Format**: Jekyll-compatible Markdown
+- **Classification**: Two-tier priority system with peer-review filtering and LLM verification
 
 ## Blog Site
 
-HydroSense includes a Jekyll-based blog site that hosts daily and monthly harvest reports with full-text search.
+HydroSense includes a Jekyll-based blog site that hosts daily harvest reports with full-text search.
 
-**Live Site:** [https://hydrotian.github.io/hydrosense/](https://hydrotian.github.io/hydrosense/)
+**Live Site:** [https://hydrosense.simhydro.com](https://hydrosense.simhydro.com)
 
 ### Features
 - Daily harvest reports organized by year and month
-- Monthly summaries with trends and highlights
+- AI-generated daily highlights
 - Full-text search (authors, journals, titles, abstracts)
-- Clean, book-like interface with sidebar navigation
+- Hierarchical sidebar navigation (Year > Month > Daily reports)
+- Automatic dark mode support
 - Mobile responsive
 
 ### Local Development
@@ -208,10 +170,28 @@ bundle install
 # Serve locally
 bundle exec jekyll serve
 
-# Visit: http://localhost:4000/hydrosense/
+# Visit: http://localhost:4000/
 ```
 
-See `BLOG_README.md` for detailed documentation on the blog site.
+### Theme
+
+Uses the [Just the Docs](https://just-the-docs.com/) theme with custom light blue color scheme and automatic dark mode via CSS `prefers-color-scheme` media query.
+
+## Troubleshooting
+
+**429 Rate Limit Errors**
+- Increase `rate_limit_delay` in respective client classes
+- Semantic Scholar is most sensitive
+
+**No Papers Found**
+- Check date range (papers may not be indexed yet)
+- Verify journal ISSNs are correct
+- Ensure TOPICS match paper content
+
+**Missing Abstracts**
+- Normal for recent papers (can take weeks to index)
+- S2 coverage: ~75-85% typical
+- OpenAlex provides fallback coverage
 
 ## Contributing
 
@@ -230,6 +210,7 @@ MIT License - see LICENSE file for details
 - CrossRef API for comprehensive metadata
 - Semantic Scholar for field classification and recommendations
 - OpenAlex for abstract coverage
+- Google Gemini for LLM relevance filtering
 
 ## Contact
 
@@ -238,4 +219,3 @@ For questions or issues, please open an issue on GitHub.
 ---
 
 **Note**: This tool is for research purposes. Please respect API rate limits and terms of service.
-

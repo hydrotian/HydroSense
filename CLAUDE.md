@@ -4,380 +4,121 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-HydroSense is an intelligent paper harvesting tool for hydrology and water resources research. It automatically fetches, filters, and organizes publications from top-tier and high-impact journals using a three-tier priority system.
+HydroSense is an intelligent paper harvesting tool for hydrology and water resources research. It automatically fetches, filters, and organizes publications from top-tier and high-impact journals using a two-tier priority system with LLM-enhanced filtering. Output is published as a Jekyll blog at [hydrosense.simhydro.com](https://hydrosense.simhydro.com).
 
 ## Development Commands
 
 ### Setup
 ```bash
-# Install dependencies
 pip install -r requirements.txt
-
-# Configure API keys
-cp .env.example .env
-# Edit .env with your actual API keys
+cp .env.example .env   # then edit .env with API keys
 ```
 
 ### Running the Harvester
 ```bash
-# Run from scripts directory
-python scripts/harvest.py
-
-# Or from project root
-python scripts/harvest.py
+python scripts/harvest.py                        # Default: last 30 days
+python scripts/harvest.py --date 2026-01-15      # Specific date
+python scripts/harvest.py --backfill             # Next date from counter (starts 2020-01-01)
+python scripts/harvest.py --backfill --no-increment  # Backfill without advancing counter
 ```
 
-### Date Range Configuration
-Edit the date range in `scripts/harvest.py` in the `main()` function:
-- For recent papers: Use `datetime.now() - timedelta(days=N)`
-- For specific dates: Set `from_str` and `until_str` directly (format: "YYYY-MM-DD")
+### Local Blog Development
+```bash
+bundle install
+bundle exec jekyll serve   # http://localhost:4000/
+```
+
+### Testing
+
+There is no automated test suite. Validate changes by running `harvest.py` with `--date` on a known date and inspecting the generated Markdown output.
 
 ## Architecture
 
-### Core Components
+### Core Script
 
-**scripts/harvest.py** - Single monolithic script containing all harvesting logic:
+**scripts/harvest.py** — Single monolithic script. All harvesting logic lives here.
 
-1. **API Clients** (lines ~100-343):
-   - `CrossRefClient`: Primary source for paper metadata from journals via CrossRef API
-   - `SemanticScholarClient`: Enrichment for field classification and abstracts
-   - `OpenAlexClient`: Fallback abstract source when Semantic Scholar lacks coverage
-   - `GeminiClient`: LLM-based binary relevance filtering (Stage 1 filtering)
+**API Clients:**
+- `CrossRefClient`: Primary paper metadata source (by journal ISSN + date range)
+- `SemanticScholarClient`: Field classification and abstracts
+- `OpenAlexClient`: Fallback abstract source
+- `GeminiClient`: LLM binary relevance filtering + daily summary generation (Gemini 2.5 Flash Lite)
 
-2. **Three-Tier Classification System** (lines ~518-669):
-   - **Part 1**: Top-tier journals + topic keywords + peer-reviewed + LLM-approved
-     - Most important papers, highest priority for reading
-     - Gets S2 recommendations if available
-   - **Part 2**: High-impact journals + topic keywords + peer-reviewed + LLM-approved
-     - Important specialized papers
-     - No S2 recommendations
-   - **Part 3**: Top-tier journals + relevant fields only
-     - Field awareness, includes news/editorials
-     - No topic matching required
+**Two-Tier Classification:**
+- **Part 1**: Top-tier journals + topic keywords + peer-reviewed (`journal-article` type) + LLM-approved
+- **Part 2**: High-impact journals + topic keywords + peer-reviewed + LLM-approved
 
-3. **Filtering Logic**:
-   - Semantic Scholar field classification against `RELEVANT_FIELDS` list
-   - Keyword matching against `TOPICS` list in title/abstract
-   - Peer-review status verification (must be 'journal-article' type for Parts 1 & 2)
-   - Gemini LLM binary relevance check (Parts 1 & 2 only)
+**Backfill System:**
+- Counter file at `scripts/.backfill_counter` (gitignored) tracks days offset from `BACKFILL_START_DATE` (2020-01-01)
+- `get_next_backfill_date()` / `increment_backfill_counter()` manage the counter
 
-4. **Output Generation** (lines ~390-449, ~733-794):
-   - Markdown report with paper details, abstracts, author info
-   - Summary statistics (S2 coverage, journal distribution)
-   - Three-part structure matching classification tiers
+**Data Flow:** Parse Args → Fetch (CrossRef) → Enrich (S2 + OpenAlex fallback) → Classify (keywords + field match + LLM) → Summarize (Gemini) → Output (Jekyll post to `_pages/YYYY/monthname/`)
 
 ### Configuration
 
-**API Keys** (loaded via python-dotenv from .env file):
-- `SEMANTIC_SCHOLAR_API_KEY`: Required for field classification (free at semanticscholar.org)
-- `GEMINI_API_KEY`: Required for LLM relevance filtering (free at aistudio.google.com)
-- `CROSSREF_EMAIL`: Optional, for faster CrossRef polite pool access
+**API Keys** (via python-dotenv from `.env`):
+- `SEMANTIC_SCHOLAR_API_KEY`: Required (free at semanticscholar.org)
+- `GEMINI_API_KEY`: Required (free at aistudio.google.com)
+- `CROSSREF_EMAIL`: Optional, for faster CrossRef polite pool
 
-**Journal Lists** (lines ~53-84):
-- `JOURNALS`: List of tracked journals with ISSN, name, and category (top-tier/High-impact)
-- Update this to add new journals to monitor
-
-**Filtering Parameters**:
-- `TOPICS` (lines ~87-88): Keywords for topic-based filtering
-- `RELEVANT_FIELDS` (lines ~92-98): Semantic Scholar field classifications to match
+**Key constants in `harvest.py`:**
+- `JOURNALS`: 11 top-tier + 18 high-impact journals (ISSN, name, category)
+- `TOPICS`: Keywords for topic-based filtering
+- `RELEVANT_FIELDS`: Semantic Scholar field classifications
 
 ### Rate Limiting
 
-Critical for API compliance:
-- CrossRef: 0.1s delay between requests (line ~110)
-- Semantic Scholar: 1.5s delay (line ~250) - conservative for 1 req/sec limit
-- OpenAlex: 0.1s delay (line ~211)
-- Gemini: 4.0s delay (line ~260) - 15 requests/minute limit
+Critical for API compliance — violating these causes 429 errors:
+- CrossRef: 0.1s delay
+- Semantic Scholar: 1.5s delay (most sensitive — 1 req/sec limit)
+- OpenAlex: 0.1s delay
+- Gemini: 4.0s delay (15 req/min limit)
 
-**Runtime**: Expect ~15-20 minutes for 600-700 papers due to rate limits.
+**Runtime**: ~15-20 minutes for 600-700 papers.
 
-### Data Flow
+### Output
 
-1. **Fetch** (lines ~503-514): CrossRef API retrieves papers by journal ISSN and date range
-2. **Enrich** (lines ~533-607): For each paper:
-   - Query Semantic Scholar for field classification and abstract
-   - Fallback to OpenAlex for abstract if S2 lacks it
-   - Extract matched fields and topics
-3. **Classify** (lines ~608-669): Apply three-tier logic with peer-review filtering and LLM checks
-4. **Format** (lines ~733-794): Generate markdown report with summary statistics
+Reports saved as Jekyll posts: `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md`
 
-### Output Location
-
-Default: `/Users/zhou014/Local_Drive/Temp/harvest_<date>.md`
-
-Modify `output_file` variable in `main()` function (line ~734) to change location.
+The script auto-creates year index (`_pages/YYYY/index.md`) and month index pages as needed, with correct Just the Docs front matter (`parent`/`grand_parent`/`has_children`/`nav_order`).
 
 ## Common Development Tasks
 
 ### Adding a New Journal
-
-1. Find the journal's ISSN (usually on the journal website or from CrossRef)
-2. Add to `JOURNALS` list in harvest.py:
+Add to `JOURNALS` list in `scripts/harvest.py`:
 ```python
 {"name": "Journal Name", "issn": "1234-5678", "category": "top-tier"}
 ```
-3. Test with a small date range to verify papers are retrieved
-
-### Modifying Topic Keywords
-
-Edit the `TOPICS` list (line ~87-88) to change what keywords trigger Part 1/2 classification.
-
-### Adjusting Field Classifications
-
-Edit `RELEVANT_FIELDS` (lines ~92-98) to change which Semantic Scholar fields are considered relevant for Part 3.
-
-### Changing Rate Limits
-
-If experiencing 429 errors:
-- Increase `rate_limit_delay` in respective client classes
-- Semantic Scholar is most sensitive (line ~250)
+Test with `--date` on a recent date to verify papers are retrieved.
 
 ### Customizing LLM Filtering
+The Gemini prompt is in `GeminiClient.is_relevant()`. Modify the researcher's domain/topics sections and `generationConfig` as needed.
 
-The Gemini prompt for relevance checking is in `GeminiClient.is_relevant()` (lines ~273-307):
-- Modify the researcher's domain and relevant topics sections
-- Adjust temperature and maxOutputTokens in generationConfig (lines ~317-319)
+### Handling 429 Rate Limit Errors
+Increase `rate_limit_delay` in the affected client class. Semantic Scholar is most sensitive.
 
 ## Technical Notes
 
-- **Paper Type Filtering**: Only 'journal-article' type passes peer-review check for Parts 1 & 2. Part 3 allows all types (news, editorial, etc.) for field awareness.
-- **Abstract Sources**: Prioritized as S2 > OpenAlex > CrossRef. S2 typically has best coverage (~75-85%).
-- **S2 404s are Normal**: Not all papers are immediately indexed in Semantic Scholar, especially recent publications.
-- **LLM Filtering**: Gemini 2.0 Flash Lite provides binary relevance classification to reduce false positives from keyword matching.
+- **Abstract priority**: S2 > OpenAlex > CrossRef. S2 typically covers ~75-85%.
+- **S2 404s are normal**: Recent papers may not be indexed yet.
+- **Backfill counter**: Stored in `scripts/.backfill_counter` (gitignored). Delete to reset to 2020-01-01.
+- **JATS XML cleanup**: The output generator strips JATS XML tags from abstracts via regex.
 
 ## Blog Site (GitHub Pages)
 
-The repository includes a Jekyll-based blog site that hosts daily and monthly harvest reports.
+Jekyll site using the [Just the Docs](https://just-the-docs.com/) remote theme.
 
-### Structure
-
-```
-HydroSense/
-├── _config.yml              # Jekyll configuration
-├── Gemfile                  # Ruby dependencies
-├── index.md                 # Homepage
-├── _pages/
-│   ├── about.md            # About page
-│   ├── 2025/               # Year folder
-│   │   ├── index.md        # Year landing page
-│   │   ├── january/        # Month folder
-│   │   │   ├── index.md    # Month landing page
-│   │   │   ├── 2025-01-03-daily-harvest.md
-│   │   │   ├── 2025-01-31-monthly-summary.md
-│   │   │   └── ...
-│   │   ├── february/       # Month folder
-│   │   │   ├── index.md
-│   │   │   └── ...
-│   │   └── ...
-│   └── 2026/               # Future year folder
-└── scripts/harvest.py      # Harvesting script
-```
-
-### Local Development
-
-```bash
-# Install Jekyll dependencies
-bundle install
-
-# Serve locally
-bundle exec jekyll serve
-
-# Site will be available at http://localhost:4000/
-```
-
-### Theme: Jekyll-GitBook
-
-Uses the `jekyll-gitbook` theme (https://github.com/sighingnow/jekyll-gitbook) which provides:
-- Sidebar navigation with hierarchical structure
-- Built-in full-text search (including abstracts)
-- Clean, book-like layout
-- Table of contents for long posts
-
-### Adding New Posts
-
-**Daily Reports:**
-1. Generate report using `scripts/harvest.py`
-2. Script automatically:
-   - Creates month folder if needed: `_pages/YYYY/monthname/`
-   - Creates month index page: `_pages/YYYY/monthname/index.md`
-   - Saves post to: `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md`
-3. Front matter template:
-```yaml
----
-layout: page
-title: "January 03 - Daily Harvest"
-date: 2025-01-03
-categories: [daily, 2025, january]
-tags: [hydrology, paper-harvest, research]
----
-```
-
-**Monthly Summaries:**
-1. Create manually or with a script
-2. Save to `_pages/YYYY/monthname/YYYY-MM-31-monthly-summary.md`
-3. Use same front matter as daily reports
-
-**Important:** The nested folder structure creates the navigation hierarchy:
-- `_pages/2025/` = Year level
-- `_pages/2025/january/` = Month level
-- `_pages/2025/january/*.md` = Individual posts
-
-Jekyll-gitbook automatically generates sidebar navigation from this folder structure.
-
-### Search Configuration
-
-Full-text search is enabled in `_config.yml`:
-```yaml
-search:
-  enabled: true
-  index_full_content: true
-```
-
-This indexes:
-- Paper titles
-- Author names
-- Journal names
-- Abstracts
-- Keywords and topics
-- All markdown content
-
-### GitHub Pages Deployment
-
-The site is deployed via GitHub Actions (`.github/workflows/jekyll.yml`):
-- Automatically builds on push to main branch
-- Deploys to `https://hydrosense.simhydro.com`
-- No pre-building required
-
-To manually trigger deployment:
-1. Go to Actions tab in GitHub
-2. Select "Deploy Jekyll site to Pages"
-3. Click "Run workflow"
-
-### File Naming Conventions
-
-- Daily reports: `YYYY-MM-DD-daily-harvest.md`
-- Monthly summaries: `YYYY-MM-31-monthly-summary.md`
-- Organize all posts in `_pages/YYYY/` for automatic navigation
+- **Custom color scheme**: `_sass/color_schemes/hydrosense.scss` (light blue `#5b9bd5`)
+- **Dark mode**: Auto via `@media (prefers-color-scheme: dark)` in `_sass/custom/custom.scss`
+- **Full-text search**: Enabled with `index_full_content: true` in `_config.yml`
+- **Deployment**: GitHub Actions (`.github/workflows/jekyll.yml`) on push to `main`; also supports manual `workflow_dispatch`
+- **Custom domain**: `hydrosense.simhydro.com` (CNAME DNS record)
 
 ### Navigation Hierarchy
 
-The site uses a three-level hierarchy based on folder structure:
-- **Level 1:** `_pages/2025/` folder (year level)
-- **Level 2:** `_pages/2025/january/` folder (month level)
-- **Level 3:** `_pages/2025/january/*.md` files (individual posts)
+Uses Just the Docs `parent`/`grand_parent`/`has_children` front matter:
+- **Level 1**: `_pages/YYYY/index.md` — year page (`has_children: true`, `nav_order: year-2023`)
+- **Level 2**: `_pages/YYYY/monthname/index.md` — month page (`parent: YYYY`, `has_children: true`, `nav_order: month_num`)
+- **Level 3**: `_pages/YYYY/monthname/*.md` — daily posts (`parent: Monthname`, `grand_parent: YYYY`, `nav_order: day`)
 
-Jekyll-gitbook automatically generates the sidebar navigation tree from the folder hierarchy. Index pages (`index.md`) provide landing pages for each year and month.
-
-## Blog Site (GitHub Pages)
-
-The repository includes a Jekyll-based blog site that hosts daily and monthly harvest reports.
-
-### Structure
-
-```
-HydroSense/
-├── _config.yml              # Jekyll configuration
-├── Gemfile                  # Ruby dependencies
-├── index.md                 # Homepage
-├── _pages/                  # Static pages (about, etc.)
-├── _posts_2025/            # 2025 posts collection
-│   ├── 01-January/         # January daily reports
-│   │   ├── 2025-01-03-daily-harvest.md
-│   │   ├── 2025-01-04-daily-harvest.md
-│   │   └── 2025-01-31-monthly-summary.md
-│   └── 02-February/        # February reports
-└── _posts_2026/            # 2026 posts collection
-```
-
-### Local Development
-
-```bash
-# Install Jekyll dependencies
-bundle install
-
-# Serve locally
-bundle exec jekyll serve
-
-# Site will be available at http://localhost:4000/hydrosense/
-```
-
-### Theme: Jekyll-GitBook
-
-Uses the `jekyll-gitbook` theme (https://github.com/sighingnow/jekyll-gitbook) which provides:
-- Sidebar navigation with hierarchical structure
-- Built-in full-text search (including abstracts)
-- Clean, book-like layout
-- Table of contents for long posts
-
-### Adding New Posts
-
-**Daily Reports:**
-1. Generate report using `scripts/harvest.py`
-2. Save to `_posts_YYYY/MM-MonthName/YYYY-MM-DD-daily-harvest.md`
-3. Add front matter:
-```yaml
----
-layout: post
-title: "Daily Harvest - January 3, 2025"
-date: 2025-01-03
-categories: [daily, 2025, january]
-tags: [hydrology, climate, water-resources]
-toc: true
----
-```
-
-**Monthly Summaries:**
-1. Save to `_posts_YYYY/MM-MonthName/YYYY-MM-31-monthly-summary.md`
-2. Add front matter:
-```yaml
----
-layout: post
-title: "Monthly Summary - January 2025"
-date: 2025-01-31
-categories: [monthly, 2025, january]
-tags: [summary, trends, hydrology]
-toc: true
----
-```
-
-### Search Configuration
-
-Full-text search is enabled in `_config.yml`:
-```yaml
-search:
-  enabled: true
-  index_full_content: true
-```
-
-This indexes:
-- Paper titles
-- Author names
-- Journal names
-- Abstracts
-- Keywords and topics
-- All markdown content
-
-### GitHub Pages Deployment
-
-The site is deployed via GitHub Actions (`.github/workflows/jekyll.yml`):
-- Automatically builds on push to main branch
-- Deploys to `https://hydrotian.github.io/hydrosense/`
-- No pre-building required
-
-To manually trigger deployment:
-1. Go to Actions tab in GitHub
-2. Select "Deploy Jekyll site to Pages"
-3. Click "Run workflow"
-
-### File Naming Conventions
-
-- Daily reports: `YYYY-MM-DD-daily-harvest.md`
-- Monthly summaries: `YYYY-MM-31-monthly-summary.md`
-- Organize by year/month folders for better navigation
-
-### Theme Customization
-
-The jekyll-gitbook theme can be customized via `_config.yml`:
-- `toc.h_min` / `toc.h_max`: Control table of contents depth
-- `syntax_highlighter_style`: Code highlighting theme
-- `collections`: Define post organization structure
+The harvest script auto-generates posts with correct front matter including `layout: default`, `parent`, `grand_parent`, and `nav_order`.

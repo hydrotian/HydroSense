@@ -2,25 +2,22 @@
 """
 Standalone Paper Harvester
 
-Fetches papers from tracked journals and classifies them using a three-tier priority system:
+Fetches papers from tracked journals and classifies them using a two-tier priority system:
 
-Part 1 (Highest Priority): Top-tier journals + Topic keywords + Peer-reviewed
+Part 1 (Highest Priority): Top-tier journals + Topic keywords + Peer-reviewed + LLM-approved
   • Must be peer-reviewed research articles (journal-article type)
   • Must match TOPICS in title/abstract
-  • Gets abstracts from S2/OpenAlex
+  • Must pass Gemini LLM relevance check
 
-Part 2: High-impact journals + Topic keywords + Peer-reviewed
+Part 2: High-impact journals + Topic keywords + Peer-reviewed + LLM-approved
   • Must be peer-reviewed research articles
   • Must match TOPICS in title/abstract
+  • Must pass Gemini LLM relevance check
 
-Part 3 (Field Awareness): Top-tier journals + Field match only
-  • Must match RELEVANT_FIELDS (S2 classification)
-  • Allows all content types (news, editorials, research)
-
-Output: Markdown report saved to <project_directory>/harvest_<date>.md
+Output: Jekyll post saved to _pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md
 
 Usage:
-    python harvest.py                      # Default: 30 days ago
+    python harvest.py                      # Default: last 30 days
     python harvest.py --date 2026-01-13  # Specific date
     python harvest.py --backfill          # Next backfill date (from counter file)
 """
@@ -30,6 +27,7 @@ import logging
 import os
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional
+import re
 import requests
 import time
 
@@ -249,7 +247,7 @@ class CrossRefClient:
                 'type': item_type,
                 'source': 'CrossRef'
             }
-        except Exception as e:
+        except Exception:
             return None
 
 
@@ -308,7 +306,7 @@ class GeminiClient:
     def __init__(self, api_key: str = None):
         self.api_key = api_key or GEMINI_API_KEY
         self.base_url = "https://generativelanguage.googleapis.com/v1beta"
-        self.model = "gemini-2.0-flash-lite"
+        self.model = "gemini-2.5-flash-lite"
         self.rate_limit_delay = 4.0  # 15 requests/minute = 4s between requests
 
     def generate_daily_summary(self, papers: List[Dict]) -> str:
@@ -345,8 +343,7 @@ Today's papers:
 Write only the summary paragraph, no headers or bullet points."""
 
         try:
-            summary_model = "gemini-2.5-flash-lite"
-            url = f"{self.base_url}/models/{summary_model}:generateContent"
+            url = f"{self.base_url}/models/{self.model}:generateContent"
             params = {'key': self.api_key}
 
             payload = {
@@ -548,7 +545,6 @@ def format_paper(paper: Dict) -> str:
     abstract = paper.get('abstract')
     if abstract:
         # Clean JATS XML tags more thoroughly
-        import re
         abstract = str(abstract)
         # Remove common JATS tags
         abstract = re.sub(r'<jats:[^>]+>', '', abstract)
@@ -619,17 +615,19 @@ def main():
             masked_key = f"...{SEMANTIC_SCHOLAR_API_KEY[-8:]}" if len(SEMANTIC_SCHOLAR_API_KEY) > 8 else "***"
             print(f"\n🔑 Semantic Scholar API Configuration:")
             print(f"   Key: {masked_key}")
-        print(f"   Rate limit: {s2.rate_limit_delay}s delay between requests (conservative)")
-        print(f"   x-api-key header: {'x-api-key' in s2.session.headers}\n")
+            print(f"   Rate limit: {s2.rate_limit_delay}s delay between requests (conservative)")
+            print(f"   x-api-key header: {'x-api-key' in s2.session.headers}\n")
     except Exception as e:
         s2_available = False
         print(f"\n⚠️  Semantic Scholar not available: {e}\n")
 
     # Gemini LLM configuration
+    gemini = None
     if GEMINI_API_KEY:
+        gemini = GeminiClient()
         print(f"🔑 Gemini API Configuration:")
-        print(f"   Model: gemini-2.5-flash-lite")
-        print(f"   Rate limit: 4s delay between requests")
+        print(f"   Model: {gemini.model}")
+        print(f"   Rate limit: {gemini.rate_limit_delay}s delay between requests")
         gemini_available = True
     else:
         print(f"⚠️  Gemini API not configured (set GEMINI_API_KEY in .env)")
@@ -655,14 +653,12 @@ def main():
 
     # Three-tier classification with S2
     if s2_available:
-        logger.info("\nApplying three-tier classification:")
-        logger.info("  Part 1: Top-tier + topics (with recommendations)")
-        logger.info("  Part 2: High-impact + topics (no recommendations)")
-        logger.info("  Part 3: Top-tier + fields only (no recommendations)\n")
+        logger.info("\nApplying two-tier classification:")
+        logger.info("  Part 1: Top-tier + topics + peer-reviewed + LLM-approved")
+        logger.info("  Part 2: High-impact + topics + peer-reviewed + LLM-approved\n")
 
         part1_papers = []  # Top-tier + topics
         part2_papers = []  # High-impact + topics
-        part3_papers = []  # Top-tier + fields only
 
         # Track S2 status
         s2_found = 0
@@ -750,7 +746,6 @@ def main():
 
             if is_top_tier and matched_topics and is_peer_reviewed:
                 # Stage 1: Gemini LLM binary relevance check
-                gemini = GeminiClient()
                 llm_result = gemini.is_relevant(
                     s2_title,
                     s2_abstract,
@@ -772,7 +767,6 @@ def main():
                 logger.info(f"  ⭐ PART 1: Top-tier + topics: {', '.join(matched_topics[:2])}")
             elif not is_top_tier and matched_topics and is_peer_reviewed:
                 # Stage 1: Gemini LLM binary relevance check (Part 2)
-                gemini = GeminiClient()
                 llm_result = gemini.is_relevant(
                     s2_title,
                     s2_abstract,
@@ -792,16 +786,7 @@ def main():
                 paper['llm_result'] = llm_result
                 part2_papers.append(paper)
                 logger.info(f"  ✓ PART 2: High-impact + topics: {', '.join(matched_topics[:2])}")
-            elif is_top_tier and matched_fields:
-                # Part 3: Top-tier + fields (allows news/editorials for awareness)
-                part3_papers.append(paper)
-                type_label = f" [{paper_type}]" if paper_type != 'journal-article' else ""
-                logger.info(f"  ○ PART 3: Top-tier + fields: {', '.join(matched_fields[:2])}{type_label}")
-            elif is_top_tier and matched_topics and not is_peer_reviewed:
-                # Rejected: Top-tier + topics but not peer-reviewed
-                logger.info(f"  ✗ Rejected: {paper_type} (not peer-reviewed)")
-            elif not is_top_tier and matched_topics and not is_peer_reviewed:
-                # Rejected: High-impact + topics but not peer-reviewed
+            elif matched_topics and not is_peer_reviewed:
                 logger.info(f"  ✗ Rejected: {paper_type} (not peer-reviewed)")
             else:
                 logger.info(f"  ✗ Rejected: No match")
@@ -809,8 +794,7 @@ def main():
         logger.info(f"\n📊 Classification Results:")
         logger.info(f"   Part 1 (Top-tier + topics): {len(part1_papers)}")
         logger.info(f"   Part 2 (High-impact + topics): {len(part2_papers)}")
-        logger.info(f"   Part 3 (Top-tier + fields only): {len(part3_papers)}")
-        logger.info(f"   Total selected: {len(part1_papers) + len(part2_papers) + len(part3_papers)}/{len(all_papers)}")
+        logger.info(f"   Total selected: {len(part1_papers) + len(part2_papers)}/{len(all_papers)}")
 
         logger.info(f"\n📈 Semantic Scholar Coverage:")
         s2_coverage = (s2_found/len(all_papers)*100) if len(all_papers) > 0 else 0
@@ -818,10 +802,10 @@ def main():
         logger.info(f"   Not in S2 (404): {s2_not_found}")
         logger.info(f"   Errors/Rate limits: {s2_errors}\n")
 
-        relevant_papers = {'part1': part1_papers, 'part2': part2_papers, 'part3': part3_papers}
+        relevant_papers = {'part1': part1_papers, 'part2': part2_papers}
     else:
         logger.warning("Semantic Scholar not available - skipping filtering")
-        relevant_papers = {'part1': [], 'part2': all_papers, 'part3': []}
+        relevant_papers = {'part1': [], 'part2': all_papers}
         # Set default S2 stats
         s2_found = 0
         s2_not_found = 0
@@ -830,14 +814,12 @@ def main():
     # Output
     part1 = relevant_papers.get('part1', [])
     part2 = relevant_papers.get('part2', [])
-    part3 = relevant_papers.get('part3', [])
-    total = len(part1) + len(part2) + len(part3)
+    total = len(part1) + len(part2)
 
     # Generate AI summary from Part 1 + Part 2 papers
     daily_summary = ''
     if gemini_available and (part1 or part2):
         logger.info("Generating AI daily summary with Gemini 2.5 Flash Lite...")
-        gemini = GeminiClient()
         daily_summary = gemini.generate_daily_summary(part1 + part2)
         if daily_summary:
             logger.info(f"  Summary generated ({len(daily_summary)} chars)")
@@ -845,19 +827,18 @@ def main():
             logger.warning("  Summary generation failed or returned empty")
 
     # Count papers with abstracts
-    all_selected = part1 + part2 + part3
+    all_selected = part1 + part2
     papers_with_abstract = sum(1 for p in all_selected if p.get('abstract'))
 
     print(f"\n{'='*70}")
     print(f"📋 Papers Selected: {total}")
     print(f"   Part 1 (Top-tier + topics): {len(part1)}")
     print(f"   Part 2 (High-impact + topics): {len(part2)}")
-    print(f"   Part 3 (Top-tier + fields): {len(part3)}")
     print(f"   Papers with abstracts: {papers_with_abstract}/{total}")
     print(f"{'='*70}\n")
 
     if total == 0:
-        print("No papers passed the three-tier filter.")
+        print("No papers passed the filter.")
         print(f"\nTotal fetched: {len(all_papers)}")
         print(f"Journals searched: {len(JOURNALS)}")
         print(f"Relevant fields: {', '.join(RELEVANT_FIELDS)}")
@@ -874,19 +855,12 @@ def main():
                 print(f"\n--- Paper {i}/{len(part2)} ---")
                 print(format_paper(paper))
 
-        if part3:
-            print("\n\n=== PART 3: TOP-TIER + FIELDS ONLY ===\n")
-            for i, paper in enumerate(part3, 1):
-                print(f"\n--- Paper {i}/{len(part3)} ---")
-                print(format_paper(paper))
-
     # Save to file (Jekyll format)
     # Get project directory (where harvest.py is located)
     project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     # Determine post category
     month_name = datetime.strptime(until_str, '%Y-%m-%d').strftime('%B')
-    month_num = datetime.strptime(until_str, '%Y-%m-%d').strftime('%m')
     year = until_str[:4]
 
     # Create Jekyll post path (nested folder structure: _pages/2025/january/)
@@ -1006,7 +980,7 @@ def main():
         f.write(f"**Topics:** {', '.join(TOPICS)}\n\n")
 
     print(f"\n\n📁 Jekyll post saved to: {post_file}")
-    print(f"🌐 Blog URL: https://hydrotian.github.io/hydrosense/{year}/{month_name.lower()}/{until_str}-daily-harvest.html")
+    print(f"🌐 Blog URL: https://hydrosense.simhydro.com/{year}/{month_name.lower()}/{until_str}-daily-harvest.html")
 
     # Increment backfill counter if in backfill mode
     if args.backfill and not args.no_increment:

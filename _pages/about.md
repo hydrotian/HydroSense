@@ -20,9 +20,9 @@ HydroSense integrates multiple APIs to provide comprehensive paper coverage:
 3. **OpenAlex** - Fallback source for abstract content
 4. **Gemini LLM** - Intelligent relevance filtering
 
-### Three-Tier Classification
+### Two-Tier Classification
 
-Papers are automatically classified into three tiers based on journal prestige and topic relevance:
+Papers are automatically classified into two tiers based on journal prestige and topic relevance:
 
 **Part 1: Highest Priority**
 - Top-tier journals (Nature, Science, GRL, Nature Water, etc.)
@@ -35,11 +35,6 @@ Papers are automatically classified into three tiers based on journal prestige a
 - Matches research topics
 - Peer-reviewed research articles only
 - Passes LLM relevance check
-
-**Part 3: Field Awareness**
-- Top-tier journals in relevant fields
-- Includes all content types (news, editorials, research)
-- Helps stay aware of broader developments
 
 ### Tracked Topics
 
@@ -111,7 +106,7 @@ This system is optimized for researchers working on:
 
 - **Harvesting:** Python 3.7+ with requests library
 - **APIs:** CrossRef, Semantic Scholar, OpenAlex, Gemini
-- **Website:** Jekyll with GitBook theme
+- **Website:** Jekyll with Just the Docs theme
 - **Search:** Full-text search including abstracts
 - **Hosting:** GitHub Pages
 
@@ -127,4 +122,4 @@ For questions or suggestions:
 
 ---
 
-*Last updated: February 2025*
+*Last updated: February 2026*

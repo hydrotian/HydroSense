@@ -1,6 +1,6 @@
 # HydroSense Blog Site
 
-This directory contains a Jekyll-based blog site that hosts daily and monthly paper harvest reports. The site uses the `jekyll-gitbook` theme for a clean, searchable, book-like interface.
+This directory contains a Jekyll-based blog site that hosts daily and monthly paper harvest reports. The site uses the `just-the-docs` theme with a custom light blue color scheme and automatic dark mode.
 
 ## Quick Start
 
@@ -13,21 +13,26 @@ bundle install
 # Serve locally (with live reload)
 bundle exec jekyll serve
 
-# Site available at: http://localhost:4000/hydrosense/
+# Site available at: http://localhost:4000/
 ```
 
 ### Adding New Posts
 
-Posts are organized by year and month in collection folders:
+Posts are organized by year and month in the `_pages` folder:
 
 ```
-_posts_2025/
-├── 01-January/
-│   ├── 2025-01-03-daily-harvest.md
-│   ├── 2025-01-04-daily-harvest.md
-│   └── 2025-01-31-monthly-summary.md
-└── 02-February/
-    └── 2025-02-01-daily-harvest.md
+_pages/
+├── 2025/
+│   ├── index.md              # Year landing page
+│   ├── january/
+│   │   ├── index.md          # Month landing page
+│   │   ├── 2025-01-03-daily-harvest.md
+│   │   └── 2025-01-31-monthly-summary.md
+│   └── february/
+│       ├── index.md
+│       └── ...
+└── 2026/
+    └── ...
 ```
 
 ## Post Templates
@@ -36,20 +41,22 @@ _posts_2025/
 
 ```yaml
 ---
-layout: post
-title: "Daily Harvest - January 3, 2025"
+layout: default
+title: "January 03 - Daily Harvest"
+parent: January
+grand_parent: 2025
+nav_order: 3
 date: 2025-01-03
 categories: [daily, 2025, january]
-tags: [hydrology, climate, water-resources]
-toc: true
+tags: [hydrology, paper-harvest, research]
 ---
 
 # Paper Harvest Report
 
 **Date Range:** 2025-01-03 to 2025-01-03
 
-## Summary
-[Statistics and overview]
+## Today's Highlights
+[AI-generated summary]
 
 ## Part 1: Top-Tier Journals + Topic Match
 [Papers...]
@@ -57,20 +64,22 @@ toc: true
 ## Part 2: High-Impact Journals + Topic Match
 [Papers...]
 
-## Part 3: Top-Tier Journals + Field Match
-[Papers...]
+## Statistics
+[Stats...]
 ```
 
 ### Monthly Summary
 
 ```yaml
 ---
-layout: post
-title: "Monthly Summary - January 2025"
+layout: default
+title: "January 31 - Monthly Summary"
+parent: January
+grand_parent: 2025
+nav_order: 31
 date: 2025-01-31
 categories: [monthly, 2025, january]
 tags: [summary, trends, hydrology]
-toc: true
 ---
 
 # Monthly Summary - January 2025
@@ -94,13 +103,12 @@ toc: true
 - `_pages/about.md` - About page
 - `Gemfile` - Ruby dependencies
 
-### Collections
+### Pages Structure
 
-Posts are organized into year-based collections:
-- `_posts_2025/` - 2025 reports
-- `_posts_2026/` - 2026 reports
-
-Each collection has month subdirectories (01-January, 02-February, etc.)
+Posts are organized in nested folders under `_pages/`:
+- `_pages/YYYY/index.md` - Year landing page
+- `_pages/YYYY/monthname/index.md` - Month landing page
+- `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md` - Daily reports
 
 ## Features
 
@@ -129,7 +137,7 @@ The site deploys automatically via GitHub Actions on push to main branch:
 
 1. Workflow defined in `.github/workflows/jekyll.yml`
 2. Builds Jekyll site
-3. Deploys to `https://hydrotian.github.io/hydrosense/`
+3. Deploys to `https://hydrosense.simhydro.com`
 
 ### Manual Deployment Trigger
 
@@ -139,17 +147,17 @@ The site deploys automatically via GitHub Actions on push to main branch:
 
 ## Theme Documentation
 
-This site uses the `jekyll-gitbook` theme:
-- GitHub: https://github.com/sighingnow/jekyll-gitbook
-- Demo: https://sighingnow.github.io/jekyll-gitbook/
+This site uses the `just-the-docs` theme:
+- GitHub: https://github.com/just-the-docs/just-the-docs
+- Docs: https://just-the-docs.com/
 
 ### Theme Features Used
 
-- Hierarchical sidebar navigation
-- Full-text search with gitbook-plugin-search-pro
-- Table of contents generation
+- Hierarchical sidebar navigation (parent/grand_parent/has_children)
+- Full-text search including abstracts
+- Custom color scheme (light blue)
+- Automatic dark mode via CSS media query
 - Clean, readable typography
-- Code syntax highlighting
 
 ## Troubleshooting
 
@@ -195,7 +203,7 @@ Create `_sass/custom.scss` to override theme styles.
 
 ### Sidebar Order
 
-Edit `ordered_collections` in `_config.yml` to change collection order.
+Use `nav_order` in front matter to control page order in the sidebar.
 
 ### Homepage Content
 
@@ -232,7 +240,7 @@ With many posts, builds can be slow. Optimize by:
 ### Front Matter
 
 Always include:
-- `layout: post`
+- `layout: default`
 - `title: "Descriptive Title"`
 - `date: YYYY-MM-DD`
 - `categories: [type, year, month]`
