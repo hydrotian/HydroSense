@@ -44,7 +44,7 @@ aux_links:
     - "https://simhydro.com"
 
 # Footer
-footer_content: "Powered by CrossRef, Semantic Scholar, OpenAlex, and Gemini LLM"
+footer_content: "Powered by CrossRef, Semantic Scholar, OpenAlex, and Claude"
 
 # Enable heading anchors
 heading_anchors: true
@@ -88,6 +88,7 @@ kramdown:
 
 # Exclude from processing
 exclude:
+  - data/
   - scripts/
   - requirements.txt
   - .env

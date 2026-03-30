@@ -33,7 +33,7 @@ Thank you for your interest in contributing to HydroSense! This document provide
 Before submitting a pull request:
 
 1. Test with a small date range (1-2 days)
-2. Verify all three tiers work correctly
+2. Verify both output formats (json, markdown) work correctly
 3. Check that output format is valid Markdown
 4. Ensure API rate limits are respected
 

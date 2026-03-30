@@ -1,36 +1,26 @@
 # HydroSense
 
-An intelligent paper harvesting tool for hydrology and water resources research. HydroSense automatically fetches, filters, and organizes recent publications from top-tier and high-impact journals, helping researchers stay current with the latest developments in their field.
+An intelligent paper harvesting tool for hydrology and water resources research. HydroSense automatically fetches, filters, and organizes recent publications, helping researchers stay current with the latest developments in their field.
 
 ## Features
 
-- **Two-Tier Priority System**: Automatically classifies papers by relevance and importance
-  - **Part 1**: Peer-reviewed articles from top-tier journals matching your research topics
-  - **Part 2**: Peer-reviewed articles from high-impact journals matching your topics
+- **Two-Mode Operation**:
+  - **Daily Harvest**: Papers from 11 top-tier journals, filtered by topic keywords and field classification
+  - **Weekly Review**: Keyword-based search across all academic databases, synthesized thematically
 
-- **LLM-Enhanced Filtering**:
-  - Gemini 2.5 Flash Lite for binary relevance classification
-  - AI-generated daily summaries highlighting key themes
+- **Claude-Enhanced Filtering**:
+  - LLM relevance evaluation via Claude scheduled triggers
+  - AI-generated daily summaries and weekly thematic synthesis
   - Reduces false positives from keyword-only matching
 
 - **Multi-Source Data Integration**:
-  - CrossRef API for comprehensive paper metadata
-  - Semantic Scholar for field classification and enhanced metadata
-  - OpenAlex as fallback for abstracts
+  - CrossRef API for journal-based paper metadata
+  - Semantic Scholar for field classification, abstracts, and keyword search
+  - OpenAlex for keyword search and fallback abstracts
 
-- **Smart Filtering**:
-  - Topic-based keyword matching
-  - Academic field classification
-  - Peer-review status verification
-  - Customizable journal lists
+- **Paper Registry**: Central DOI tracking across all runs for deduplication, importance scoring (papers found by multiple sources), and cross-referencing between daily and weekly outputs
 
-- **Rich Output**: Jekyll-compatible Markdown reports with:
-  - AI-generated daily highlights
-  - Paper abstracts
-  - Author information
-  - DOI links
-  - Classification metadata
-  - Journal distribution statistics
+- **Rich Output**: Jekyll-compatible Markdown reports with paper abstracts, DOI links, classification metadata, and journal statistics
 
 ## Installation
 
@@ -60,72 +50,40 @@ cp .env.example .env
 
 Required keys in `.env`:
 - `SEMANTIC_SCHOLAR_API_KEY`: Free at https://www.semanticscholar.org/product/api
-- `GEMINI_API_KEY`: Free at https://aistudio.google.com
 - `CROSSREF_EMAIL`: Optional, for faster CrossRef polite pool access
 
 ## Usage
 
-### Quick Start
+### Daily Harvest
 
 ```bash
-# Default: harvest papers from the last 30 days
-python scripts/harvest.py
+python scripts/harvest.py                              # Default: last 30 days, top-tier only
+python scripts/harvest.py --date 2026-01-15            # Specific date
+python scripts/harvest.py --journals all               # All 29 journals
+python scripts/harvest.py --output-format json         # JSON output for Claude triggers
+python scripts/harvest.py --backfill                   # Next backfill month
+```
 
-# Harvest a specific date
-python scripts/harvest.py --date 2026-01-15
+### Weekly Review
 
-# Backfill mode: harvest next date in sequence (starting from 2020-01-01)
-python scripts/harvest.py --backfill
-
-# Backfill without incrementing the counter (for testing)
-python scripts/harvest.py --backfill --no-increment
+```bash
+python scripts/weekly_review.py                        # Last 7 days, default topics
+python scripts/weekly_review.py --weeks-back 2         # Last 2 weeks
+python scripts/weekly_review.py --topics "flood,reservoir"  # Custom topics
 ```
 
 ### Output
 
-Reports are saved as Jekyll posts to `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md` and automatically appear on the blog site when pushed.
+- **Daily posts**: `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md`
+- **Weekly reviews**: `_pages/YYYY/monthname/YYYY-MM-DD-weekly-review.md`
 
-### Customization
-
-#### Modify Journal List
-
-Edit the `JOURNALS` list in `scripts/harvest.py`:
-```python
-JOURNALS = [
-    {"name": "Nature", "issn": "1476-4687", "category": "top-tier"},
-    {"name": "Water Resources Research", "issn": "1944-7973", "category": "High-impact"},
-    # Add your journals here
-]
-```
-
-#### Adjust Topic Keywords
-
-Modify the `TOPICS` list:
-```python
-TOPICS = ["hydrology", "flood", "drought", "climate", ...]
-```
-
-#### Change Relevant Fields
-
-Update `RELEVANT_FIELDS` for different research areas:
-```python
-RELEVANT_FIELDS = [
-    'engineering',
-    'environmental science',
-    'computer science',
-    'geology',
-    'geography'
-]
-```
+Reports automatically appear on the blog site when pushed.
 
 ## Rate Limits
 
-- **Semantic Scholar**: 1.5s delay (conservative for 1 req/sec limit)
+- **Semantic Scholar**: 1.5s delay (graph API), 3.0s delay (search API)
 - **CrossRef**: 0.1s delay
 - **OpenAlex**: 0.1s delay
-- **Gemini**: 4.0s delay (15 requests/minute limit)
-
-**Estimated runtime**: ~15-20 minutes for 600-700 papers
 
 ## Tracked Journals
 
@@ -137,69 +95,29 @@ RELEVANT_FIELDS = [
 - Reviews of Geophysics
 
 ### High-Impact (18 journals)
-Water Resources Research, Journal of Hydrology, Hydrology and Earth System Sciences, and more.
+Water Resources Research, Journal of Hydrology, Hydrology and Earth System Sciences, and more. See full list in `scripts/harvest.py`.
 
-See full list in `scripts/harvest.py`.
+## Blog Site
+
+Jekyll-based blog at [hydrosense.simhydro.com](https://hydrosense.simhydro.com) with full-text search, hierarchical navigation, and automatic dark mode.
+
+### Local Development
+```bash
+bundle install
+bundle exec jekyll serve   # http://localhost:4000/
+```
 
 ## Technical Details
 
 - **Language**: Python 3.7+
-- **External APIs**: CrossRef, Semantic Scholar, OpenAlex, Gemini
+- **External APIs**: CrossRef, Semantic Scholar, OpenAlex
+- **LLM**: Claude (via scheduled triggers)
 - **Output Format**: Jekyll-compatible Markdown
-- **Classification**: Two-tier priority system with peer-review filtering and LLM verification
-
-## Blog Site
-
-HydroSense includes a Jekyll-based blog site that hosts daily harvest reports with full-text search.
-
-**Live Site:** [https://hydrosense.simhydro.com](https://hydrosense.simhydro.com)
-
-### Features
-- Daily harvest reports organized by year and month
-- AI-generated daily highlights
-- Full-text search (authors, journals, titles, abstracts)
-- Hierarchical sidebar navigation (Year > Month > Daily reports)
-- Automatic dark mode support
-- Mobile responsive
-
-### Local Development
-```bash
-# Install Jekyll dependencies
-bundle install
-
-# Serve locally
-bundle exec jekyll serve
-
-# Visit: http://localhost:4000/
-```
-
-### Theme
-
-Uses the [Just the Docs](https://just-the-docs.com/) theme with custom light blue color scheme and automatic dark mode via CSS `prefers-color-scheme` media query.
-
-## Troubleshooting
-
-**429 Rate Limit Errors**
-- Increase `rate_limit_delay` in respective client classes
-- Semantic Scholar is most sensitive
-
-**No Papers Found**
-- Check date range (papers may not be indexed yet)
-- Verify journal ISSNs are correct
-- Ensure TOPICS match paper content
-
-**Missing Abstracts**
-- Normal for recent papers (can take weeks to index)
-- S2 coverage: ~75-85% typical
-- OpenAlex provides fallback coverage
+- **Theme**: [Just the Docs](https://just-the-docs.com/) with custom color scheme
 
 ## Contributing
 
-Contributions welcome! Please feel free to:
-- Add new journal sources
-- Improve filtering algorithms
-- Enhance output formats
-- Fix bugs
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
 
@@ -208,13 +126,9 @@ MIT License - see LICENSE file for details
 ## Acknowledgments
 
 - CrossRef API for comprehensive metadata
-- Semantic Scholar for field classification and recommendations
-- OpenAlex for abstract coverage
-- Google Gemini for LLM relevance filtering
-
-## Contact
-
-For questions or issues, please open an issue on GitHub.
+- Semantic Scholar for field classification and keyword search
+- OpenAlex for abstract coverage and keyword search
+- Claude for LLM relevance filtering and synthesis
 
 ---
 

@@ -11,30 +11,22 @@ HydroSense is an automated literature monitoring system designed specifically fo
 
 ## How It Works
 
+### Two-Mode Operation
+
+**Daily Harvest** scans 11 top-tier journals via CrossRef, enriches papers with Semantic Scholar and OpenAlex, and applies deterministic filters (keywords, field classification, peer-review status). Claude provides LLM relevance filtering and summary generation.
+
+**Weekly Literature Review** searches by keyword across Semantic Scholar and OpenAlex (no journal limits), deduplicates results, and Claude synthesizes findings into thematic reviews.
+
 ### Data Sources
 
-HydroSense integrates multiple APIs to provide comprehensive paper coverage:
+1. **CrossRef API** - Journal-based paper metadata (daily harvest)
+2. **Semantic Scholar** - Field classification, abstracts, and keyword search
+3. **OpenAlex** - Keyword search and fallback abstracts
+4. **Claude** - LLM relevance filtering and thematic synthesis
 
-1. **CrossRef API** - Primary source for publication metadata
-2. **Semantic Scholar** - Field classification and enhanced abstracts
-3. **OpenAlex** - Fallback source for abstract content
-4. **Gemini LLM** - Intelligent relevance filtering
+### Paper Registry
 
-### Two-Tier Classification
-
-Papers are automatically classified into two tiers based on journal prestige and topic relevance:
-
-**Part 1: Highest Priority**
-- Top-tier journals (Nature, Science, GRL, Nature Water, etc.)
-- Matches specific research topics
-- Peer-reviewed research articles only
-- Passes LLM relevance check
-
-**Part 2: Important Papers**
-- High-impact specialized journals (WRR, JoH, HESS, etc.)
-- Matches research topics
-- Peer-reviewed research articles only
-- Passes LLM relevance check
+A central registry tracks all DOIs across runs. Papers discovered by multiple pathways (daily + weekly, or multiple search topics) are flagged as "important" — a strong relevance signal.
 
 ### Tracked Topics
 
@@ -95,17 +87,11 @@ This system is optimized for researchers working on:
 - Hydrological Processes
 - Journal of the American Water Resources Association (JAWRA)
 
-## Coverage Statistics
-
-- **Daily Harvest:** ~600-700 papers scanned per day
-- **Selection Rate:** Typically 15-20% pass filters
-- **Abstract Coverage:** 75-85% (via Semantic Scholar + OpenAlex)
-- **Processing Time:** ~15-20 minutes per harvest (due to API rate limits)
-
 ## Technology Stack
 
 - **Harvesting:** Python 3.7+ with requests library
-- **APIs:** CrossRef, Semantic Scholar, OpenAlex, Gemini
+- **APIs:** CrossRef, Semantic Scholar, OpenAlex
+- **LLM:** Claude (via scheduled triggers)
 - **Website:** Jekyll with Just the Docs theme
 - **Search:** Full-text search including abstracts
 - **Hosting:** GitHub Pages
@@ -122,4 +108,4 @@ For questions or suggestions:
 
 ---
 
-*Last updated: February 2026*
+*Last updated: March 2026*
