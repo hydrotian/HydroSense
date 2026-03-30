@@ -1,1 +1,319 @@
-{"papers": {}, "runs": {}}
+{
+  "papers": {
+    "10.1029/2025WR040414": {
+      "title": "Physics-Informed, Differentiable Hydrologic Models for Capturing Unseen Extreme Events",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025ms005118": {
+      "title": "ClimaLand: A Land Surface Model Designed to Enable Data-Driven Parameterizations",
+      "journal": "JAMES",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-57-2026": {
+      "title": "NoahPy: a differentiable Noah land surface model for simulating permafrost thermo-hydrology",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-026-00583-3": {
+      "title": "Distilling hydrological and land-surface model parameters from physio-geographical properties using text-generating AI",
+      "journal": "Nature Water",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/1752-1688.70089": {
+      "title": "The NextGen Water Resources Modeling Framework",
+      "journal": "JAWRA",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-1727-2026": {
+      "title": "Advancing ecohydrological modelling: coupling LPJ-GUESS with ParFlow",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2026.135249": {
+      "title": "DeepDiscover: towards autonomous discovery of bucket-type conceptual models",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-371-2026": {
+      "title": "Probabilistic hierarchical interpolation and interpretable neural network configurations for flood prediction",
+      "journal": "HESS",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-825-2026": {
+      "title": "How well do hydrological models simulate streamflow extremes and drought-to-flood transitions?",
+      "journal": "HESS",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/nhess-26-571-2026": {
+      "title": "Large discrepancies between event- and response-based compound flood hazard estimates",
+      "journal": "NHESS",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-401-2026": {
+      "title": "Generating Boundary Conditions for Compound Flood Modeling in a Probabilistic Framework",
+      "journal": "HESS",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-459-2026": {
+      "title": "Evaluating the feasibility of scaling the FIER framework for large-scale flood inundation prediction",
+      "journal": "HESS",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/nhess-26-85-2026": {
+      "title": "Enabling real-time high-resolution flood forecasting for Berlin through multi-GPU accelerated modeling",
+      "journal": "NHESS",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024WR039807": {
+      "title": "A Novel Hybrid Predictive Model Based on Mixture Density Networks for Runoff Interval Prediction",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.eswa.2025.129974": {
+      "title": "A hybrid deep learning rainfall-runoff forecasting model",
+      "journal": "Expert Systems with Applications",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2025.134369": {
+      "title": "Enhancing runoff prediction with causal lag-aware attention and multi-scale fusion in transformer models",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envsoft.2025.106796": {
+      "title": "Interpretable deep learning hybrid streamflow prediction modeling",
+      "journal": "Environmental Modelling & Software",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-1463-2026": {
+      "title": "Future changes in seasonal drought in Australia",
+      "journal": "HESS",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025WR041987": {
+      "title": "A Century of Drought Research (1900-2023)",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024EF005714": {
+      "title": "Understanding the Dynamics of Record-Shattering Compound Drought-Heatwave Events",
+      "journal": "Earths Future",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-026-03213-8": {
+      "title": "Constraining climate model projections with observations amplifies future runoff declines",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025GL119131": {
+      "title": "Water Storage Changes of Lakes and Reservoirs Across Asia",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024WR039711": {
+      "title": "Integrating SWOT With Multi-Source Satellite Observations for Near-Daily Reservoir Water Level Monitoring",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1109/TSTE.2025.3584176": {
+      "title": "Integrated AI and Physics-Based Modeling for Long-Term Cascaded Hydropower Scheduling",
+      "journal": "IEEE Trans Sustainable Energy",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rser.2025.116364": {
+      "title": "Advancing climate change impact assessment on global hydropower systems",
+      "journal": "Renewable & Sustainable Energy Reviews",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-025-09928-6": {
+      "title": "Global subsidence of river deltas",
+      "journal": "Nature",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-23-2026": {
+      "title": "Swiss glacier mass loss during the 2022 drought: persistent streamflow contributions",
+      "journal": "HESS",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-025-00547-z": {
+      "title": "Controls on runoff processes in forested catchments worldwide",
+      "journal": "Nature Water",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025WR040280": {
+      "title": "Regionalization of Hydrologic Behavior and Pothole Water Storage Dynamics in the Prairie Pothole Region",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-27-2026": {
+      "title": "Increasing resolution and accuracy in sub-seasonal forecasting through 3D U-Net",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-03-30",
+      "sources": [
+        "weekly-2026-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    }
+  },
+  "runs": {
+    "daily-2026-03-22": {
+      "type": "daily",
+      "timestamp": "2026-03-30T13:55:19.579041",
+      "date": "2026-03-22",
+      "papers_found": 0
+    },
+    "weekly-2026-W12": {
+      "type": "weekly",
+      "timestamp": "2026-03-30T14:02:29.566432",
+      "date_from": "2026-03-16",
+      "date_to": "2026-03-23",
+      "papers_found": 30
+    }
+  }
+}
