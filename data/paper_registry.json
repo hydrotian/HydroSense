@@ -1,1 +1,11 @@
-{"papers": {}, "runs": {}}
+{
+  "papers": {},
+  "runs": {
+    "daily-2026-03-30": {
+      "type": "daily",
+      "timestamp": "2026-03-30T13:36:18.287298",
+      "date": "2026-03-30",
+      "papers_found": 0
+    }
+  }
+}
