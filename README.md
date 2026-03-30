@@ -6,7 +6,7 @@ An intelligent paper harvesting tool for hydrology and water resources research.
 
 - **Two-Mode Operation**:
   - **Daily Harvest**: Papers from 11 top-tier journals, filtered by topic keywords and field classification
-  - **Weekly Review**: Keyword-based search across all academic databases, synthesized thematically
+  - **Keyword Search**: Search across all academic databases by topic, used for weekly, monthly, and yearly reviews
 
 - **Claude-Enhanced Filtering**:
   - LLM relevance evaluation via Claude scheduled triggers
@@ -64,18 +64,22 @@ python scripts/harvest.py --output-format json         # JSON output for Claude 
 python scripts/harvest.py --backfill                   # Next backfill month
 ```
 
-### Weekly Review
+### Keyword Search (Weekly / Monthly / Yearly)
 
 ```bash
-python scripts/weekly_review.py                        # Last 7 days, default topics
-python scripts/weekly_review.py --weeks-back 2         # Last 2 weeks
-python scripts/weekly_review.py --topics "flood,reservoir"  # Custom topics
+python scripts/search.py                                    # Last 7 days, default topics
+python scripts/search.py --weeks-back 2                     # Last 2 weeks
+python scripts/search.py --from-date 2025-06-01 --to-date 2025-06-30  # Specific month
+python scripts/search.py --from-date 2001-01-01 --to-date 2001-12-31  # Specific year
+python scripts/search.py --topics "flood,reservoir"          # Custom topics
 ```
 
 ### Output
 
 - **Daily posts**: `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md`
 - **Weekly reviews**: `_pages/YYYY/monthname/YYYY-MM-DD-weekly-review.md`
+- **Monthly reviews**: `_pages/YYYY/monthname/YYYY-MM-monthly-review.md`
+- **Yearly reviews**: `_pages/YYYY/YYYY-yearly-review.md`
 
 Reports automatically appear on the blog site when pushed.
 

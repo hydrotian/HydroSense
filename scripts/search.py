@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
 """
-Weekly Literature Review Search for HydroSense
+Keyword-Based Literature Search for HydroSense
 
 Searches academic databases by keywords (not journal-specific) to find
 relevant papers across all venues. Outputs structured JSON for Claude
-to synthesize into a thematic weekly review.
+to synthesize into reviews at any frequency (weekly, monthly, yearly).
 
 Databases searched:
   - Semantic Scholar (Academic Graph API)
   - OpenAlex
 
 Usage:
-    python weekly_review.py                                   # Last 7 days, default topics
-    python weekly_review.py --weeks-back 2                    # Last 2 weeks
-    python weekly_review.py --topics "flood,reservoir,runoff"  # Custom topics
-    python weekly_review.py --output-format markdown          # Simple markdown list
+    python search.py                                          # Last 7 days, default topics
+    python search.py --weeks-back 2                           # Last 2 weeks
+    python search.py --from-date 2025-01-01 --to-date 2025-12-31  # Specific date range
+    python search.py --topics "flood,reservoir,runoff"        # Custom topics
+    python search.py --output-format markdown                 # Simple markdown list
 """
 
 import argparse
@@ -306,9 +307,13 @@ def clean_abstract(abstract: str) -> str:
 
 
 def main():
-    parser = argparse.ArgumentParser(description='HydroSense Weekly Literature Review Search')
-    parser.add_argument('--weeks-back', type=int, default=1,
-                        help='How many weeks back to search (default: 1)')
+    parser = argparse.ArgumentParser(description='HydroSense Keyword-Based Literature Search')
+    parser.add_argument('--weeks-back', type=int, default=None,
+                        help='How many weeks back to search (default: 1 if no --from-date)')
+    parser.add_argument('--from-date', type=str, default=None,
+                        help='Start date for search (YYYY-MM-DD). Overrides --weeks-back')
+    parser.add_argument('--to-date', type=str, default=None,
+                        help='End date for search (YYYY-MM-DD). Defaults to today')
     parser.add_argument('--topics', type=str, default=None,
                         help='Comma-separated topic keywords (default: built-in TOPICS list)')
     parser.add_argument('--output-format', choices=['json', 'markdown'], default='json',
@@ -325,13 +330,21 @@ def main():
 
     # Date range
     to_date = datetime.now()
-    from_date = to_date - timedelta(weeks=args.weeks_back)
+    if args.to_date:
+        to_date = datetime.strptime(args.to_date, '%Y-%m-%d')
+
+    if args.from_date:
+        from_date = datetime.strptime(args.from_date, '%Y-%m-%d')
+    else:
+        weeks_back = args.weeks_back if args.weeks_back is not None else 1
+        from_date = to_date - timedelta(weeks=weeks_back)
+
     from_str = from_date.strftime('%Y-%m-%d')
     to_str = to_date.strftime('%Y-%m-%d')
     year_from = from_date.year
     year_to = to_date.year
 
-    logger.info(f"Weekly Review Search: {from_str} to {to_str}")
+    logger.info(f"Literature Search: {from_str} to {to_str}")
     logger.info(f"Topics: {', '.join(topics)}")
     logger.info(f"Max per topic per DB: {args.max_per_topic}")
 
@@ -363,10 +376,8 @@ def main():
 
     # Output
     if args.output_format == 'json':
-        week_num = to_date.isocalendar()[1]
         result = {
-            'review_date': to_str,
-            'week_number': week_num,
+            'search_date': datetime.now().strftime('%Y-%m-%d'),
             'date_range': {'from': from_str, 'to': to_str},
             'topics_searched': topics,
             'total_before_dedup': len(all_papers),
@@ -391,7 +402,7 @@ def main():
         print(json.dumps(result, indent=2, ensure_ascii=False))
     else:
         # Simple markdown list
-        print(f"# Weekly Literature Review\n")
+        print(f"# Literature Search Results\n")
         print(f"**Date Range:** {from_str} to {to_str}")
         print(f"**Topics:** {', '.join(topics)}")
         print(f"**Papers Found:** {len(unique_papers)} (from {len(all_papers)} total)\n")

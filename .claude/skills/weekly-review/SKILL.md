@@ -14,7 +14,7 @@ Search academic databases by keywords, synthesize findings into a thematic revie
 
 ```bash
 cd /Users/zhou014/Local_Drive/Git_repo/HydroSense
-python scripts/weekly_review.py --weeks-back 1 --output-format json > /tmp/weekly_review_output.json 2> /tmp/weekly_review_log.txt
+python scripts/search.py --weeks-back 1 --output-format json > /tmp/weekly_review_output.json 2>/tmp/weekly_review_log.txt
 ```
 
 ### Step 2: Read and evaluate the results
