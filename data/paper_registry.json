@@ -299,6 +299,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2514066123": {
+      "title": "Unprecedented Amazonian rainforests damage during the 2023-2024 droughts",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-03-31",
+      "sources": [
+        "daily-2026-03-23"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-026-00616-x": {
+      "title": "Anthropogenic tritium as a continental-scale tracer in river-derived recharge",
+      "journal": "Nature Water",
+      "first_seen": "2026-03-31",
+      "sources": [
+        "daily-2026-03-23"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -314,6 +334,12 @@
       "date_from": "2026-03-16",
       "date_to": "2026-03-23",
       "papers_found": 30
+    },
+    "daily-2026-03-23": {
+      "type": "daily",
+      "timestamp": "2026-03-31T10:20:45.070201",
+      "date": "2026-03-23",
+      "papers_found": 2
     }
   }
 }
