@@ -319,6 +319,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2528407123": {
+      "title": "Depth of nutrient uptake by deep-rooted plants is regulated by water availability",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-04-01",
+      "sources": [
+        "daily-2026-03-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-70487-z": {
+      "title": "Gaps and ways forward in atmospheric blocking and extreme weather research",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-01",
+      "sources": [
+        "daily-2026-03-24"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -339,6 +359,12 @@
       "type": "daily",
       "timestamp": "2026-03-31T10:20:45.070201",
       "date": "2026-03-23",
+      "papers_found": 2
+    },
+    "daily-2026-03-24": {
+      "type": "daily",
+      "timestamp": "2026-04-01T10:14:17.209451",
+      "date": "2026-03-24",
       "papers_found": 2
     }
   }
