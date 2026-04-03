@@ -195,59 +195,53 @@ save_registry(reg)
 "
 ```
 
-### Step 7: Commit and create PR
+### Step 7: Commit and push to main
+
+Push directly to `main` — no branch, no PR.
 
 ```bash
 cd /Users/zhou014/Local_Drive/Git_repo/HydroSense
-HARVEST_DATE=YYYY-MM-DD
-git checkout -b daily-harvest/$HARVEST_DATE
 git add _pages/ data/paper_registry.json
-git commit -m "Daily harvest - $HARVEST_DATE"
-git push -u origin daily-harvest/$HARVEST_DATE
+git commit -m "Daily harvest - YYYY-MM-DD"
+git push origin main
 ```
 
-**Create the PR — you MUST get the PR created. Try each method in order until one succeeds:**
+If the push fails due to conflicts (e.g., another run pushed first), pull and retry:
 
-1. **GitHub MCP tools** (try first in cloud environment):
-   Use the GitHub MCP `create_pull_request` tool with:
-   - `owner`: "hydrotian"
-   - `repo`: "HydroSense"
-   - `title`: "Daily harvest - YYYY-MM-DD"
-   - `body`: "Automated daily paper harvest from top-tier journals."
-   - `head`: "daily-harvest/YYYY-MM-DD"
-   - `base`: "main"
+```bash
+git pull --rebase origin main
+git push origin main
+```
 
-2. **gh CLI** (try second):
-   ```bash
-   gh pr create --title "Daily harvest - YYYY-MM-DD" --body "Automated daily paper harvest from top-tier journals."
-   ```
+### Step 8: Post to X (Twitter)
 
-3. **Install gh and retry** (if gh is not found):
-   ```bash
-   # On Ubuntu/Debian (cloud environment):
-   curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
-   echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
-   sudo apt-get update && sudo apt-get install -y gh
-   ```
-   Then authenticate and create the PR:
-   ```bash
-   gh auth login --with-token <<< "$GITHUB_TOKEN"
-   gh pr create --title "Daily harvest - YYYY-MM-DD" --body "Automated daily paper harvest from top-tier journals."
-   ```
+After the push succeeds (so the website link is live), post a tweet summarizing the day's harvest. The tweet should:
 
-4. **GitHub API via curl** (last resort):
-   ```bash
-   curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
-     -H "Accept: application/vnd.github.v3+json" \
-     https://api.github.com/repos/hydrotian/HydroSense/pulls \
-     -d '{"title":"Daily harvest - YYYY-MM-DD","body":"Automated daily paper harvest from top-tier journals.","head":"daily-harvest/YYYY-MM-DD","base":"main"}'
-   ```
+- Start with the date and paper count
+- Highlight 1-2 key findings (keep it compelling)
+- End with the link to the post on the website
+- Stay under 280 characters
 
-**The PR is critical** — it triggers a push notification so the user can review and merge promptly. Failing to create PRs causes registry conflicts when multiple days pile up.
+**Tweet format:**
+
+```
+📄 Daily Harvest - Mon DD: N papers from [journal names]. [1-2 sentence highlight of most interesting finding].
+
+hydrosense.simhydro.com/YYYY/monthname/YYYY-MM-DD-daily-harvest
+```
+
+**Post the tweet:**
+
+```bash
+cd /Users/zhou014/Local_Drive/Git_repo/HydroSense
+python scripts/post_tweet.py "YOUR_TWEET_TEXT_HERE"
+```
+
+If the tweet fails (missing credentials, API error), log the error but do not fail the overall workflow — the push is more important.
 
 ## Important Notes
 
-- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not create a PR. Just skip this day entirely.**
+- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not push, do not tweet. Just skip this day entirely.**
 - Papers flagged as `important` in the registry (appeared in multiple sources) should be noted with "(Also featured in weekly review)" or similar.
 - Always check the harvest log (`/tmp/harvest_log.txt`) for errors before proceeding.
 - Default harvest date is 8 days ago because same-day papers often get S2 404s.

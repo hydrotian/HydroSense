@@ -194,51 +194,19 @@ cd /Users/zhou014/Local_Drive/Git_repo/HydroSense
 git checkout -b monthly-review/YYYY-MM
 git add _pages/ data/paper_registry.json
 git commit -m "Monthly literature review - YYYY-MM"
-git push -u origin monthly-review/YYYY-MM
+git push origin main
 ```
 
-**Create the PR — you MUST get the PR created. Try each method in order until one succeeds:**
+If the push fails due to conflicts, pull and retry:
 
-1. **GitHub MCP tools** (try first in cloud environment):
-   Use the GitHub MCP `create_pull_request` tool with:
-   - `owner`: "hydrotian"
-   - `repo`: "HydroSense"
-   - `title`: "Monthly literature review - MonthName YYYY"
-   - `body`: "Keyword-based literature review for MonthName YYYY."
-   - `head`: "monthly-review/YYYY-MM"
-   - `base`: "main"
-
-2. **gh CLI** (try second):
-   ```bash
-   gh pr create --title "Monthly literature review - MonthName YYYY" --body "Keyword-based literature review for MonthName YYYY."
-   ```
-
-3. **Install gh and retry** (if gh is not found):
-   ```bash
-   # On Ubuntu/Debian (cloud environment):
-   curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
-   echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
-   sudo apt-get update && sudo apt-get install -y gh
-   ```
-   Then authenticate and create the PR:
-   ```bash
-   gh auth login --with-token <<< "$GITHUB_TOKEN"
-   gh pr create --title "Monthly literature review - MonthName YYYY" --body "Keyword-based literature review for MonthName YYYY."
-   ```
-
-4. **GitHub API via curl** (last resort):
-   ```bash
-   curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
-     -H "Accept: application/vnd.github.v3+json" \
-     https://api.github.com/repos/hydrotian/HydroSense/pulls \
-     -d '{"title":"Monthly literature review - MonthName YYYY","body":"Keyword-based literature review for MonthName YYYY.","head":"monthly-review/YYYY-MM","base":"main"}'
-   ```
-
-**The PR is critical** — it triggers a push notification so the user can review and merge promptly. Failing to create PRs causes registry conflicts when multiple days pile up.
+```bash
+git pull --rebase origin main
+git push origin main
+```
 
 ## Important Notes
 
-- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not create a PR. Skip entirely.**
+- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not push. Skip entirely.**
 - Monthly reviews will have significantly more papers than weekly. Be more selective — focus on the most impactful and relevant work.
 - For historical months (pre-2025), citation counts are more meaningful as a quality signal.
 - If a month has very few relevant papers, note this and consider whether the search terms need adjustment.
