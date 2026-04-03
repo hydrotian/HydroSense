@@ -63,35 +63,112 @@ print(f'Cross-refs: {get_cross_references(reg, doi, \"monthly\")}')
 
 Group the relevant papers into 4-8 themes (more than weekly since there are more papers). Write deeper synthesis paragraphs for each theme. Identify the month's most significant contributions and emerging trends.
 
+Write a 2-3 paragraph executive summary of the month's highlights.
+
 ### Step 5: Generate the Jekyll post
 
-Create a markdown file at `_pages/YYYY/monthname/YYYY-MM-monthly-review.md`:
+Create a markdown file at `_pages/YYYY/monthname/YYYY-MM-monthly-review.md`.
 
-```yaml
+**You MUST follow this EXACT template. Do not deviate from this structure or formatting.**
+
+Replace placeholders in `{{...}}` with actual values. Use lowercase month name for directory and categories, title-case for `parent` and title.
+
+```markdown
 ---
 layout: default
-title: "MonthName YYYY - Monthly Review"
-parent: MonthName
-grand_parent: YYYY
+title: "{{MonthName}} {{YYYY}} - Monthly Review"
+parent: {{MonthName}}
+grand_parent: "{{YYYY}}"
 nav_order: 32
-date: YYYY-MM-01
-categories: [monthly, YYYY, monthname]
+date: {{YYYY-MM-01}}
+categories: [monthly, {{YYYY}}, {{monthname}}]
 tags: [hydrology, literature-review, research]
 ---
+
+# Monthly Literature Review
+{: .no_toc }
+
+**{{MonthName}} {{YYYY}}**
+{: .text-grey-dk-000 }
+
+**{{N_selected}}** relevant papers found across **{{N_themes}}** themes
+{: .fs-5 .fw-300 }
+
+## Executive Summary
+
+{{2-3 paragraph overview of the month's most significant developments and emerging trends}}
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## {{Theme 1 Title}}
+
+{{Synthesis paragraph(s) weaving together findings from papers in this theme.}}
+
+### {{Paper Title}}
+
+**Authors**: {{Author1, Author2, Author3 et al.}}
+
+**Journal**: *{{Journal Name}}* · **DOI**: [{{DOI}}](https://doi.org/{{DOI}}) · **Citations**: {{N}}
+
+**Matched topics**: {{topic1, topic2}}
+{: .label .label-green }
+
+> {{Abstract text or brief description.}}
+
+---
+
+{{...repeat ### paper block for each paper in this theme...}}
+
+## {{Theme 2 Title}}
+
+{{...repeat the theme section for each theme...}}
+
+---
+
+## Statistics
+
+| Metric | Count |
+|:-------|------:|
+| Databases searched | {{N}} |
+| Topics searched | {{N}} |
+| Total papers fetched | {{N}} |
+| After deduplication | {{N}} |
+| After LLM relevance filtering | {{N_selected}} |
+| Rejected (not relevant) | {{N_rejected}} |
+
+### Papers by journal
+
+| Journal | Papers |
+|:--------|-------:|
+| {{Journal Name}} | {{N}} |
+
+## Filtering Criteria
+
+**Topics**: {{comma-separated list of search topics}}
+
+**Databases**: Semantic Scholar, OpenAlex
 ```
 
-Use `nav_order: 32` so monthly reviews sort after all daily posts (which use day-of-month 1-31).
+**Critical formatting rules:**
+- The `# Monthly Literature Review` header MUST have `{: .no_toc }` on the next line
+- The month/year line MUST have `{: .text-grey-dk-000 }` on the next line
+- The paper count line MUST have `{: .fs-5 .fw-300 }` on the next line
+- The Table of Contents section MUST be included exactly as shown
+- Each paper's matched topics MUST have `{: .label .label-green }` on the next line
+- Abstracts MUST be in blockquotes (lines starting with `> `)
+- Theme sections and papers are separated by `---` horizontal rules
+- Author list: if more than 6 authors, show first 6 then "et al."
+- Tables use left-aligned text columns (`:-------`) and right-aligned number columns (`------:`)
 
-Post content structure:
-1. `# Monthly Literature Review` header with month and year
-2. Summary: "**X** relevant papers found across **Y** topics"
-3. `## Executive Summary` — the overall synthesis for the month
-4. `## Theme 1: [Theme Title]` (repeat for each theme)
-   - Synthesis paragraph(s)
-   - Key papers listed with title, authors, journal, DOI, citation count
-   - Cross-references to daily/weekly harvests where applicable
-5. `## Search Statistics` — databases searched, topics, dedup stats
-6. `## Important Papers` — papers flagged as important in registry
+Use `nav_order: 32` so monthly reviews sort after all daily posts (which use day-of-month 1-31).
 
 Create year/month index pages if they don't exist.
 
@@ -118,11 +195,50 @@ git checkout -b monthly-review/YYYY-MM
 git add _pages/ data/paper_registry.json
 git commit -m "Monthly literature review - YYYY-MM"
 git push -u origin monthly-review/YYYY-MM
-gh pr create --title "Monthly literature review - YYYY-MM" --body "Keyword-based literature review for MonthName YYYY."
 ```
+
+**Create the PR — you MUST get the PR created. Try each method in order until one succeeds:**
+
+1. **GitHub MCP tools** (try first in cloud environment):
+   Use the GitHub MCP `create_pull_request` tool with:
+   - `owner`: "hydrotian"
+   - `repo`: "HydroSense"
+   - `title`: "Monthly literature review - MonthName YYYY"
+   - `body`: "Keyword-based literature review for MonthName YYYY."
+   - `head`: "monthly-review/YYYY-MM"
+   - `base`: "main"
+
+2. **gh CLI** (try second):
+   ```bash
+   gh pr create --title "Monthly literature review - MonthName YYYY" --body "Keyword-based literature review for MonthName YYYY."
+   ```
+
+3. **Install gh and retry** (if gh is not found):
+   ```bash
+   # On Ubuntu/Debian (cloud environment):
+   curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+   echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+   sudo apt-get update && sudo apt-get install -y gh
+   ```
+   Then authenticate and create the PR:
+   ```bash
+   gh auth login --with-token <<< "$GITHUB_TOKEN"
+   gh pr create --title "Monthly literature review - MonthName YYYY" --body "Keyword-based literature review for MonthName YYYY."
+   ```
+
+4. **GitHub API via curl** (last resort):
+   ```bash
+   curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+     -H "Accept: application/vnd.github.v3+json" \
+     https://api.github.com/repos/hydrotian/HydroSense/pulls \
+     -d '{"title":"Monthly literature review - MonthName YYYY","body":"Keyword-based literature review for MonthName YYYY.","head":"monthly-review/YYYY-MM","base":"main"}'
+   ```
+
+**The PR is critical** — it triggers a push notification so the user can review and merge promptly. Failing to create PRs causes registry conflicts when multiple days pile up.
 
 ## Important Notes
 
+- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not create a PR. Skip entirely.**
 - Monthly reviews will have significantly more papers than weekly. Be more selective — focus on the most impactful and relevant work.
 - For historical months (pre-2025), citation counts are more meaningful as a quality signal.
 - If a month has very few relevant papers, note this and consider whether the search terms need adjustment.

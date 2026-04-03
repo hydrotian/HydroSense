@@ -67,31 +67,107 @@ Write a 2-3 paragraph executive summary of the year's most significant developme
 
 ### Step 5: Generate the Jekyll post
 
-Create a markdown file at `_pages/YYYY/YYYY-yearly-review.md`:
+Create a markdown file at `_pages/YYYY/YYYY-yearly-review.md`.
 
-```yaml
+**You MUST follow this EXACT template. Do not deviate from this structure or formatting.**
+
+Replace placeholders in `{{...}}` with actual values.
+
+```markdown
 ---
 layout: default
-title: "YYYY - Annual Literature Review"
-parent: YYYY
+title: "{{YYYY}} - Annual Literature Review"
+parent: "{{YYYY}}"
 nav_order: 0
-date: YYYY-12-31
-categories: [yearly, YYYY]
+date: {{YYYY}}-12-31
+categories: [yearly, {{YYYY}}]
 tags: [hydrology, literature-review, research, annual]
 ---
+
+# Annual Literature Review: {{YYYY}}
+{: .no_toc }
+
+**Year {{YYYY}}**
+{: .text-grey-dk-000 }
+
+**{{N_selected}}** significant papers identified across **{{N_themes}}** themes
+{: .fs-5 .fw-300 }
+
+## Executive Summary
+
+{{2-3 paragraph comprehensive synthesis of the year's most significant developments in hydrology and water resources}}
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## {{Theme 1 Title}}
+
+{{Multi-paragraph synthesis of the theme. Discuss major advances, methodological trends, significant results, and how papers relate to each other.}}
+
+### {{Paper Title}}
+
+**Authors**: {{Author1, Author2, Author3 et al.}}
+
+**Journal**: *{{Journal Name}}* · **DOI**: [{{DOI}}](https://doi.org/{{DOI}}) · **Citations**: {{N}}
+
+**Matched topics**: {{topic1, topic2}}
+{: .label .label-green }
+
+> {{Abstract text or brief description.}}
+
+---
+
+{{...repeat ### paper block for each paper in this theme...}}
+
+## {{Theme 2 Title}}
+
+{{...repeat the theme section for each theme...}}
+
+---
+
+## Year in Numbers
+
+| Metric | Count |
+|:-------|------:|
+| Databases searched | {{N}} |
+| Topics searched | {{N}} |
+| Total papers fetched | {{N}} |
+| After deduplication | {{N}} |
+| After LLM relevance filtering | {{N_selected}} |
+| Rejected (not relevant) | {{N_rejected}} |
+
+### Top journals
+
+| Journal | Papers |
+|:--------|-------:|
+| {{Journal Name}} | {{N}} |
+
+## Filtering Criteria
+
+**Topics**: {{comma-separated list of search topics}}
+
+**Databases**: Semantic Scholar, OpenAlex
 ```
 
-Use `nav_order: 0` so the yearly review appears at the top of the year's page, before any month.
+**Critical formatting rules:**
+- The `# Annual Literature Review` header MUST have `{: .no_toc }` on the next line
+- The year line MUST have `{: .text-grey-dk-000 }` on the next line
+- The paper count line MUST have `{: .fs-5 .fw-300 }` on the next line
+- The Table of Contents section MUST be included exactly as shown
+- Each paper's matched topics MUST have `{: .label .label-green }` on the next line
+- Abstracts MUST be in blockquotes (lines starting with `> `)
+- Theme sections and papers are separated by `---` horizontal rules
+- Author list: if more than 6 authors, show first 6 then "et al."
+- Tables use left-aligned text columns (`:-------`) and right-aligned number columns (`------:`)
 
-Post content structure:
-1. `# Annual Literature Review: YYYY` header
-2. Summary: "**X** significant papers identified across **Y** topics"
-3. `## Executive Summary` — comprehensive synthesis of the year
-4. `## Theme 1: [Theme Title]` (repeat for each theme)
-   - Multi-paragraph synthesis
-   - Key papers listed with title, authors, journal, DOI, citation count
-5. `## Year in Numbers` — statistics, top journals, top authors
-6. `## Search Statistics` — databases searched, topics, dedup stats
+Use `nav_order: 0` so the yearly review appears at the top of the year's page, before any month.
 
 Create year index page if it doesn't exist.
 
@@ -118,11 +194,50 @@ git checkout -b yearly-review/YYYY
 git add _pages/ data/paper_registry.json
 git commit -m "Annual literature review - YYYY"
 git push -u origin yearly-review/YYYY
-gh pr create --title "Annual literature review - YYYY" --body "Comprehensive keyword-based literature review for YYYY."
 ```
+
+**Create the PR — you MUST get the PR created. Try each method in order until one succeeds:**
+
+1. **GitHub MCP tools** (try first in cloud environment):
+   Use the GitHub MCP `create_pull_request` tool with:
+   - `owner`: "hydrotian"
+   - `repo`: "HydroSense"
+   - `title`: "Annual literature review - YYYY"
+   - `body`: "Comprehensive keyword-based literature review for YYYY."
+   - `head`: "yearly-review/YYYY"
+   - `base`: "main"
+
+2. **gh CLI** (try second):
+   ```bash
+   gh pr create --title "Annual literature review - YYYY" --body "Comprehensive keyword-based literature review for YYYY."
+   ```
+
+3. **Install gh and retry** (if gh is not found):
+   ```bash
+   # On Ubuntu/Debian (cloud environment):
+   curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+   echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+   sudo apt-get update && sudo apt-get install -y gh
+   ```
+   Then authenticate and create the PR:
+   ```bash
+   gh auth login --with-token <<< "$GITHUB_TOKEN"
+   gh pr create --title "Annual literature review - YYYY" --body "Comprehensive keyword-based literature review for YYYY."
+   ```
+
+4. **GitHub API via curl** (last resort):
+   ```bash
+   curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+     -H "Accept: application/vnd.github.v3+json" \
+     https://api.github.com/repos/hydrotian/HydroSense/pulls \
+     -d '{"title":"Annual literature review - YYYY","body":"Comprehensive keyword-based literature review for YYYY.","head":"yearly-review/YYYY","base":"main"}'
+   ```
+
+**The PR is critical** — it triggers a push notification so the user can review and merge promptly. Failing to create PRs causes registry conflicts when multiple days pile up.
 
 ## Important Notes
 
+- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not create a PR. Skip entirely.**
 - Yearly reviews for older years (pre-2020) will surface well-cited, established papers. Citation count is the strongest quality signal here.
 - S2 search uses year-level filtering natively, so it works well for full-year searches.
 - OpenAlex supports exact date ranges, so it will correctly filter to the target year.

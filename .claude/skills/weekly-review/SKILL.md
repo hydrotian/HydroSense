@@ -52,7 +52,7 @@ print(f'Cross-refs: {get_cross_references(reg, doi, \"weekly\")}')
 
 ### Step 4: Synthesize thematically
 
-Group the relevant papers into 3-6 themes. Do NOT write study-by-study summaries. Instead, synthesize across papers within each theme.
+Group the relevant papers into 3-6 themes. For each theme, write a synthesis paragraph that weaves together findings across papers — do NOT just summarize each paper individually.
 
 Example themes (adapt based on actual papers found):
 - Large-scale hydrologic modeling advances
@@ -62,42 +62,112 @@ Example themes (adapt based on actual papers found):
 - Flood and drought research
 - Remote sensing for water resources
 
-For each theme:
-- Identify the key findings and trends across papers
-- Note consensus and controversies
-- Highlight the most impactful papers (high citations, top journals)
-- Note methodological advances
-
-Write a 1-2 paragraph executive summary of the week's most significant developments.
+Write a 2-3 sentence executive summary of the week's most significant developments.
 
 ### Step 5: Generate the Jekyll post
 
-Create a markdown file at `_pages/YYYY/monthname/YYYY-MM-DD-weekly-review.md`:
+Create a markdown file at `_pages/YYYY/monthname/YYYY-MM-DD-weekly-review.md`.
 
-```yaml
+**You MUST follow this EXACT template. Do not deviate from this structure or formatting.**
+
+Replace placeholders in `{{...}}` with actual values. Use lowercase month name for directory and categories, title-case for `parent` and title.
+
+```markdown
 ---
 layout: default
-title: "Week NN - Literature Review"
-parent: MonthName
-grand_parent: YYYY
-nav_order: DD
-date: YYYY-MM-DD
-categories: [weekly, YYYY, monthname]
+title: "Week {{WW}} - Literature Review"
+parent: {{MonthName}}
+grand_parent: "{{YYYY}}"
+nav_order: {{DD}}
+date: {{YYYY-MM-DD}}
+categories: [weekly, {{YYYY}}, {{monthname}}]
 tags: [hydrology, literature-review, research]
 ---
+
+# Weekly Literature Review
+{: .no_toc }
+
+**Week {{WW}}** · {{MonthName}} {{start_day}}–{{end_day}}, {{YYYY}}
+{: .text-grey-dk-000 }
+
+**{{N_selected}}** relevant papers found across **{{N_themes}}** themes
+{: .fs-5 .fw-300 }
+
+## Executive Summary
+
+{{2-3 sentence overview of the week's most significant developments across all themes}}
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## {{Theme 1 Title}}
+
+{{Synthesis paragraph weaving together the findings from papers in this theme. Discuss what the papers collectively reveal, note methodological trends, and highlight the most significant results. Reference specific papers by first author name.}}
+
+### {{Paper Title}}
+
+**Authors**: {{Author1, Author2, Author3 et al.}}
+
+**Journal**: *{{Journal Name}}* · **DOI**: [{{DOI}}](https://doi.org/{{DOI}}) · **Citations**: {{N}}
+
+**Matched topics**: {{topic1, topic2}}
+{: .label .label-green }
+
+> {{Abstract text or brief description if abstract not available.}}
+
+---
+
+{{...repeat ### paper block for each paper in this theme...}}
+
+## {{Theme 2 Title}}
+
+{{...repeat the theme section (## through paper blocks) for each theme...}}
+
+---
+
+## Statistics
+
+| Metric | Count |
+|:-------|------:|
+| Databases searched | {{N}} |
+| Topics searched | {{N}} |
+| Total papers fetched | {{N}} |
+| After deduplication | {{N}} |
+| After LLM relevance filtering | {{N_selected}} |
+| Rejected (not relevant) | {{N_rejected}} |
+
+### Papers by journal
+
+| Journal | Papers |
+|:--------|-------:|
+| {{Journal Name}} | {{N}} |
+
+## Filtering Criteria
+
+**Topics**: {{comma-separated list of search topics}}
+
+**Databases**: Semantic Scholar, OpenAlex
 ```
 
-Post content structure:
-1. `# Weekly Literature Review` header with date range and week number
-2. Summary: "**X** relevant papers found across **Y** topics"
-3. `## Executive Summary` — the overall synthesis
-4. `## Theme 1: [Theme Title]` (repeat for each theme)
-   - Synthesis paragraph(s)
-   - Key papers listed with title, authors, journal, DOI, citation count
-   - Cross-references to daily harvests where applicable
-5. `## Papers by Topic Match` — table showing which topics each paper matched
-6. `## Search Statistics` — databases searched, topics, dedup stats
-7. `## Important Papers` — papers flagged as important in registry (appeared multiple times)
+**Critical formatting rules:**
+- The `# Weekly Literature Review` header MUST have `{: .no_toc }` on the next line
+- The week/date line MUST have `{: .text-grey-dk-000 }` on the next line
+- The paper count line MUST have `{: .fs-5 .fw-300 }` on the next line
+- The Table of Contents section MUST be included exactly as shown
+- Each paper's matched topics MUST have `{: .label .label-green }` on the next line
+- Abstracts MUST be in blockquotes (lines starting with `> `)
+- Theme sections (##) are separated by `---` horizontal rules
+- Papers within a theme are also separated by `---`
+- Author list: if more than 6 authors, show first 6 then "et al."
+- Tables use left-aligned text columns (`:-------`) and right-aligned number columns (`------:`)
+- Papers that also appeared in daily harvests should note "(Also featured in daily harvest on YYYY-MM-DD)" after the matched topics label
 
 Create year/month index pages if they don't exist (same as daily harvest).
 
@@ -126,11 +196,50 @@ git checkout -b weekly-review/YYYY-WNN
 git add _pages/ data/paper_registry.json
 git commit -m "Weekly literature review - YYYY-WNN"
 git push -u origin weekly-review/YYYY-WNN
-gh pr create --title "Weekly literature review - YYYY-WNN" --body "Automated weekly literature review across academic databases."
 ```
+
+**Create the PR — you MUST get the PR created. Try each method in order until one succeeds:**
+
+1. **GitHub MCP tools** (try first in cloud environment):
+   Use the GitHub MCP `create_pull_request` tool with:
+   - `owner`: "hydrotian"
+   - `repo`: "HydroSense"
+   - `title`: "Weekly literature review - YYYY-WNN"
+   - `body`: "Automated weekly literature review across academic databases."
+   - `head`: "weekly-review/YYYY-WNN"
+   - `base`: "main"
+
+2. **gh CLI** (try second):
+   ```bash
+   gh pr create --title "Weekly literature review - YYYY-WNN" --body "Automated weekly literature review across academic databases."
+   ```
+
+3. **Install gh and retry** (if gh is not found):
+   ```bash
+   # On Ubuntu/Debian (cloud environment):
+   curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+   echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+   sudo apt-get update && sudo apt-get install -y gh
+   ```
+   Then authenticate and create the PR:
+   ```bash
+   gh auth login --with-token <<< "$GITHUB_TOKEN"
+   gh pr create --title "Weekly literature review - YYYY-WNN" --body "Automated weekly literature review across academic databases."
+   ```
+
+4. **GitHub API via curl** (last resort):
+   ```bash
+   curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
+     -H "Accept: application/vnd.github.v3+json" \
+     https://api.github.com/repos/hydrotian/HydroSense/pulls \
+     -d '{"title":"Weekly literature review - YYYY-WNN","body":"Automated weekly literature review across academic databases.","head":"weekly-review/YYYY-WNN","base":"main"}'
+   ```
+
+**The PR is critical** — it triggers a push notification so the user can review and merge promptly. Failing to create PRs causes registry conflicts when multiple days pile up.
 
 ## Important Notes
 
+- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not create a PR. Skip entirely.**
 - The weekly review complements the daily harvest: daily covers top-tier journals specifically, weekly covers all venues by keyword.
 - Papers appearing in both are strong relevance signals — flag them prominently.
 - Sort themes by significance/impact, not alphabetically.
