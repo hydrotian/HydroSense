@@ -78,7 +78,7 @@ layout: default
 title: "Week {{WW}} - Literature Review"
 parent: {{MonthName}}
 grand_parent: "{{YYYY}}"
-nav_order: {{DD}}
+nav_order: {{32 + week_of_month}}
 date: {{YYYY-MM-DD}}
 categories: [weekly, {{YYYY}}, {{monthname}}]
 tags: [hydrology, literature-review, research]
@@ -168,6 +168,12 @@ tags: [hydrology, literature-review, research]
 - Author list: if more than 6 authors, show first 6 then "et al."
 - Tables use left-aligned text columns (`:-------`) and right-aligned number columns (`------:`)
 - Papers that also appeared in daily harvests should note "(Also featured in daily harvest on YYYY-MM-DD)" after the matched topics label
+
+**Nav order scheme** — so that sidebar groups daily and weekly posts separately:
+- Daily posts use `nav_order: DD` (day of month, 1-31)
+- Weekly posts use `nav_order: 32 + week_of_month` (33, 34, 35, etc.)
+- Monthly review uses `nav_order: 38`
+- `week_of_month` = 1 for the first weekly review in a month, 2 for the second, etc.
 
 Create year/month index pages if they don't exist (same as daily harvest).
 

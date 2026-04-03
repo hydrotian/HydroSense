@@ -79,7 +79,7 @@ layout: default
 title: "{{MonthName}} {{YYYY}} - Monthly Review"
 parent: {{MonthName}}
 grand_parent: "{{YYYY}}"
-nav_order: 32
+nav_order: 38
 date: {{YYYY-MM-01}}
 categories: [monthly, {{YYYY}}, {{monthname}}]
 tags: [hydrology, literature-review, research]
@@ -168,7 +168,7 @@ tags: [hydrology, literature-review, research]
 - Author list: if more than 6 authors, show first 6 then "et al."
 - Tables use left-aligned text columns (`:-------`) and right-aligned number columns (`------:`)
 
-Use `nav_order: 32` so monthly reviews sort after all daily posts (which use day-of-month 1-31).
+Use `nav_order: 38` so monthly reviews sort after daily posts (1-31) and weekly posts (33-37) in the sidebar.
 
 Create year/month index pages if they don't exist.
 

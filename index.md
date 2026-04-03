@@ -8,20 +8,39 @@ nav_order: 1
 
 Automated literature tracking for hydrology and water resources research.
 
-## Recent Reports
+## Recent Highlights
 
-Browse all reports using the sidebar navigation, organized by **Year → Month → Daily Reports**.
+### Daily Harvest
 
-**Recent Highlights:**
-
-{% assign all_posts = site.pages | where_exp: "page", "page.grand_parent != nil" | sort: "date" | reverse %}
-{% for post in all_posts limit:10 %}
-{% if post.title contains "Monthly Summary" %}
-- 📊 [{{ post.title }}]({{ post.url | relative_url }})
-{% else %}
+{% assign daily_posts = site.pages | where_exp: "page", "page.categories contains 'daily'" | sort: "date" | reverse %}
+{% for post in daily_posts limit:5 %}
 - [{{ post.title }}]({{ post.url | relative_url }})
-{% endif %}
 {% endfor %}
+
+### Weekly Literature Review
+
+{% assign weekly_posts = site.pages | where_exp: "page", "page.categories contains 'weekly'" | sort: "date" | reverse %}
+{% for post in weekly_posts limit:5 %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+
+{% assign monthly_posts = site.pages | where_exp: "page", "page.categories contains 'monthly'" | sort: "date" | reverse %}
+{% if monthly_posts.size > 0 %}
+### Monthly Review
+
+{% for post in monthly_posts limit:5 %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+{% endif %}
+
+{% assign yearly_posts = site.pages | where_exp: "page", "page.categories contains 'yearly'" | sort: "date" | reverse %}
+{% if yearly_posts.size > 0 %}
+### Annual Review
+
+{% for post in yearly_posts limit:5 %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+{% endif %}
 
 ## About
 

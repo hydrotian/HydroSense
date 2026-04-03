@@ -8,4 +8,25 @@ has_children: true
 
 # March 2026
 
-Papers and reviews from March 2026.
+## Daily Harvest
+
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily' and p.grand_parent == '2026' and p.parent == 'March'" | sort: "date" %}
+{% for post in daily %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+
+## Weekly Literature Review
+
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly' and p.grand_parent == '2026' and p.parent == 'March'" | sort: "date" %}
+{% for post in weekly %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+
+{% assign monthly = site.pages | where_exp: "p", "p.categories contains 'monthly' and p.grand_parent == '2026' and p.parent == 'March'" | sort: "date" %}
+{% if monthly.size > 0 %}
+## Monthly Review
+
+{% for post in monthly %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+{% endif %}
