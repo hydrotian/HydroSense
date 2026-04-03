@@ -15,20 +15,22 @@
       "journal": "JAMES",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/gmd-19-57-2026": {
       "title": "NoahPy: a differentiable Noah land surface model for simulating permafrost thermo-hydrology",
       "journal": "Geoscientific Model Development",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s44221-026-00583-3": {
       "title": "Distilling hydrological and land-surface model parameters from physio-geographical properties using text-generating AI",
@@ -55,10 +57,11 @@
       "journal": "Geoscientific Model Development",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2026.135249": {
       "title": "DeepDiscover: towards autonomous discovery of bucket-type conceptual models",
@@ -85,10 +88,11 @@
       "journal": "HESS",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/nhess-26-571-2026": {
       "title": "Large discrepancies between event- and response-based compound flood hazard estimates",
@@ -175,10 +179,11 @@
       "journal": "HESS",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2025WR041987": {
       "title": "A Century of Drought Research (1900-2023)",
@@ -225,10 +230,11 @@
       "journal": "Water Resources Research",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1109/TSTE.2025.3584176": {
       "title": "Integrated AI and Physics-Based Modeling for Long-Term Cascaded Hydropower Scheduling",
@@ -339,6 +345,146 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s44304-025-00152-w": {
+      "title": "Hydrological drought projections across Europe under climate change",
+      "journal": "npj Natural Hazards",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-671-2026": {
+      "title": "Mitigating drought-flood abrupt alternation in Lancang-Mekong",
+      "journal": "HESS",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/2752-5295/ae583c": {
+      "title": "Neglecting plant physiology: systematic overestimation of drought projections",
+      "journal": "Environmental Research Climate",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/hydrology13040100": {
+      "title": "The Future of Snowpack Drought in the Upper Colorado River Basin",
+      "journal": "Hydrology",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025MS005184": {
+      "title": "ML Calibration of Groundwater Table Depth in ELM",
+      "journal": "JAMES",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/tc-20-1119-2026": {
+      "title": "Enhancing Glaciers and Ice Sheets in ecLand",
+      "journal": "The Cryosphere",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2026.135387": {
+      "title": "Vegetation greening and reservoir construction as drivers of discharge trends in the Mediterranean",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-026-43532-6": {
+      "title": "Rolling predictive optimal scheduling of reservoirs",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-67-2026": {
+      "title": "Increased surface water evaporation loss from reservoir development on the Loess Plateau",
+      "journal": "HESS",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/rvr2.70045": {
+      "title": "Drought propagation under reservoir regulation in the Hanjiang River Basin",
+      "journal": "River",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2026.135366": {
+      "title": "Tracking rainfall contribution in a conceptual runoff model",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-1585-2026": {
+      "title": "Revealing the influence of topography and vegetation on hydrological processes in cold alpine basins",
+      "journal": "HESS",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs18070974": {
+      "title": "Dry-Wet Differentiation of the Yellow River Basin",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/eco.70157": {
+      "title": "Hydrological Response to Climate Change and Forest Management in Upper Kings River Basin",
+      "journal": "Ecohydrology",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "weekly-2026-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -366,6 +512,12 @@
       "timestamp": "2026-04-01T10:14:17.209451",
       "date": "2026-03-24",
       "papers_found": 2
+    },
+    "weekly-2026-W14": {
+      "type": "weekly",
+      "timestamp": "2026-04-03T19:29:24.938498",
+      "date": "2026-03-30",
+      "papers_found": 20
     }
   }
 }
