@@ -15,20 +15,22 @@
       "journal": "JAMES",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/gmd-19-57-2026": {
       "title": "NoahPy: a differentiable Noah land surface model for simulating permafrost thermo-hydrology",
       "journal": "Geoscientific Model Development",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s44221-026-00583-3": {
       "title": "Distilling hydrological and land-surface model parameters from physio-geographical properties using text-generating AI",
@@ -55,10 +57,11 @@
       "journal": "Geoscientific Model Development",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2026.135249": {
       "title": "DeepDiscover: towards autonomous discovery of bucket-type conceptual models",
@@ -85,10 +88,11 @@
       "journal": "HESS",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/nhess-26-571-2026": {
       "title": "Large discrepancies between event- and response-based compound flood hazard estimates",
@@ -175,10 +179,11 @@
       "journal": "HESS",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2025WR041987": {
       "title": "A Century of Drought Research (1900-2023)",
@@ -225,10 +230,11 @@
       "journal": "Water Resources Research",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1109/TSTE.2025.3584176": {
       "title": "Integrated AI and Physics-Based Modeling for Long-Term Cascaded Hydropower Scheduling",
