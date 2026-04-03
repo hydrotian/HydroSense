@@ -217,17 +217,25 @@ git push origin main
 
 After the push succeeds (so the website link is live), post a tweet summarizing the day's harvest. The tweet should:
 
-- Start with the date and paper count
-- Highlight 1-2 key findings (keep it compelling)
-- End with the link to the post on the website
-- Stay under 280 characters
+- Start with paper count ("N papers today.")
+- Highlight 1-2 key findings — make it compelling and specific
+- End with the link to the post (X auto-shortens URLs to 23 chars via t.co, so the full URL is fine)
+- Stay under 280 characters total
 
 **Tweet format:**
 
 ```
-📄 Daily Harvest - Mon DD: N papers from [journal names]. [1-2 sentence highlight of most interesting finding].
+N papers today. [1-2 sentence highlight of the most interesting findings, mentioning journal names in parentheses].
 
 hydrosense.simhydro.com/YYYY/monthname/YYYY-MM-DD-daily-harvest
+```
+
+**Example (March 25):**
+
+```
+7 papers today. Extreme climate outcomes possible even at 2°C warming (Nature). Only 13.4% of land meets WMO precipitation monitoring standards (Nature).
+
+hydrosense.simhydro.com/2026/march/2026-03-25-daily-harvest
 ```
 
 **Post the tweet:**
