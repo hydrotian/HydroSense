@@ -375,6 +375,76 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41586-026-10237-9": {
+      "title": "Moderate global warming does not rule out extreme global climate outcomes",
+      "journal": "Nature",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "daily-2026-03-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-026-10336-7": {
+      "title": "Decadal-scale droughts disrupted the African Humid Period in the Sahara",
+      "journal": "Nature",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "daily-2026-03-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-026-10300-5": {
+      "title": "Precipitation observing network gaps limit climate change impact assessment",
+      "journal": "Nature",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "daily-2026-03-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl121538": {
+      "title": "Fine-Scale Characterization of Groundwater Recharge Efficacy Under Ecological Water Replenishment",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "daily-2026-03-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120746": {
+      "title": "Climate-Driven Tree Mortality Alters the Timing and Magnitude of Forest Carbon Uptake in the Conterminous United States",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "daily-2026-03-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl119329": {
+      "title": "Projected Earlier Australian Summer Monsoon Onset Associated With Faster Eastward MJO Propagation",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "daily-2026-03-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-70646-2": {
+      "title": "ENSO phase transition enables prediction of winter North Atlantic Oscillation one year ahead",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-03",
+      "sources": [
+        "daily-2026-03-25"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -408,6 +478,12 @@
       "timestamp": "2026-04-03T10:22:30.278256",
       "date": "2026-03-26",
       "papers_found": 3
+    },
+    "daily-2026-03-25": {
+      "type": "daily",
+      "timestamp": "2026-04-03T21:50:16.917241",
+      "date": "2026-03-25",
+      "papers_found": 7
     }
   }
 }
