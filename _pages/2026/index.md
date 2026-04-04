@@ -7,7 +7,7 @@ has_children: true
 
 # 2026
 
-{% assign yearly = site.pages | where_exp: "p", "p.categories contains 'yearly' and p.parent == '2026'" | sort: "date" | reverse %}
+{% assign yearly = site.pages | where_exp: "p", "p.categories contains 'yearly'" | where_exp: "p", "p.parent == '2026'" | sort: "date" | reverse %}
 {% if yearly.size > 0 %}
 ## Annual Review
 
@@ -18,19 +18,19 @@ has_children: true
 
 ## Daily Harvest
 
-{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily' and p.grand_parent == '2026'" | sort: "date" | reverse %}
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily'" | where_exp: "p", "p.grand_parent == '2026'" | sort: "date" | reverse %}
 {% for post in daily limit:10 %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
 ## Weekly Literature Review
 
-{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly' and p.grand_parent == '2026'" | sort: "date" | reverse %}
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly'" | where_exp: "p", "p.grand_parent == '2026'" | sort: "date" | reverse %}
 {% for post in weekly limit:10 %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
-{% assign monthly = site.pages | where_exp: "p", "p.categories contains 'monthly' and p.grand_parent == '2026'" | sort: "date" | reverse %}
+{% assign monthly = site.pages | where_exp: "p", "p.categories contains 'monthly'" | where_exp: "p", "p.grand_parent == '2026'" | sort: "date" | reverse %}
 {% if monthly.size > 0 %}
 ## Monthly Review
 

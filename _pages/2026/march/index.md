@@ -10,19 +10,19 @@ has_children: true
 
 ## Daily Harvest
 
-{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily' and p.grand_parent == '2026' and p.parent == 'March'" | sort: "date" %}
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily'" | where_exp: "p", "p.grand_parent == '2026'" | where_exp: "p", "p.parent == 'March'" | sort: "date" %}
 {% for post in daily %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
 ## Weekly Literature Review
 
-{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly' and p.grand_parent == '2026' and p.parent == 'March'" | sort: "date" %}
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly'" | where_exp: "p", "p.grand_parent == '2026'" | where_exp: "p", "p.parent == 'March'" | sort: "date" %}
 {% for post in weekly %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
-{% assign monthly = site.pages | where_exp: "p", "p.categories contains 'monthly' and p.grand_parent == '2026' and p.parent == 'March'" | sort: "date" %}
+{% assign monthly = site.pages | where_exp: "p", "p.categories contains 'monthly'" | where_exp: "p", "p.grand_parent == '2026'" | where_exp: "p", "p.parent == 'March'" | sort: "date" %}
 {% if monthly.size > 0 %}
 ## Monthly Review
 
