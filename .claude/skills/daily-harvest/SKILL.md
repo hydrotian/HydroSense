@@ -94,7 +94,7 @@ Replace placeholders in `{{...}}` with actual values. Repeat the paper block for
 layout: default
 title: "{{MonthName}} {{DD}} - Daily Harvest"
 parent: {{MonthName}}
-grand_parent: {{YYYY}}
+grand_parent: "{{YYYY}}"
 nav_order: {{DD}}
 date: {{YYYY-MM-DD}}
 categories: [daily, {{YYYY}}, {{monthname}}]
