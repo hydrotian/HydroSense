@@ -2,7 +2,7 @@
 layout: default
 title: "March 25 - Daily Harvest"
 parent: March
-grand_parent: 2026
+grand_parent: "2026"
 nav_order: 25
 date: 2026-03-25
 categories: [daily, 2026, march]
