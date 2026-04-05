@@ -455,6 +455,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl120021": {
+      "title": "Rapid Land Surface Uplift and Groundwater Recovery Observed During the Syrian War",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-05",
+      "sources": [
+        "daily-2026-03-28"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -499,6 +509,12 @@
       "type": "daily",
       "timestamp": "2026-04-04T17:44:06.861852",
       "date": "2026-03-27",
+      "papers_found": 1
+    },
+    "daily-2026-03-28": {
+      "type": "daily",
+      "timestamp": "2026-04-05T10:08:58.896109",
+      "date": "2026-03-28",
       "papers_found": 1
     }
   }
