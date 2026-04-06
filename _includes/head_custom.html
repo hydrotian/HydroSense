@@ -1,6 +1,10 @@
 {% if page.lang_link %}<meta name="lang-link" content="{{ page.lang_link | relative_url }}">{% endif %}
 {% if page.lang %}<meta name="page-lang" content="{{ page.lang }}">{% endif %}
 <style>
+.aux-nav .aux-nav-list {
+  display: flex;
+  align-items: center;
+}
 .lang-toggle {
   display: inline-block;
   margin-right: 12px;
@@ -12,7 +16,6 @@
   color: #5b9bd5;
   text-decoration: none;
   transition: all 0.15s ease;
-  vertical-align: middle;
 }
 .lang-toggle:hover {
   background-color: #5b9bd5;
