@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 HydroSense is an intelligent paper harvesting tool for hydrology and water resources research. It has two complementary search modes at multiple frequencies:
 
 - **Daily harvest** (`harvest.py`): Fetches papers from 11 top-tier journals via CrossRef, enriches with Semantic Scholar + OpenAlex, and applies deterministic filters. Claude provides LLM relevance filtering and summary generation via scheduled triggers.
-- **Keyword search** (`search.py`): Searches across Semantic Scholar and OpenAlex by topic keywords (no journal limits). Used for weekly, monthly, and yearly reviews. Claude synthesizes results thematically.
+- **Keyword search** (`search.py`): Searches across Semantic Scholar and OpenAlex by topic keywords (no journal limits). Used for weekly reviews. Claude synthesizes results thematically.
 
 Output is published as a Jekyll blog at [hydrosense.simhydro.com](https://hydrosense.simhydro.com).
 
@@ -66,7 +66,7 @@ There is no automated test suite. Validate changes by running scripts with `--da
 - `output_json()` / `output_markdown()`: Two output paths
 - Flags: `--journals {top-tier,high-impact,all}`, `--output-format {markdown,json}`, `--backfill`
 
-**`scripts/search.py`** — Keyword-based literature search (used by weekly, monthly, and yearly reviews).
+**`scripts/search.py`** — Keyword-based literature search (used by weekly reviews).
 
 - `SemanticScholarSearch`: Keyword search via S2 Academic Graph API
 - `OpenAlexSearch`: Keyword search via OpenAlex API
@@ -84,14 +84,12 @@ There is no automated test suite. Validate changes by running scripts with `--da
 
 ### Paper Registry (`data/paper_registry.json`)
 
-Tracks all DOIs across all runs (daily, weekly, monthly, yearly). Papers appearing in multiple sources are flagged as "important". The registry also records run history for coverage tracking.
+Tracks all DOIs across all runs (daily, weekly). Papers appearing in multiple sources are flagged as "important". The registry also records run history for coverage tracking.
 
 ### Claude Skills
 
-- **`.claude/skills/daily-harvest/`**: Daily journal-based harvest, LLM filtering, Jekyll post, PR
-- **`.claude/skills/weekly-review/`**: Weekly keyword search, thematic synthesis, Jekyll post, PR
-- **`.claude/skills/monthly-review/`**: Monthly keyword search for a specific month, deeper synthesis, Jekyll post, PR
-- **`.claude/skills/yearly-review/`**: Yearly keyword search for a specific year, comprehensive survey, Jekyll post, PR
+- **`.claude/skills/daily-harvest/`**: Daily journal-based harvest, LLM filtering, Jekyll post, push to main, tweet
+- **`.claude/skills/weekly-review/`**: Weekly keyword search, thematic synthesis, Jekyll post, push to main
 
 ### Two-Tier Classification (harvest.py)
 
@@ -132,20 +130,18 @@ Critical for API compliance — violating these causes 429 errors:
 
 - **Daily posts**: `_pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md`
 - **Weekly reviews**: `_pages/YYYY/monthname/YYYY-MM-DD-weekly-review.md`
-- **Monthly reviews**: `_pages/YYYY/monthname/YYYY-MM-monthly-review.md`
-- **Yearly reviews**: `_pages/YYYY/YYYY-yearly-review.md`
 
 Scripts auto-create year index (`_pages/YYYY/index.md`) and month index pages as needed, with correct Just the Docs front matter.
 
 ## Running Reviews Manually
 
-To run any review manually, use the corresponding skill command. Claude will execute the full workflow: run the search script, filter for relevance, check the registry, synthesize findings, generate the Jekyll post, register papers, and create a PR.
+Use the corresponding skill command. Claude runs the full workflow: search, filter, synthesize, generate Jekyll post, register papers, push to main (and tweet for daily).
 
 ### Daily Harvest
 ```
 /daily-harvest
 ```
-Harvests today's papers from the 11 top-tier journals. To harvest a specific date, tell Claude: "Run daily harvest for 2026-03-15".
+Harvests papers from 11 top-tier journals (default: 8 days ago). To harvest a specific date: "Run daily harvest for 2026-03-15".
 
 ### Weekly Review
 ```
@@ -153,33 +149,14 @@ Harvests today's papers from the 11 top-tier journals. To harvest a specific dat
 ```
 Searches the past 7 days by keyword across all databases.
 
-### Monthly Review
-```
-/monthly-review
-```
-Claude will ask which month. Specify like: "Run monthly review for January 2025" or "Run monthly review for 2024-06".
-
-### Yearly Review
-```
-/yearly-review
-```
-Claude will ask which year. Specify like: "Run yearly review for 2001". Good for backfilling historical coverage. Run in reverse chronological order (2025, 2024, ... 2001) to build up the registry progressively.
-
 ### Manual Script Execution (without skills)
 
-If you want to run the search script directly and handle the post yourself:
 ```bash
-# Weekly (last 7 days)
-python scripts/search.py --weeks-back 1 --output-format json > /tmp/search_output.json
-
-# Specific month
-python scripts/search.py --from-date 2025-06-01 --to-date 2025-06-30 --output-format json > /tmp/search_output.json
-
-# Specific year (use higher max-per-topic for broader coverage)
-python scripts/search.py --from-date 2001-01-01 --to-date 2001-12-31 --max-per-topic 100 --output-format json > /tmp/search_output.json
-
 # Daily harvest
 python scripts/harvest.py --date 2026-03-15 --journals top-tier --output-format json > /tmp/harvest_output.json
+
+# Weekly (last 7 days)
+python scripts/search.py --weeks-back 1 --output-format json > /tmp/search_output.json
 ```
 
 Then ask Claude to read the JSON output, filter, synthesize, and generate the post.
@@ -206,7 +183,7 @@ Increase `rate_limit_delay` in the affected client class. Semantic Scholar is mo
 - **S2 404s are normal**: Recent papers may not be indexed yet.
 - **Backfill counter**: Stored in `scripts/.backfill_counter` (gitignored). Delete to reset.
 - **JATS XML cleanup**: Abstracts are cleaned of JATS XML tags via regex in both scripts.
-- **Branch protection**: `main` requires PRs. Automated runs create feature branches and PRs via `gh`.
+- **Direct push**: Automated runs push directly to `main` (branch protection bypassed for the bot user).
 
 ## Blog Site (GitHub Pages)
 
