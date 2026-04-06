@@ -83,6 +83,8 @@ nav_order: 38
 date: {{YYYY-MM-01}}
 categories: [monthly, {{YYYY}}, {{monthname}}]
 tags: [hydrology, literature-review, research]
+paper_count: {{N_selected}}
+highlight: "{{One sentence tweet-style summary of the month's most notable finding}}"
 ---
 
 # Monthly Literature Review

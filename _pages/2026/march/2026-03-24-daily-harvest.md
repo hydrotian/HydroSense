@@ -7,6 +7,8 @@ nav_order: 24
 date: 2026-03-24
 categories: [daily, 2026, march]
 tags: [hydrology, paper-harvest, research]
+paper_count: 2
+highlight: "Deep-rooted plants shift water acquisition to deeper saprolite during drought, with implications for bedrock weathering."
 ---
 
 # Paper Harvest Report

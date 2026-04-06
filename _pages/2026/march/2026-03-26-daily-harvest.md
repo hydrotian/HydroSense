@@ -7,6 +7,8 @@ nav_order: 26
 date: 2026-03-26
 categories: [daily, 2026, march]
 tags: [hydrology, paper-harvest, research]
+paper_count: 3
+highlight: "SWOT satellite detected a dispersive tsunami from the 2025 Kamchatka earthquake."
 ---
 
 # Paper Harvest Report

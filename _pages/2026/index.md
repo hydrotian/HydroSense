@@ -12,7 +12,7 @@ has_children: true
 ## Annual Review
 
 {% for post in yearly %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+- **[{{ post.title }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
 {% endfor %}
 {% endif %}
 
@@ -20,14 +20,14 @@ has_children: true
 
 {% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily'" | where_exp: "p", "p.grand_parent == '2026'" | sort: "date" | reverse %}
 {% for post in daily limit:10 %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+- **[{{ post.date | date: "%b %-d" }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
 {% endfor %}
 
 ## Weekly Literature Review
 
 {% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly'" | where_exp: "p", "p.grand_parent == '2026'" | sort: "date" | reverse %}
 {% for post in weekly limit:10 %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+- **[{{ post.title }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
 {% endfor %}
 
 {% assign monthly = site.pages | where_exp: "p", "p.categories contains 'monthly'" | where_exp: "p", "p.grand_parent == '2026'" | sort: "date" | reverse %}
@@ -35,6 +35,6 @@ has_children: true
 ## Monthly Review
 
 {% for post in monthly %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+- **[{{ post.title }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
 {% endfor %}
 {% endif %}

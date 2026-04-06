@@ -7,6 +7,8 @@ nav_order: 28
 date: 2026-03-28
 categories: [daily, 2026, march]
 tags: [hydrology, paper-harvest, research]
+paper_count: 1
+highlight: "Syrian War created a natural experiment revealing groundwater recovery, with land uplift up to 4 cm/year via InSAR."
 ---
 
 # Paper Harvest Report

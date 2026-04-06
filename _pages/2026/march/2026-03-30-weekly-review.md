@@ -7,6 +7,8 @@ nav_order: 34
 date: 2026-03-30
 categories: [weekly, 2026, march]
 tags: [hydrology, literature-review, research]
+paper_count: 20
+highlight: "Neglecting plant CO2 responses leads to systematic overestimation of future drought severity."
 ---
 
 # Weekly Literature Review

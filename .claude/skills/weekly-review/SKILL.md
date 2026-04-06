@@ -82,6 +82,8 @@ nav_order: {{32 + week_of_month}}
 date: {{YYYY-MM-DD}}
 categories: [weekly, {{YYYY}}, {{monthname}}]
 tags: [hydrology, literature-review, research]
+paper_count: {{N_selected}}
+highlight: "{{One sentence tweet-style summary of the week's most notable finding}}"
 ---
 
 # Weekly Literature Review

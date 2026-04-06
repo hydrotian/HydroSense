@@ -99,6 +99,8 @@ nav_order: {{DD}}
 date: {{YYYY-MM-DD}}
 categories: [daily, {{YYYY}}, {{monthname}}]
 tags: [hydrology, paper-harvest, research]
+paper_count: {{N_selected}}
+highlight: "{{One sentence tweet-style summary of the most notable finding}}"
 ---
 
 # Paper Harvest Report

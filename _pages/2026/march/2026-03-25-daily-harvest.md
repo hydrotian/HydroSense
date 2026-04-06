@@ -7,6 +7,8 @@ nav_order: 25
 date: 2026-03-25
 categories: [daily, 2026, march]
 tags: [hydrology, paper-harvest, research]
+paper_count: 7
+highlight: "Extreme climate outcomes possible even at 2C warming (Nature). Only 13.4% of land meets WMO precipitation standards."
 ---
 
 # Paper Harvest Report

@@ -7,6 +7,8 @@ nav_order: 33
 date: 2026-03-23
 categories: [weekly, 2026, march]
 tags: [hydrology, literature-review, research]
+paper_count: 30
+highlight: "Differentiable hydrologic modeling advances and the unveiling of the NextGen Water Resources Modeling Framework."
 ---
 
 # Weekly Literature Review

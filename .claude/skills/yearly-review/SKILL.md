@@ -82,6 +82,8 @@ nav_order: 0
 date: {{YYYY}}-12-31
 categories: [yearly, {{YYYY}}]
 tags: [hydrology, literature-review, research, annual]
+paper_count: {{N_selected}}
+highlight: "{{One sentence tweet-style summary of the year's most notable finding}}"
 ---
 
 # Annual Literature Review: {{YYYY}}

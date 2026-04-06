@@ -7,6 +7,8 @@ nav_order: 27
 date: 2026-03-27
 categories: [daily, 2026, march]
 tags: [hydrology, paper-harvest, research]
+paper_count: 1
+highlight: "Solar-powered electrified irrigation can achieve 85% emission reductions at marginal additional cost."
 ---
 
 # Paper Harvest Report

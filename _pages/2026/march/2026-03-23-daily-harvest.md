@@ -7,6 +7,8 @@ nav_order: 23
 date: 2026-03-23
 categories: [daily, 2026, march]
 tags: [hydrology, paper-harvest, research]
+paper_count: 2
+highlight: "Unprecedented Amazonian rainforest damage from 2023-2024 droughts revealed by three decades of radar satellite data."
 ---
 
 # Paper Harvest Report
