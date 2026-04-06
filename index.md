@@ -2,6 +2,8 @@
 layout: default
 title: Home
 nav_order: 1
+lang: en
+lang_link: /zh/
 ---
 
 # HydroSense - Intelligent Paper Harvesting

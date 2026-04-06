@@ -1,0 +1,57 @@
+{% if page.lang_link %}<meta name="lang-link" content="{{ page.lang_link | relative_url }}">{% endif %}
+{% if page.lang %}<meta name="page-lang" content="{{ page.lang }}">{% endif %}
+<style>
+.lang-toggle {
+  display: inline-block;
+  margin-right: 12px;
+  padding: 2px 10px;
+  border: 1px solid #5b9bd5;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #5b9bd5;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  vertical-align: middle;
+}
+.lang-toggle:hover {
+  background-color: #5b9bd5;
+  color: #fff;
+  text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+  .lang-toggle {
+    border-color: #64b5f6;
+    color: #64b5f6;
+  }
+  .lang-toggle:hover {
+    background-color: #64b5f6;
+    color: #1c1c1e;
+  }
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var langLink = document.querySelector('meta[name="lang-link"]');
+  if (!langLink) return;
+  var href = langLink.getAttribute('content');
+  if (!href) return;
+
+  var currentLang = document.querySelector('meta[name="page-lang"]');
+  var lang = currentLang ? currentLang.getAttribute('content') : 'en';
+  var label = lang === 'zh' ? 'English' : '\u4E2D\u6587';
+
+  var toggle = document.createElement('a');
+  toggle.className = 'lang-toggle';
+  toggle.href = href;
+  toggle.textContent = label;
+
+  var auxNav = document.querySelector('.aux-nav .aux-nav-list');
+  if (auxNav) {
+    var li = document.createElement('li');
+    li.className = 'aux-nav-list-item';
+    li.appendChild(toggle);
+    auxNav.insertBefore(li, auxNav.firstChild);
+  }
+});
+</script>
