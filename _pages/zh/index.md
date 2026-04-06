@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "首页"
+permalink: /zh/
 nav_exclude: true
 lang: zh
 lang_link: /
