@@ -177,10 +177,91 @@ highlight: "{{One sentence tweet-style summary of the most notable finding}}"
 - Author list: if more than 6 authors, show first 6 then "et al."
 - Tables use left-aligned text columns (`:-------`) and right-aligned number columns (`------:`)
 
-Create year index (`_pages/YYYY/index.md`) and month index (`_pages/YYYY/monthname/index.md`) if they don't exist. Use:
-- Year nav_order: `year - 2023`
-- Month nav_order: month number (1-12)
-- Both need `has_children: true`
+Create year index (`_pages/YYYY/index.md`) and month index (`_pages/YYYY/monthname/index.md`) if they don't exist.
+
+**Year index template** (`_pages/YYYY/index.md`):
+```markdown
+---
+layout: default
+title: "YYYY"
+nav_order: {{year - 2023}}
+has_children: true
+---
+
+# YYYY
+
+{% assign yearly = site.pages | where_exp: "p", "p.categories contains 'yearly'" | where_exp: "p", "p.parent == 'YYYY'" | sort: "date" | reverse %}
+{% if yearly.size > 0 %}
+## Annual Review
+
+{% for post in yearly %}
+- **[{{ post.title }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+{% endif %}
+
+## Daily Harvest
+
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily'" | where_exp: "p", "p.grand_parent == 'YYYY'" | sort: "date" | reverse %}
+{% for post in daily limit:10 %}
+- **[{{ post.date | date: "%b %-d" }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+
+## Weekly Literature Review
+
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly'" | where_exp: "p", "p.grand_parent == 'YYYY'" | sort: "date" | reverse %}
+{% for post in weekly limit:10 %}
+- **[{{ post.title }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+
+{% assign monthly = site.pages | where_exp: "p", "p.categories contains 'monthly'" | where_exp: "p", "p.grand_parent == 'YYYY'" | sort: "date" | reverse %}
+{% if monthly.size > 0 %}
+## Monthly Review
+
+{% for post in monthly %}
+- **[{{ post.title }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+{% endif %}
+```
+
+**Month index template** (`_pages/YYYY/monthname/index.md`):
+```markdown
+---
+layout: default
+title: {{MonthName}}
+parent: "YYYY"
+nav_order: {{month_number}}
+has_children: true
+---
+
+# {{MonthName}} YYYY
+
+## Daily Harvest
+
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily'" | where_exp: "p", "p.grand_parent == 'YYYY'" | where_exp: "p", "p.parent == 'MonthName'" | sort: "date" | reverse %}
+{% for post in daily %}
+- **[{{ post.date | date: "%b %-d" }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+
+## Weekly Literature Review
+
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly'" | where_exp: "p", "p.grand_parent == 'YYYY'" | where_exp: "p", "p.parent == 'MonthName'" | sort: "date" | reverse %}
+{% for post in weekly %}
+- **[{{ post.title }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+
+{% assign monthly = site.pages | where_exp: "p", "p.categories contains 'monthly'" | where_exp: "p", "p.grand_parent == 'YYYY'" | where_exp: "p", "p.parent == 'MonthName'" | sort: "date" | reverse %}
+{% if monthly.size > 0 %}
+## Monthly Review
+
+{% for post in monthly %}
+- **[{{ post.title }}, {{ post.paper_count }} papers]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+{% endif %}
+```
+
+**Critical Liquid rules:**
+- NEVER use `and` in `where_exp` — chain multiple `where_exp` calls instead (Liquid 4.0.4 on GitHub Pages does not support `and`)
+- Always quote `"YYYY"` in front matter for `grand_parent` and `parent` on year index — YAML parses unquoted numbers as integers, breaking Liquid string comparisons
 
 ### Step 6: Register papers in registry
 

@@ -172,7 +172,7 @@ highlight: "{{One sentence tweet-style summary of the month's most notable findi
 
 Use `nav_order: 38` so monthly reviews sort after daily posts (1-31) and weekly posts (33-37) in the sidebar.
 
-Create year/month index pages if they don't exist.
+Create year/month index pages if they don't exist — use the same rich index format as described in the daily-harvest skill (with `paper_count` and `highlight` displayed for each entry). Chain `where_exp` calls — NEVER use `and` in Liquid filters.
 
 ### Step 6: Register papers in registry
 
@@ -189,17 +189,18 @@ save_registry(reg)
 "
 ```
 
-### Step 7: Commit and create PR
+### Step 7: Commit and push to main
+
+Push directly to `main` — no branch, no PR.
 
 ```bash
 cd /Users/zhou014/Local_Drive/Git_repo/HydroSense
-git checkout -b monthly-review/YYYY-MM
 git add _pages/ data/paper_registry.json
 git commit -m "Monthly literature review - YYYY-MM"
 git push origin main
 ```
 
-If the push fails due to conflicts, pull and retry:
+If the push fails due to conflicts (e.g., another run pushed first), pull and retry:
 
 ```bash
 git pull --rebase origin main
