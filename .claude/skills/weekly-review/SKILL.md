@@ -179,6 +179,39 @@ highlight: "{{One sentence tweet-style summary of the week's most notable findin
 
 Create year/month index pages if they don't exist — use the same rich index format as described in the daily-harvest skill (with `paper_count` and `highlight` displayed for each entry). Chain `where_exp` calls — NEVER use `and` in Liquid filters.
 
+### Step 5b: Generate the Chinese translation
+
+Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-weekly-review.md`.
+
+**Translation rules:**
+- Translate ALL text to Chinese: headers, theme titles, synthesis paragraphs, labels, descriptions, highlights, abstracts, table headers
+- Keep paper titles in ORIGINAL English (do not translate)
+- Keep author names, journal names, DOIs, URLs unchanged
+- Keep all kramdown directives and markdown formatting exactly the same
+
+**Front matter for Chinese page:**
+```yaml
+---
+layout: default
+title: "第{{WW}}周 - 文献综述"
+nav_exclude: true
+lang: zh
+lang_link: /YYYY/monthname/YYYY-MM-DD-weekly-review
+date: {{YYYY-MM-DD}}
+categories: [weekly-zh, {{YYYY}}, {{monthname}}]
+tags: [hydrology, literature-review, research]
+paper_count: {{N_selected}}
+highlight: "{{Chinese translation of the English highlight}}"
+---
+```
+
+**Key differences from English version:**
+- `nav_exclude: true`, `lang: zh`, `lang_link` to English version
+- `categories: [weekly-zh, ...]` — uses `weekly-zh` instead of `weekly`
+- No `parent` or `grand_parent`
+
+Also add `lang: en` and `lang_link: /zh/YYYY/monthname/YYYY-MM-DD-weekly-review` to the English version's front matter.
+
 ### Step 6: Register papers in registry
 
 ```bash

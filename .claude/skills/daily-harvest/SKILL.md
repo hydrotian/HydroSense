@@ -263,6 +263,43 @@ has_children: true
 - NEVER use `and` in `where_exp` — chain multiple `where_exp` calls instead (Liquid 4.0.4 on GitHub Pages does not support `and`)
 - Always quote `"YYYY"` in front matter for `grand_parent` and `parent` on year index — YAML parses unquoted numbers as integers, breaking Liquid string comparisons
 
+### Step 5b: Generate the Chinese translation
+
+Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-daily-harvest.md`.
+
+**Translation rules:**
+- Translate ALL text to Chinese: headers, labels, descriptions, highlights, abstracts, table headers, statistics labels
+- Keep paper titles in ORIGINAL English (do not translate)
+- Keep author names, journal names, DOIs, URLs unchanged
+- Keep all kramdown directives (`{: .no_toc}`, `{: .label .label-green}`, etc.) exactly the same
+- Keep all markdown formatting (bold, blockquotes, tables, `---` rules) the same
+
+**Front matter for Chinese page:**
+```yaml
+---
+layout: default
+title: "{{M}}月{{DD}}日 - 每日论文采集"
+nav_exclude: true
+lang: zh
+lang_link: /YYYY/monthname/YYYY-MM-DD-daily-harvest
+date: {{YYYY-MM-DD}}
+categories: [daily-zh, {{YYYY}}, {{monthname}}]
+tags: [hydrology, paper-harvest, research]
+paper_count: {{N_selected}}
+highlight: "{{Chinese translation of the English highlight}}"
+---
+```
+
+**Key differences from English version:**
+- `nav_exclude: true` — Chinese pages don't appear in sidebar navigation
+- `lang: zh` and `lang_link` pointing to the English version URL
+- `categories: [daily-zh, ...]` — uses `daily-zh` instead of `daily` to avoid mixing with English Liquid queries
+- No `parent` or `grand_parent` (not in nav hierarchy)
+
+Also add `lang: en` and `lang_link: /zh/YYYY/monthname/YYYY-MM-DD-daily-harvest` to the English version's front matter (if not already present).
+
+Create the `_pages/zh/YYYY/monthname/` directory if it doesn't exist.
+
 ### Step 6: Register papers in registry
 
 ```bash
