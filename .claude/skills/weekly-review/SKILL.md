@@ -75,7 +75,7 @@ Replace placeholders in `{{...}}` with actual values. Use lowercase month name f
 ```markdown
 ---
 layout: default
-title: "Week {{WW}} - Literature Review"
+title: "Week {{WW}}, {{N_selected}} papers"
 parent: {{MonthName}}
 grand_parent: "{{YYYY}}"
 nav_order: {{32 + week_of_month}}
@@ -193,7 +193,7 @@ Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-weekly-review.m
 ```yaml
 ---
 layout: default
-title: "第{{WW}}周 - 文献综述"
+title: "第{{WW}}周，{{N_selected}}篇"
 nav_exclude: true
 lang: zh
 lang_link: /YYYY/monthname/YYYY-MM-DD-weekly-review

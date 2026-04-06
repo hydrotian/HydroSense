@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "March 25 - Daily Harvest"
+title: "Mar 25, 7 papers"
 parent: March
 grand_parent: "2026"
 nav_order: 25

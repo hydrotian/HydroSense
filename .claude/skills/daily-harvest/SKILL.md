@@ -92,7 +92,7 @@ Replace placeholders in `{{...}}` with actual values. Repeat the paper block for
 ```markdown
 ---
 layout: default
-title: "{{MonthName}} {{DD}} - Daily Harvest"
+title: "{{Mon}} {{DD}}, {{N_selected}} papers"
 parent: {{MonthName}}
 grand_parent: "{{YYYY}}"
 nav_order: {{DD}}
@@ -278,7 +278,7 @@ Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-daily-harvest.m
 ```yaml
 ---
 layout: default
-title: "{{M}}月{{DD}}日 - 每日论文采集"
+title: "{{M}}月{{DD}}日，{{N_selected}}篇"
 nav_exclude: true
 lang: zh
 lang_link: /YYYY/monthname/YYYY-MM-DD-daily-harvest

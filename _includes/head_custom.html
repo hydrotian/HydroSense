@@ -66,5 +66,41 @@ document.addEventListener('DOMContentLoaded', function() {
     li.appendChild(toggle);
     auxNav.insertBefore(li, auxNav.firstChild);
   }
+
+  // When on a Chinese page, rewrite sidebar nav links and text to Chinese
+  if (isZh) {
+    var months = {Jan:'1',Feb:'2',Mar:'3',Apr:'4',May:'5',Jun:'6',Jul:'7',Aug:'8',Sep:'9',Oct:'10',Nov:'11',Dec:'12'};
+    var navLinks = document.querySelectorAll('.site-nav a.navigation-list-link, .site-nav a.navigation-list-child-link');
+    navLinks.forEach(function(link) {
+      var linkPath = link.getAttribute('href');
+      if (linkPath && linkPath.indexOf('/zh/') !== 0) {
+        link.setAttribute('href', '/zh' + linkPath);
+      }
+      // Translate link text
+      var text = link.textContent.trim();
+      // "Mar 25, 7 papers" -> "3月25日，7篇"
+      var daily = text.match(/^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d+),\s+(\d+)\s+papers?$/);
+      if (daily) {
+        link.textContent = months[daily[1]] + '月' + daily[2] + '日，' + daily[3] + '篇';
+        return;
+      }
+      // "Week 13, 30 papers" -> "第13周，30篇"
+      var weekly = text.match(/^Week\s+(\d+),\s+(\d+)\s+papers?$/);
+      if (weekly) {
+        link.textContent = '第' + weekly[1] + '周，' + weekly[2] + '篇';
+        return;
+      }
+      // "March" -> "三月", month index pages
+      var monthNames = {January:'一月',February:'二月',March:'三月',April:'四月',May:'五月',June:'六月',July:'七月',August:'八月',September:'九月',October:'十月',November:'十一月',December:'十二月'};
+      if (monthNames[text]) {
+        link.textContent = monthNames[text];
+      }
+    });
+    // Rewrite the site title link
+    var siteTitle = document.querySelector('.site-title');
+    if (siteTitle) {
+      siteTitle.setAttribute('href', '/zh/');
+    }
+  }
 });
 </script>
