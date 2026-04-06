@@ -42,15 +42,16 @@
 document.addEventListener('DOMContentLoaded', function() {
   var path = window.location.pathname;
   var isZh = path.indexOf('/zh/') === 0;
+  var cleanPath = path.replace(/\/_pages\//, '/');
   var href, label;
 
   if (isZh) {
     // Chinese page -> link to English
-    href = path.replace(/^\/zh\//, '/');
+    href = cleanPath.replace(/^\/zh\//, '/');
     label = 'English';
   } else {
     // English page -> link to Chinese
-    href = '/zh' + (path === '/' ? '/' : path);
+    href = '/zh' + (cleanPath === '/' ? '/' : cleanPath);
     label = '\u4E2D\u6587';
   }
 
@@ -74,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
     navLinks.forEach(function(link) {
       var linkPath = link.getAttribute('href');
       if (linkPath && linkPath.indexOf('/zh/') !== 0) {
-        link.setAttribute('href', '/zh' + linkPath);
+        link.setAttribute('href', '/zh' + linkPath.replace(/\/_pages\//, '/'));
       }
       // Translate link text
       var text = link.textContent.trim();
