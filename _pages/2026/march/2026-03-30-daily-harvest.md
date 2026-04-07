@@ -62,6 +62,9 @@ A BAMS study demonstrates that machine-learning climate emulators can generate h
 
 > Explosive tropical volcanic eruptions can trigger widespread hydroclimate anomalies across Eurasia, yet the underlying dynamical pathways remain poorly understood. Here we show that large tropical eruptions consistently induce concurrent summer droughts over South Asia and northern East Asia during the past millennium, as revealed by proxy records and climate model simulations. Volcanically induced suppression of monsoon convection over South Asia reduces diabatic heating, exciting a Rossby wave response resembling the negative phase of the circumglobal teleconnection (CGT). This upper-tropospheric anomaly, robust across tropical ocean states, promotes northerly winds and strong subsidence that suppress rainfall over northern East Asia. The CGT-like teleconnection is robustly reproduced across tree-ring-based CGT reconstructions, last-millennium climate simulations, and idealized modeling experiments. Our findings identify a previously underappreciated volcanic–CGT–drought linkage, offering insights into the predictability of continental-scale climate anomalies under external forcing.
 
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-70710-x/MediaObjects/41467_2026_70710_Fig1_HTML.png)
+
 ---
 
 ### Global stalled tropical cyclones in a changing climate

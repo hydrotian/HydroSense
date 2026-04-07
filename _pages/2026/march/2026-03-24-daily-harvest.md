@@ -62,6 +62,9 @@ Two papers relevant to hydrology today: a PNAS study reveals that deep-rooted pl
 
 > Atmospheric blocking often results in significant weather extremes including heatwaves, droughts, wildfires, cold spells, and floods in mid-latitude regions. This review provides an overview of blocking-related weather extremes and impacts, examines our current understanding of key physical processes, and identifies knowledge gaps. The authors note that numerical models often struggle to simulate blocking frequency, duration, and geographic distribution, hampering prediction and decision-making for mitigation and adaptation.
 
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-70487-z/MediaObjects/41467_2026_70487_Fig1_HTML.png)
+
 ---
 
 ## Statistics

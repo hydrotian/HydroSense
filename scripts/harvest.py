@@ -282,6 +282,56 @@ class OpenAlexClient:
             return ''
 
 
+def fetch_hero_image(doi: str, timeout: int = 10) -> str:
+    """Fetch the og:image URL from a paper's DOI landing page.
+
+    Most publishers set <meta property="og:image"> to their graphical abstract
+    or hero figure (the image that shows up when a link is shared on social
+    media). We hotlink to this URL rather than downloading the image to avoid
+    copyright and bandwidth concerns — the publisher is already serving it
+    for public sharing.
+
+    Returns the image URL string, or an empty string on any failure.
+    """
+    if not doi:
+        return ''
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (compatible; HydroSense/2.0; +https://hydrosense.simhydro.com)',
+            'Accept': 'text/html,application/xhtml+xml',
+        }
+        r = requests.get(
+            f"https://doi.org/{doi}",
+            headers=headers,
+            timeout=timeout,
+            allow_redirects=True,
+        )
+        if r.status_code != 200:
+            return ''
+        # Scan a generous chunk — Nature.com places og:image ~85k into the HTML
+        html = r.text[:250000]
+        # Match <meta property="og:image" ... content="...">
+        # or the reverse order, with either single or double quotes.
+        patterns = [
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+            r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+            r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
+        ]
+        for pat in patterns:
+            m = re.search(pat, html, re.IGNORECASE)
+            if m:
+                url = m.group(1).strip()
+                # Decode basic HTML entities
+                url = url.replace('&amp;', '&').replace('&#x2F;', '/').replace('&#47;', '/')
+                # Reject tiny 1x1 trackers or obvious logos
+                if url and not url.endswith('.svg') and 'logo' not in url.lower():
+                    return url
+        return ''
+    except Exception as e:
+        logger.debug(f"hero image fetch failed for {doi}: {e}")
+        return ''
+
+
 class SemanticScholarClient:
     """Semantic Scholar client for paper metadata and field classification."""
 
@@ -465,6 +515,14 @@ def enrich_papers(all_papers: List[Dict], s2: SemanticScholarClient, openalex: O
         is_peer_reviewed = paper_type == 'journal-article'
 
         if matched_topics and is_peer_reviewed:
+            # Only fetch hero image for papers that made the cut — saves HTTP
+            # requests on rejected ones. Politeness: 0.3s between fetches.
+            hero_url = fetch_hero_image(doi)
+            paper['hero_image_url'] = hero_url
+            if hero_url:
+                logger.info(f"  🖼  Hero image: {hero_url[:80]}")
+            time.sleep(0.3)
+
             if is_top_tier:
                 part1_papers.append(paper)
                 logger.info(f"  ⭐ PART 1: Top-tier + topics: {', '.join(matched_topics[:2])}")
@@ -504,6 +562,7 @@ def output_json(all_papers, part1, part2, s2_stats, from_str, until_str, journal
             'matched_topics': p.get('matched_topics', []),
             'matched_fields': p.get('matched_fields', []),
             's2_paper_id': p.get('s2_paper_id', ''),
+            'hero_image_url': p.get('hero_image_url', ''),
         }
 
     result = {

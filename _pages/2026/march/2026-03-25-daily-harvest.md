@@ -49,6 +49,9 @@ A major Nature study reveals that extreme climate outcomes—including severe dr
 
 > Effectively communicating worst-case projections of global future climate—hereinafter referred to as worst-case climate outcomes—is essential for risk assessment and developing robust adaptation strategies to global warming. Yet, current approaches for identifying spatially consistent climate outcomes are limited, with worst-case global climates typically communicated via the average of climate model projections at high global warming levels, such as 3 °C or 4 °C above the preindustrial era. Here we show that extreme global climate outcomes may occur even under moderate 2 °C warming for several sectors. For droughts in global key breadbasket regions, precipitation extremes over highly populated areas and fire weather extremes across forests, global climatic impact-drivers at 2 °C of global warming may turn out to be much more extreme than model-averaged projections at 3 °C or 4 °C warming. We derive these results by identifying sector-specific, spatially consistent potential high- and low-impact global climate outcomes through spatially averaging projected sector-relevant climatic impact-drivers across key global regions. Our approach can easily be adapted to a wide range of sectors to support the improvement of sector-specific climate risk assessment and to inform climate policy. As global warming approaches 1.5 °C, these findings underscore the urgency of rapid mitigation to limit warming well below 2 °C, as even a 2 °C world may entail severe impacts.
 
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10237-9/MediaObjects/41586_2026_10237_Fig1_HTML.png)
+
 ---
 
 ### Decadal-scale droughts disrupted the African Humid Period in the Sahara
@@ -62,6 +65,9 @@ A major Nature study reveals that extreme climate outcomes—including severe dr
 
 > Abstract not available.
 
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10336-7/MediaObjects/41586_2026_10336_Fig1_HTML.png)
+
 ---
 
 ### Precipitation observing network gaps limit climate change impact assessment
@@ -74,6 +80,9 @@ A major Nature study reveals that extreme climate outcomes—including severe dr
 {: .label .label-green }
 
 > Reliable future climate projections and water deficiency assessments require precipitation observations that are both spatially comprehensive and temporally complete, yet many global regions still suffer from observation sparsity. Here we evaluate the distribution of 221,483 internationally exchanged precipitation gauges worldwide, with records across 1900-2022, and further explore where new gauges are most needed under different scenarios. We find that at present only 13.4% of the global land surface meets the World Meteorological Organization requirements for annual precipitation monitoring, indicating widespread scarcity that has serious socioeconomic implications. Europe has the highest continental gauge density (2.4 gauges per 1,000 km²), with Germany leading among countries over 50,000 km² (22.4 gauges per 1,000 km²). Globally, 25% of land surface already requires urgent expansion of gauge networks because of climate variability, including northern South America, northern North America, Central Africa and southern Asia. Considering projected precipitation changes and socioeconomic conditions under a high-emission scenario further identifies high-need regions in India, Greenland, Bolivia and China because of climate sensitivity and socioeconomic vulnerabilities, increasing this share to 32.1% of global land. Our findings highlight important gaps in global precipitation monitoring that require strategic investments in new gauges and underscore the need for open data access.
+
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10300-5/MediaObjects/41586_2026_10300_Fig1_HTML.png)
 
 ---
 
@@ -126,6 +135,9 @@ A major Nature study reveals that extreme climate outcomes—including severe dr
 {: .label .label-green }
 
 > The winter North Atlantic Oscillation (NAO) is a dominant mode of climate variability affecting temperature and precipitation across the Northern Hemisphere, yet its prediction at seasonal-to-decadal (S2D) lead times remains challenging. Here, using multi-year hindcasts from a multi-model ensemble initialized on 1 November for 1962–2019, we show that NAO skill one year ahead improves significantly when the El Niño–Southern Oscillation (ENSO) undergoes a phase transition next year. This improvement is linked to the northward propagation of anomalous atmospheric angular momentum, which dynamically organizes the NAO and is captured in reanalysis and models. During ENSO transition years, prediction skill increases with ensemble size, and when more than 10 members are used, the forecasts display the signal-to-noise paradox. These findings highlight the potential for enhanced one-year NAO predictability when ENSO transitions are present and large ensemble sizes are used in S2D prediction systems, given the skillful prediction of ENSO phase transitions at one-year lead times by multi-model ensembles.
+
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-70646-2/MediaObjects/41467_2026_70646_Fig1_HTML.png)
 
 ---
 

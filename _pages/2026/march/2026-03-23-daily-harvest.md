@@ -62,6 +62,9 @@ Two papers of interest today: a major PNAS study documents unprecedented damage 
 
 > This study demonstrates the use of anthropogenic tritium as a continental-scale tracer for identifying river-derived groundwater recharge, providing new methods for understanding surface water–groundwater exchange processes at large spatial scales.
 
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44221-026-00616-x/MediaObjects/44221_2026_616_Fig1_HTML.png)
+
 ---
 
 ## Statistics
