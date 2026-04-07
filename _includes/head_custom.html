@@ -145,13 +145,21 @@ document.addEventListener('DOMContentLoaded', function() {
         link.textContent = months[daily[1]] + '月' + daily[2] + '日，' + daily[3] + '篇';
         return;
       }
-      // "Week 13, 30 papers" -> "第13周，30篇"
+      // "Week 13 (March 16 - March 23), 30 papers" -> "第13周（3月16日 - 3月23日），30篇"
+      var weeklyRange = text.match(/^Week\s+(\d+)\s+\((\w+)\s+(\d+)\s*[-–]\s*(\w+)\s+(\d+)\),\s+(\d+)\s+papers?$/);
+      if (weeklyRange) {
+        var sMon = months[weeklyRange[2].slice(0,3)] || weeklyRange[2];
+        var eMon = months[weeklyRange[4].slice(0,3)] || weeklyRange[4];
+        link.textContent = '第' + weeklyRange[1] + '周（' + sMon + '月' + weeklyRange[3] + '日 - ' + eMon + '月' + weeklyRange[5] + '日），' + weeklyRange[6] + '篇';
+        return;
+      }
+      // "Week 13, 30 papers" -> "第13周，30篇" (legacy short format)
       var weekly = text.match(/^Week\s+(\d+),\s+(\d+)\s+papers?$/);
       if (weekly) {
         link.textContent = '第' + weekly[1] + '周，' + weekly[2] + '篇';
         return;
       }
-      // "Week 14 - Literature Review" -> "第14周 - 文献综述"
+      // "Week 14 - Literature Review" -> "第14周 - 文献综述" (legacy format)
       var weeklyTitle = text.match(/^Week\s+(\d+)\s*-\s*Literature Review$/);
       if (weeklyTitle) {
         link.textContent = '第' + weeklyTitle[1] + '周 - 文献综述';
@@ -173,6 +181,32 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
     });
+
+    // --- Expand sidebar ancestors for the current zh page ---
+    // zh pages have `nav_exclude: true`, so Just-the-Docs doesn't know to
+    // keep the enclosing month/year sections open. After we've rewritten
+    // the sidebar hrefs to /zh/ URLs, find the link matching the current
+    // URL and walk up its `li.nav-list-item` ancestors, marking each as
+    // `active` so Just-the-Docs' CSS keeps them expanded.
+    var currentPath = window.location.pathname;
+    var currentPathAlt = currentPath.endsWith('/') ? currentPath.slice(0, -1) : currentPath + '/';
+    var matchingLink = null;
+    document.querySelectorAll('.site-nav a').forEach(function(a) {
+      var h = a.getAttribute('href');
+      if (!h) return;
+      if (h === currentPath || h === currentPathAlt) {
+        matchingLink = a;
+      }
+    });
+    if (matchingLink) {
+      var el = matchingLink;
+      while (el && el !== document.body) {
+        if (el.classList && el.classList.contains('nav-list-item')) {
+          el.classList.add('active');
+        }
+        el = el.parentElement;
+      }
+    }
 
     // --- Site title link: route to Chinese homepage ---
     var siteTitle = document.querySelector('.site-title');
