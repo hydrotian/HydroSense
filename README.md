@@ -105,6 +105,10 @@ Water Resources Research, Journal of Hydrology, Hydrology and Earth System Scien
 
 Jekyll-based blog at [hydrosense.simhydro.com](https://hydrosense.simhydro.com) with full-text search, hierarchical navigation, and automatic dark mode.
 
+### Bilingual experience
+
+The site is fully bilingual (English ↔ 中文). Every daily harvest, weekly review, and informational page (Home, About) has both an English version under `_pages/` and a Chinese counterpart under `_pages/zh/`. A floating language toggle in the bottom-right corner lets readers switch between the two on any page; the toggle hides itself automatically if no Chinese counterpart exists yet. When on a Chinese page, the entire site chrome (sidebar navigation, search box, back-to-top, footer) is also translated client-side so the experience is fully Chinese, not just the article body.
+
 ### Local Development
 ```bash
 bundle install
