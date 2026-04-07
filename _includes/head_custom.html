@@ -1,83 +1,129 @@
 <style>
-.aux-nav .aux-nav-list {
-  display: flex !important;
-  align-items: center !important;
-  gap: 8px;
-}
-.aux-nav-list-item {
-  display: flex;
-  align-items: center;
-}
+/* Floating language toggle — always visible, fixed to viewport bottom-right.
+   Independent of header/sidebar layout, so it works the same on desktop and mobile. */
 .lang-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
   display: inline-flex;
   align-items: center;
-  padding: 3px 12px;
-  border: 1px solid #5b9bd5;
-  border-radius: 4px;
-  font-size: 12px;
-  font-weight: 500;
-  color: #5b9bd5;
-  text-decoration: none !important;
-  transition: all 0.15s ease;
-  line-height: 1.4;
-  white-space: nowrap;
-}
-.lang-toggle:hover {
+  justify-content: center;
+  min-width: 56px;
+  height: 36px;
+  padding: 0 16px;
   background-color: #5b9bd5;
+  border: 1px solid #5b9bd5;
+  border-radius: 18px;
+  font-size: 13px;
+  font-weight: 600;
   color: #fff;
   text-decoration: none !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+  white-space: nowrap;
+  line-height: 1;
+}
+.lang-toggle:hover,
+.lang-toggle:focus {
+  background-color: #4a8bc4;
+  border-color: #4a8bc4;
+  color: #fff !important;
+  text-decoration: none !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  transform: translateY(-1px);
+}
+@media (max-width: 600px) {
+  .lang-toggle {
+    bottom: 16px;
+    right: 16px;
+    min-width: 52px;
+    height: 34px;
+    font-size: 12px;
+  }
 }
 @media (prefers-color-scheme: dark) {
   .lang-toggle {
-    border-color: #64b5f6;
-    color: #64b5f6;
-  }
-  .lang-toggle:hover {
     background-color: #64b5f6;
+    border-color: #64b5f6;
     color: #1c1c1e;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+  }
+  .lang-toggle:hover,
+  .lang-toggle:focus {
+    background-color: #82c4f8;
+    border-color: #82c4f8;
+    color: #1c1c1e !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.55);
   }
 }
 </style>
 <script>
+// Front-matter-driven lang_link for the current page (empty string if not set).
+var PAGE_LANG_LINK = {{ page.lang_link | default: "" | jsonify }};
+var PAGE_LANG = {{ page.lang | default: "" | jsonify }};
+// Manifest of all available Chinese page URLs, generated at build time.
+// Used to detect whether a Chinese counterpart exists for the current page.
+var ZH_PAGES = [
+{%- assign zh_pages = site.pages | where: "lang", "zh" -%}
+{%- for p in zh_pages -%}
+  {{ p.url | jsonify }}{%- unless forloop.last %},{% endunless -%}
+{%- endfor -%}
+];
+
 document.addEventListener('DOMContentLoaded', function() {
   var path = window.location.pathname;
-  var isZh = path.indexOf('/zh/') === 0;
+  var isZh = PAGE_LANG === 'zh' || path.indexOf('/zh/') === 0;
   var cleanPath = path.replace(/\/_pages\//, '/');
   var href, label;
+  var counterpartExists = true;
 
-  if (isZh) {
-    // Chinese page -> link to English
+  if (PAGE_LANG_LINK) {
+    // Page declares its counterpart explicitly — most reliable.
+    href = PAGE_LANG_LINK;
+    label = isZh ? 'English' : '\u4E2D\u6587';
+  } else if (isZh) {
+    // Chinese page -> English: stripping /zh/ is always safe.
     href = cleanPath.replace(/^\/zh\//, '/');
     label = 'English';
   } else {
-    // English page -> link to Chinese
-    href = '/zh' + (cleanPath === '/' ? '/' : cleanPath);
+    // English page -> Chinese: only show toggle if a zh counterpart exists.
+    var candidate = '/zh' + (cleanPath === '/' ? '/' : cleanPath);
+    // Normalize trailing slash for matching against the manifest.
+    var candidateAlt = candidate.endsWith('/') ? candidate.slice(0, -1) : candidate + '/';
+    counterpartExists = ZH_PAGES.indexOf(candidate) !== -1 || ZH_PAGES.indexOf(candidateAlt) !== -1;
+    href = candidate;
     label = '\u4E2D\u6587';
+  }
+
+  if (!counterpartExists) {
+    // No Chinese version available — skip injecting the toggle entirely.
+    return;
   }
 
   var toggle = document.createElement('a');
   toggle.className = 'lang-toggle';
   toggle.href = href;
   toggle.textContent = label;
+  toggle.setAttribute('aria-label', isZh ? 'Switch to English' : '\u5207\u6362\u5230\u4E2D\u6587');
+  // Append directly to <body> so the fixed-position pill is always visible,
+  // regardless of header layout (desktop, tablet, or mobile).
+  document.body.appendChild(toggle);
 
-  var auxNav = document.querySelector('.aux-nav .aux-nav-list');
-  if (auxNav) {
-    var li = document.createElement('li');
-    li.className = 'aux-nav-list-item';
-    li.appendChild(toggle);
-    auxNav.insertBefore(li, auxNav.firstChild);
-  }
-
-  // When on a Chinese page, rewrite sidebar nav links and text to Chinese
+  // ====== Chinese site experience ======
+  // When on a /zh/ page, translate ALL site chrome (sidebar nav, search box,
+  // footer, aux links, back-to-top, etc.) so the experience is fully Chinese.
   if (isZh) {
     var months = {Jan:'1',Feb:'2',Mar:'3',Apr:'4',May:'5',Jun:'6',Jul:'7',Aug:'8',Sep:'9',Oct:'10',Nov:'11',Dec:'12'};
+    var monthNames = {January:'一月',February:'二月',March:'三月',April:'四月',May:'五月',June:'六月',July:'七月',August:'八月',September:'九月',October:'十月',November:'十一月',December:'十二月'};
+
+    // --- Sidebar navigation: rewrite English links to /zh/ counterparts and translate visible text ---
     var navLinks = document.querySelectorAll('.site-nav a.navigation-list-link, .site-nav a.navigation-list-child-link');
     navLinks.forEach(function(link) {
       var linkPath = link.getAttribute('href');
       if (linkPath && linkPath.indexOf('/zh/') !== 0) {
         link.setAttribute('href', '/zh' + linkPath.replace(/\/_pages\//, '/'));
       }
-      // Translate link text
       var text = link.textContent.trim();
       // "Mar 25, 7 papers" -> "3月25日，7篇"
       var daily = text.match(/^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d+),\s+(\d+)\s+papers?$/);
@@ -91,17 +137,85 @@ document.addEventListener('DOMContentLoaded', function() {
         link.textContent = '第' + weekly[1] + '周，' + weekly[2] + '篇';
         return;
       }
-      // "March" -> "三月", month index pages
-      var monthNames = {January:'一月',February:'二月',March:'三月',April:'四月',May:'五月',June:'六月',July:'七月',August:'八月',September:'九月',October:'十月',November:'十一月',December:'十二月'};
+      // "Week 14 - Literature Review" -> "第14周 - 文献综述"
+      var weeklyTitle = text.match(/^Week\s+(\d+)\s*-\s*Literature Review$/);
+      if (weeklyTitle) {
+        link.textContent = '第' + weeklyTitle[1] + '周 - 文献综述';
+        return;
+      }
+      // Month names: "March" -> "三月"
       if (monthNames[text]) {
         link.textContent = monthNames[text];
+        return;
+      }
+      // "Home" -> "首页"
+      if (text === 'Home') {
+        link.textContent = '首页';
+        return;
       }
     });
-    // Rewrite the site title link
+
+    // --- Site title link: route to Chinese homepage ---
     var siteTitle = document.querySelector('.site-title');
     if (siteTitle) {
       siteTitle.setAttribute('href', '/zh/');
     }
+
+    // --- Search box placeholder ---
+    var searchInput = document.querySelector('.search-input, input[id="search-input"]');
+    if (searchInput) {
+      searchInput.setAttribute('placeholder', '搜索 HydroSense');
+      searchInput.setAttribute('aria-label', '搜索 HydroSense');
+    }
+    var searchLabel = document.querySelector('label[for="search-input"]');
+    if (searchLabel) {
+      searchLabel.setAttribute('aria-label', '搜索 HydroSense');
+    }
+
+    // --- Back-to-top link ---
+    document.querySelectorAll('.back-to-top, a[href="#top"]').forEach(function(el) {
+      var t = el.textContent.trim();
+      if (t === 'Back to top' || t === '↑ Back to top') {
+        el.textContent = '返回顶部';
+      }
+    });
+
+    // --- Footer: replace "Powered by ..." with Chinese equivalent ---
+    var footer = document.querySelector('.site-footer');
+    if (footer) {
+      // Replace text nodes anywhere inside the footer that contain the English string.
+      var walker = document.createTreeWalker(footer, NodeFilter.SHOW_TEXT, null, false);
+      var node;
+      while ((node = walker.nextNode())) {
+        if (node.nodeValue && node.nodeValue.indexOf('Powered by') !== -1) {
+          node.nodeValue = node.nodeValue.replace(
+            /Powered by CrossRef, Semantic Scholar, OpenAlex,?\s*and Claude/i,
+            '由 CrossRef、Semantic Scholar、OpenAlex 与 Claude 驱动'
+          );
+        }
+      }
+    }
+
+    // --- Aux nav links (top-right "Back to SimHydro" etc.) ---
+    document.querySelectorAll('.aux-nav a, .site-header .aux-nav a').forEach(function(el) {
+      var t = el.textContent.trim();
+      if (t === 'Back to SimHydro') {
+        el.textContent = '返回 SimHydro';
+      } else if (t === 'SimHydro Main Site') {
+        el.textContent = 'SimHydro 主站';
+      }
+    });
+
+    // --- External nav link in sidebar ("SimHydro Main Site") ---
+    document.querySelectorAll('.site-nav a').forEach(function(el) {
+      var t = el.textContent.trim();
+      if (t === 'SimHydro Main Site') {
+        el.textContent = 'SimHydro 主站';
+      }
+    });
+
+    // --- Set <html lang> attribute so browsers/accessibility tools know it's Chinese ---
+    document.documentElement.setAttribute('lang', 'zh-CN');
   }
 });
 </script>

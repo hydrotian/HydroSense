@@ -263,7 +263,9 @@ has_children: true
 - NEVER use `and` in `where_exp` — chain multiple `where_exp` calls instead (Liquid 4.0.4 on GitHub Pages does not support `and`)
 - Always quote `"YYYY"` in front matter for `grand_parent` and `parent` on year index — YAML parses unquoted numbers as integers, breaking Liquid string comparisons
 
-### Step 5b: Generate the Chinese translation
+### Step 5b: Generate the Chinese translation (MANDATORY — DO NOT SKIP)
+
+**This step is required, not optional.** Every English post MUST have a Chinese counterpart. The site has a language toggle that hides itself when no Chinese version exists, so skipping this step results in a broken bilingual experience. You are not done with the post until both language versions exist on disk.
 
 Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-daily-harvest.md`.
 
@@ -296,9 +298,83 @@ highlight: "{{Chinese translation of the English highlight}}"
 - `categories: [daily-zh, ...]` — uses `daily-zh` instead of `daily` to avoid mixing with English Liquid queries
 - No `parent` or `grand_parent` (not in nav hierarchy)
 
-Also add `lang: en` and `lang_link: /zh/YYYY/monthname/YYYY-MM-DD-daily-harvest` to the English version's front matter (if not already present).
+Also update the English version's front matter to add:
+- `lang: en`
+- `lang_link: /zh/YYYY/monthname/YYYY-MM-DD-daily-harvest`
 
-Create the `_pages/zh/YYYY/monthname/` directory if it doesn't exist.
+These two fields are what the site's language toggle reads to find the counterpart page. Without them the toggle falls back to URL guessing and may fail.
+
+**Create Chinese year and month index pages if they don't exist** at `_pages/zh/YYYY/index.md` and `_pages/zh/YYYY/monthname/index.md`. The Chinese index files do NOT use Just-the-Docs `parent`/`has_children` navigation (zh pages are excluded from the sidebar via `nav_exclude: true`); they use a `permalink` instead.
+
+**Chinese year index template** (`_pages/zh/YYYY/index.md`):
+```markdown
+---
+layout: default
+title: "YYYY"
+permalink: /zh/YYYY/
+nav_exclude: true
+lang: zh
+lang_link: /YYYY/
+---
+
+# YYYY
+
+## 每日采集
+
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily-zh'" | sort: "date" | reverse %}
+{% for post in daily limit:10 %}
+- **[{{ post.date | date: "%m月%-d日" }}，{{ post.paper_count }} 篇]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+
+## 每周文献综述
+
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly-zh'" | sort: "date" | reverse %}
+{% for post in weekly limit:10 %}
+- **[{{ post.title }}，{{ post.paper_count }} 篇]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+```
+
+**Chinese month index template** (`_pages/zh/YYYY/monthname/index.md`):
+```markdown
+---
+layout: default
+title: "{{MonthChinese}}"
+permalink: /zh/YYYY/monthname/
+nav_exclude: true
+lang: zh
+lang_link: /YYYY/monthname/
+---
+
+# YYYY年{{MonthChinese}}
+
+## 每日采集
+
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily-zh'" | where_exp: "p", "p.categories contains 'monthname'" | sort: "date" | reverse %}
+{% for post in daily %}
+- **[{{ post.date | date: "%m月%-d日" }}，{{ post.paper_count }} 篇]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+
+## 每周文献综述
+
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly-zh'" | where_exp: "p", "p.categories contains 'monthname'" | sort: "date" | reverse %}
+{% for post in weekly %}
+- **[{{ post.title }}，{{ post.paper_count }} 篇]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+```
+
+`{{MonthChinese}}` mapping: January→一月, February→二月, March→三月, April→四月, May→五月, June→六月, July→七月, August→八月, September→九月, October→十月, November→十一月, December→十二月.
+
+**Verification before committing.** Run this check and confirm both files exist and the English version has `lang_link` populated. Do not proceed to the commit step until this passes:
+
+```bash
+ls -la _pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md \
+       _pages/zh/YYYY/monthname/YYYY-MM-DD-daily-harvest.md \
+       _pages/zh/YYYY/monthname/index.md \
+       _pages/zh/YYYY/index.md
+grep -q "^lang_link:" _pages/YYYY/monthname/YYYY-MM-DD-daily-harvest.md \
+  && echo "OK: English has lang_link" \
+  || echo "MISSING lang_link on English file — fix before commit"
+```
 
 ### Step 6: Register papers in registry
 

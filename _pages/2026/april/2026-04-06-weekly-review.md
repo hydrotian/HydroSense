@@ -4,9 +4,13 @@ title: "Week 15 - Literature Review"
 parent: April
 grand_parent: "2026"
 nav_order: 33
+lang: en
+lang_link: /zh/2026/april/2026-04-06-weekly-review
 date: 2026-04-06
 categories: [weekly, 2026, april]
 tags: [hydrology, literature-review, research]
+paper_count: 12
+highlight: "Coupled water-energy management under drought stress and ML-driven runoff forecasting take center stage."
 ---
 
 # Weekly Literature Review

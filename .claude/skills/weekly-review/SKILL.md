@@ -179,7 +179,9 @@ highlight: "{{One sentence tweet-style summary of the week's most notable findin
 
 Create year/month index pages if they don't exist — use the same rich index format as described in the daily-harvest skill (with `paper_count` and `highlight` displayed for each entry). Chain `where_exp` calls — NEVER use `and` in Liquid filters.
 
-### Step 5b: Generate the Chinese translation
+### Step 5b: Generate the Chinese translation (MANDATORY — DO NOT SKIP)
+
+**This step is required, not optional.** Every English post MUST have a Chinese counterpart. The site has a language toggle that hides itself when no Chinese version exists, so skipping this step results in a broken bilingual experience. You are not done with the post until both language versions exist on disk.
 
 Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-weekly-review.md`.
 
@@ -193,7 +195,8 @@ Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-weekly-review.m
 ```yaml
 ---
 layout: default
-title: "第{{WW}}周，{{N_selected}}篇"
+title: "第{{WW}}周 - 文献综述"
+nav_order: {{32 + week_of_month}}
 nav_exclude: true
 lang: zh
 lang_link: /YYYY/monthname/YYYY-MM-DD-weekly-review
@@ -210,7 +213,83 @@ highlight: "{{Chinese translation of the English highlight}}"
 - `categories: [weekly-zh, ...]` — uses `weekly-zh` instead of `weekly`
 - No `parent` or `grand_parent`
 
-Also add `lang: en` and `lang_link: /zh/YYYY/monthname/YYYY-MM-DD-weekly-review` to the English version's front matter.
+Also update the English version's front matter to add:
+- `lang: en`
+- `lang_link: /zh/YYYY/monthname/YYYY-MM-DD-weekly-review`
+
+These two fields are what the site's language toggle reads to find the counterpart page. Without them the toggle falls back to URL guessing and may fail.
+
+**Create Chinese year and month index pages if they don't exist** at `_pages/zh/YYYY/index.md` and `_pages/zh/YYYY/monthname/index.md`. The Chinese index files do NOT use Just-the-Docs `parent`/`has_children` navigation (zh pages are excluded from the sidebar via `nav_exclude: true`); they use a `permalink` instead.
+
+**Chinese year index template** (`_pages/zh/YYYY/index.md`):
+```markdown
+---
+layout: default
+title: "YYYY"
+permalink: /zh/YYYY/
+nav_exclude: true
+lang: zh
+lang_link: /YYYY/
+---
+
+# YYYY
+
+## 每日采集
+
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily-zh'" | sort: "date" | reverse %}
+{% for post in daily limit:10 %}
+- **[{{ post.date | date: "%m月%-d日" }}，{{ post.paper_count }} 篇]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+
+## 每周文献综述
+
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly-zh'" | sort: "date" | reverse %}
+{% for post in weekly limit:10 %}
+- **[{{ post.title }}，{{ post.paper_count }} 篇]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+```
+
+**Chinese month index template** (`_pages/zh/YYYY/monthname/index.md`):
+```markdown
+---
+layout: default
+title: "{{MonthChinese}}"
+permalink: /zh/YYYY/monthname/
+nav_exclude: true
+lang: zh
+lang_link: /YYYY/monthname/
+---
+
+# YYYY年{{MonthChinese}}
+
+## 每日采集
+
+{% assign daily = site.pages | where_exp: "p", "p.categories contains 'daily-zh'" | where_exp: "p", "p.categories contains 'monthname'" | sort: "date" | reverse %}
+{% for post in daily %}
+- **[{{ post.date | date: "%m月%-d日" }}，{{ post.paper_count }} 篇]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+
+## 每周文献综述
+
+{% assign weekly = site.pages | where_exp: "p", "p.categories contains 'weekly-zh'" | where_exp: "p", "p.categories contains 'monthname'" | sort: "date" | reverse %}
+{% for post in weekly %}
+- **[{{ post.title }}，{{ post.paper_count }} 篇]({{ post.url | relative_url }})** — {{ post.highlight }}
+{% endfor %}
+```
+
+`{{MonthChinese}}` mapping: January→一月, February→二月, March→三月, April→四月, May→五月, June→六月, July→七月, August→八月, September→九月, October→十月, November→十一月, December→十二月.
+
+**Verification before committing.** Run this check and confirm both files exist and the English version has `lang_link` populated. Do not proceed to the commit step until this passes:
+
+```bash
+ls -la _pages/YYYY/monthname/YYYY-MM-DD-weekly-review.md \
+       _pages/zh/YYYY/monthname/YYYY-MM-DD-weekly-review.md \
+       _pages/zh/YYYY/monthname/index.md \
+       _pages/zh/YYYY/index.md
+grep -q "^lang_link:" _pages/YYYY/monthname/YYYY-MM-DD-weekly-review.md \
+  && echo "OK: English has lang_link" \
+  || echo "MISSING lang_link on English file — fix before commit"
+```
 
 ### Step 6: Register papers in registry
 
