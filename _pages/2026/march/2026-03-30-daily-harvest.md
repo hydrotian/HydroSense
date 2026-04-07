@@ -1,12 +1,16 @@
 ---
 layout: default
-title: "March 30 - Daily Harvest"
+title: "Mar 30, 4 papers"
 parent: March
 grand_parent: "2026"
 nav_order: 30
+lang: en
+lang_link: /zh/2026/march/2026-03-30-daily-harvest
 date: 2026-03-30
 categories: [daily, 2026, march]
 tags: [hydrology, paper-harvest, research]
+paper_count: 4
+highlight: "ML climate emulators enable huge ensembles for extreme precipitation estimation; tropical volcanism triggers pan-Asian monsoon droughts."
 ---
 
 # Paper Harvest Report

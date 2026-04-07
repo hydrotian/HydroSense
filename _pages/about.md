@@ -3,6 +3,8 @@ layout: default
 title: About
 nav_order: 10
 permalink: /about/
+lang: en
+lang_link: /zh/about/
 ---
 
 # About HydroSense
