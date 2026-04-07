@@ -186,6 +186,7 @@ layout: default
 title: "YYYY"
 nav_order: {{year - 2023}}
 has_children: true
+permalink: /YYYY/
 ---
 
 # YYYY
@@ -231,6 +232,7 @@ title: {{MonthName}}
 parent: "YYYY"
 nav_order: {{month_number}}
 has_children: true
+permalink: /YYYY/monthname/
 ---
 
 # {{MonthName}} YYYY
@@ -262,6 +264,7 @@ has_children: true
 **Critical Liquid rules:**
 - NEVER use `and` in `where_exp` — chain multiple `where_exp` calls instead (Liquid 4.0.4 on GitHub Pages does not support `and`)
 - Always quote `"YYYY"` in front matter for `grand_parent` and `parent` on year index — YAML parses unquoted numbers as integers, breaking Liquid string comparisons
+- Always set explicit `permalink:` on year and month index pages (`/YYYY/` and `/YYYY/monthname/`). Without it, Jekyll's default permalink includes `_pages/` in the URL (e.g. `/_pages/2026/`), breaking the language toggle target and the zh sidebar rewrites.
 
 ### Step 5b: Generate the Chinese translation (MANDATORY — DO NOT SKIP)
 

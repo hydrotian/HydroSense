@@ -4,6 +4,9 @@ title: March
 parent: "2026"
 nav_order: 3
 has_children: true
+permalink: /2026/march/
+lang: en
+lang_link: /zh/2026/march/
 ---
 
 # March 2026

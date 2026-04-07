@@ -4,6 +4,7 @@ title: "2026"
 permalink: /zh/2026/
 nav_exclude: true
 lang: zh
+lang_link: /2026/
 ---
 
 # 2026

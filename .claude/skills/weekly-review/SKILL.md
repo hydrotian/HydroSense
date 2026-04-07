@@ -189,7 +189,7 @@ highlight: "{{One sentence tweet-style summary of the week's most notable findin
 - Monthly review uses `nav_order: 38`
 - `week_of_month` = 1 for the first weekly review in a month, 2 for the second, etc.
 
-Create year/month index pages if they don't exist — use the same rich index format as described in the daily-harvest skill (with `paper_count` and `highlight` displayed for each entry). Chain `where_exp` calls — NEVER use `and` in Liquid filters.
+Create year/month index pages if they don't exist — use the same rich index format as described in the daily-harvest skill (with `paper_count` and `highlight` displayed for each entry). Chain `where_exp` calls — NEVER use `and` in Liquid filters. Always set explicit `permalink: /YYYY/` and `permalink: /YYYY/monthname/` on these index pages — without them, Jekyll generates `/_pages/YYYY/` URLs that break the language toggle.
 
 ### Step 5b: Generate the Chinese translation (MANDATORY — DO NOT SKIP)
 

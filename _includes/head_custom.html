@@ -71,10 +71,20 @@ var ZH_PAGES = [
 {%- endfor -%}
 ];
 
+// Normalize a same-origin path to its canonical collection form:
+//   strip `/_pages/` prefix, replace `.html` suffix with `/`.
+// Used by the lang toggle and the zh sidebar rewriter so that links
+// produced from the Jekyll page-include version of _pages still land
+// on the working collection URL.
+function canonicalizePath(p) {
+  if (!p) return p;
+  return p.replace(/\/_pages\//, '/').replace(/\.html$/, '/');
+}
+
 document.addEventListener('DOMContentLoaded', function() {
   var path = window.location.pathname;
   var isZh = PAGE_LANG === 'zh' || path.indexOf('/zh/') === 0;
-  var cleanPath = path.replace(/\/_pages\//, '/');
+  var cleanPath = canonicalizePath(path);
   var href, label;
   var counterpartExists = true;
 
@@ -126,7 +136,7 @@ document.addEventListener('DOMContentLoaded', function() {
       var linkPath = link.getAttribute('href');
       // Only rewrite same-origin paths that aren't already /zh/, and skip external/anchor links.
       if (linkPath && linkPath.charAt(0) === '/' && linkPath.indexOf('/zh/') !== 0 && linkPath.indexOf('//') !== 0) {
-        link.setAttribute('href', '/zh' + linkPath.replace(/\/_pages\//, '/'));
+        link.setAttribute('href', '/zh' + canonicalizePath(linkPath));
       }
       var text = link.textContent.trim();
       // "Mar 25, 7 papers" -> "3月25日，7篇"

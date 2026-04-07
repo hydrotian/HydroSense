@@ -4,6 +4,7 @@ title: "三月"
 permalink: /zh/2026/march/
 nav_exclude: true
 lang: zh
+lang_link: /2026/march/
 ---
 
 # 2026年三月
