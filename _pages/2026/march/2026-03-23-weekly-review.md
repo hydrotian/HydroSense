@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Week 13, 30 papers"
+title: "Week 12 (March 16 - March 23), 30 papers"
 parent: March
 grand_parent: "2026"
 nav_order: 33
@@ -16,7 +16,7 @@ lang_link: /zh/2026/march/2026-03-23-weekly-review
 # Weekly Literature Review
 {: .no_toc }
 
-**Week 13** · March 16–23, 2026
+**Week 12** · March 16–23, 2026
 {: .text-grey-dk-000 }
 
 **30** relevant papers found across **5** themes

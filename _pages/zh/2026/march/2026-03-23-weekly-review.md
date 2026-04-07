@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "第13周 - 文献综述"
+title: "第12周（3月16日 - 3月23日），30篇"
 nav_order: 33
 date: 2026-03-23
 categories: [weekly-zh, 2026, march]
@@ -15,7 +15,7 @@ lang_link: /2026/march/2026-03-23-weekly-review
 # 每周文献综述
 {: .no_toc }
 
-**第13周** · 2026年3月16日至23日
+**第12周** · 2026年3月16日至23日
 {: .text-grey-dk-000 }
 
 在**5**个主题中发现**30**篇相关论文

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Week 15 - Literature Review"
+title: "Week 13 (March 23 - March 30), 12 papers"
 parent: April
 grand_parent: "2026"
 nav_order: 33
@@ -16,7 +16,7 @@ highlight: "Coupled water-energy management under drought stress and ML-driven r
 # Weekly Literature Review
 {: .no_toc }
 
-**Week 15** · March 23–30, 2026
+**Week 13** · March 23–30, 2026
 {: .text-grey-dk-000 }
 
 **12** relevant papers found across **5** themes

@@ -12,9 +12,21 @@ Search academic databases by keywords, synthesize findings into a thematic revie
 
 ### Step 1: Run the weekly review search
 
+The weekly search is shifted by 7 days to stay in sync with the daily harvest (which is shifted by 8 days). Default window: from 14 days ago to 7 days ago.
+
 ```bash
 cd /Users/zhou014/Local_Drive/Git_repo/HydroSense
-python scripts/search.py --weeks-back 1 --output-format json > /tmp/weekly_review_output.json 2>/tmp/weekly_review_log.txt
+WEEKLY_FROM=$(date -v-14d +%Y-%m-%d 2>/dev/null || date -d '14 days ago' +%Y-%m-%d)
+WEEKLY_TO=$(date -v-7d  +%Y-%m-%d 2>/dev/null || date -d '7 days ago'  +%Y-%m-%d)
+python scripts/search.py --from-date $WEEKLY_FROM --to-date $WEEKLY_TO --output-format json > /tmp/weekly_review_output.json 2>/tmp/weekly_review_log.txt
+```
+
+On Linux (cloud), use the `date -d '...'` form. If the user specifies an explicit `--from-date`/`--to-date`, use those instead.
+
+**Important:** The "Week NN" label in the post title and body MUST be derived from the **data date range** (specifically the ISO week number of `WEEKLY_FROM`), NOT from today. The post is named after the week of papers it reviews, not the week it was generated. Compute it once and reuse:
+
+```bash
+WEEK_NUM=$(python -c "import datetime; d=datetime.date.fromisoformat('$WEEKLY_FROM'); print(f'{d.isocalendar()[1]:02d}')")
 ```
 
 ### Step 2: Read and evaluate the results
@@ -75,7 +87,7 @@ Replace placeholders in `{{...}}` with actual values. Use lowercase month name f
 ```markdown
 ---
 layout: default
-title: "Week {{WW}}, {{N_selected}} papers"
+title: "Week {{WW}} ({{StartMonth}} {{start_day}} - {{EndMonth}} {{end_day}}), {{N_selected}} papers"
 parent: {{MonthName}}
 grand_parent: "{{YYYY}}"
 nav_order: {{32 + week_of_month}}
@@ -89,7 +101,7 @@ highlight: "{{One sentence tweet-style summary of the week's most notable findin
 # Weekly Literature Review
 {: .no_toc }
 
-**Week {{WW}}** · {{MonthName}} {{start_day}}–{{end_day}}, {{YYYY}}
+**Week {{WW}}** · {{StartMonth}} {{start_day}}–{{EndMonth}} {{end_day}}, {{YYYY}}
 {: .text-grey-dk-000 }
 
 **{{N_selected}}** relevant papers found across **{{N_themes}}** themes
@@ -195,7 +207,7 @@ Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-weekly-review.m
 ```yaml
 ---
 layout: default
-title: "第{{WW}}周 - 文献综述"
+title: "第{{WW}}周（{{StartMonthCN}}{{start_day}}日 - {{EndMonthCN}}{{end_day}}日），{{N_selected}}篇"
 nav_order: {{32 + week_of_month}}
 nav_exclude: true
 lang: zh
@@ -299,7 +311,7 @@ python -c "
 import datetime
 from scripts.registry import load_registry, save_registry, register_papers, register_run
 reg = load_registry()
-week_num = datetime.date.today().isocalendar()[1]
+week_num = datetime.date.fromisoformat('WEEKLY_FROM_DATE').isocalendar()[1]
 run_id = f'weekly-YYYY-W{week_num:02d}'
 reg = register_run(reg, run_id, 'weekly', date='YYYY-MM-DD', topics=['list', 'of', 'topics'])
 papers = [{'doi': '...', 'title': '...', 'journal': '...'}]
