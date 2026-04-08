@@ -535,6 +535,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2019gl085782": {
+      "title": "Causes of Higher Climate Sensitivity in CMIP6 Models",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-08",
+      "sources": [
+        "weekly-2020-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/gcb.14904": {
+      "title": "TRY plant trait database – enhanced coverage and open access",
+      "journal": "Global Change Biology",
+      "first_seen": "2026-04-08",
+      "sources": [
+        "weekly-2020-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr025326": {
+      "title": "A Rainfall-Runoff Model With LSTM-Based Sequence-to-Sequence Learning",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-04-08",
+      "sources": [
+        "weekly-2020-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -592,6 +622,22 @@
       "timestamp": "2026-04-08T19:09:23.430096",
       "date": "2026-03-31",
       "papers_found": 1
+    },
+    "weekly-2020-W01": {
+      "type": "weekly",
+      "timestamp": "2026-04-08T22:46:21.637171",
+      "date_from": "2019-12-30",
+      "date_to": "2020-01-05",
+      "papers_found": 3,
+      "sort_mode": "established"
+    },
+    "weekly-2020-W02": {
+      "type": "weekly",
+      "timestamp": "2026-04-08T22:46:21.637279",
+      "date_from": "2020-01-06",
+      "date_to": "2020-01-12",
+      "papers_found": 0,
+      "sort_mode": "established"
     }
   }
 }
