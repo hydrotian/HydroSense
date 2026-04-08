@@ -55,6 +55,55 @@ DEFAULT_TOPICS = [
     "irrigation", "earth system model"
 ]
 
+# Journal ISSNs to exclude from weekly review results.
+#
+# Mega-journals and low-bar venues that flood keyword search with off-topic /
+# low-quality work. ISSN is used (not journal name) so matching is exact and
+# safe — e.g. blocking MDPI *Water* (2073-4441) cannot accidentally catch
+# *Water Resources Research* (1944-7973). Both print and electronic ISSNs are
+# listed where applicable. Hyphens are stripped before comparison.
+#
+# We do NOT impose a positive allowlist — we want the weekly search to keep
+# discovering legitimate unfamiliar journals.
+ISSN_BLOCKLIST = {
+    # MDPI flood
+    '20734441',  # Water (MDPI)
+    '20711050',  # Sustainability (MDPI)
+    '23065338',  # Hydrology (MDPI)
+    '20734433',  # Atmosphere (MDPI)
+    '19961073',  # Energies (MDPI)
+    '20763417',  # Applied Sciences (MDPI)
+    '22279717',  # Processes (MDPI)
+    '16604601',  # IJERPH (MDPI, electronic)
+    '16617827',  # IJERPH (MDPI, print)
+    # Mega / low-bar
+    '24058440',  # Heliyon (Elsevier mega)
+    '19326203',  # PLOS ONE
+    '21693536',  # IEEE Access
+    '09441344',  # Env. Sci. Pollut. Res. (Springer, print)
+    '16147499',  # Env. Sci. Pollut. Res. (Springer, electronic)
+}
+
+
+def _normalize_issn(issn: str) -> str:
+    """Strip hyphens and whitespace, return uppercase. Returns '' for falsy input."""
+    if not issn:
+        return ''
+    return re.sub(r'[^0-9Xx]', '', str(issn)).upper()
+
+
+def is_blocked_issn(issns) -> bool:
+    """Return True if any of the given ISSNs is in the blocklist.
+
+    Accepts a single ISSN string or a list of strings.
+    """
+    if not issns:
+        return False
+    if isinstance(issns, str):
+        issns = [issns]
+    return any(_normalize_issn(i) in ISSN_BLOCKLIST for i in issns)
+
+
 # Relevant fields for filtering S2 results
 RELEVANT_FIELDS = [
     'Environmental Science',
@@ -89,7 +138,7 @@ class SemanticScholarSearch:
                 params = {
                     'query': query,
                     'year': f"{year_from}-{year_to}",
-                    'fields': 'paperId,title,authors,year,venue,externalIds,abstract,fieldsOfStudy,publicationDate,citationCount',
+                    'fields': 'paperId,title,authors,year,venue,publicationVenue,externalIds,abstract,fieldsOfStudy,publicationDate,citationCount',
                     'offset': offset,
                     'limit': batch_size,
                 }
@@ -150,11 +199,21 @@ class SemanticScholarSearch:
 
         fields = [f for f in (item.get('fieldsOfStudy') or [])]
 
+        # Extract ISSN(s) from publicationVenue if available
+        issns = []
+        venue = item.get('publicationVenue') or {}
+        venue_issn = venue.get('issn')
+        if isinstance(venue_issn, list):
+            issns = [i for i in venue_issn if i]
+        elif isinstance(venue_issn, str) and venue_issn:
+            issns = [venue_issn]
+
         return {
             'doi': doi,
             'title': item.get('title', ''),
             'authors': authors,
             'journal': item.get('venue', ''),
+            'issns': issns,
             'publication_date': item.get('publicationDate', ''),
             'abstract': item.get('abstract', ''),
             'type': 'journal-article',
@@ -237,9 +296,16 @@ class OpenAlexSearch:
                 authors.append(name)
 
         journal = ''
+        issns = []
         primary_loc = item.get('primary_location') or {}
         source = primary_loc.get('source') or {}
         journal = source.get('display_name', '')
+        src_issns = source.get('issn')
+        if isinstance(src_issns, list):
+            issns = [i for i in src_issns if i]
+        issn_l = source.get('issn_l')
+        if issn_l and issn_l not in issns:
+            issns.append(issn_l)
 
         abstract = ''
         abstract_inv = item.get('abstract_inverted_index')
@@ -256,6 +322,7 @@ class OpenAlexSearch:
             'title': item.get('title', ''),
             'authors': authors,
             'journal': journal,
+            'issns': issns,
             'publication_date': item.get('publication_date', ''),
             'abstract': abstract,
             'type': 'journal-article',
@@ -286,6 +353,12 @@ def deduplicate_papers(papers: List[Dict]) -> List[Dict]:
                 existing['s2_paper_id'] = paper['s2_paper_id']
             if paper.get('fields_of_study') and not existing.get('fields_of_study'):
                 existing['fields_of_study'] = paper['fields_of_study']
+            # Merge ISSNs from both sources
+            existing_issns = existing.get('issns') or []
+            for new_issn in (paper.get('issns') or []):
+                if new_issn and new_issn not in existing_issns:
+                    existing_issns.append(new_issn)
+            existing['issns'] = existing_issns
             # Track all queries that found this paper
             existing_queries = existing.get('matched_queries', [])
             new_query = paper.get('search_query', '')
@@ -328,6 +401,14 @@ def main():
                         help='Output format (default: json)')
     parser.add_argument('--max-per-topic', type=int, default=50,
                         help='Max papers to fetch per topic per database (default: 50)')
+    parser.add_argument('--max-papers', type=int, default=50,
+                        help='Maximum total papers in the output, after sort and filtering (default: 50)')
+    parser.add_argument('--sort-mode', choices=['auto', 'recent', 'established'], default='auto',
+                        help='Sort strategy. recent: topic+db hits first, citation as tiebreaker. '
+                             'established: citation first, hits as tiebreaker. '
+                             'auto (default): established if to-date is >365 days old, else recent.')
+    parser.add_argument('--no-blocklist', action='store_true',
+                        help='Disable the ISSN blocklist filter (debugging only)')
     args = parser.parse_args()
 
     # Parse topics
@@ -375,8 +456,49 @@ def main():
     unique_papers = deduplicate_papers(all_papers)
     logger.info(f"Unique papers after dedup: {len(unique_papers)}")
 
-    # Sort by citation count (most cited first)
-    unique_papers.sort(key=lambda p: p.get('citation_count', 0), reverse=True)
+    # Filter out blocked journals (mega/low-bar venues — see ISSN_BLOCKLIST)
+    if not args.no_blocklist:
+        before = len(unique_papers)
+        unique_papers = [p for p in unique_papers if not is_blocked_issn(p.get('issns'))]
+        dropped = before - len(unique_papers)
+        if dropped:
+            logger.info(f"Dropped {dropped} papers from blocked journals; {len(unique_papers)} remain")
+
+    # Choose sort strategy.
+    #   recent      → topic+db hits first, citation as tiebreaker (citations
+    #                 are noise on week-old papers)
+    #   established → citation first, hits as tiebreaker (the field has had
+    #                 time to react, citation count is meaningful)
+    #   auto        → established when to-date is more than 365 days old
+    age_days = (datetime.now() - to_date).days
+    sort_mode = args.sort_mode
+    if sort_mode == 'auto':
+        sort_mode = 'established' if age_days > 365 else 'recent'
+    logger.info(f"Sort mode: {sort_mode} (to-date is {age_days} days old)")
+
+    if sort_mode == 'established':
+        unique_papers.sort(
+            key=lambda p: (
+                p.get('citation_count', 0),
+                len(p.get('matched_queries', [])),
+                len(p.get('source_databases', [])),
+            ),
+            reverse=True,
+        )
+    else:  # recent
+        unique_papers.sort(
+            key=lambda p: (
+                len(p.get('matched_queries', [])),
+                len(p.get('source_databases', [])),
+                p.get('citation_count', 0),
+            ),
+            reverse=True,
+        )
+
+    # Cap to max-papers
+    if args.max_papers and len(unique_papers) > args.max_papers:
+        logger.info(f"Capping to top {args.max_papers} papers (from {len(unique_papers)})")
+        unique_papers = unique_papers[:args.max_papers]
 
     # Clean abstracts
     for paper in unique_papers:
@@ -396,6 +518,7 @@ def main():
                     'title': p.get('title', ''),
                     'authors': p.get('authors', []),
                     'journal': p.get('journal', ''),
+                    'issns': p.get('issns', []),
                     'publication_date': p.get('publication_date', ''),
                     'abstract': p.get('abstract', ''),
                     'citation_count': p.get('citation_count', 0),
