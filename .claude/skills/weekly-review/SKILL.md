@@ -31,7 +31,11 @@ WEEK_NUM=$(python -c "import datetime; d=datetime.date.fromisoformat('$WEEKLY_FR
 
 ### Step 2: Read and evaluate the results
 
-Read `/tmp/weekly_review_output.json`. The papers are sorted by citation count (most cited first).
+Read `/tmp/weekly_review_output.json`. Papers are pre-filtered, sorted, and capped by `search.py`:
+
+- An ISSN blocklist removes mega-journals and low-bar venues (MDPI *Water*/*Sustainability*/*Hydrology*/etc., PLOS ONE, Heliyon, IEEE Access, …) — see `ISSN_BLOCKLIST` in `scripts/search.py`.
+- Papers are sorted by topic-hit count + database-hit count (citations are only a tiebreaker for recent searches; for retrofit searches >365 days old the script auto-switches to citation-first).
+- Output is capped at 50 papers (`--max-papers`).
 
 **Relevance evaluation** — narrower than daily harvest. The weekly review intentionally stays focused on the user's core hydrology / ESM-modeling work and excludes the adjacent areas the daily harvest accepts. The reasoning: daily harvest is constrained to top-tier journals so the broader net is manageable, but the weekly keyword search hits ALL journals and would be flooded by adjacent-area papers.
 
@@ -43,11 +47,11 @@ Not relevant: pure atmospheric science, medical/pharma, marine biology, pure geo
 - Ocean / coastal / land-ocean coupling papers (estuaries, river plumes, marine heatwaves, ocean BGC) — keep these in daily harvest only
 - Paleohydrology / Quaternary geology / fluvial geomorphology / river-network evolution / OSL dating / paleo-ESM — keep these in daily harvest only
 
-Filter to only relevant papers. Prioritize:
+Filter to only relevant papers. The script's pre-sort already puts the strongest signals first; your tie-breaking when more papers pass the relevance filter than fit the post should be:
 1. Papers found by multiple search queries (`matched_queries` has 2+ entries)
 2. Papers found in multiple databases (`source_databases` has 2+ entries)
-3. Higher citation counts
-4. Papers from top-tier journals
+3. Papers from well-known journals
+4. Higher citation counts — only meaningful for retrofit searches more than ~6 months old; ignore as a signal for recent (≤6 month) papers
 
 ### Step 3: Check paper registry for duplicates
 
@@ -345,7 +349,7 @@ git push origin main
 
 ## Important Notes
 
-- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not push. Skip entirely.**
+- **If no relevant papers are found after LLM filtering**, write a minimal stub post (EN+ZH) so the week is recorded as processed and the backfill loop can advance past it. Use `paper_count: 0`, set `highlight` to "No relevant papers found this week.", omit the Table of Contents and all theme/paper/statistics sections, and replace the body with a one-line "No relevant papers found for week {{WW}}." Skip `register_papers` but still call `register_run` so the registry knows the week was searched. Commit and push as usual. Do NOT post a tweet (weekly reviews don't tweet anyway).
 - The weekly review complements the daily harvest: daily covers top-tier journals specifically, weekly covers all venues by keyword.
 - Papers appearing in both are strong relevance signals — flag them prominently.
 - Sort themes by significance/impact, not alphabetically.
