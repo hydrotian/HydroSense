@@ -525,6 +525,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-71238-w": {
+      "title": "Marine heatwaves shift ocean net primary productivity from the tropics toward the poles",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-08",
+      "sources": [
+        "daily-2026-03-31"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -576,6 +586,12 @@
       "timestamp": "2026-04-07T14:21:55.774656",
       "date": "2026-03-20",
       "papers_found": 4
+    },
+    "daily-2026-03-31": {
+      "type": "daily",
+      "timestamp": "2026-04-08T19:09:23.430096",
+      "date": "2026-03-31",
+      "papers_found": 1
     }
   }
 }
