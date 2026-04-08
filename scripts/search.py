@@ -39,7 +39,15 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Default topics (same as harvest.py)
+# Default topics for the weekly keyword-based review.
+#
+# Intentionally NARROWER than harvest.py's TOPICS: weekly review stays focused
+# on the user's core hydrology / ESM-modeling work and excludes the adjacent
+# areas (ocean / coastal / land-ocean coupling, paleohydrology / Quaternary /
+# fluvial geomorphology) that are only enabled for the daily top-tier harvest.
+# Daily harvest reads top-tier journals so the broader net is manageable;
+# weekly keyword search hits ALL journals and would be flooded by ocean and
+# paleo papers if those topics were included here.
 DEFAULT_TOPICS = [
     "hydrology", "hydrologic model", "river", "runoff", "streamflow",
     "reservoir", "water management", "flood", "drought", "seasonal",

@@ -33,11 +33,15 @@ WEEK_NUM=$(python -c "import datetime; d=datetime.date.fromisoformat('$WEEKLY_FR
 
 Read `/tmp/weekly_review_output.json`. The papers are sorted by citation count (most cited first).
 
-**Relevance evaluation** — same criteria as daily harvest:
+**Relevance evaluation** — narrower than daily harvest. The weekly review intentionally stays focused on the user's core hydrology / ESM-modeling work and excludes the adjacent areas the daily harvest accepts. The reasoning: daily harvest is constrained to top-tier journals so the broader net is manageable, but the weekly keyword search hits ALL journals and would be flooded by adjacent-area papers.
 
 Relevant: hydrologic modeling, reservoir operations, river routing, water management, flood/drought, climate impacts on water, land surface models, earth system models, ML for water resources, remote sensing for hydrology.
 
 Not relevant: pure atmospheric science, medical/pharma, marine biology, pure geology, social science without hydrology, crop science only.
+
+**Excluded from weekly review (even though daily harvest accepts them):**
+- Ocean / coastal / land-ocean coupling papers (estuaries, river plumes, marine heatwaves, ocean BGC) — keep these in daily harvest only
+- Paleohydrology / Quaternary geology / fluvial geomorphology / river-network evolution / OSL dating / paleo-ESM — keep these in daily harvest only
 
 Filter to only relevant papers. Prioritize:
 1. Papers found by multiple search queries (`matched_queries` has 2+ entries)
@@ -201,6 +205,7 @@ Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-weekly-review.m
 - Translate ALL text to Chinese: headers, theme titles, synthesis paragraphs, labels, descriptions, highlights, abstracts, table headers
 - Keep paper titles in ORIGINAL English (do not translate)
 - Keep author names, journal names, DOIs, URLs unchanged
+- **Keep matched topic values in ORIGINAL English** (e.g. `**匹配主题**: hydrology, streamflow, flood` — never `水文学、水流量、洪水`). Topics come from the search keyword list and must stay in English so they remain searchable and consistent across languages. Only the label `**匹配主题**:` itself is translated.
 - Keep all kramdown directives and markdown formatting exactly the same
 
 **Front matter for Chinese page:**

@@ -38,6 +38,8 @@ This is for a researcher focused on:
 - Climate change impacts on water resources
 - Flood and drought prediction
 - Hydropower and irrigation systems
+- Coastal and estuarine processes where freshwater meets the ocean (collaborates with ocean scientists)
+- Paleohydrology, Quaternary geology, fluvial geomorphology, river-network evolution (background area, still actively interested — especially where it connects to modern river routing and Earth-system modeling)
 
 **Relevant topics include:**
 - Hydrologic/hydraulic modeling at any scale
@@ -49,14 +51,18 @@ This is for a researcher focused on:
 - Land surface models, earth system models
 - Remote sensing for hydrology
 - Machine learning for water resources
+- **Coastal and ocean processes connected to land/freshwater**: estuaries, river plumes, freshwater discharge to the ocean, coastal circulation, sea-level rise impacts on coasts, marine heatwaves, ocean biogeochemistry (especially nutrient/carbon delivery from rivers), coupled land-ocean modeling
+- **Paleohydrology, Quaternary geology, and landscape evolution**: paleoclimate / paleohydrologic reconstructions (Holocene, Pleistocene, Quaternary), drainage network and river-network formation/evolution, river capture, fluvial geomorphology, river terraces, loess–paleosol sequences, luminescence (OSL) dating of fluvial/aeolian deposits, paleo-glacial extents, deep-time Earth System Model simulations (paleo-ESM, e.g. Holocene, LGM, mid-Pliocene)
 
 **NOT relevant (reject):**
 - Pure atmospheric science without hydrology connection
 - Medical, biochemistry, or pharmaceutical studies
-- Marine biology or deep ocean studies
+- Deep-ocean / open-ocean dynamics with no land or freshwater connection (e.g. abyssal circulation, mid-ocean ridge processes, pure marine biology of pelagic species)
 - Pure geology without water connection
 - Social science without technical hydrology content
 - Agricultural studies focused only on crop science
+
+**Note on ocean papers:** The user collaborates with ocean scientists and is interested in land-ocean coupling. Accept ocean papers that have a clear connection to coasts, estuaries, freshwater inputs, river-borne nutrients/carbon, marine heatwaves, or coupled ESM-ocean processes. Only reject ocean papers that are purely about deep-sea or open-ocean dynamics with no land/freshwater linkage.
 
 For each paper, decide: **relevant** or **not relevant**. Keep only relevant papers.
 
@@ -276,6 +282,8 @@ Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-daily-harvest.m
 - Translate ALL text to Chinese: headers, labels, descriptions, highlights, abstracts, table headers, statistics labels
 - Keep paper titles in ORIGINAL English (do not translate)
 - Keep author names, journal names, DOIs, URLs unchanged
+- **Keep matched topic values in ORIGINAL English** (e.g. `**匹配主题**: climate change, river` — never `气候变化, 河流`). Topics come from the harvester's English keyword list and must stay in English so they remain searchable and consistent across languages. Only the label `**匹配主题**:` itself is translated.
+- Keep the topic list under "筛选标准" / Filtering Criteria in ORIGINAL English (the full keyword list from harvest.py)
 - Keep all kramdown directives (`{: .no_toc}`, `{: .label .label-green}`, etc.) exactly the same
 - Keep all markdown formatting (bold, blockquotes, tables, `---` rules) the same
 
@@ -448,7 +456,7 @@ If the tweet fails (missing credentials, API error), log the error but do not fa
 
 ## Important Notes
 
-- **If no relevant papers are found after LLM filtering, STOP. Do not create a post, do not commit, do not push, do not tweet. Just skip this day entirely.**
+- **If no relevant papers are found after LLM filtering**, still create a minimal "no papers" stub post (English + Chinese) so the day is recorded as processed. Use `paper_count: 0`, set `highlight` to a one-line note like "No relevant papers from top-tier journals on this date.", include the same Statistics table (with `After LLM relevance filtering: 0`), and **omit the entire "Top-Tier Journal Papers" section and Table of Contents** (no papers to list). Skip the registry `register_papers` call but still call `register_run` so the day is logged. Commit and push as usual, **but DO NOT post a tweet** for no-paper days.
 - Papers flagged as `important` in the registry (appeared in multiple sources) should be noted with "(Also featured in weekly review)" or similar.
 - Always check the harvest log (`/tmp/harvest_log.txt`) for errors before proceeding.
 - Default harvest date is 8 days ago because same-day papers often get S2 404s.

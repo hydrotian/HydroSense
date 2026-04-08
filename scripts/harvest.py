@@ -141,7 +141,10 @@ JOURNALS = [
 
 # Keywords for relevance filtering
 TOPICS = ["hydrology", "hydrologic model", "river", "runoff", "streamflow", "reservoir", "water management", "flood", "drought",
-          "seasonal", "land surface model", "climate change", "hydropower", "surface water", "irrigation", "earth system model"]
+          "seasonal", "land surface model", "climate change", "hydropower", "surface water", "irrigation", "earth system model",
+          "estuary", "coastal", "freshwater discharge", "river plume", "ocean biogeochemistry", "marine heatwave",
+          "paleohydrology", "paleoclimate", "Quaternary", "Holocene", "Pleistocene", "fluvial geomorphology",
+          "river terrace", "loess", "drainage network", "river capture", "landscape evolution", "luminescence dating"]
 
 # Relevant Semantic Scholar fields for filtering
 RELEVANT_FIELDS = [
