@@ -535,6 +535,76 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl120407": {
+      "title": "Operational Near Real Time Global Riverine Sediment Flux Estimates From Space",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-09",
+      "sources": [
+        "daily-2026-04-01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl121456": {
+      "title": "The Role of Baseflow Data Assimilation in Hydrologic Modeling and Peak Flow Prediction",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-09",
+      "sources": [
+        "daily-2026-04-01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl121486": {
+      "title": "Hydroclimatic Variability Shapes Long-Term Water Balance",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-09",
+      "sources": [
+        "daily-2026-04-01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0298.1": {
+      "title": "Capacity Building on the Use of High-Resolution Climate Change Projections for Impact Studies over Southeast Asia",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-04-09",
+      "sources": [
+        "daily-2026-04-01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0091.1": {
+      "title": "Evaluating the Financial Impact of Soil Moisture Measurements for Livestock Producers in the Upper Missouri River Basin",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-04-09",
+      "sources": [
+        "daily-2026-04-01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-24-0011.1": {
+      "title": "Tabletop Atmospheric Rivers",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-04-09",
+      "sources": [
+        "daily-2026-04-01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-71321-2": {
+      "title": "Global hotspots of particulate organic carbon losses under climate change",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-09",
+      "sources": [
+        "daily-2026-04-01"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -592,6 +662,12 @@
       "timestamp": "2026-04-08T19:09:23.430096",
       "date": "2026-03-31",
       "papers_found": 1
+    },
+    "daily-2026-04-01": {
+      "type": "daily",
+      "timestamp": "2026-04-09T10:36:42.824347",
+      "date": "2026-04-01",
+      "papers_found": 7
     }
   }
 }
