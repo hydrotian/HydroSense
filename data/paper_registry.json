@@ -655,6 +655,146 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41586-025-09047-2": {
+      "title": "Warming accelerates global drought severity",
+      "journal": "Nature",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024GL111442": {
+      "title": "Tracking 3D Drought Events Across Global River Basins",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-025-02289-y": {
+      "title": "Decreasing dynamic predictability of global agricultural drought with warming climate",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-17-837-2025": {
+      "title": "A new high-resolution multi-drought-index dataset for mainland China",
+      "journal": "Earth System Science Data",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-025-56654-8": {
+      "title": "The role of climate and population change in global flood exposure and vulnerability",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.ads2659": {
+      "title": "The Sikkim flood of October 2023",
+      "journal": "Science",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-025-08647-2": {
+      "title": "Increasing hourly heavy rainfall in Austria reflected in flood changes",
+      "journal": "Nature",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.hydres.2024.12.001": {
+      "title": "Prediction of runoff at ungauged areas employing interpolation techniques and deep learning algorithm",
+      "journal": "HydroResearch",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs17030524": {
+      "title": "A Systematic Review of Urban Flood Susceptibility Mapping",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gloplacha.2025.104831": {
+      "title": "Flood susceptibility assessment and mapping using GIS-based AHP",
+      "journal": "Global and Planetary Change",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-025-97008-0": {
+      "title": "Future flood susceptibility mapping under climate and land use change",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-024-00367-7": {
+      "title": "Decoupling of surface water storage from precipitation in global drylands",
+      "journal": "Nature Water",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s41101-025-00344-5": {
+      "title": "Urban Water Stress: Climate Change Implications for Water Supply",
+      "journal": "Water Conservation Science and Engineering",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-17-2135-2025": {
+      "title": "Global Stable Isotope Dataset for Surface Water",
+      "journal": "Earth System Science Data",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "weekly-2025-W51"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -724,6 +864,52 @@
       "timestamp": "2026-04-10T10:26:23.198332",
       "date": "2026-04-02",
       "papers_found": 5
+    },
+    "weekly-2025-W51": {
+      "type": "weekly",
+      "timestamp": "2026-04-10T11:41:26.630016",
+      "date": "2025-12-21",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2025-W52": {
+      "type": "weekly",
+      "timestamp": "2026-04-10T11:42:53.111523",
+      "date": "2025-12-28",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
