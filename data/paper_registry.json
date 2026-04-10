@@ -605,6 +605,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41561-026-01953-y": {
+      "title": "Global net increase in surface water connectivity in river–floodplain systems",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "daily-2026-04-02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.ady7970": {
+      "title": "Onset of millennial climate variability with the intensification of Northern Hemisphere glaciation",
+      "journal": "Science",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "daily-2026-04-02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl118531": {
+      "title": "Distinct Characteristics of Contiguous Heatwaves Across Terrestrial, Marine, and Coastal Environments",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "daily-2026-04-02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl119415": {
+      "title": "Increased Arctic Sea-Ice Variability Is Associated With Amplified Air-Sea Heat Fluxes",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "daily-2026-04-02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl121482": {
+      "title": "Mass Addition to Timpanogos Rock Glacier: Debris-Covered Snow and the Importance of Interannual Variability in Headwall Erosion and Climate",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-10",
+      "sources": [
+        "daily-2026-04-02"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -668,6 +718,12 @@
       "timestamp": "2026-04-09T10:36:42.824347",
       "date": "2026-04-01",
       "papers_found": 7
+    },
+    "daily-2026-04-02": {
+      "type": "daily",
+      "timestamp": "2026-04-10T10:26:23.198332",
+      "date": "2026-04-02",
+      "papers_found": 5
     }
   }
 }
