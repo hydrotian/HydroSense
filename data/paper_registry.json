@@ -190,20 +190,22 @@
       "journal": "Water Resources Research",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W01"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2024EF005714": {
       "title": "Understanding the Dynamics of Record-Shattering Compound Drought-Heatwave Events",
       "journal": "Earths Future",
       "first_seen": "2026-03-30",
       "sources": [
-        "weekly-2026-W12"
+        "weekly-2026-W12",
+        "weekly-2026-W01"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s43247-026-03213-8": {
       "title": "Constraining climate model projections with observations amplifies future runoff declines",
@@ -655,6 +657,216 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-025-67862-7": {
+      "title": "Drought impacts on crop production",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41893-025-01720-8": {
+      "title": "Water resource synergies",
+      "journal": "Nature Sustainability",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.nbsj.2025.100298": {
+      "title": "Chile native forest NBS",
+      "journal": "Nature-Based Solutions",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024WR039476": {
+      "title": "CYGNSS Vision Transformer soil moisture",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025JH000889": {
+      "title": "DeepRec TWS reconstruction",
+      "journal": "JGR Machine Learning and Computation",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-025-28200-5": {
+      "title": "Groundwater deep learning",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rse.2025.115201": {
+      "title": "Delta-X remote sensing",
+      "journal": "Remote Sensing of Environment",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.pce.2025.104263": {
+      "title": "Indus snow hydrology",
+      "journal": "Physics and Chemistry of the Earth",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/hyp.70361": {
+      "title": "Geomorphology SW-GW interactions",
+      "journal": "Hydrological Processes",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2025.134828": {
+      "title": "Socio-hydrology",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2025.134851": {
+      "title": "Rainfall patterns",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2025-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025EF006934": {
+      "title": "Four Decades of Baseflow Drought Analysis",
+      "journal": "Earth's Future",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025WR040076": {
+      "title": "Functional Realism of Deep Learning Rainfall-Runoff Models",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11269-025-04420-2": {
+      "title": "Two-Stage LSTM with XAJ and EEMD",
+      "journal": "Water Resources Management",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2025.134899": {
+      "title": "Deep learning cascade reservoir optimization",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025AV002053": {
+      "title": "Pacific Rim Water Towers Runoff Reconstruction",
+      "journal": "AGU Advances",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-025-03136-w": {
+      "title": "Upper Colorado River Basin runoff efficiency",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024WR039571": {
+      "title": "Soil Moisture-Runoff Coupling with remote sensing",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024RG000839": {
+      "title": "Frozen Soil Hydrological Processes Review",
+      "journal": "Reviews of Geophysics",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/hyp.70375": {
+      "title": "Sweep Parameters in Bucket-Type Hydrological Models",
+      "journal": "Hydrological Processes",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2025.134888": {
+      "title": "Climate change amplifies land-use impacts on nitrogen export",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-04-11",
+      "sources": [
+        "weekly-2026-W01"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -724,6 +936,22 @@
       "timestamp": "2026-04-10T10:26:23.198332",
       "date": "2026-04-02",
       "papers_found": 5
+    },
+    "weekly-2025-W52": {
+      "type": "weekly",
+      "timestamp": "2026-04-11T11:48:36.388332",
+      "from_date": "2025-12-22",
+      "to_date": "2025-12-28",
+      "paper_count": 11,
+      "sort_mode": "established"
+    },
+    "weekly-2026-W01": {
+      "type": "weekly",
+      "timestamp": "2026-04-11T11:48:36.388405",
+      "from_date": "2025-12-29",
+      "to_date": "2026-01-04",
+      "paper_count": 12,
+      "sort_mode": "established"
     }
   }
 }
