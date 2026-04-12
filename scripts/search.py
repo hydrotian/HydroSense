@@ -401,8 +401,8 @@ def main():
                         help='Output format (default: json)')
     parser.add_argument('--max-per-topic', type=int, default=50,
                         help='Max papers to fetch per topic per database (default: 50)')
-    parser.add_argument('--max-papers', type=int, default=50,
-                        help='Maximum total papers in the output, after sort and filtering (default: 50)')
+    parser.add_argument('--max-papers', type=int, default=0,
+                        help='Maximum total papers in the output, after sort and filtering (0 = no cap, default: 0)')
     parser.add_argument('--sort-mode', choices=['auto', 'recent', 'established'], default='auto',
                         help='Sort strategy. recent: topic+db hits first, citation as tiebreaker. '
                              'established: citation first, hits as tiebreaker. '

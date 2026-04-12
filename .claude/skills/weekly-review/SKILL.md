@@ -35,7 +35,7 @@ Read `/tmp/weekly_review_output.json`. Papers are pre-filtered, sorted, and capp
 
 - An ISSN blocklist removes mega-journals and low-bar venues (MDPI *Water*/*Sustainability*/*Hydrology*/etc., PLOS ONE, Heliyon, IEEE Access, …) — see `ISSN_BLOCKLIST` in `scripts/search.py`.
 - Papers are sorted by topic-hit count + database-hit count (citations are only a tiebreaker for recent searches; for retrofit searches >365 days old the script auto-switches to citation-first).
-- Output is capped at 50 papers (`--max-papers`).
+- By default, search.py outputs all papers (no cap). The LLM reads the full list and selects the most relevant ones.
 
 **Relevance evaluation** — narrower than daily harvest. The weekly review intentionally stays focused on the user's core hydrology / ESM-modeling work and excludes the adjacent areas the daily harvest accepts. The reasoning: daily harvest is constrained to top-tier journals so the broader net is manageable, but the weekly keyword search hits ALL journals and would be flooded by adjacent-area papers.
 
@@ -47,11 +47,21 @@ Not relevant: pure atmospheric science, medical/pharma, marine biology, pure geo
 - Ocean / coastal / land-ocean coupling papers (estuaries, river plumes, marine heatwaves, ocean BGC) — keep these in daily harvest only
 - Paleohydrology / Quaternary geology / fluvial geomorphology / river-network evolution / OSL dating / paleo-ESM — keep these in daily harvest only
 
-Filter to only relevant papers. The script's pre-sort already puts the strongest signals first; your tie-breaking when more papers pass the relevance filter than fit the post should be:
+Filter to only relevant papers. **Select up to 50 papers maximum** for the final post. Prioritization depends on whether this is a recent or retrofit search:
+
+**Recent searches (≤6 months old):** Citation counts are noise — prioritize by:
 1. Papers found by multiple search queries (`matched_queries` has 2+ entries)
 2. Papers found in multiple databases (`source_databases` has 2+ entries)
 3. Papers from well-known journals
-4. Higher citation counts — only meaningful for retrofit searches more than ~6 months old; ignore as a signal for recent (≤6 month) papers
+4. Citation count (tiebreaker only)
+
+**Retrofit searches (>6 months old, e.g. backfill runs):** Citation counts are meaningful and should be a primary factor — prioritize by:
+1. Higher citation counts — the field has had time to react, highly cited papers are proven important
+2. Papers found by multiple search queries (`matched_queries` has 2+ entries)
+3. Papers found in multiple databases (`source_databases` has 2+ entries)
+4. Papers from well-known journals
+
+Check the `--from-date` / `--to-date` passed to search.py to determine which mode applies.
 
 ### Step 3: Check paper registry for duplicates
 
