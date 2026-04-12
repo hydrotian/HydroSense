@@ -655,6 +655,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl120190": {
+      "title": "ENSO-Mediated Linkage Between the East Asian Summer Monsoon and Cordilleran Ice Sheet Discharge During MIS 3",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "daily-2026-04-04"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -724,6 +734,12 @@
       "timestamp": "2026-04-10T10:26:23.198332",
       "date": "2026-04-02",
       "papers_found": 5
+    },
+    "daily-2026-04-04": {
+      "type": "daily",
+      "timestamp": "2026-04-12T10:05:13.132401",
+      "date": "2026-04-04",
+      "papers_found": 1
     }
   }
 }
