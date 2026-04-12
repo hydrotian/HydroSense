@@ -665,6 +665,66 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2516197123": {
+      "title": "Reefense: Living shoreline mosaics can achieve ecological and engineering outcomes with interdisciplinary design",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "daily-2026-04-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120535": {
+      "title": "Concurrent Variations in Air-Sea Heat Fluxes and Sea Ice Extensions Under Cold-Air Outbreaks: The First Joint Buoy-Cruise Observational Results in the Bohai Sea",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "daily-2026-04-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120435": {
+      "title": "Quantifying Sources of Subseasonal Prediction Skill in CESM2 Within a Perfect Modeling Framework",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "daily-2026-04-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-71216-2": {
+      "title": "Permafrost landsystems define regional variability in climate change effects on northern environments",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "daily-2026-04-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-71359-2": {
+      "title": "Föhn-induced melting over Larsen C modulated by atmospheric river shape, direction and landfall location",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "daily-2026-04-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-70428-w": {
+      "title": "Subglacial water flow and ice dynamics during glacial lake outburst floods observed from space",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "daily-2026-04-03"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -740,6 +800,12 @@
       "timestamp": "2026-04-12T10:05:13.132401",
       "date": "2026-04-04",
       "papers_found": 1
+    },
+    "daily-2026-04-03": {
+      "type": "daily",
+      "timestamp": "2026-04-12T10:10:24.717285",
+      "date": "2026-04-03",
+      "papers_found": 6
     }
   }
 }
