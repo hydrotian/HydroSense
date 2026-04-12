@@ -725,6 +725,316 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2019MS001916": {
+      "title": "The Community Earth System Model Version 2 (CESM2)",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-70816-2": {
+      "title": "Climate change impact on flood and extreme precipitation increases with water availability",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/biosci/biaa002": {
+      "title": "Bending the Curve of Global Freshwater Biodiversity Loss: An Emergency Recovery Plan",
+      "journal": "BioScience",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-020-0731-2": {
+      "title": "Insights from Earth system model initial-condition large ensembles and future prospects",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-6165-2020": {
+      "title": "Overview of the Norwegian Earth System Model (NorESM2) and key climate response of CMIP6 DECK, historical, and scenario simulations",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43017-019-0019-0": {
+      "title": "River dam impacts on biogeochemical cycling",
+      "journal": "Nature Reviews Earth & Environment",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019EF001461": {
+      "title": "Twenty‐First Century Drought Projections in the CMIP6 Forcing Scenarios",
+      "journal": "Earth's Future",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125188": {
+      "title": "Short-term runoff prediction with GRU and LSTM networks without requiring time step optimization during sample generation",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019WR025326": {
+      "title": "A Rainfall‐Runoff Model With LSTM‐Based Sequence‐to‐Sequence Learning",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019MS002015": {
+      "title": "The GFDL Earth System Model Version 4.1 (GFDL‐ESM 4.1): Overall Coupled Model Description and Simulation Characteristics",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aaz5492": {
+      "title": "On the essentials of drought in a changing climate",
+      "journal": "Science",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1071/es19035": {
+      "title": "The Australian Earth System Model: ACCESS-ESM1.5",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-2197-2020": {
+      "title": "Development of the MIROC-ES2L Earth system model and the evaluation of biogeochemical processes and feedbacks",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.earscirev.2020.103348": {
+      "title": "Challenges for drought assessment in the Mediterranean region under future climate scenarios",
+      "journal": "Earth-Science Reviews",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gsf.2020.09.006": {
+      "title": "Flood susceptibility modelling using advanced ensemble machine learning models",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.31223/osf.io/xs36g": {
+      "title": "A Comprehensive Review of Deep Learning Applications in Hydrology and Water Resources",
+      "journal": "Water Science and Technology",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-61136-6": {
+      "title": "The Global Flood Protection Benefits of Mangroves",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rse.2020.111664": {
+      "title": "Rapid and robust monitoring of flood events using Sentinel-1 and Landsat data on the Google Earth Engine",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020GL087820": {
+      "title": "Robust Future Changes in Meteorological Drought in CMIP6 Projections Despite Uncertainty in Precipitation",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.neucom.2020.04.110": {
+      "title": "Interpretable spatio-temporal attention LSTM model for flood forecasting",
+      "journal": "Neurocomputing",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.atmosres.2020.105375": {
+      "title": "Insight from CMIP6 SSP-RCP scenarios for future drought characteristics in China",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-19-0084.1": {
+      "title": "Future Global Meteorological Drought Hot Spots: A Study Based on CORDEX Data",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019MS001882": {
+      "title": "The Chemistry Mechanism in the Community Earth System Model Version 2 (CESM2)",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-68872-9": {
+      "title": "Increased future occurrences of the exceptional 2018–2019 Central European drought under global warming",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125275": {
+      "title": "Flood susceptibility mapping with machine learning, multi-criteria decision analysis and ensemble using Dempster Shafer Theory",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aay9187": {
+      "title": "Colorado River flow dwindles as warming-driven loss of reflective snow energizes evaporation",
+      "journal": "Science",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124631": {
+      "title": "Exploring a Long Short-Term Memory based Encoder-Decoder framework for multi-step-ahead flood forecasting",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2019.105832": {
+      "title": "Coping with salinity in irrigated agriculture: Crop evapotranspiration and water management issues",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12020266": {
+      "title": "Flood Detection and Susceptibility Mapping Using Sentinel-1 Remote Sensing Data and a Machine Learning Approach: Hybrid Intelligence of Bagging Ensemble Based on K-Nearest Neighbor Classifier",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-18-0326.1": {
+      "title": "Windows of Opportunity for Skillful Forecasts Subseasonal to Seasonal and Beyond",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jece.2020.104599": {
+      "title": "River water quality index prediction and uncertainty analysis: A comparative study of machine learning models",
+      "journal": "",
+      "first_seen": "2026-04-12",
+      "sources": [
+        "weekly-2020-W02"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -806,6 +1116,29 @@
       "timestamp": "2026-04-12T10:10:24.717285",
       "date": "2026-04-03",
       "papers_found": 6
+    },
+    "weekly-2020-W02": {
+      "type": "weekly",
+      "timestamp": "2026-04-12T12:35:53.865827",
+      "date": "2020-01-12",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
