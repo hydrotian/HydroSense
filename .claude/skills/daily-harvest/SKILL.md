@@ -143,6 +143,10 @@ highlight: "{{One sentence tweet-style summary of the most notable finding}}"
 **Matched topics**: {{topic1, topic2}}
 {: .label .label-green }
 
+{% if hero_image_url is non-empty %}
+![Figure]({{hero_image_url}})
+{% endif %}
+
 > {{Abstract text. Use the full abstract if available. If no abstract, write "Abstract not available."}}
 
 ---
@@ -179,6 +183,7 @@ highlight: "{{One sentence tweet-style summary of the most notable finding}}"
 - The Table of Contents section MUST be included exactly as shown
 - Each paper's matched topics MUST have `{: .label .label-green }` on the next line
 - Abstracts MUST be in blockquotes (lines starting with `> `)
+- If a paper has a non-empty `hero_image_url` in the JSON, embed it as `![Figure](URL)` between the matched-topics label and the abstract blockquote. Omit the image line entirely if the field is empty.
 - Papers MUST be separated by `---` horizontal rules
 - Author list: if more than 6 authors, show first 6 then "et al."
 - Tables use left-aligned text columns (`:-------`) and right-aligned number columns (`------:`)
@@ -286,6 +291,7 @@ Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-daily-harvest.m
 - Keep the topic list under "筛选标准" / Filtering Criteria in ORIGINAL English (the full keyword list from harvest.py)
 - Keep all kramdown directives (`{: .no_toc}`, `{: .label .label-green}`, etc.) exactly the same
 - Keep all markdown formatting (bold, blockquotes, tables, `---` rules) the same
+- Keep hero images (`![Figure](URL)`) exactly the same as the English version — same URL, same placement
 
 **Front matter for Chinese page:**
 ```yaml

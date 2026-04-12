@@ -47,6 +47,8 @@ A Nature Communications study uses a global regression framework to show that ma
 **Matched topics**: river, marine heatwave
 {: .label .label-green }
 
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71238-w/MediaObjects/41467_2026_71238_Fig1_HTML.png)
+
 > Marine heatwaves (MHWs), prolonged extreme thermal events, are reshaping ocean ecosystems, yet their influence on global productivity patterns remains poorly understood. Here, we use a global regression framework to disentangle linear thermal effect from nonlinear feedback and demonstrate that MHWs restructure the dominant drivers of ocean net primary production (NPP). MHWs induce a regime shift from sea surface temperature (SST)-independent to SST-dependent controls on NPP anomaly, reflecting an enhanced thermal effect in response to extreme warming. MHW suppressed the NPP anomaly across nutrient-poor low latitudes but increased it in nutrient-rich higher latitudes. The contrasting responses arise from differences in nutrient baselines, with low-nutrient regions exhibiting greater sensitivity to extreme warming. Together, these results reveal an emerging poleward redistribution of ocean productivity and highlight the need to incorporate MHWs into projections of marine ecosystem resilience and climate–biosphere feedbacks.
 
 ---

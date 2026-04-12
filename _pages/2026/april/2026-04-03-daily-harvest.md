@@ -86,6 +86,8 @@ A compelling set of cryosphere and coastal papers headlines today's harvest. A N
 **Matched topics**: climate change
 {: .label .label-green }
 
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71216-2/MediaObjects/41467_2026_71216_Fig1_HTML.png)
+
 > Anticipating the environmental and societal consequences of climate-driven permafrost thaw requires knowledge of terrain and subsurface conditions, which prove challenging to obtain at spatial scales necessary for rigorous prediction and decision-making. Analysis of a systematic inventory of permafrost landforms across northwestern Canada demonstrates that landform assemblages co-develop with ecosystems, distinguishing fundamental permafrost properties across a continental-scale ecoclimatic gradient (10⁶ km²) and among finer-scale ecological regions (10³ to 10⁴ km²). This approach quantifies variation in geological and climatic legacies and delineates the diverse consequences of thaw. Here we show that permafrost landsystems, defined by characteristic landform assemblages, express spatial variation in soil, ground ice, geochemical, and carbon characteristics, enabling these intrinsic conditions to be inferred at regional scales through integrated mapping and analyses. Permafrost landsystems also provide a conceptual framework to inform predictions of thaw-driven change, and to formulate, share, and apply permafrost knowledge across scales, disciplines, and ways of knowing.
 
 ---
@@ -99,6 +101,8 @@ A compelling set of cryosphere and coastal papers headlines today's harvest. A N
 **Matched topics**: river, climate change, coastal
 {: .label .label-green }
 
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71359-2/MediaObjects/41467_2026_71359_Fig1_HTML.png)
+
 > Recent decades have seen record-high temperatures on the Antarctic Peninsula (AP) due to combined atmospheric rivers (ARs) and föhn warming. While ARs frequently enhance föhn, not all events cause surface warming over the entire Larsen C Ice Shelf (LCIS). Using high-resolution Polar WRF simulations, we examine the relationship between ARs and föhn over the AP during austral summers and identify four distinct AR shapes associated with föhn-induced surface warming over the LCIS: zonal-perpendicular, zonal-like, convex, and concave. Zonal-like ARs associated with coupled low-high-pressure systems and convex ARs linked to blocking highs produce strong föhn warming across the entire LCIS, primarily affecting its northern and southern sectors, respectively. In contrast, zonal-perpendicular and concave ARs generate moderate-to-weak warming, owing to either weaker AR intensity or AR curvature. Although downward shortwave radiation dominates surface warming, enhanced moisture suppresses its increase from föhn-induced cloud clearance while enhancing downward longwave radiation near mountain gaps. Sensible heat flux also contributes substantially along the mountain foothills. As ARs intensify under climate change, their interaction with föhn over the AP can critically influence the future stability of coastal ice shelves.
 
 ---
@@ -111,6 +115,8 @@ A compelling set of cryosphere and coastal papers headlines today's harvest. A N
 
 **Matched topics**: flood
 {: .label .label-green }
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-70428-w/MediaObjects/41467_2026_70428_Fig1_HTML.png)
 
 > Glacial lake outburst floods (jökulhlaups) are challenging to study because they often take place below hundreds of meters of ice, and the complex interplay between lifting of the glacier and melting of the flood path is not well understood. Here, we provide unique insights into the mechanics of jökulhlaups and how they affect three-dimensional glacier motion using satellite synthetic aperture radar (SAR) and field observations, acquired before, during and after two recent jökulhlaups (in 2021 and 2022) from the subglacial lake Grímsvötn in Iceland. The results indicate that the same event may alternate between channel flow and sheet flow and that ponding of water along the subglacial flood path can play a major role in jökulhlaup dynamics. This has important implications for physical jökulhlaup modeling and for better understanding the role of subglacial hydraulics on glacier dynamics, required for improved predictions of the future evolution of glaciers and ice sheets.
 
