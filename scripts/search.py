@@ -446,6 +446,12 @@ def main():
     for topic in topics:
         logger.info(f"Searching topic: '{topic}'")
         s2_papers = s2.search_papers(topic, year_from, year_to, limit=args.max_per_topic)
+        # S2 only filters by year, not exact dates — post-filter to the
+        # requested date range so weekly searches don't repeat the same
+        # full-year pool every week.
+        s2_papers = [p for p in s2_papers
+                     if p.get('publication_date', '') >= from_str
+                     and p.get('publication_date', '') <= to_str]
         oa_papers = openalex.search_papers(topic, from_str, to_str, limit=args.max_per_topic)
         all_papers.extend(s2_papers)
         all_papers.extend(oa_papers)
