@@ -1035,6 +1035,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl119088": {
+      "title": "Characterizing Improvements in Ensemble Forecast Performance Over the Last Decade: A Retrospective Analysis of the Hydrologic Ensemble Forecast Service (HEFS)",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-13",
+      "sources": [
+        "daily-2026-04-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl119841": {
+      "title": "Understanding the Evolution of Global Atmospheric Rivers With a Vapor Kinetic Energy Framework",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-13",
+      "sources": [
+        "daily-2026-04-05"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1139,6 +1159,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-04-05": {
+      "type": "daily",
+      "timestamp": "2026-04-13T10:26:13.426668",
+      "date": "2026-04-05",
+      "papers_found": 2
     }
   }
 }
