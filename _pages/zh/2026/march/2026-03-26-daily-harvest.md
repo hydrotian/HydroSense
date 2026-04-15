@@ -59,6 +59,8 @@ highlight: "SWOT卫星探测到2025年堪察加地震引发的色散海啸。"
 **匹配主题**: river, climate change
 {: .label .label-green }
 
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71187-4/MediaObjects/41467_2026_71187_Fig1_HTML.png)
+
 > 热带降水在气候系统中发挥着核心作用，深刻影响着生态系统和人类社会。本研究表明，近期热带降水变化主要受人为气候变化导致的空间异质性海表温度模式驱动。这些发现对于理解和预测持续变暖背景下热带地区的降水变率和趋势具有重要意义。
 
 ---
@@ -71,6 +73,8 @@ highlight: "SWOT卫星探测到2025年堪察加地震引发的色散海啸。"
 
 **匹配主题**: river, flood
 {: .label .label-green }
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-70940-z/MediaObjects/41467_2026_70940_Fig1_HTML.png)
 
 > 1992至2024年间，长江流域发生了六次重大夏季季风洪水，而1960至1991年间仅发生一次。这一水文气候极端事件的显著增加影响了数百万人。本研究将这一转变与调控东亚水汽输送的印度洋波动机制变化联系起来，为理解全球最大河流流域之一洪水频率增加的驱动因素提供了新的机制性认识。
 

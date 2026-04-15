@@ -329,6 +329,23 @@ def fetch_hero_image(doi: str, timeout: int = 10) -> str:
                 # Reject tiny 1x1 trackers or obvious logos
                 if url and not url.endswith('.svg') and 'logo' not in url.lower():
                     return url
+        # Fallback: construct Nature/Springer figure URL directly.
+        # Nature Comm and some other journals don't set og:image but serve
+        # figures at a predictable MediaObjects path.
+        nature_m = re.match(r'10\.1038/s(\d+)-0?(\d{2})-(\d+)', doi)
+        if nature_m:
+            journal, yr, num = nature_m.group(1), nature_m.group(2), nature_m.group(3)
+            encoded = doi.replace('/', '%2F')
+            constructed = (
+                f"https://media.springernature.com/m685/springer-static/image/"
+                f"art%3A{encoded}/MediaObjects/{journal}_20{yr}_{num}_Fig1_HTML.png"
+            )
+            try:
+                head_r = requests.head(constructed, timeout=5, headers=headers)
+                if head_r.status_code == 200:
+                    return constructed
+            except Exception:
+                pass
         return ''
     except Exception as e:
         logger.debug(f"hero image fetch failed for {doi}: {e}")

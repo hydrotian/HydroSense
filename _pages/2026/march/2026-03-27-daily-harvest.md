@@ -47,6 +47,8 @@ A study in Nature Communications evaluates cost-emission trade-offs in electrifi
 **Matched topics**: irrigation
 {: .label .label-green }
 
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71122-7/MediaObjects/41467_2026_71122_Fig1_HTML.png)
+
 > Irrigated agriculture enhances crop yields and climate resilience but also contributes to CO₂ emissions through energy use. Here, we apply energy system modeling to evaluate cost-emission trade-offs in electrified irrigation across the United States, integrating hourly energy production and historical water demand. We find that current practices are highly inefficient, leading to 23% (0.89 billion US dollar) higher costs and 39% (3.8 million metric tons of CO2) more CO2 emissions compared to the cost-optimal scenario, primarily due to reliance on diesel water pumps and limited solar photovoltaic adoption. Under cost-optimal conditions, 6.6 gigawatt of solar photovoltaic is deployed, and electric water pump installation capacity increase by 14% (11.3 106 m3h-1) relative to current levels. Emission reductions of 85% are achievable at marginal additional cost (+0.7%), whereas reaching net-zero roughly doubles system costs relative to business-as-usual. Renewable-powered electrified irrigation can thus deliver substantial, low-cost emission reductions but requires operational adaptation to solar-based systems.
 
 ---

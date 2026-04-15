@@ -60,6 +60,8 @@ A strong day for hydrology-relevant research. A Science paper demonstrates SWOT 
 **Matched topics**: river, climate change
 {: .label .label-green }
 
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71187-4/MediaObjects/41467_2026_71187_Fig1_HTML.png)
+
 > Tropical rainfall plays a central role in the climate system, shaping ecosystems and societies. This study shows that recent tropical rainfall changes are primarily driven by spatially heterogeneous sea surface temperature patterns resulting from anthropogenic climate change. The findings have important implications for understanding and predicting precipitation variability and trends in the tropics under continued warming.
 
 ---
@@ -72,6 +74,8 @@ A strong day for hydrology-relevant research. A Science paper demonstrates SWOT 
 
 **Matched topics**: river, flood
 {: .label .label-green }
+
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-70940-z/MediaObjects/41467_2026_70940_Fig1_HTML.png)
 
 > Six major summer monsoon floods occurred in the Yangtze Basin during 1992–2024 compared to only one during 1960–1991. This significant increase in hydroclimatic extremes affected millions of people. The study links this shift to changes in the Indian Ocean wave regime that modulates moisture transport to East Asia, providing a new mechanistic understanding of the drivers behind increased flood frequency in one of the world's largest river basins.
 

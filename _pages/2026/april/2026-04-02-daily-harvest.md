@@ -47,6 +47,8 @@ A landmark study in Nature Geoscience reveals a global net increase in surface w
 **Matched topics**: river, flood, surface water
 {: .label .label-green }
 
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-01953-y/MediaObjects/41561_2026_1953_Fig1_HTML.png)
+
 > Abstract not available.
 
 ---

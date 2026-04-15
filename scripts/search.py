@@ -401,8 +401,8 @@ def main():
                         help='Output format (default: json)')
     parser.add_argument('--max-per-topic', type=int, default=50,
                         help='Max papers to fetch per topic per database (default: 50)')
-    parser.add_argument('--max-papers', type=int, default=50,
-                        help='Maximum total papers in the output, after sort and filtering (default: 50)')
+    parser.add_argument('--max-papers', type=int, default=0,
+                        help='Maximum total papers in the output, after sort and filtering (0 = no cap, default: 0)')
     parser.add_argument('--sort-mode', choices=['auto', 'recent', 'established'], default='auto',
                         help='Sort strategy. recent: topic+db hits first, citation as tiebreaker. '
                              'established: citation first, hits as tiebreaker. '
@@ -446,6 +446,12 @@ def main():
     for topic in topics:
         logger.info(f"Searching topic: '{topic}'")
         s2_papers = s2.search_papers(topic, year_from, year_to, limit=args.max_per_topic)
+        # S2 only filters by year, not exact dates — post-filter to the
+        # requested date range so weekly searches don't repeat the same
+        # full-year pool every week.
+        s2_papers = [p for p in s2_papers
+                     if p.get('publication_date', '') >= from_str
+                     and p.get('publication_date', '') <= to_str]
         oa_papers = openalex.search_papers(topic, from_str, to_str, limit=args.max_per_topic)
         all_papers.extend(s2_papers)
         all_papers.extend(oa_papers)

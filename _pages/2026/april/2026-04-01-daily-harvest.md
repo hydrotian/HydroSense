@@ -125,6 +125,8 @@ A strong day for remote sensing and hydrologic modeling. A new operational syste
 **Matched topics**: climate change
 {: .label .label-green }
 
+![Figure](https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-71321-2/MediaObjects/41467_2026_71321_Fig1_HTML.png)
+
 > Soil organic carbon (SOC) comprises particulate (POC) and mineral-associated organic carbon (MAOC), which differ in formation, stabilization, and loss mechanisms. While the current global distribution of POC and MAOC is characterized, their vulnerability under future climate scenarios remains unclear. Using 3284 topsoil (0-30 cm) observations from six continents, we identify high-latitude soils as global hotspots of SOC vulnerability under shared socioeconomic pathway scenarios (SSP126, SSP245, SSP585), with POC showing greater sensitivity to climate change than MAOC.
 
 ---
