@@ -1055,6 +1055,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s44221-026-00617-w": {
+      "title": "Variable renewables fortify Ecuador's power system against recurrences of drought-driven energy crises",
+      "journal": "Nature Water",
+      "first_seen": "2026-04-15",
+      "sources": [
+        "daily-2026-04-07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl118822": {
+      "title": "Compound Hot-Dry Extremes Amplify Disproportionate Climate Risks for Low-Income Nations",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-15",
+      "sources": [
+        "daily-2026-04-07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl117102": {
+      "title": "Assessing Aerosol Wet Removal Efficiency in Conventional and Multiscale Modeling Framework Configurations of the Community Earth System Model",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-15",
+      "sources": [
+        "daily-2026-04-07"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1165,6 +1195,12 @@
       "timestamp": "2026-04-13T10:26:13.426668",
       "date": "2026-04-05",
       "papers_found": 2
+    },
+    "daily-2026-04-07": {
+      "type": "daily",
+      "timestamp": "2026-04-15T10:17:12.893229",
+      "date": "2026-04-07",
+      "papers_found": 3
     }
   }
 }
