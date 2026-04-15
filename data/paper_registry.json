@@ -656,6 +656,12 @@
       "appearance_count": 1,
       "important": false
     },
+    "10.1029/2025gl118781": {
+      "title": "Blocked Coastal Propagation Inhibits Model Representation of Southeast United States Coastal Sea Level Variability",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-14",
+      "sources": [
+        "daily-2026-04-06"
     "10.1029/2025gl120190": {
       "title": "ENSO-Mediated Linkage Between the East Asian Summer Monsoon and Cordilleran Ice Sheet Discharge During MIS 3",
       "journal": "Geophysical Research Letters",
@@ -1155,6 +1161,11 @@
       "date": "2026-04-02",
       "papers_found": 5
     },
+    "daily-2026-04-06": {
+      "type": "daily",
+      "timestamp": "2026-04-14T10:12:27.871431",
+      "date": "2026-04-06",
+      "papers_found": 1
     "daily-2026-04-04": {
       "type": "daily",
       "timestamp": "2026-04-12T10:05:13.132401",
