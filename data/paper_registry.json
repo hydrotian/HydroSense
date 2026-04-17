@@ -1095,6 +1095,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1175/bams-d-25-0311.1": {
+      "title": "The Development of an Urban Rain Rate Dashboard (URRD)",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-04-17",
+      "sources": [
+        "daily-2026-04-09"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1223,6 +1233,12 @@
       "timestamp": "2026-04-16T10:08:19.537851",
       "date": "2026-04-08",
       "papers_found": 0
+    },
+    "daily-2026-04-09": {
+      "type": "daily",
+      "timestamp": "2026-04-17T10:19:37.236138",
+      "date": "2026-04-09",
+      "papers_found": 1
     }
   }
 }
