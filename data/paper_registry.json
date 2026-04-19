@@ -1105,6 +1105,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl121172": {
+      "title": "Observed Increase in Tropical Vegetation Droughts Over the Past Three Decades",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-19",
+      "sources": [
+        "daily-2026-04-11"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl119491": {
+      "title": "Validation of 1-Day Repeat SWOT Measurements Against Tide-Gauge and Glider Data Off Canada West Coast",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-19",
+      "sources": [
+        "daily-2026-04-11"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024gl113884": {
+      "title": "Influx of Bay of Bengal Waters and Stirring Trends in the Arabian Sea Based on Satellite Altimetry",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-19",
+      "sources": [
+        "daily-2026-04-11"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1239,6 +1269,12 @@
       "timestamp": "2026-04-17T10:19:37.236138",
       "date": "2026-04-09",
       "papers_found": 1
+    },
+    "daily-2026-04-11": {
+      "type": "daily",
+      "timestamp": "2026-04-19T10:07:42.042492",
+      "date": "2026-04-11",
+      "papers_found": 3
     }
   }
 }
