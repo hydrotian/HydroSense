@@ -1106,35 +1106,45 @@
       "appearance_count": 1,
       "important": false
     },
-    "10.1029/2025gl121172": {
-      "title": "Observed Increase in Tropical Vegetation Droughts Over the Past Three Decades",
-      "journal": "Geophysical Research Letters",
-      "first_seen": "2026-04-19",
+    "10.1038/d41586-026-01201-8": {
+      "title": "Marine heatwaves can supercharge cyclones",
+      "journal": "Nature",
+      "first_seen": "2026-04-22",
       "sources": [
-        "daily-2026-04-11"
+        "daily-2026-04-14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
-    "10.1029/2025gl119491": {
-      "title": "Validation of 1-Day Repeat SWOT Measurements Against Tide-Gauge and Glider Data Off Canada West Coast",
+    "10.1029/2025gl120255": {
+      "title": "Observation-Based Spatiotemporal Analysis of the Evolving Flood Regulation Capacity for the Yangtze River Basin",
       "journal": "Geophysical Research Letters",
-      "first_seen": "2026-04-19",
+      "first_seen": "2026-04-22",
       "sources": [
-        "daily-2026-04-11"
+        "daily-2026-04-14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
-    "10.1029/2024gl113884": {
-      "title": "Influx of Bay of Bengal Waters and Stirring Trends in the Arabian Sea Based on Satellite Altimetry",
+    "10.1029/2026gl122048": {
+      "title": "Surface Runoff Discrepancy in Urban-PLUMBER Land Surface Models",
       "journal": "Geophysical Research Letters",
-      "first_seen": "2026-04-19",
+      "first_seen": "2026-04-22",
       "sources": [
-        "daily-2026-04-11"
+        "daily-2026-04-14"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
+    },
+    "10.1038/s44221-026-00619-8": {
+      "title": "Coastal groundwater-level trends reveal global susceptibility to seawater intrusion",
+      "journal": "Nature Water",
+      "first_seen": "2026-04-22",
+      "sources": [
+        "daily-2026-04-14"
+      ],
+      "appearance_count": 2,
+      "important": true
     }
   },
   "runs": {
@@ -1270,23 +1280,11 @@
       "date": "2026-04-09",
       "papers_found": 1
     },
-    "daily-2026-04-11": {
+    "daily-2026-04-14": {
       "type": "daily",
-      "timestamp": "2026-04-19T10:07:42.042492",
-      "date": "2026-04-11",
-      "papers_found": 3
-    },
-    "daily-2026-04-12": {
-      "type": "daily",
-      "timestamp": "2026-04-20T10:21:32.034105",
-      "date": "2026-04-12",
-      "papers_found": 0
-    },
-    "daily-2026-04-13": {
-      "type": "daily",
-      "timestamp": "2026-04-21T10:06:04.363261",
-      "date": "2026-04-13",
-      "papers_found": 0
+      "timestamp": "2026-04-22T10:18:12.537647",
+      "date": "2026-04-14",
+      "papers_found": 4
     }
   }
 }
