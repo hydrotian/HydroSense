@@ -47,7 +47,7 @@ A global analysis in Nature Water reveals that coastal groundwater levels are de
 **Matched topics**: marine heatwave
 {: .label .label-green }
 
-> Abstract not available.
+> Storms that cross exceptionally warm ocean waters intensify more quickly and do more damage than storms that do not. Storms that cross exceptionally warm ocean waters intensify more quickly and do more damage than storms that do not.
 
 ---
 

@@ -1,0 +1,28 @@
+{
+  "10.1175/bams-d-25-0298.1": {
+    "status": "unavailable"
+  },
+  "10.1175/bams-d-24-0011.1": {
+    "status": "unavailable"
+  },
+  "10.1038/s41561-026-01953-y": {
+    "status": "completed",
+    "source": "Publisher",
+    "length": 1774
+  },
+  "10.1038/d41586-026-01201-8": {
+    "status": "completed",
+    "source": "Publisher",
+    "length": 233
+  },
+  "10.1038/s44221-026-00636-7": {
+    "status": "completed",
+    "source": "Publisher",
+    "length": 1516
+  },
+  "10.1038/s41586-026-10336-7": {
+    "status": "completed",
+    "source": "Publisher",
+    "length": 1723
+  }
+}
