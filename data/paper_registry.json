@@ -1145,6 +1145,26 @@
       ],
       "appearance_count": 2,
       "important": true
+    },
+    "10.1038/s41558-026-02599-9": {
+      "title": "More eddying of subtropical western boundary currents boosts stratification and cools shelf seas",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-04-23",
+      "sources": [
+        "daily-2026-04-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-026-00636-7": {
+      "title": "World's predominant nitrogen fertilizer induces extreme eutrophication of surface waters in central North America",
+      "journal": "Nature Water",
+      "first_seen": "2026-04-23",
+      "sources": [
+        "daily-2026-04-15"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1285,6 +1305,12 @@
       "timestamp": "2026-04-22T10:18:12.537647",
       "date": "2026-04-14",
       "papers_found": 4
+    },
+    "daily-2026-04-15": {
+      "type": "daily",
+      "timestamp": "2026-04-23T10:21:53.764610",
+      "date": "2026-04-15",
+      "papers_found": 2
     }
   }
 }
