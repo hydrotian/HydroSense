@@ -1165,6 +1165,86 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.aei0564": {
+      "title": "Ancient lake's flood may have etched the Grand Canyon",
+      "journal": "Science",
+      "first_seen": "2026-04-24",
+      "sources": [
+        "daily-2026-04-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.adz6826": {
+      "title": "Late Miocene Colorado River arrival in the Bidahochi basin supports spillover origin of Grand Canyon",
+      "journal": "Science",
+      "first_seen": "2026-04-24",
+      "sources": [
+        "daily-2026-04-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aec0970": {
+      "title": "Agroseismology and the impact of farming practices on soil hydrodynamics",
+      "journal": "Science",
+      "first_seen": "2026-04-24",
+      "sources": [
+        "daily-2026-04-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl121114": {
+      "title": "Hydraulic or Seepage Erosion: What Drives Bank Collapse in Tidal Environments?",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-24",
+      "sources": [
+        "daily-2026-04-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl118985": {
+      "title": "Airborne Radar Reveals Area-Wide Decadal Increase of Surface Mass Balance on the Plateau in Dronning Maud Land, East Antarctica",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-24",
+      "sources": [
+        "daily-2026-04-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120652": {
+      "title": "Precursors of Marine Heatwaves in the Eastern Mediterranean",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-24",
+      "sources": [
+        "daily-2026-04-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-026-00625-w": {
+      "title": "A renewable tango for drought-stricken power grids",
+      "journal": "Nature Water",
+      "first_seen": "2026-04-24",
+      "sources": [
+        "daily-2026-04-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-71818-w": {
+      "title": "Regional drying over the Western U.S. driven by enhanced atmospheric subsidence amid global moistening from 1980 to 2020",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-24",
+      "sources": [
+        "daily-2026-04-16"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1311,6 +1391,12 @@
       "timestamp": "2026-04-23T10:21:53.764610",
       "date": "2026-04-15",
       "papers_found": 2
+    },
+    "daily-2026-04-16": {
+      "type": "daily",
+      "timestamp": "2026-04-24T10:24:43.295612",
+      "date": "2026-04-16",
+      "papers_found": 8
     }
   }
 }
