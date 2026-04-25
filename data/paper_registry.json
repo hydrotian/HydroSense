@@ -1245,6 +1245,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl120832": {
+      "title": "SWOT Satellite Observations of the Kakhovka Dam Break Flood Highlight Limitations of Outburst Flood Models",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-25",
+      "sources": [
+        "daily-2026-04-17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02618-9": {
+      "title": "Ocean warming weakens the sea-land breeze in coastal megacities",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-04-25",
+      "sources": [
+        "daily-2026-04-17"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1397,6 +1417,12 @@
       "timestamp": "2026-04-24T10:24:43.295612",
       "date": "2026-04-16",
       "papers_found": 8
+    },
+    "daily-2026-04-17": {
+      "type": "daily",
+      "timestamp": "2026-04-25T10:11:11.369764",
+      "date": "2026-04-17",
+      "papers_found": 2
     }
   }
 }
