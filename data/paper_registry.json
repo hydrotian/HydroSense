@@ -1265,6 +1265,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl118834": {
+      "title": "The Role of Groundwater in Contributing to Surface Water Salinization in the Upper Colorado River Basin",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-26",
+      "sources": [
+        "daily-2026-04-18"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122366": {
+      "title": "Hump-Shaped Enhancement of Coarse-Grain Transport in Sediment Mixtures Induced by Fine Grains of Different Sizes",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-26",
+      "sources": [
+        "daily-2026-04-18"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1422,6 +1442,12 @@
       "type": "daily",
       "timestamp": "2026-04-25T10:11:11.369764",
       "date": "2026-04-17",
+      "papers_found": 2
+    },
+    "daily-2026-04-18": {
+      "type": "daily",
+      "timestamp": "2026-04-26T10:10:00.825870",
+      "date": "2026-04-18",
       "papers_found": 2
     }
   }
