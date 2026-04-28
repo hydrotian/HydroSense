@@ -1285,6 +1285,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s43017-026-00785-z": {
+      "title": "Global drought extremes in 2025",
+      "journal": "Nature Reviews Earth & Environment",
+      "first_seen": "2026-04-28",
+      "sources": [
+        "daily-2026-04-20"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0140.1": {
+      "title": "Near-real-time Inundation Mapping Utilizing Large Uncrewed Aerial System Platforms",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-04-28",
+      "sources": [
+        "daily-2026-04-20"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl121124": {
+      "title": "Beyond the Nutrient Paradigm: Thermal Intensity and Duration Trigger Opposite Phytoplankton Responses to Marine Heatwaves in the East China Sea",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-28",
+      "sources": [
+        "daily-2026-04-20"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2532081123": {
+      "title": "A millennium of cold-water coral habitat loss in the East Pacific during low ENSO variability in the mid- to late Holocene",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-04-28",
+      "sources": [
+        "daily-2026-04-20"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1455,6 +1495,12 @@
       "timestamp": "2026-04-27T10:21:33.800091",
       "date": "2026-04-19",
       "papers_found": 0
+    },
+    "daily-2026-04-20": {
+      "type": "daily",
+      "timestamp": "2026-04-28T10:18:42.621770",
+      "date": "2026-04-20",
+      "papers_found": 4
     }
   }
 }
