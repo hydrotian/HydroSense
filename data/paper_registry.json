@@ -1325,6 +1325,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl121654": {
+      "title": "Hidden Complexity in Reservoir Flow Regulation Revealed by Spectral Analysis",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-29",
+      "sources": [
+        "daily-2026-04-21"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl119366": {
+      "title": "Dominant Role of Soil Moisture Regulating Vegetation Water Content During Flash Drought Evolution",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-29",
+      "sources": [
+        "daily-2026-04-21"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl118635": {
+      "title": "Enhanced Decadal Variance in Nordic Seas With AMOC Weakening in CESM",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-29",
+      "sources": [
+        "daily-2026-04-21"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl118643": {
+      "title": "Antarctic Meltwater-Stratification Feedback Is Less Pronounced Under High Climate Forcing",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-29",
+      "sources": [
+        "daily-2026-04-21"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-026-01944-z": {
+      "title": "Atmospheric oxygen constraints on Southern Ocean productivity and drivers of carbon uptake",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-04-29",
+      "sources": [
+        "daily-2026-04-21"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1501,6 +1551,12 @@
       "timestamp": "2026-04-28T10:18:42.621770",
       "date": "2026-04-20",
       "papers_found": 4
+    },
+    "daily-2026-04-21": {
+      "type": "daily",
+      "timestamp": "2026-04-29T10:08:37.867613",
+      "date": "2026-04-21",
+      "papers_found": 5
     }
   }
 }
