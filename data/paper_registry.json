@@ -1375,6 +1375,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl119461": {
+      "title": "Spatial Heterogeneity of Salt Marsh Vulnerability to Sea-Level Rise: Dual Controls of Hydrological Setting and Salinity Regime",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-04-30",
+      "sources": [
+        "daily-2026-04-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-71969-w": {
+      "title": "Strengthening influence of atmospheric rivers on global snow depth dynamics",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-30",
+      "sources": [
+        "daily-2026-04-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-71992-x": {
+      "title": "Hydro-geomorphological drivers across scales shape the trajectory of coastal wetland restoration",
+      "journal": "Nature Communications",
+      "first_seen": "2026-04-30",
+      "sources": [
+        "daily-2026-04-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43017-026-00788-w": {
+      "title": "Dating past landscape evolution with volcanic ash layers",
+      "journal": "Nature Reviews Earth & Environment",
+      "first_seen": "2026-04-30",
+      "sources": [
+        "daily-2026-04-22"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1557,6 +1597,12 @@
       "timestamp": "2026-04-29T10:08:37.867613",
       "date": "2026-04-21",
       "papers_found": 5
+    },
+    "daily-2026-04-22": {
+      "type": "daily",
+      "timestamp": "2026-04-30T10:31:41.274550",
+      "date": "2026-04-22",
+      "papers_found": 4
     }
   }
 }
