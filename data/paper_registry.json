@@ -1415,6 +1415,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl121973": {
+      "title": "Network Divergence Reveals Predictable Pathways of Extreme Rainfall in Central India",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-01",
+      "sources": [
+        "daily-2026-04-23"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43017-026-00779-x": {
+      "title": "Floods in 2025",
+      "journal": "Nature Reviews Earth & Environment",
+      "first_seen": "2026-05-01",
+      "sources": [
+        "daily-2026-04-23"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1603,6 +1623,12 @@
       "timestamp": "2026-04-30T10:31:41.274550",
       "date": "2026-04-22",
       "papers_found": 4
+    },
+    "daily-2026-04-23": {
+      "type": "daily",
+      "timestamp": "2026-05-01T10:05:57.936540",
+      "date": "2026-04-23",
+      "papers_found": 2
     }
   }
 }
