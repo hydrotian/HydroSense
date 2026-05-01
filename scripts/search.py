@@ -450,8 +450,8 @@ def main():
         # requested date range so weekly searches don't repeat the same
         # full-year pool every week.
         s2_papers = [p for p in s2_papers
-                     if p.get('publication_date', '') >= from_str
-                     and p.get('publication_date', '') <= to_str]
+                     if (p.get('publication_date') or '') >= from_str
+                     and (p.get('publication_date') or '') <= to_str]
         oa_papers = openalex.search_papers(topic, from_str, to_str, limit=args.max_per_topic)
         all_papers.extend(s2_papers)
         all_papers.extend(oa_papers)
