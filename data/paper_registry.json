@@ -2015,6 +2015,76 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41561-026-01969-4": {
+      "title": "Human footprint on estuarine tidal hydrodynamics",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-05-02",
+      "sources": [
+        "daily-2026-04-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl118317": {
+      "title": "The Value of Forecasters-in-the-Loop in Real-Time Flood Forecasting in the Age of Machine Learning",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-02",
+      "sources": [
+        "daily-2026-04-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl121860": {
+      "title": "Future Changes in the Atmospheric Water Cycle Over the Tibetan Plateau",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-02",
+      "sources": [
+        "daily-2026-04-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120406": {
+      "title": "Interacting Effects of Sea-Level Rise and Ocean Warming Reshape Thermal Environments on a Coral Reef",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-02",
+      "sources": [
+        "daily-2026-04-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120938": {
+      "title": "Influence of Atmospheric Rivers on Lake Ice Phenology in the Northern Hemisphere",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-02",
+      "sources": [
+        "daily-2026-04-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl118650": {
+      "title": "Escalating Compound Drought-Heatwaves and Demographic Shifts Threaten Simultaneous Global Breadbasket Failures",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-02",
+      "sources": [
+        "daily-2026-04-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-71268-4": {
+      "title": "Glacial dysoxia in the deep subpolar North Atlantic during the Mid-Pleistocene Transition",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-02",
+      "sources": [
+        "daily-2026-04-24"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -2249,6 +2319,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-04-24": {
+      "type": "daily",
+      "timestamp": "2026-05-02T10:08:27.356578",
+      "date": "2026-04-24",
+      "papers_found": 7
     }
   }
 }
