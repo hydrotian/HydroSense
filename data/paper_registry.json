@@ -1665,6 +1665,436 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.1912776117": {
+      "title": "Impacts of current and future large dams on the geographic range connectivity of freshwater fish worldwide",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10113-020-01597-7": {
+      "title": "Climate change vulnerability, water resources and social implications in North Africa",
+      "journal": "Regional Environmental Change",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/feart.2020.00014": {
+      "title": "Re-evaluation of the Power of the Mann-Kendall Test for Detecting Monotonic Trends in Hydrometeorological Time Series",
+      "journal": "Frontiers in Earth Science",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019ms001946": {
+      "title": "Implementation of U.K. Earth System Models for CMIP6",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124664": {
+      "title": "A spatiotemporal deep fusion model for merging satellite and gauge precipitation in China",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ab738e": {
+      "title": "Feedback between drought and deforestation in the Amazon",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/TC-14-445-2020": {
+      "title": "Soil moisture and hydrology projections of the permafrost region – a model intercomparison",
+      "journal": "",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-535-2020": {
+      "title": "Global catchment modelling using World-Wide HYPE (WWH), open data, and stepwise parameter estimation",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-515-2020": {
+      "title": "Impact of revegetation of the Loess Plateau of China on the regional growing season water balance",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124655": {
+      "title": "Impact of land use and urbanization on river water quality and ecology in a dam dominated basin",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00477-020-01766-4": {
+      "title": "An improved long short-term memory network for streamflow forecasting in the upper Yangtze River",
+      "journal": "Stochastic Environmental Research and Risk Assessment",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-58824-8": {
+      "title": "Impacts of climate change on tropical cyclones and induced storm surges in the Pearl River Delta region using pseudo-global-warming method",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12030533": {
+      "title": "Statistical Applications to Downscale GRACE-Derived Terrestrial Water Storage Data and to Fill Temporal Gaps",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.atmosres.2020.104889": {
+      "title": "On the relationship of climatic and monsoon teleconnections with monthly precipitation over meteorologically homogenous regions in India: Wavelet &amp; global coherence approaches",
+      "journal": "Atmospheric Research",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124654": {
+      "title": "Potential impacts of land use/cover and climate changes on ecologically relevant flows",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/asl.952": {
+      "title": "Effective resolution in high resolution global atmospheric models for climate studies",
+      "journal": "Atmospheric Science Letters",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00704-020-03104-8": {
+      "title": "Climate change in northern Patagonia: critical decrease in water resources",
+      "journal": "Theoretical and Applied Climatology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/gcb.15024": {
+      "title": "Rainfall manipulation experiments as simulated by terrestrial biosphere models: Where do we stand?",
+      "journal": "Global Change Biology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2020.106064": {
+      "title": "Impacts of drought, food security policy and climate change on performance of irrigation schemes in Sub-saharan Africa: The case of Sudan",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/qj.3757": {
+      "title": "Dynamical systems theory sheds new light on compound climate extremes in Europe and Eastern North America",
+      "journal": "Quarterly Journal of the Royal Meteorological Society",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019JD030711": {
+      "title": "Satellite‐Derived Global Surface Water Extent and Dynamics Over the Last 25 Years (GIEMS‐2)",
+      "journal": "Journal of Geophysical Research: Atmospheres",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rsase.2020.100292": {
+      "title": "The impact of land-use/land cover changes on water balance of the heterogeneous Buzi sub-catchment, Zimbabwe",
+      "journal": "Remote Sensing Applications Society and Environment",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.137165": {
+      "title": "Riparian land cover and hydrology influence stream dissolved organic matter composition in an agricultural watershed.",
+      "journal": "Science of the Total Environment",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10113-020-01600-1": {
+      "title": "The interplay between structural flood protection, population density, and flood mortality along the Jamuna River, Bangladesh",
+      "journal": "Regional Environmental Change",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12030511": {
+      "title": "Evaluation of Evapotranspiration for Exorheic Catchments of China during the GRACE Era: From a Water Balance Perspective",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-019-13935-3": {
+      "title": "Using remarkability to define coastal flooding thresholds",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12030509": {
+      "title": "Quantifying Long-Term Land Surface and Root Zone Soil Moisture over Tibetan Plateau",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124668": {
+      "title": "Seasonal stratification of a deep, high-altitude, dimictic lake: Nam Co, Tibetan Plateau",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124652": {
+      "title": "Responses of terrestrial water storage to climate variation in the Tibetan Plateau",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12030530": {
+      "title": "Monitoring Droughts in the Greater Changbai Mountains Using Multiple Remote Sensing-Based Drought Indices",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124663": {
+      "title": "Performance assessment of 2D Zero-Inertia and Shallow Water models for simulating rainfall-runoff processes",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124660": {
+      "title": "Effect of rainfall station density, distribution and missing values on SWAT outputs in tropical region",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-483-2020": {
+      "title": "JULES-GL7: the Global Land configuration of the Joint UK Land Environment Simulator version 7.0 and 7.2",
+      "journal": "Geoscientific model development",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019ms001770": {
+      "title": "Improvement of the Irrigation Scheme in the ORCHIDEE Land Surface Model and Impacts of Irrigation on Regional Water Budgets Over China",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agrformet.2020.107928": {
+      "title": "Dynamic within-season irrigation scheduling for maize production in Northwest China: A Method Based on Weather Data Fusion and yield prediction by DSSAT",
+      "journal": "Agricultural and Forest Meteorology",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2020.106033": {
+      "title": "DSSAT-MODFLOW: A new modeling framework for exploring groundwater conservation strategies in irrigated areas",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1017/s1742170520000010": {
+      "title": "Assessing the impacts of different land uses and soil and water conservation interventions on runoff and sediment yield at different scales in the central highlands of Ethiopia",
+      "journal": "Renewable Agriculture and Food Systems",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2020.106150": {
+      "title": "Hydrological connectivity: One of the driving factors of plant communities in the Yellow River Delta",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/ijgi9020104": {
+      "title": "Prototyping a Social Media Flooding Photo Screening System Based on Deep Learning",
+      "journal": "ISPRS International Journal of Geo-Information",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.catena.2020.104498": {
+      "title": "Characteristics of streamflow in the main stream of Changjiang River and the impact of the Three Gorges Dam",
+      "journal": "CATENA",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-561-2020": {
+      "title": "Hydrological signatures describing the translation of climate seasonality into streamflow seasonality",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/nhess-20-425-2020": {
+      "title": "Evaluation of two hydrometeorological ensemble strategies for flash-flood forecasting over a catchment of the eastern Pyrenees",
+      "journal": "Natural hazards and earth system sciences",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.advwatres.2020.103528": {
+      "title": "Comparing global hydrological models and combining them with GRACE by dynamic model data averaging (DMDA)",
+      "journal": "Advances in Water Resources",
+      "first_seen": "2026-05-03",
+      "sources": [
+        "weekly-2020-W06"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -1864,6 +2294,29 @@
       "timestamp": "2026-05-03T10:13:22.232516",
       "date": "2026-04-25",
       "papers_found": 2
+    },
+    "weekly-2020-W06": {
+      "type": "weekly",
+      "timestamp": "2026-05-03T11:29:29.362867",
+      "date": "2020-02-09",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
