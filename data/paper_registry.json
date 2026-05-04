@@ -2095,6 +2095,336 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/egusphere-2026-2237": {
+      "title": "Can We Trust LLMs for Complex Earth System Model Analysis? Silent Failure and Evidence from Module-Grounded Benchmarking",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-2337-2026": {
+      "title": "Technical note: High Nash–Sutcliffe Efficiencies conceal poor simulations of interannual variance in seasonal regimes",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2026.135566": {
+      "title": "Climate change-driven runoff variations in alpine catchments: Quantitative attribution using three innovative methods coupled with cryospheric processes",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/egusphere-2026-2275": {
+      "title": "Quantifying key parameter sensitivities for water table depth in hydrological schemes of CoLM-PSUADE",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/egusphere-2026-1965": {
+      "title": "Better data or better architecture? Improving deep-learning-based prediction in ungauged basins",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-026-03550-8": {
+      "title": "Scalable flood-risk analysis for New York State culvert infrastructure reveals patterns of dependence",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl121654": {
+      "title": "Hidden Complexity in Reservoir Flow Regulation Revealed by Spectral Analysis",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envsoft.2026.106986": {
+      "title": "Interpretable residual-informed hybrid physics-informed machine learning framework for runoff prediction in a typical karst basin in southwest China",
+      "journal": "Environmental Modelling & Software",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agrformet.2026.111195": {
+      "title": "High-resolution land surface modeling of climate and CO2 effects on ecosystem carbon-water coupling across the Qinghai-Tibet Plateau",
+      "journal": "Agricultural and Forest Meteorology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/9780784486931.023": {
+      "title": "Developing an Optimization Model for Multipurpose Reservoir Operations at Lewisville Lake",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/rvr2.70050": {
+      "title": "Multi‐objective optimization of reservoir refill operate considering energy storage and hydrological conditions",
+      "journal": "River",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2026.110365": {
+      "title": "Assessing water resources service value through simulation of a water supply–hydropower generation–ecosystem photosynthesis nexus system",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11269-026-04634-y": {
+      "title": "How Increasingly Frequent Drought-Flood Abrupt Alternation Events Affect Reservoir Operation?",
+      "journal": "Water Resources Management",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s41748-026-01125-3": {
+      "title": "Investigating Effects of Dynamic Debris Cover Variations on Glacio-Hydrology under Projected Climate Change in High Mountain Asia",
+      "journal": "Earth Systems and Environment",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/9780784486931.002": {
+      "title": "Comparing Physically Based and Data-Driven Approaches for Seasonal Streamflow Forecasting in California’s Upper Feather River Basin",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.asoc.2026.115276": {
+      "title": "Ensemble streamflow forecasting with diverse loss functions",
+      "journal": "Applied Soft Computing",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.uclim.2026.102908": {
+      "title": "Enhanced representation of hydrological processes in urban climate modeling: A multi-city global assessment",
+      "journal": "Urban Climate",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ae6464": {
+      "title": "Dynamic Parameterization of Priestley-Taylor Coefficient for a More Accurate Potential Evapotranspiration Estimation in Ungauged Regions",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/9780784486931.019": {
+      "title": "Revealing Baseflow and Hydrologic Process Signatures in LSTM Memory: Insights from the Rio Hondo, New Mexico",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/jhend8.hyeng-14381": {
+      "title": "Performance Analysis of Iteration-Based Dynamic Flood Routing Model for Dendritic Channel Networks",
+      "journal": "Journal of Hydraulic Engineering",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/9780784486931.080": {
+      "title": "Non-Stationary Streamflow Analysis under Climate Change in the Upper Rio Grande Basin",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/egusphere-2026-1527": {
+      "title": "A Basin-Aware Global Framework for Computationally Efficient Surface Water Inundation Prediction",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jhm-d-25-0213.1": {
+      "title": "Observed Riverine Flood Severity in India",
+      "journal": "Journal of Hydrometeorology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-026-03528-6": {
+      "title": "Emergent reorganization and increased persistence of meteorological drought across Africa",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2026.181813": {
+      "title": "From drivers to damage: A conceptual framework for integrated flood risk assessment of inland hydrological assets",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.31223/x5bf4h": {
+      "title": "Quantifying hydropower flexibility during extreme temperature events",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/9780784486931.038": {
+      "title": "Use of SEAS5 Seasonal Forecast Products for Adaptive Reservoir Operations",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/9780784486931.017": {
+      "title": "Effects of Climate Change on Water and Heat Fluxes in the Shallow Subsurface in Cold Regions",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.22541/essoar.15002235/v1": {
+      "title": "Overview of Coupled Earth System Model spin-up for E3SM Version 3 at Standard Resolution",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-2026-227": {
+      "title": "A global hourly ISIMIP3 climate forcing dataset for impact modeling",
+      "journal": "",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/2515-7620/ae6399": {
+      "title": "Dual Atmospheric Controls Amplify Streamflow Extremes in Alabama",
+      "journal": "Environmental Research Communications",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-2277-2026": {
+      "title": "A large transient multi-scenario multi-model ensemble of future streamflow and groundwater projections in France",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-3427-2026": {
+      "title": "Benchmarking soil moisture and its relationship to ecohydrologic variables in Earth System Models",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2026-W17"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -2323,6 +2653,29 @@
       "timestamp": "2026-05-04T10:20:43.242862",
       "date": "2026-04-26",
       "papers_found": 0
+    },
+    "weekly-2026-W17": {
+      "type": "weekly",
+      "timestamp": "2026-05-04T10:33:10.509582",
+      "date": "2026-04-27",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
