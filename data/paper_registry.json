@@ -2425,6 +2425,406 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-020-14688-0": {
+      "title": "Evapotranspiration depletes groundwater under warming over the contiguous United States",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1146/annurev-earth-071719-055251": {
+      "title": "Global Groundwater Sustainability, Resources, and Systems in the Anthropocene",
+      "journal": "Annual Review of Earth and Planetary Sciences",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/s20030922": {
+      "title": "Spatio-Temporal Variations in Groundwater Revealed by GRACE",
+      "journal": "Sensors",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2020.120311": {
+      "title": "Groundwater potential zones for sustainable management plans",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/feart.2020.00012": {
+      "title": "High Resolution Discharge Simulations Over Europe and the Baltic Sea Catchment",
+      "journal": "Frontiers in Earth Science",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-537-2020": {
+      "title": "FORests and HYdrology under Climate Change in Switzerland v1.0",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-633-2020": {
+      "title": "The AquiFR hydrometeorological modelling platform",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124671": {
+      "title": "Lake Malawi threshold behaviour",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-507-2020": {
+      "title": "ORCHIDEE MICT-LEAK",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124682": {
+      "title": "Integrated modelling climate change impacts on groundwater and surface water Great Lakes",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.16943/ptinsa/2020/49802": {
+      "title": "Hydrological Modeling in India",
+      "journal": "Proceedings of the Indian National Science Academy",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-565-2020": {
+      "title": "glmGUI v1.0",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/hyp.13718": {
+      "title": "Amplification of hydrological model uncertainties Upper Indus Basin",
+      "journal": "Hydrological Processes",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1155/2020/9698423": {
+      "title": "Potential Impacts of Projected Climate Change on Streamflow in the Wabash River Basin",
+      "journal": "Advances in Meteorology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124653": {
+      "title": "Evaluation of Euro-CORDEX Regional Climate Models hydrological",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124684": {
+      "title": "Quantifying effects of climate variability on runoff",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00382-020-05153-1": {
+      "title": "Large discrepancies in summer climate change over Europe",
+      "journal": "Climate Dynamics",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019gl085347": {
+      "title": "Changes in Extreme Precipitation and Landslides Over High Mountain Asia",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ab7462": {
+      "title": "Effects of afforestation as adaptation in upper Chao Phraya",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-19-0296.1": {
+      "title": "The Making of a Metric: Co-Producing Decision-Relevant Climate Science",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/hyp.13715": {
+      "title": "Change in low flows due to catchment management dynamics",
+      "journal": "Hydrological Processes",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/jofore/fvz069": {
+      "title": "Forests and Water Yield",
+      "journal": "Journal of Forestry",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-615-2020": {
+      "title": "Dual state/rainfall correction via soil moisture assimilation",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr025985": {
+      "title": "Changing Rainfall Patterns Over the Western Lake Erie Basin",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/gcb.15026": {
+      "title": "Weather underground: Subsurface hydrologic processes",
+      "journal": "Global Change Biology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.137281": {
+      "title": "Watershed organic carbon inflows coupled hydrologic model",
+      "journal": "Science of The Total Environment",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/hyp.13723": {
+      "title": "Anthropocene flooding: Challenges for science and society",
+      "journal": "Hydrological Processes",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.2166/wst.2020.148": {
+      "title": "Assessment of hydrological response urban watershed Belo Horizonte",
+      "journal": "Water Science and Technology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2020.100670": {
+      "title": "Climate change impact on urban drainage northwestern Italy",
+      "journal": "Journal of Hydrology Regional Studies",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/feart.2020.00028": {
+      "title": "Urban River Water Level Increase Through Plastic Waste",
+      "journal": "Frontiers in Earth Science",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.uclim.2020.100599": {
+      "title": "Extreme rainfall events water logging Kolkata",
+      "journal": "Urban Climate",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41597-020-0384-z": {
+      "title": "Hydraulic wash-off sediment transport experiments urban drainage",
+      "journal": "Scientific Data",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12040645": {
+      "title": "Impact of Surface Albedo Assimilation on Snow Estimation",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-12-345-2020": {
+      "title": "Improved MODIS snow cover product for high-mountain Asia",
+      "journal": "Earth System Science Data",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12040599": {
+      "title": "Improving Hydrologic Models for FEW Nexus Using Remote Sensing",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124670": {
+      "title": "Survey on river water quality modelling using AI 2000-2020",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/hyp.13726": {
+      "title": "Wavelet analyses of neural networks based river discharge",
+      "journal": "Hydrological Processes",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.compag.2020.105280": {
+      "title": "Predicting hydrological response after wildfire using ANN",
+      "journal": "Computers and Electronics in Agriculture",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/nsr/nwaa026": {
+      "title": "Hydropower reservoirs on the upper Mekong River",
+      "journal": "National Science Review",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00271-020-00664-5": {
+      "title": "Soil hydraulic properties for mechanistic simulations and irrigation",
+      "journal": "Irrigation Science",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W07"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -2658,6 +3058,29 @@
       "type": "weekly",
       "timestamp": "2026-05-04T10:33:10.509582",
       "date": "2026-04-27",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2020-W07": {
+      "type": "weekly",
+      "timestamp": "2026-05-04T11:33:34.995537",
+      "date": "2020-02-16",
       "topics": [
         "hydrology",
         "hydrologic model",
