@@ -2317,6 +2317,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-04-26": {
+      "type": "daily",
+      "timestamp": "2026-05-04T10:20:43.242862",
+      "date": "2026-04-26",
+      "papers_found": 0
     }
   }
 }
