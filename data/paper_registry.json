@@ -991,10 +991,11 @@
       "journal": "Science",
       "first_seen": "2026-04-12",
       "sources": [
-        "weekly-2020-W02"
+        "weekly-2020-W02",
+        "weekly-2020-W08"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.124631": {
       "title": "Exploring a Long Short-Term Memory based Encoder-Decoder framework for multi-step-ahead flood forecasting",
@@ -2825,6 +2826,376 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/nhess-20-489-2020": {
+      "title": "Compound flood potential from river discharge and storm surge",
+      "journal": "NHESS",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr026300": {
+      "title": "Antecedent Soil Moisture Modulate Flood Seasonality",
+      "journal": "WRR",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-59659-z": {
+      "title": "Attribution Runoff Change Min-Tuo SWAT",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.137354": {
+      "title": "Hydro-geological regime Yangtze",
+      "journal": "STOTEN",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-717-2020": {
+      "title": "Surface water dryland salinity",
+      "journal": "HESS",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envsoft.2020.104669": {
+      "title": "Streamflow forecasting comparison",
+      "journal": "Env Model Software",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-18-0264.1": {
+      "title": "NASA Hydrological Forecast System",
+      "journal": "BAMS",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-771-2020": {
+      "title": "Initial conditions convection-permitting flood",
+      "journal": "HESS",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019ms001832": {
+      "title": "WRF Noah-MP Sierra Nevada Runoff",
+      "journal": "JAMES",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-59806-6": {
+      "title": "Multi-model Hydroclimate Alabama",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-020-14555-y": {
+      "title": "Seasonal pumped hydropower storage",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/02626667.2020.1711911": {
+      "title": "Drought water quality agriculture Chile",
+      "journal": "HSJ",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41597-019-0346-5": {
+      "title": "Global karst springs hydrograph dataset",
+      "journal": "Scientific Data",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/(asce)he.1943-5584.0001902": {
+      "title": "Streamflow ELM prediction",
+      "journal": "J Hydrol Eng",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envsoft.2020.104673": {
+      "title": "Reservoir operations VIC software",
+      "journal": "Env Model Software",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr026225": {
+      "title": "Flow Alteration Hyporheic Exchange",
+      "journal": "WRR",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124743": {
+      "title": "River cross-section flood modeling",
+      "journal": "J Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2020.100671": {
+      "title": "Watershed hydrological evolution Algeria",
+      "journal": "J Hydrol Regional",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10584-020-02672-y": {
+      "title": "Hedging policy reservoir drought",
+      "journal": "Climatic Change",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr025910": {
+      "title": "Network approach flood frequency",
+      "journal": "WRR",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-655-2020": {
+      "title": "Groundwater climate change Prairie Pothole",
+      "journal": "HESS",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124676": {
+      "title": "Tale of two rivers hydro-economic",
+      "journal": "J Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-12-387-2020": {
+      "title": "439-year discharge dataset Yangtze",
+      "journal": "ESSD",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.2166/nh.2020.079": {
+      "title": "Forcing datasets hydropower Nepal",
+      "journal": "Hydrology Research",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41560-020-0558-0": {
+      "title": "Climate change energy systems",
+      "journal": "Nature Energy",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124751": {
+      "title": "Hydrological drought evaluation",
+      "journal": "J Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124715": {
+      "title": "Hydroclimatic change streamflow Illinois",
+      "journal": "J Hydrology",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jamc-d-19-0181.1": {
+      "title": "Extreme precipitation Parana River",
+      "journal": "JAMC",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12040706": {
+      "title": "Flood water levels VGI",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/geosciences10020081": {
+      "title": "Moroccan Groundwater Resources",
+      "journal": "Geosciences",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr026962": {
+      "title": "Wavelet predictor spectral representation",
+      "journal": "WRR",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1139/er-2019-0040": {
+      "title": "Wetlands Athabasca Oil Sands",
+      "journal": "Environmental Reviews",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1098/rsta.2019.0204": {
+      "title": "Blue-green grey infrastructure adaptation",
+      "journal": "Phil Trans A",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/hyp.13729": {
+      "title": "Moving beyond catchment scale",
+      "journal": "Hydrological Processes",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-809-2020": {
+      "title": "Multifractal extreme precipitation Yangtze",
+      "journal": "HESS",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1098/rsta.2019.0205": {
+      "title": "Urban flood management framework",
+      "journal": "Phil Trans A",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1155/2020/8206245": {
+      "title": "Hybridized ELM streamflow",
+      "journal": "Complexity",
+      "first_seen": "2026-05-04",
+      "sources": [
+        "weekly-2020-W08"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -3081,6 +3452,29 @@
       "type": "weekly",
       "timestamp": "2026-05-04T11:33:34.995537",
       "date": "2020-02-16",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2020-W08": {
+      "type": "weekly",
+      "timestamp": "2026-05-04T11:43:37.929417",
+      "date": "2020-02-23",
       "topics": [
         "hydrology",
         "hydrologic model",
