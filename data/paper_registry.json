@@ -25612,10 +25612,11 @@
       "journal": "Nature Climate Change",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2021-W02"
+        "weekly-2021-W02",
+        "weekly-2021-W10"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41598-020-80527-3": {
       "title": "Spatiotemporal drought analysis by the standardized precipitation index (SPI) and standardized precipitation evapotranspiration index (SPEI) in Sichuan Province, China",
@@ -29476,6 +29477,496 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.aba3996": {
+      "title": "Globally observed trends in mean and extreme river flow attributed to climate change",
+      "journal": "Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ijhydene.2021.02.080": {
+      "title": "Large-scale compressed hydrogen storage as part of renewable electricity storage systems",
+      "journal": "International Journal of Hydrogen Energy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/nhess-21-941-2021": {
+      "title": "Attribution of the Australian bushfire risk to anthropogenic climate change",
+      "journal": "Natural hazards and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2022255118": {
+      "title": "Historic Yangtze flooding of 2020 tied to extreme Indian Ocean conditions",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020gb006788": {
+      "title": "Quantifying Errors in Observationally Based Estimates of Ocean Carbon Sink Variability",
+      "journal": "Global Biogeochemical Cycles",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/acp-21-3643-2021": {
+      "title": "Attribution of the accelerating increase in atmospheric methane during 2010–2018 by inverse analysis of GOSAT observations",
+      "journal": "Atmospheric chemistry and physics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020gl091824": {
+      "title": "Global Changes in 20‐Year, 50‐Year, and 100‐Year River Floods",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2021.126194": {
+      "title": "Characterization of agricultural drought propagation over China based on bivariate probabilistic quantification",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.146312": {
+      "title": "Assessment of the sustainability of Gymnocypris eckloni habitat under river damming in the source region of the Yellow River",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.atmosres.2021.105574": {
+      "title": "A downscaling approach for constructing high-resolution precipitation dataset over the Tibetan Plateau from ERA5 reanalysis",
+      "journal": "Atmospheric Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envpol.2021.116930": {
+      "title": "Groundwater hydrochemistry, source identification and pollution assessment in intensive industrial areas, eastern Chinese loess plateau",
+      "journal": "Environmental Pollution",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/joc.7091": {
+      "title": "Copula based analysis of meteorological, hydrological and agricultural drought characteristics across Indian river basins",
+      "journal": "International Journal of Climatology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020rg000724": {
+      "title": "An Integrative Conceptualization of Floodplain Storage",
+      "journal": "Reviews of Geophysics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.epsl.2021.116858": {
+      "title": "Qinghai-Tibet Plateau wetting reduces permafrost thermal responses to climate warming",
+      "journal": "Earth and Planetary Science Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2021.107562": {
+      "title": "Comparison of multi-source satellite images for classifying marsh vegetation using DeepLabV3 Plus deep learning algorithm",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2021.126179": {
+      "title": "Drought-flood abrupt alternation dynamics and their potential driving forces in a changing environment",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/sci3010018": {
+      "title": "The Increase of Soil Organic Matter Reduces Global Warming, Myth or Reality?",
+      "journal": "Sci",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/abede8": {
+      "title": "Anthropogenic warming of Tibetan Plateau and constrained future projection",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2021.112206": {
+      "title": "Impacts of grazing on ground cover, soil physical properties and soil loss via surface erosion: A novel geospatial modelling approach",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2021.126170": {
+      "title": "Classification and trends in intermittent river flow regimes in Australia, northwestern Europe and USA: A global perspective",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.18520/cs/v120/i5/774-790": {
+      "title": "Climate Change, Cryosphere and Impacts in the Indian Himalayan Region",
+      "journal": "Current Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s42003-021-01826-7": {
+      "title": "Climate and seasonality drive the richness and composition of tropical fungal endophytes at a landscape scale",
+      "journal": "Communications Biology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jrurstud.2021.02.006": {
+      "title": "Will social capital affect farmers’ choices of climate change adaptation strategies? Evidences from rural households in the Qinghai-Tibetan Plateau, China",
+      "journal": "Journal of Rural Studies",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/jof7030193": {
+      "title": "Biological Treatment of Real Textile Effluent Using Aspergillus flavus and Fusarium oxysporium and Their Consortium along with the Evaluation of Their Phytotoxicity",
+      "journal": "Journal of Fungi",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-021-21640-3": {
+      "title": "Irrigation of biomass plantations may globally increase water stress more than climate change",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020wr028134": {
+      "title": "Archetypes and Controls of Riverine Nutrient Export Across German Catchments",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.146236": {
+      "title": "Compound and cascading drought impacts do not happen by chance: A proposal to quantify their relationships",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/abed01": {
+      "title": "Carbon cycling in mature and regrowth forests globally",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020ms002242": {
+      "title": "Global Prediction of Soil Saturated Hydraulic Conductivity Using Random Forest in a Covariate‐Based GeoTransfer Function (CoGTF) Framework",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.enpol.2020.112114": {
+      "title": "Large potentials for energy saving and greenhouse gas emission reductions from large-scale deployment of zero emission building technologies in a national building stock",
+      "journal": "Energy Policy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/jfr3.12715": {
+      "title": "Flood hazard mapping of Sangu River basin in Bangladesh using <scp>multi‐criteria</scp> analysis of <scp>hydro‐geomorphological</scp> factors",
+      "journal": "Journal of Flood Risk Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.146356": {
+      "title": "Evaluating global ecosystem water use efficiency response to drought based on multi-model analysis",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/ele.13691": {
+      "title": "Habitat amount and distribution modify community dynamics under climate change",
+      "journal": "Ecology Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2019145118": {
+      "title": "Global hydroclimatic response to tropical volcanic eruptions over the last millennium",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11440-021-01169-x": {
+      "title": "Centrifuge modelling of rainfall-induced slope failure in variably saturated soil",
+      "journal": "Acta Geotechnica",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41612-021-00172-z": {
+      "title": "Seasonal to multi-year soil moisture drought forecasting",
+      "journal": "npj Climate and Atmospheric Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2021.126183": {
+      "title": "Water and sediment yield response to extreme rainfall events in a complex large river basin: A case study of the Yellow River Basin, China",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.petrol.2021.108672": {
+      "title": "Geochemical reactions and their influence on petrophysical properties of ultra-low permeability oil reservoirs during water and CO2 flooding",
+      "journal": "Journal of Petroleum Science and Engineering",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2021.126646": {
+      "title": "The Agricultural Planting Structure Adjustment based on Water Footprint and Multi-objective optimisation models in China",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2021.106859": {
+      "title": "Yield-compatible salinity level for growing cotton (Gossypium hirsutum L.) under mulched drip irrigation using saline water",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1177/0309133321997292": {
+      "title": "Sediment yield over glacial cycles: A conceptual model",
+      "journal": "Progress in Physical Geography Earth and Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020ef001816": {
+      "title": "Dams and Climate Interact to Alter River Flow Regimes Across the United States",
+      "journal": "Earth s Future",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020jd033537": {
+      "title": "Distinct Features of Atmospheric Rivers in the Early Versus Late East Asian Summer Monsoon and Their Impacts on Monsoon Rainfall",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/fpls.2021.627107": {
+      "title": "Dissection of Drought Tolerance in Upland Cotton Through Morpho-Physiological and Biochemical Traits at Seedling Stage",
+      "journal": "Frontiers in Plant Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envsoft.2021.105028": {
+      "title": "Integrated urban water management with micro storages developed as an IoT-based solution – The smart rain barrel",
+      "journal": "Environmental Modelling & Software",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.aej.2021.02.046": {
+      "title": "Application of artificial intelligence algorithms for hourly river level forecast: A case study of Muda River, Malaysia",
+      "journal": "Alexandria Engineering Journal",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-021-21830-z": {
+      "title": "Acceleration of western Arctic sea ice loss linked to the Pacific North American pattern",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00703-021-00787-0": {
+      "title": "Support vector regression integrated with novel meta-heuristic algorithms for meteorological drought prediction",
+      "journal": "Meteorology and Atmospheric Physics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.petrol.2021.108647": {
+      "title": "Microfluidic investigation of enhanced oil recovery: The effect of aqueous floods and network wettability",
+      "journal": "Journal of Petroleum Science and Engineering",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -31003,6 +31494,29 @@
       "type": "weekly",
       "timestamp": "2026-05-05T13:10:57.268999",
       "date": "2021-03-07",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2021-W10": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T13:12:17.397544",
+      "date": "2021-03-14",
       "topics": [
         "hydrology",
         "hydrologic model",
