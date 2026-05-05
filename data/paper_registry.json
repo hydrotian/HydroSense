@@ -26007,10 +26007,11 @@
       "journal": "",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2021-W02"
+        "weekly-2021-W02",
+        "weekly-2021-W19"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jece.2021.105053": {
       "title": "Seawater and produced water treatment via gas hydrate: Review",
@@ -33922,6 +33923,496 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-021-22314-w": {
+      "title": "Evidence of anthropogenic impacts on global drought frequency, duration, and intensity",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/gcb.15684": {
+      "title": "Long‐term declines and recovery of meadow area across the world’s seagrass bioregions",
+      "journal": "Global Change Biology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-021-01044-3": {
+      "title": "Increased economic drought impacts in Europe with anthropogenic warming",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-021-22840-7": {
+      "title": "Deforestation reduces rainfall and agricultural revenues in the Brazilian Amazon",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-021-22884-9": {
+      "title": "1.5 °C degrowth scenarios suggest the need for new mitigation pathways",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acs.est.1c01512": {
+      "title": "Weathering Plastics as a Planetary Boundary Threat: Exposure, Fate, and Hazards",
+      "journal": "Environmental Science & Technology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.earscirev.2021.103673": {
+      "title": "Soil moisture retrieval from remote sensing measurements: Current knowledge and directions for the future",
+      "journal": "Earth-Science Reviews",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.abd5085": {
+      "title": "Watersheds may not recover from drought",
+      "journal": "Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-021-01039-0": {
+      "title": "Observational constraints on low cloud feedback reduce uncertainty of climate sensitivity",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2018472118": {
+      "title": "An ecosystem service perspective on urban nature, physical activity, and health",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-021-00734-z": {
+      "title": "Global carbon budget of reservoirs is overturned by the quantification of drawdown areas",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-021-03462-x": {
+      "title": "Ubiquitous atmospheric production of organic acids mediated by cloud droplets",
+      "journal": "Nature",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s13280-021-01556-4": {
+      "title": "Freshwater systems and ecosystem services: Challenges and chances for cross-fertilization of disciplines",
+      "journal": "AMBIO",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s40641-021-00171-5": {
+      "title": "Advances in Land Surface Modelling",
+      "journal": "Current Climate Change Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-021-00743-y": {
+      "title": "Calcium carbonate dissolution patterns in the ocean",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ijdrr.2021.102327": {
+      "title": "Stakeholder perceptions in flood risk assessment: A hybrid fuzzy AHP-TOPSIS approach for Istanbul, Turkey",
+      "journal": "International Journal of Disaster Risk Reduction",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-13-2001-2021": {
+      "title": "Development of the global dataset of Wetland Area and Dynamics for Methane Modeling (WAD2M)",
+      "journal": "Earth system science data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2024492118": {
+      "title": "Risk of groundwater contamination widely underestimated because of fast flow into aquifers",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.147725": {
+      "title": "Effectiveness of small- and large-scale Nature-Based Solutions for flood mitigation: The case of Ayutthaya, Thailand.",
+      "journal": "Science of the Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11119-021-09813-y": {
+      "title": "Orchard management with small unmanned aerial vehicles: a survey of sensing and analysis approaches",
+      "journal": "Precision Agriculture",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1109/tia.2021.3079329": {
+      "title": "Economic-Emission Dispatch Problem in Power Systems With Carbon Capture Power Plants",
+      "journal": "IEEE Transactions on Industry Applications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-021-22836-3": {
+      "title": "Protecting local water quality has global benefits",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs13101864": {
+      "title": "GIS-Based Urban Flood Resilience Assessment Using Urban Flood Resilience Model: A Case Study of Peshawar City, Khyber Pakhtunkhwa, Pakistan",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/nph.17464": {
+      "title": "Hydraulically‐vulnerable trees survive on deep‐water access during droughts in a tropical forest",
+      "journal": "New Phytologist",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/nhess-21-1495-2021": {
+      "title": "HazMapper: a global open-source natural hazard mapping application in Google Earth Engine",
+      "journal": "Natural hazards and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1103/revmodphys.93.025004": {
+      "title": "Emergent constraints on climate sensitivities",
+      "journal": "Reviews of Modern Physics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.enpol.2021.112363": {
+      "title": "Nuclear energy - The solution to climate change?",
+      "journal": "Energy Policy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/cli9050081": {
+      "title": "Global Surface Temperature: A New Insight",
+      "journal": "Climate",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rse.2021.112497": {
+      "title": "Accounting for canopy structure improves hyperspectral radiative transfer and sun-induced chlorophyll fluorescence representations in a new generation Earth System model",
+      "journal": "Remote Sensing of Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s42729-021-00498-w": {
+      "title": "Changes in Calcareous Soil Activity, Nutrient Availability, and Corn Productivity Due to The Integrated Effect of Straw Mulch and Irrigation Regimes",
+      "journal": "Journal of soil science and plant nutrition",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.renene.2021.05.001": {
+      "title": "Climate change impacts on the future offshore wind energy resource in China",
+      "journal": "Renewable Energy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-021-00163-1": {
+      "title": "Reduced resilience of terrestrial ecosystems locally is not reflected on a global scale",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-20-0491.1": {
+      "title": "A Spatial Evaluation of Arctic Sea Ice and Regional Limitations in CMIP6 Historical Simulations",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.25561/88568": {
+      "title": "The impact of climate change on mental health and emotional wellbeing: current evidence and implications for policy and practice",
+      "journal": "Spiral (Imperial College London)",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.pce.2021.103026": {
+      "title": "Comprehensive comparison of artificial neural networks and long short-term memory networks for rainfall-runoff simulation",
+      "journal": "Physics and Chemistry of the Earth Parts A/B/C",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/frwa.2021.681023": {
+      "title": "Editorial: Broadening the Use of Machine Learning in Hydrology",
+      "journal": "Frontiers in Water",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.30564/jgr.v4i2.3059": {
+      "title": "Deforestation and Habitat Loss: Human Causes, Consequences and Possible Solutions",
+      "journal": "Journal of Geographical Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-021-23070-7": {
+      "title": "Marine ice-cliff instability modeling shows mixed-mode ice-cliff failure and yields calving rate parameterization",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1017/qua.2021.16": {
+      "title": "A continental perspective on the timing of environmental change during the last glacial stage in Australia",
+      "journal": "Quaternary Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2021jg006247": {
+      "title": "The Changing Face of Winter: Lessons and Questions From the Laurentian Great Lakes",
+      "journal": "Journal of Geophysical Research Biogeosciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2021.126454": {
+      "title": "Automatic gap-filling of daily streamflow time series in data-scarce regions using a machine learning algorithm",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-25-2399-2021": {
+      "title": "Global ecosystem-scale plant hydraulic traits retrieved using model–data fusion",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envexpbot.2021.104523": {
+      "title": "MdCIB1, an apple bHLH transcription factor, plays a positive regulator in response to drought stress",
+      "journal": "Environmental and Experimental Botany",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s13280-021-01548-4": {
+      "title": "How does a nature-based solution for flood control compare to a technical solution? Case study evidence from Belgium",
+      "journal": "AMBIO",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-021-89034-5": {
+      "title": "First comprehensive quantification of annual land use/cover from 1990 to 2020 across mainland Vietnam",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2021ef002027": {
+      "title": "Future Climate Change Hotspots Under Different 21st Century Warming Scenarios",
+      "journal": "Earth s Future",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020ms002434": {
+      "title": "A Vector‐Based River Routing Model for Earth System Models: Parallelization and Global Applications",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s40899-021-00527-7": {
+      "title": "Surface water dynamics analysis based on sentinel imagery and Google Earth Engine Platform: a case study of Jayakwadi dam",
+      "journal": "Sustainable Water Resources Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020jd033829": {
+      "title": "How Does a Pinatubo‐Size Volcanic Cloud Reach the Middle Stratosphere?",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W19"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -35656,6 +36147,29 @@
       "type": "weekly",
       "timestamp": "2026-05-05T13:22:59.898273",
       "date": "2021-05-09",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2021-W19": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T13:24:25.233466",
+      "date": "2021-05-16",
       "topics": [
         "hydrology",
         "hydrologic model",
