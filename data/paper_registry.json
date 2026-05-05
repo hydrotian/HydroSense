@@ -3236,6 +3236,456 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41558-020-0709-0": {
+      "title": "Flash droughts present a new challenge for subseasonal-to-seasonal prediction",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.sciaf.2020.e00269": {
+      "title": "A review of the current status of flood modelling for urban flood risk management in the developing countries",
+      "journal": "Scientific African",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2019.124482": {
+      "title": "Flood susceptibility mapping using convolutional neural network frameworks",
+      "journal": "",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124776": {
+      "title": "Decomposition ensemble model based on variational mode decomposition and long short-term memory for streamflow forecasting",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2020.106002": {
+      "title": "Effects of nitrogen application rate and irrigation regime on growth, yield, and water-nitrogen use efficiency of drip-irrigated winter wheat in the North China Plain",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2019.124435": {
+      "title": "Improving artificial intelligence models accuracy for monthly streamflow forecasting using grey Wolf optimization (GWO) algorithm",
+      "journal": "",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.asr.2019.12.003": {
+      "title": "Flood susceptibility mapping by ensemble evidential belief function and binomial logistic regression model on river basin of eastern India",
+      "journal": "",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.enconman.2020.112628": {
+      "title": "Optimal power peak shaving using hydropower to complement wind and solar power uncertainty",
+      "journal": "Energy Conversion and Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-020-0718-z": {
+      "title": "The role of climate variability in Australian drought",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.oneear.2020.02.009": {
+      "title": "The Water Planetary Boundary: Interrogation and Revision",
+      "journal": "One Earth",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ab79e2": {
+      "title": "Intercomparison of annual precipitation indices and extremes over global land areas from in situ, space-based and reanalysis products",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2020.110331": {
+      "title": "Analysis of sustainable utilization of water resources based on the improved water resources ecological footprint model: A case study of Hubei Province, China",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.1918412117": {
+      "title": "Algal photophysiology drives darkening and melt of the Greenland Ice Sheet",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-919-2020": {
+      "title": "Rainfall Estimates on a Gridded Network (REGEN) – a global land-based gridded dataset of daily precipitation from 1950 to 2016",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/HESS-24-945-2020": {
+      "title": "Temperature controls production but hydrology regulates export of dissolved organic carbon at the catchment scale",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.geoderma.2020.114277": {
+      "title": "Review of algorithms and parameterizations to determine unfrozen water content in frozen soil",
+      "journal": "Geoderma",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2019.124293": {
+      "title": "Comparison of support vector regression and extreme gradient boosting for decomposition-based data-driven 10-day streamflow forecasting",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2020.106226": {
+      "title": "Effects of land use on water quality in a River Basin (Daning) of the Three Gorges Reservoir Area, China: Watershed versus riparian zone",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s42452-020-2302-6": {
+      "title": "Analysis of groundwater level trend and groundwater drought using Standard Groundwater Level Index: a case study of an eastern river basin of West Bengal, India",
+      "journal": "SN Applied Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.137630": {
+      "title": "Integrated 1D and 2D model for better assessing runoff quantity control of low impact development facilities on community scale.",
+      "journal": "Science of the Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rcrx.2020.100033": {
+      "title": "Optimal sizing of rainwater harvesting systems for domestic water usages: A systematic literature review",
+      "journal": "Resources Conservation & Recycling X",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10236-020-01351-x": {
+      "title": "Simulating compound flooding events in a hurricane",
+      "journal": "Ocean Dynamics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020gl087091": {
+      "title": "Atmospheric Aridity and Apparent Soil Moisture Drought in European Forest During Heat Waves",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-020-14890-0": {
+      "title": "Predominant regional biophysical cooling from recent land cover changes in Europe",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12050770": {
+      "title": "Performance Assessment of ICESat-2 Laser Altimeter Data for Water-Level Measurement over Lakes and Reservoirs in China",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019ef001339": {
+      "title": "California's Central Valley Groundwater Wells Run Dry During Recent Drought",
+      "journal": "Earth s Future",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/02626667.2020.1735638": {
+      "title": "Hydrological model calibration with uncertain discharge data",
+      "journal": "Hydrological Sciences Journal",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2019.124500": {
+      "title": "Changing runoff due to temperature and precipitation variations in the dammed Jinsha River",
+      "journal": "",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2019.124506": {
+      "title": "Runoff dominated by supra-permafrost water in the source region of the Yangtze river using environmental isotopes",
+      "journal": "",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-849-2020": {
+      "title": "Beyond binary baseflow separation: a delayed-flow index for multiple streamflow contributions",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2020.106049": {
+      "title": "Alternate partial root-zone drip irrigation with nitrogen fertigation promoted tomato growth, water and fertilizer-nitrogen use efficiency",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-60303-z": {
+      "title": "Declining snowfall fraction in the alpine regions, Central Asia",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/frwa.2020.00001": {
+      "title": "Triple Collocation Based Multi-Source Precipitation Merging",
+      "journal": "Frontiers in Water",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124756": {
+      "title": "Projecting potential evapotranspiration change and quantifying its uncertainty under future climate scenarios: A case study in southeastern Australia",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124767": {
+      "title": "Classifying floods by quantifying driver contributions in the Eastern Monsoon Region of China",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-827-2020": {
+      "title": "A data-based predictive model for spatiotemporal variability in stream water quality",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr026365": {
+      "title": "Improved Understanding of the Link Between Catchment‐Scale Vegetation Accessible Storage and Satellite‐Derived Soil Water Index",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124780": {
+      "title": "Large-scale baseflow index prediction using hydrological modelling, linear and multilevel regression approaches",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00024-020-02449-5": {
+      "title": "Spatial–Temporal Evolution of Drought Characteristics Over Hungary Between 1961 and 2010",
+      "journal": "Pure and Applied Geophysics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124686": {
+      "title": "Improvement and evaluation of the Iowa Flood Center Hillslope Link Model (HLM) by calibration-free approach",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecoleng.2020.105765": {
+      "title": "Large-scale flood hazard assessment under climate change: A case study",
+      "journal": "Ecological Engineering",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr026752": {
+      "title": "On the Robustness of Conceptual Rainfall‐Runoff Models to Calibration and Evaluation Data Set Splits Selection: A Large Sample Investigation",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ijdrr.2020.101534": {
+      "title": "Cost-benefit analysis of flood early warning system in the Karnali River Basin of Nepal",
+      "journal": "International Journal of Disaster Risk Reduction",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124749": {
+      "title": "Long-term effects of forest harvesting on summer low flow deficits in the Coast Range of Oregon",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124762": {
+      "title": "Basin-wide water accounting based on modified SWAT model and WA+ framework for better policy making",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W09"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -3539,6 +3989,29 @@
       "timestamp": "2026-05-05T10:14:44.819080",
       "date": "2026-04-27",
       "papers_found": 4
+    },
+    "weekly-2020-W09": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T11:15:35.940264",
+      "date": "2020-03-01",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
