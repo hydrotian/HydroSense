@@ -712,7 +712,7 @@ Water management research spans 23 papers addressing topics from irrigation opti
 |:-------|------:|
 | Databases searched | 2 |
 | Topics searched | 16 |
-| Total papers fetched | 1073 |
+| Total papers fetched | 1074 |
 | After deduplication | 744 |
 | After LLM relevance filtering | 50 |
 | Rejected (not relevant) | 694 |
