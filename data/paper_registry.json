@@ -988,7 +988,7 @@
         "weekly-2020-W02",
         "weekly-2020-W32"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1016/j.jhydrol.2020.125275": {
@@ -10517,7 +10517,7 @@
         "weekly-2020-W24",
         "weekly-2020-W32"
       ],
-      "appearance_count": 3,
+      "appearance_count": 4,
       "important": true
     },
     "10.1029/2020gl088229": {
@@ -14360,8 +14360,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-020-17688-2": {
       "title": "Blind spots in global soil biodiversity and ecosystem function research",
@@ -14370,8 +14370,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.enconman.2020.113267": {
       "title": "Water-energy-ecosystem nexus: Balancing competing interests at a run-of-river hydropower plant coupling a hydrologic–ecohydraulic approach",
@@ -14380,8 +14380,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125376": {
       "title": "Long lead-time daily and monthly streamflow forecasting using machine learning methods",
@@ -14390,8 +14390,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1073/pnas.1915921117": {
       "title": "Global snow drought hot spots and characteristics",
@@ -14400,8 +14400,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.joule.2020.07.015": {
       "title": "Hydrovoltaic Energy on the Way",
@@ -14410,8 +14410,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41597-020-00599-8": {
       "title": "A global map of terrestrial habitat types",
@@ -14420,8 +14420,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.ijhydene.2020.06.092": {
       "title": "Renewable hydrogen production: A techno-economic comparison of photoelectrochemical cells and photovoltaic-electrolysis",
@@ -14430,8 +14430,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125380": {
       "title": "Wavelet based hybrid ANN-ARIMA models for meteorological drought forecasting",
@@ -14440,8 +14440,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.molliq.2020.113960": {
       "title": "Surfactants-based remediation as an effective approach for removal of environmental pollutants—A review",
@@ -14450,8 +14450,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1073/pnas.2007058117": {
       "title": "Photoperiod and temperature as dominant environmental drivers triggering secondary growth resumption in Northern Hemisphere conifers",
@@ -14460,8 +14460,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3390/rs12162532": {
       "title": "Fully Convolutional Neural Network for Rapid Flood Segmentation in Synthetic Aperture Radar Imagery",
@@ -14470,8 +14470,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2019jc015913": {
       "title": "A Lagrangian Snow‐Evolution System for Sea‐Ice Applications (SnowModel‐LG): Part I—Model Description",
@@ -14480,8 +14480,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3389/feart.2020.00326": {
       "title": "The Evolution of the Continental Crust and the Onset of Plate Tectonics",
@@ -14490,8 +14490,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.scitotenv.2020.141446": {
       "title": "Water scarcity in the Yellow River Basin under future climate change and human activities",
@@ -14500,8 +14500,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.watres.2020.116275": {
       "title": "A holistic assessment of water quality condition and spatiotemporal patterns in impounded lakes along the eastern route of China's South-to-North water diversion project",
@@ -14510,8 +14510,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/gmd-13-3507-2020": {
       "title": "HighResMIP versions of EC-Earth: EC-Earth3P and EC-Earth3P-HR – description, model computational performance and basic validation",
@@ -14520,8 +14520,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/gmd-13-3465-2020": {
       "title": "On the increased climate sensitivity in the EC-Earth model from CMIP5 to CMIP6",
@@ -14530,8 +14530,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1175/jcli-d-19-1011.1": {
       "title": "Intermodel Spread in the Pattern Effect and Its Contribution to Climate Sensitivity in CMIP5 and CMIP6 Models",
@@ -14540,8 +14540,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jclepro.2020.123611": {
       "title": "Novel leakage detection and water loss management of urban water supply network using multiscale neural networks",
@@ -14550,8 +14550,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/hess-24-3899-2020": {
       "title": "Revisiting the global hydrological cycle: is it intensifying?",
@@ -14560,8 +14560,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1111/1365-2435.13656": {
       "title": "Root trait responses to drought are more heterogeneous than leaf trait responses",
@@ -14570,8 +14570,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jssas.2020.08.001": {
       "title": "Prediction of irrigation water quality parameters using machine learning models in a semi-arid environment",
@@ -14580,8 +14580,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.ecolind.2020.106774": {
       "title": "How does increasing impervious surfaces affect urban flooding in response to climate variability?",
@@ -14590,8 +14590,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1021/acs.est.0c00343": {
       "title": "Policy-Relevant Assessment of Urban CO<sub>2</sub> Emissions",
@@ -14600,8 +14600,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.advwatres.2020.103719": {
       "title": "Urban pluvial flooding prediction by machine learning approaches – a case study of Shenzhen city, China",
@@ -14610,8 +14610,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41597-020-00596-x": {
       "title": "Mapping of 30-meter resolution tile-drained croplands using a geospatial modeling approach",
@@ -14620,8 +14620,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.indcrop.2020.112850": {
       "title": "Seed priming with gibberellic acid and melatonin in rapeseed: Consequences for improving yield and seed quality under drought and non-stress conditions",
@@ -14630,8 +14630,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020ef001547": {
       "title": "Iran's Agriculture in the Anthropocene",
@@ -14640,8 +14640,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1126/sciadv.aba2423": {
       "title": "When floods hit the road: Resilience to flood-related traffic disruption in the San Francisco Bay Area and beyond",
@@ -14650,8 +14650,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s10584-020-02804-4": {
       "title": "Learning about climate change in, with and through art",
@@ -14660,8 +14660,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1002/ecm.1423": {
       "title": "Carbon budget of the Harvard Forest Long‐Term Ecological Research site: pattern, process, and response to global change",
@@ -14670,8 +14670,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s13762-020-02869-9": {
       "title": "Determination of agricultural land suitability with a multiple-criteria decision-making method in Northwestern Turkey",
@@ -14680,8 +14680,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.ijhydene.2019.11.146": {
       "title": "Productivity analysis of fractured wells in reservoir of hydrogen and carbon based on dual-porosity medium model",
@@ -14690,8 +14690,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.psep.2020.08.003": {
       "title": "Catalytic conversions of CO2 to help mitigate climate change: Recent process developments",
@@ -14700,8 +14700,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jclepro.2020.123534": {
       "title": "Feasibility evaluation of a hybrid renewable power generation system for sustainable electricity supply in a Moroccan remote site",
@@ -14710,8 +14710,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1111/nph.16845": {
       "title": "Combined high leaf hydraulic safety and efficiency provides drought tolerance in <i>Caragana</i> species adapted to low mean annual precipitation",
@@ -14720,8 +14720,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.ijdrr.2020.101768": {
       "title": "Comparative analysis of Multi-Criteria Decision-Making methods for flood disaster risk in the Yangtze River Delta",
@@ -14730,8 +14730,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.ecolind.2020.106815": {
       "title": "Mapping the effect of climate change on community livelihood vulnerability in the riparian region of Gangatic Plain, India",
@@ -14740,8 +14740,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1002/advs.202001242": {
       "title": "Rising Temperature May Trigger Deep Soil Carbon Loss Across Forest Ecosystems",
@@ -14750,8 +14750,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jclepro.2020.123393": {
       "title": "Climate change adaptation and inequality in Africa: Case of water, energy and food insecurity",
@@ -14760,8 +14760,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3389/fmars.2020.00620": {
       "title": "A Regional Neural Network Approach to Estimate Water-Column Nutrient Concentrations and Carbonate System Variables in the Mediterranean Sea: CANYON-MED",
@@ -14770,8 +14770,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/bg-17-3961-2020": {
       "title": "Understanding the uncertainty in global forest carbon turnover",
@@ -14780,8 +14780,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3390/rs12152502": {
       "title": "Vegetation Detection Using Deep Learning and Conventional Methods",
@@ -14790,8 +14790,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020wr027349": {
       "title": "Global Changes in Baseflow Under the Impacts of Changing Climate and Vegetation",
@@ -14800,8 +14800,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.advwatres.2020.103721": {
       "title": "Multivariate remotely sensed and in-situ data assimilation for enhancing community WRF-Hydro model forecasting",
@@ -14810,8 +14810,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.agrformet.2020.108124": {
       "title": "Mapping the sensitivity of agriculture to drought and estimating the effect of irrigation in the United States, 1950–2016",
@@ -14820,8 +14820,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41396-020-00735-7": {
       "title": "Composition and activity of nitrifier communities in soil are unresponsive to elevated temperature and CO2, but strongly affected by drought",
@@ -14830,8 +14830,8 @@
       "sources": [
         "weekly-2020-W32"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/gmd-13-3571-2020": {
       "title": "The shared socio-economic pathway (SSP) greenhouse gas concentrations and their extensions to 2500",
@@ -17607,7 +17607,7 @@
     },
     "weekly-2020-W32": {
       "type": "weekly",
-      "timestamp": "2026-05-05T11:59:44.857865",
+      "timestamp": "2026-05-05T12:29:20.389724",
       "date": "2020-08-09",
       "topics": [
         "hydrology",

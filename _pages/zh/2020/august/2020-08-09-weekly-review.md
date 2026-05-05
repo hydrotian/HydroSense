@@ -56,7 +56,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Wonmin Sohn, Jun–Hyun Kim, Ming‐Han Li, Robert D. Brown, Fouad Jaber
 
-**期刊**: *Ecological Indicators* · **DOI**: [10.1016/j.ecolind.2020.106774](https://doi.org/10.1016/j.ecolind.2020.106774) · **引用数**: 143
+**期刊**: *Ecological Indicators* · **DOI**: [10.1016/j.ecolind.2020.106774](https://doi.org/10.1016/j.ecolind.2020.106774) · **引用数**: 145
 
 **匹配主题**: hydrology, hydrologic model, runoff, streamflow, flood
 {: .label .label-green }
@@ -69,7 +69,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Qian Ke, Xin Tian, Jeremy D. Bricker, Zhan Tian, Guanghua Guan, Huayang Cai et al.
 
-**期刊**: *Advances in Water Resources* · **DOI**: [10.1016/j.advwatres.2020.103719](https://doi.org/10.1016/j.advwatres.2020.103719) · **引用数**: 133
+**期刊**: *Advances in Water Resources* · **DOI**: [10.1016/j.advwatres.2020.103719](https://doi.org/10.1016/j.advwatres.2020.103719) · **引用数**: 134
 
 **匹配主题**: hydrologic model, flood
 {: .label .label-green }
@@ -112,7 +112,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Vittal Hari, Oldřich Rakovec, Yannis Markonis, Martin Hanel, Rohini Kumar
 
-**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-68872-9](https://doi.org/10.1038/s41598-020-68872-9) · **引用数**: 481
+**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-68872-9](https://doi.org/10.1038/s41598-020-68872-9) · **引用数**: 482
 
 **匹配主题**: hydrologic model, runoff, drought, land surface model, earth system model
 {: .label .label-green }
@@ -177,7 +177,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Guang‐Qian Yao, Zheng‐Fei Nie, Neil C. Turner, Feng‐Min Li, Tianpeng Gao, Xiang‐Wen Fang et al.
 
-**期刊**: *New Phytologist* · **DOI**: [10.1111/nph.16845](https://doi.org/10.1111/nph.16845) · **引用数**: 119
+**期刊**: *New Phytologist* · **DOI**: [10.1111/nph.16845](https://doi.org/10.1111/nph.16845) · **引用数**: 120
 
 **匹配主题**: drought
 {: .label .label-green }
@@ -233,7 +233,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Xuejin Tan, Xuejin Tan, Bingjun Liu, Xuezhi Tan, Xuezhi Tan
 
-**期刊**: *Water Resources Research* · **DOI**: [10.1029/2020wr027349](https://doi.org/10.1029/2020wr027349) · **引用数**: 98
+**期刊**: *Water Resources Research* · **DOI**: [10.1029/2020wr027349](https://doi.org/10.1029/2020wr027349) · **引用数**: 99
 
 **匹配主题**: streamflow, water management, climate change
 {: .label .label-green }
@@ -263,7 +263,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Seleshi Yalew, Michelle T. H. van Vliet, David Gernaat, Fulco Ludwig, Ariel Miara, Chan Park et al.
 
-**期刊**: *Nature Energy* · **DOI**: [10.1038/s41560-020-0664-z](https://doi.org/10.1038/s41560-020-0664-z) · **引用数**: 463
+**期刊**: *Nature Energy* · **DOI**: [10.1038/s41560-020-0664-z](https://doi.org/10.1038/s41560-020-0664-z) · **引用数**: 464
 
 **匹配主题**: hydrologic model, runoff, streamflow, land surface model, climate change, hydropower
 {: .label .label-green }
@@ -354,7 +354,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Linus Nyiwul
 
-**期刊**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123393](https://doi.org/10.1016/j.jclepro.2020.123393) · **引用数**: 106
+**期刊**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123393](https://doi.org/10.1016/j.jclepro.2020.123393) · **引用数**: 107
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -453,7 +453,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Carlos A. Guerra, Anna Heintz‐Buschart, Johannes Sikorski, Antonis Chatzinotas, Nathaly R. Guerrero‐Ramírez, Simone Cesarz et al.
 
-**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17688-2](https://doi.org/10.1038/s41467-020-17688-2) · **引用数**: 379
+**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17688-2](https://doi.org/10.1038/s41467-020-17688-2) · **引用数**: 380
 
 **匹配主题**: land surface model, earth system model
 {: .label .label-green }
@@ -466,7 +466,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Alban Kuriqi, António N. Pinheiro, Álvaro Sordo‐Ward, Luís Garrote
 
-**期刊**: *Energy Conversion and Management* · **DOI**: [10.1016/j.enconman.2020.113267](https://doi.org/10.1016/j.enconman.2020.113267) · **引用数**: 298
+**期刊**: *Energy Conversion and Management* · **DOI**: [10.1016/j.enconman.2020.113267](https://doi.org/10.1016/j.enconman.2020.113267) · **引用数**: 299
 
 **匹配主题**: hydrologic model, river, hydropower
 {: .label .label-green }
@@ -648,7 +648,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: H. El-houari, A. Allouhi, Shafiqur Rehman, Mahmut Sami Büker, T. Kousksou, A. Jamil et al.
 
-**期刊**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123534](https://doi.org/10.1016/j.jclepro.2020.123534) · **引用数**: 120
+**期刊**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123534](https://doi.org/10.1016/j.jclepro.2020.123534) · **引用数**: 121
 
 **匹配主题**: land surface model, hydropower
 {: .label .label-green }
@@ -661,7 +661,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Jinquan Li, Junmin Pei, Elise Pendall, Peter B. Reich, Nam Jin Noh, Bo Li et al.
 
-**期刊**: *Advanced Science* · **DOI**: [10.1002/advs.202001242](https://doi.org/10.1002/advs.202001242) · **引用数**: 107
+**期刊**: *Advanced Science* · **DOI**: [10.1002/advs.202001242](https://doi.org/10.1002/advs.202001242) · **引用数**: 108
 
 **匹配主题**: earth system model
 {: .label .label-green }
@@ -676,7 +676,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **期刊**: *Frontiers in Marine Science* · **DOI**: [10.3389/fmars.2020.00620](https://doi.org/10.3389/fmars.2020.00620) · **引用数**: 104
 
-**匹配主题**: earth system model
+**匹配主题**: hydrologic model, earth system model
 {: .label .label-green }
 
 > A regional neural network-based method, “CANYON-MED” is developed to estimate nutrients and carbonate system variables specifically in the Mediterranean Sea over the water column from pressure, temperature, salinity, and oxygen together with geolocation and date of sampling. Six neural network ensembles were developed, one for each variable (i.e., three macronutrients: nitrates (NO 3- ), phosphates (PO 43- ) and silicates (SiOH 4 ), and three carbonate system variables: pH on the total scale ...
@@ -700,7 +700,7 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 
 **作者**: Bulent Ayhan, Chiman Kwan, Bence Budavari, Li-Yun Martin Kwan, Yan Lu, Daniel Pérez et al.
 
-**期刊**: *Remote Sensing* · **DOI**: [10.3390/rs12152502](https://doi.org/10.3390/rs12152502) · **引用数**: 99
+**期刊**: *Remote Sensing* · **DOI**: [10.3390/rs12152502](https://doi.org/10.3390/rs12152502) · **引用数**: 100
 
 **匹配主题**: land surface model, earth system model
 {: .label .label-green }
@@ -716,9 +716,9 @@ highlight: "本周最高引用论文：Climate change impacts on soil salinity i
 | 搜索数据库 | 2 |
 | 搜索主题 | 16 |
 | 获取论文总数 | 956 |
-| 去重后 | 665 |
+| 去重后 | 664 |
 | LLM相关性筛选后 | 50 |
-| 排除（不相关） | 615 |
+| 排除（不相关） | 614 |
 
 ### 按期刊分布
 

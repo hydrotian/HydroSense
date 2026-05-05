@@ -57,7 +57,7 @@ This week features 5 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Wonmin Sohn, Jun–Hyun Kim, Ming‐Han Li, Robert D. Brown, Fouad Jaber
 
-**Journal**: *Ecological Indicators* · **DOI**: [10.1016/j.ecolind.2020.106774](https://doi.org/10.1016/j.ecolind.2020.106774) · **Citations**: 143
+**Journal**: *Ecological Indicators* · **DOI**: [10.1016/j.ecolind.2020.106774](https://doi.org/10.1016/j.ecolind.2020.106774) · **Citations**: 145
 
 **Matched topics**: hydrology, hydrologic model, runoff, streamflow, flood
 {: .label .label-green }
@@ -70,7 +70,7 @@ This week features 5 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Qian Ke, Xin Tian, Jeremy D. Bricker, Zhan Tian, Guanghua Guan, Huayang Cai et al.
 
-**Journal**: *Advances in Water Resources* · **DOI**: [10.1016/j.advwatres.2020.103719](https://doi.org/10.1016/j.advwatres.2020.103719) · **Citations**: 133
+**Journal**: *Advances in Water Resources* · **DOI**: [10.1016/j.advwatres.2020.103719](https://doi.org/10.1016/j.advwatres.2020.103719) · **Citations**: 134
 
 **Matched topics**: hydrologic model, flood
 {: .label .label-green }
@@ -113,7 +113,7 @@ Drought research this week encompasses 8 studies covering monitoring, prediction
 
 **Authors**: Vittal Hari, Oldřich Rakovec, Yannis Markonis, Martin Hanel, Rohini Kumar
 
-**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-68872-9](https://doi.org/10.1038/s41598-020-68872-9) · **Citations**: 481
+**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-68872-9](https://doi.org/10.1038/s41598-020-68872-9) · **Citations**: 482
 
 **Matched topics**: hydrologic model, runoff, drought, land surface model, earth system model
 {: .label .label-green }
@@ -178,7 +178,7 @@ Drought research this week encompasses 8 studies covering monitoring, prediction
 
 **Authors**: Guang‐Qian Yao, Zheng‐Fei Nie, Neil C. Turner, Feng‐Min Li, Tianpeng Gao, Xiang‐Wen Fang et al.
 
-**Journal**: *New Phytologist* · **DOI**: [10.1111/nph.16845](https://doi.org/10.1111/nph.16845) · **Citations**: 119
+**Journal**: *New Phytologist* · **DOI**: [10.1111/nph.16845](https://doi.org/10.1111/nph.16845) · **Citations**: 120
 
 **Matched topics**: drought
 {: .label .label-green }
@@ -234,7 +234,7 @@ Machine learning and data-driven approaches to streamflow prediction feature pro
 
 **Authors**: Xuejin Tan, Xuejin Tan, Bingjun Liu, Xuezhi Tan, Xuezhi Tan
 
-**Journal**: *Water Resources Research* · **DOI**: [10.1029/2020wr027349](https://doi.org/10.1029/2020wr027349) · **Citations**: 98
+**Journal**: *Water Resources Research* · **DOI**: [10.1029/2020wr027349](https://doi.org/10.1029/2020wr027349) · **Citations**: 99
 
 **Matched topics**: streamflow, water management, climate change
 {: .label .label-green }
@@ -264,7 +264,7 @@ Climate-water interactions are explored in 9 papers this week, addressing impact
 
 **Authors**: Seleshi Yalew, Michelle T. H. van Vliet, David Gernaat, Fulco Ludwig, Ariel Miara, Chan Park et al.
 
-**Journal**: *Nature Energy* · **DOI**: [10.1038/s41560-020-0664-z](https://doi.org/10.1038/s41560-020-0664-z) · **Citations**: 463
+**Journal**: *Nature Energy* · **DOI**: [10.1038/s41560-020-0664-z](https://doi.org/10.1038/s41560-020-0664-z) · **Citations**: 464
 
 **Matched topics**: hydrologic model, runoff, streamflow, land surface model, climate change, hydropower
 {: .label .label-green }
@@ -355,7 +355,7 @@ Climate-water interactions are explored in 9 papers this week, addressing impact
 
 **Authors**: Linus Nyiwul
 
-**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123393](https://doi.org/10.1016/j.jclepro.2020.123393) · **Citations**: 106
+**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123393](https://doi.org/10.1016/j.jclepro.2020.123393) · **Citations**: 107
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -454,7 +454,7 @@ Water management research spans 20 papers addressing topics from irrigation opti
 
 **Authors**: Carlos A. Guerra, Anna Heintz‐Buschart, Johannes Sikorski, Antonis Chatzinotas, Nathaly R. Guerrero‐Ramírez, Simone Cesarz et al.
 
-**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17688-2](https://doi.org/10.1038/s41467-020-17688-2) · **Citations**: 379
+**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17688-2](https://doi.org/10.1038/s41467-020-17688-2) · **Citations**: 380
 
 **Matched topics**: land surface model, earth system model
 {: .label .label-green }
@@ -467,7 +467,7 @@ Water management research spans 20 papers addressing topics from irrigation opti
 
 **Authors**: Alban Kuriqi, António N. Pinheiro, Álvaro Sordo‐Ward, Luís Garrote
 
-**Journal**: *Energy Conversion and Management* · **DOI**: [10.1016/j.enconman.2020.113267](https://doi.org/10.1016/j.enconman.2020.113267) · **Citations**: 298
+**Journal**: *Energy Conversion and Management* · **DOI**: [10.1016/j.enconman.2020.113267](https://doi.org/10.1016/j.enconman.2020.113267) · **Citations**: 299
 
 **Matched topics**: hydrologic model, river, hydropower
 {: .label .label-green }
@@ -649,7 +649,7 @@ Water management research spans 20 papers addressing topics from irrigation opti
 
 **Authors**: H. El-houari, A. Allouhi, Shafiqur Rehman, Mahmut Sami Büker, T. Kousksou, A. Jamil et al.
 
-**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123534](https://doi.org/10.1016/j.jclepro.2020.123534) · **Citations**: 120
+**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123534](https://doi.org/10.1016/j.jclepro.2020.123534) · **Citations**: 121
 
 **Matched topics**: land surface model, hydropower
 {: .label .label-green }
@@ -662,7 +662,7 @@ Water management research spans 20 papers addressing topics from irrigation opti
 
 **Authors**: Jinquan Li, Junmin Pei, Elise Pendall, Peter B. Reich, Nam Jin Noh, Bo Li et al.
 
-**Journal**: *Advanced Science* · **DOI**: [10.1002/advs.202001242](https://doi.org/10.1002/advs.202001242) · **Citations**: 107
+**Journal**: *Advanced Science* · **DOI**: [10.1002/advs.202001242](https://doi.org/10.1002/advs.202001242) · **Citations**: 108
 
 **Matched topics**: earth system model
 {: .label .label-green }
@@ -677,7 +677,7 @@ Water management research spans 20 papers addressing topics from irrigation opti
 
 **Journal**: *Frontiers in Marine Science* · **DOI**: [10.3389/fmars.2020.00620](https://doi.org/10.3389/fmars.2020.00620) · **Citations**: 104
 
-**Matched topics**: earth system model
+**Matched topics**: hydrologic model, earth system model
 {: .label .label-green }
 
 > A regional neural network-based method, “CANYON-MED” is developed to estimate nutrients and carbonate system variables specifically in the Mediterranean Sea over the water column from pressure, temperature, salinity, and oxygen together with geolocation and date of sampling. Six neural network ensembles were developed, one for each variable (i.e., three macronutrients: nitrates (NO 3- ), phosphates (PO 43- ) and silicates (SiOH 4 ), and three carbonate system variables: pH on the total scale ...
@@ -701,7 +701,7 @@ Water management research spans 20 papers addressing topics from irrigation opti
 
 **Authors**: Bulent Ayhan, Chiman Kwan, Bence Budavari, Li-Yun Martin Kwan, Yan Lu, Daniel Pérez et al.
 
-**Journal**: *Remote Sensing* · **DOI**: [10.3390/rs12152502](https://doi.org/10.3390/rs12152502) · **Citations**: 99
+**Journal**: *Remote Sensing* · **DOI**: [10.3390/rs12152502](https://doi.org/10.3390/rs12152502) · **Citations**: 100
 
 **Matched topics**: land surface model, earth system model
 {: .label .label-green }
@@ -717,9 +717,9 @@ Water management research spans 20 papers addressing topics from irrigation opti
 | Databases searched | 2 |
 | Topics searched | 16 |
 | Total papers fetched | 956 |
-| After deduplication | 665 |
+| After deduplication | 664 |
 | After LLM relevance filtering | 50 |
-| Rejected (not relevant) | 615 |
+| Rejected (not relevant) | 614 |
 
 ### Papers by journal
 
