@@ -13210,9 +13210,10 @@
       "journal": "Journal of Cleaner Production",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2020-W29"
+        "weekly-2020-W29",
+        "weekly-2020-W47"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1016/j.scs.2020.102398": {
@@ -21629,6 +21630,496 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/essd-12-2959-2020": {
+      "title": "An update of IPCC climate reference regions for subcontinental analysis of climate model data: definition and aggregated datasets",
+      "journal": "Earth system science data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.enconman.2020.113649": {
+      "title": "Green hydrogen in Europe – A regional assessment: Substituting existing production with electrolysis powered by renewables",
+      "journal": "Energy Conversion and Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.mattod.2020.10.022": {
+      "title": "Hybrid solar-driven interfacial evaporation systems: Beyond water production towards high solar energy utilization",
+      "journal": "Materials Today",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020ms002298": {
+      "title": "An Unprecedented Set of High‐Resolution Earth System Simulations for Understanding Multiscale Interactions in Climate Variability and Change",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rser.2020.110552": {
+      "title": "The systemic impact of a transition fuel: Does natural gas help or hinder the energy transition?",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019jd032344": {
+      "title": "Evaluation of the Large EURO‐CORDEX Regional Climate Model Ensemble",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019jd032356": {
+      "title": "Assessment of the European Climate Projections as Simulated by the Large EURO‐CORDEX Regional and Global Climate Model Ensemble",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11269-020-02704-3": {
+      "title": "Ensemble Boosting and Bagging Based Machine Learning Models for Groundwater Potential Prediction",
+      "journal": "Water Resources Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-12-2937-2020": {
+      "title": "A long-term (2005–2016) dataset of hourly integrated land–atmosphere interaction observations on the Tibetan Plateau",
+      "journal": "Earth system science data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-020-19520-3": {
+      "title": "Impacts of irrigated agriculture on food–energy–water–CO2 nexus across metacoupled systems",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/sciadv.abb7232": {
+      "title": "Amazon rainforest photosynthesis increases in response to atmospheric dryness",
+      "journal": "Science Advances",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020gl090342": {
+      "title": "Record‐Breaking Meiyu Rainfall Around the Yangtze River in 2020 Regulated by the Subseasonal Phase Transition of the North Atlantic Oscillation",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41893-020-00643-w": {
+      "title": "Climate change extremes and photovoltaic power output",
+      "journal": "Nature Sustainability",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-19-0308.1": {
+      "title": "Statistical Postprocessing for Weather Forecasts: Review, Challenges, and Avenues in a Big Data World",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019ms002034": {
+      "title": "CMIP6 Historical Simulations (1850–2014) With GISS‐E2.1",
+      "journal": "Journal of Advances in Modeling Earth Systems",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125776": {
+      "title": "Reconstruction of missing groundwater level data by using Long Short-Term Memory (LSTM) deep neural network",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.143530": {
+      "title": "Performance and relationship of four different agricultural drought indices for drought monitoring in China's mainland using remote sensing data",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ceja.2020.100049": {
+      "title": "Recent advances on the treatment technology of oil and gas produced water for sustainable energy industry-mechanistic aspects and process chemistry perspectives",
+      "journal": "Chemical Engineering Journal Advances",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rse.2020.112189": {
+      "title": "Interoperability of ECOSTRESS and Landsat for mapping evapotranspiration time series at sub-field scales",
+      "journal": "Remote Sensing of Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020ef001660": {
+      "title": "Tropical Cyclone Compound Flood Hazard Assessment: From Investigating Drivers to Quantifying Extreme Water Levels",
+      "journal": "Earth s Future",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/sciadv.abb1981": {
+      "title": "Biophysical impacts of Earth greening largely controlled by aerodynamic resistance",
+      "journal": "Science Advances",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/bg-17-5615-2020": {
+      "title": "Global climate response to idealized deforestation in CMIP6 models",
+      "journal": "Biogeosciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.sajb.2020.10.031": {
+      "title": "Interactive effects of salinity and drought stress on photosynthetic characteristics and physiology of tomato (Lycopersicon esculentum L.) seedlings",
+      "journal": "South African Journal of Botany",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jamc-d-20-0057.1": {
+      "title": "Deep-Learning-Based Gridded Downscaling of Surface Meteorological Variables in Complex Terrain. Part I: Daily Maximum and Minimum 2-m Temperature",
+      "journal": "Journal of Applied Meteorology and Climatology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020ef001854": {
+      "title": "“Certain Uncertainty: The Role of Internal Climate Variability in Projections of Regional Climate Change and Risk Management”",
+      "journal": "Earth s Future",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11269-020-02719-w": {
+      "title": "Uncertainty Analysis of Climate Change Impacts on Flood Frequency by Using Hybrid Machine Learning Methods",
+      "journal": "Water Resources Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acs.est.0c03411": {
+      "title": "Assessing Human Health Risks from Per- and Polyfluoroalkyl Substance (PFAS)-Impacted Vegetable Consumption: A Tiered Modeling Approach",
+      "journal": "Environmental Science & Technology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/bse.2681": {
+      "title": "The influence of managers' awareness of climate change, perceived climate risk exposure and risk tolerance on the adoption of corporate responses to climate change",
+      "journal": "Business Strategy and the Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jamc-d-20-0058.1": {
+      "title": "Deep-Learning-Based Gridded Downscaling of Surface Meteorological Variables in Complex Terrain. Part II: Daily Precipitation",
+      "journal": "Journal of Applied Meteorology and Climatology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-5379-2020": {
+      "title": "Suitability of 17 gridded rainfall and temperature datasets for large-scale hydrological modelling in West Africa",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s40808-020-01041-z": {
+      "title": "Artificial intelligence for surface water quality monitoring and assessment: a systematic literature analysis",
+      "journal": "Modeling Earth Systems and Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jscs.2020.11.003": {
+      "title": "Effect of biochar particle size on water retention and availability in a sandy loam soil",
+      "journal": "Journal of Saudi Chemical Society",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/a13110300": {
+      "title": "Groundwater Prediction Using Machine-Learning Tools",
+      "journal": "Algorithms",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.143599": {
+      "title": "Physiological and environmental control on ecosystem water use efficiency in response to drought across the northern hemisphere",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s42773-020-00070-2": {
+      "title": "Adsorption of pharmaceuticals from aqueous solutions using biochar derived from cotton gin waste and guayule bagasse",
+      "journal": "Biochar",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/acp-20-13835-2020": {
+      "title": "Understanding processes that control dust spatial distributions with global climate models and satellite observations",
+      "journal": "Atmospheric chemistry and physics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/tpj.15093": {
+      "title": "RETRACTED: Potato CYCLING DOF FACTOR 1 and its lncRNA counterpart <i>StFLORE</i> link tuber development and drought response",
+      "journal": "The Plant Journal",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.143532": {
+      "title": "The role of climate change and vegetation greening on the variation of terrestrial evapotranspiration in northwest China's Qilian Mountains",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.143841": {
+      "title": "Predicting the invasive trend of exotic plants in China based on the ensemble model under climate change: A case for three invasive plants of Asteraceae",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41612-020-00148-5": {
+      "title": "Predicting global patterns of long-term climate change from short-term simulations using machine learning",
+      "journal": "npj Climate and Atmospheric Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.143600": {
+      "title": "Agricultural drought risk assessment of Northern New South Wales, Australia using geospatial techniques",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.plantsci.2020.110765": {
+      "title": "A Paeonia ostii caffeoyl-CoA O-methyltransferase confers drought stress tolerance by promoting lignin synthesis and ROS scavenging",
+      "journal": "Plant Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-5583-2020": {
+      "title": "The benefits of increasing resolution in global and regional climate simulations for European climate extremes",
+      "journal": "Geoscientific model development",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agrformet.2020.108244": {
+      "title": "Precipitation dominates the transpiration of both the economic forest (Malus pumila) and ecological forest (Robinia pseudoacacia) on the Loess Plateau after about 15 years of water depletion in deep soil",
+      "journal": "Agricultural and Forest Meteorology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.mce.2020.111088": {
+      "title": "Endocrinology of thermoregulation in birds in a changing climate",
+      "journal": "Molecular and Cellular Endocrinology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gsd.2020.100527": {
+      "title": "The hydrogeochemical evaluation of groundwater resources and their suitability for agricultural and industrial uses in an arid area of Iran",
+      "journal": "Groundwater for Sustainable Development",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41597-020-00750-5": {
+      "title": "16 years of topographic surveys of rip-channelled high-energy meso-macrotidal sandy beach",
+      "journal": "Scientific Data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.25115/eea.v39i2.3927": {
+      "title": "Natural Resource Abundance, Renewable Energy, and Ecological Footprint Linkage in MENA Countries",
+      "journal": "Studies of Applied Economics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/tc-14-4103-2020": {
+      "title": "Distribution and seasonal evolution of supraglacial lakes on Shackleton Ice Shelf, East Antarctica",
+      "journal": "The cryosphere",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W47"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -22788,6 +23279,29 @@
       "type": "weekly",
       "timestamp": "2026-05-05T12:49:01.677470",
       "date": "2020-11-15",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2020-W47": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T12:50:20.001817",
+      "date": "2020-11-22",
       "topics": [
         "hydrology",
         "hydrologic model",
