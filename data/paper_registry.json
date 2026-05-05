@@ -12057,9 +12057,10 @@
       "journal": "Nature Communications",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2020-W27"
+        "weekly-2020-W27",
+        "weekly-2020-W49"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1016/j.scs.2020.102373": {
@@ -15866,9 +15867,10 @@
       "journal": "Renewable Energy",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2020-W35"
+        "weekly-2020-W35",
+        "weekly-2020-W49"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1002/wcc.671": {
@@ -16637,9 +16639,10 @@
       "journal": "Journal of Hydrology",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2020-W36"
+        "weekly-2020-W36",
+        "weekly-2020-W49"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1029/2020gb006672": {
@@ -18817,20 +18820,22 @@
       "journal": "Perspectives in Plant Ecology Evolution and Systematics",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2020-W41"
+        "weekly-2020-W41",
+        "weekly-2020-W49"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jcorpfin.2020.101750": {
       "title": "Climate risk: The price of drought",
       "journal": "Journal of Corporate Finance",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2020-W41"
+        "weekly-2020-W41",
+        "weekly-2020-W49"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.gsf.2020.09.004": {
       "title": "GIS-based landslide susceptibility modeling: A comparison between fuzzy multi-criteria and machine learning algorithms",
@@ -21197,10 +21202,11 @@
       "journal": "Water Security",
       "first_seen": "2026-05-05",
       "sources": [
-        "weekly-2020-W46"
+        "weekly-2020-W46",
+        "weekly-2020-W49"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/ascmo-6-177-2020": {
       "title": "A protocol for probabilistic extreme event attribution analyses",
@@ -22611,6 +22617,446 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.abd6951": {
+      "title": "A ubiquitous tire rubber–derived chemical induces acute mortality in coho salmon",
+      "journal": "Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-20-0166.1": {
+      "title": "Improvements of the Daily Optimum Interpolation Sea Surface Temperature (DOISST) Version 2.1",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-19-1013.1": {
+      "title": "Changes in Annual Extremes of Daily Temperature and Precipitation in CMIP6 Models",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-20-0132.1": {
+      "title": "Observations of Clouds, Aerosols, Precipitation, and Surface Radiation over the Southern Ocean: An Overview of CAPRICORN, MARCUS, MICRE, and SOCRATES",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-20-0505.1": {
+      "title": "An Evaluation of the Performance of the Twentieth Century Reanalysis Version 3",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/ijgi9120720": {
+      "title": "Flood Susceptibility Mapping through the GIS-AHP Technique Using the Cloud",
+      "journal": "ISPRS International Journal of Geo-Information",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-020-19792-9": {
+      "title": "Organo–organic and organo–mineral interfaces in soil at the nanometer scale",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125815": {
+      "title": "Flood risk assessment using hybrid artificial intelligence models integrated with multi-criteria decision analysis in Quang Nam Province, Vietnam",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-020-19578-z": {
+      "title": "The economic costs of planting, preserving, and managing the world’s forests to mitigate climate change",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1377/hlthaff.2020.01125": {
+      "title": "Health Risks Due To Climate Change: Inequity In Causes And Consequences",
+      "journal": "Health Affairs",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/land9120487": {
+      "title": "Using Machine Learning Algorithms to Estimate Soil Organic Carbon Variability with Environmental Variables and Soil Nutrient Indicators in an Alluvial Soil",
+      "journal": "Land",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.still.2020.104896": {
+      "title": "Cover crop management and water conservation in vineyard and olive orchards",
+      "journal": "Soil and Tillage Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/wat2.1495": {
+      "title": "Toward catchment hydro‐biogeochemical theories",
+      "journal": "Wiley Interdisciplinary Reviews Water",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/J.JHYDROL.2020.125552": {
+      "title": "Convolutional neural network approach for spatial prediction of flood hazard at national scale of Iran",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/wat2.1496": {
+      "title": "Applications of Google Earth Engine in fluvial geomorphology for detecting river channel change",
+      "journal": "Wiley Interdisciplinary Reviews Water",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.crm.2020.100262": {
+      "title": "Impacts and implications of climate change on wastewater systems: A New Zealand perspective",
+      "journal": "Climate Risk Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2020.125416": {
+      "title": "An investigation into the hydrochemistry, quality and risk to human health of groundwater in the central region of Shandong Province, North China",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-12-3177-2020": {
+      "title": "High-resolution global atmospheric moisture connections from evaporation to precipitation",
+      "journal": "Earth system science data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.143919": {
+      "title": "Intensifying saline water intrusion and drought in the Mekong Delta: From physical evidence to policy outlooks",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/bg-17-6051-2020": {
+      "title": "Reviews and syntheses: Present, past, and future of the oxygen minimum zone in the northern Indian Ocean",
+      "journal": "Biogeosciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-78182-9": {
+      "title": "Vegetation degradation impacts soil nutrients and enzyme activities in wet meadow on the Qinghai-Tibet Plateau",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125779": {
+      "title": "Simulating runoff under changing climatic conditions: A comparison of the long short-term memory network with two conceptual hydrologic models",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/ppp.2090": {
+      "title": "A general theory of rock glacier creep based on in‐situ and remote sensing observations",
+      "journal": "Permafrost and Periglacial Processes",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/abcf78": {
+      "title": "Observed rainfall changes in the past century (1901–2019) over the wettest place on Earth",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/acp-20-14617-2020": {
+      "title": "Correcting model biases of CO in East Asia: impact on oxidant distributions during KORUS-AQ",
+      "journal": "Atmospheric chemistry and physics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020av000180": {
+      "title": "Recent Amplified Global Gross Primary Productivity Due to Temperature Increase Is Offset by Reduced Productivity Due to Water Constraints",
+      "journal": "AGU Advances",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.atmosres.2020.105406": {
+      "title": "Evaluation of precipitation in CMIP6 over the Yangtze River Basin",
+      "journal": "Atmospheric Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.143882": {
+      "title": "Spatiotemporal variations, sources, water quality and health risk assessment of trace elements in the Fen River",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/pip.3367": {
+      "title": "Innovative floating bifacial photovoltaic solutions for inland water areas",
+      "journal": "Progress in Photovoltaics Research and Applications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/J.APENERGY.2020.115694": {
+      "title": "Assessing concurrent effects of climate change on hydropower supply, electricity demand, and greenhouse gas emissions in the Upper Yangtze River Basin of China",
+      "journal": "",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2020.106651": {
+      "title": "Soil water/salt balance and water productivity of typical irrigation schedules for cotton under film mulched drip irrigation in northern Xinjiang",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12233984": {
+      "title": "Water Quality Retrieval from PRISMA Hyperspectral Images: First Experience in a Turbid Lake and Comparison with Sentinel-2",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2020.125189": {
+      "title": "Climate change concern, personal responsibility and actions related to climate change mitigation in EU countries: Cross-cultural analysis",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/10527001.2020.1840131": {
+      "title": "Flood Damage and Mortgage Credit Risk: A Case Study of Hurricane Harvey",
+      "journal": "Journal of Housing Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/tc-14-4279-2020": {
+      "title": "The catastrophic thermokarst lake drainage events of 2018 in northwestern Alaska: fast-forward into the future",
+      "journal": "The cryosphere",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s12889-020-10007-w": {
+      "title": "Spatial-temporal patterns of malaria incidence in Uganda using HMIS data from 2015 to 2019",
+      "journal": "BMC Public Health",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125838": {
+      "title": "How reliable are the evapotranspiration estimates by Soil and Water Assessment Tool (SWAT) and Variable Infiltration Capacity (VIC) models for catchment-scale drought assessment and irrigation planning?",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020gb006571": {
+      "title": "Seasonal Carbon Dynamics in the Near‐Global Ocean",
+      "journal": "Global Biogeochemical Cycles",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2020.106673": {
+      "title": "Effects of water stress applied at various phenological stages on yield, quality, and water use efficiency of melon",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10661-020-08746-9": {
+      "title": "Impact of different restoration methods on coastal wetland loss in Louisiana: Bayesian analysis",
+      "journal": "Environmental Monitoring and Assessment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/10527001.2020.1836915": {
+      "title": "Flood Risk and the U.S. Housing Market",
+      "journal": "Journal of Housing Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020wr027744": {
+      "title": "Floodplains in the Anthropocene: A Global Analysis of the Interplay Between Human Population, Built Environment, and Flood Severity",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/fbuil.2020.588049": {
+      "title": "Projected Climate Change Impacts on Hurricane Storm Surge Inundation in the Coastal United States",
+      "journal": "Frontiers in Built Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.catena.2020.105055": {
+      "title": "Assessing land use change impact on stream discharge and stream water quality in an agricultural watershed",
+      "journal": "CATENA",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W49"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -23816,6 +24262,29 @@
       "type": "weekly",
       "timestamp": "2026-05-05T12:51:39.305272",
       "date": "2020-11-29",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2020-W49": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T12:53:02.412885",
+      "date": "2020-12-06",
       "topics": [
         "hydrology",
         "hydrologic model",
