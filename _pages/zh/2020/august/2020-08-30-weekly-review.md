@@ -9,7 +9,7 @@ date: 2020-08-30
 categories: [weekly-zh, 2020, august]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "本周最高引用论文：Land use and climate change impacts on global soil（1350次引用）"
+highlight: "本周最高引用论文：Land use and climate change impacts on global soil（1351次引用）"
 ---
 
 # 每周文献综述
@@ -56,7 +56,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Le Qi, Zilong Ma, Scott X. Chang, Peng Zhou, Rong Huang, Yingyan Wang et al.
 
-**期刊**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.141958](https://doi.org/10.1016/j.scitotenv.2020.141958) · **引用数**: 91
+**期刊**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.141958](https://doi.org/10.1016/j.scitotenv.2020.141958) · **引用数**: 92
 
 **匹配主题**: flood
 {: .label .label-green }
@@ -164,7 +164,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Christopher Strock, James Burridge, Miranda Niemiec, Kathleen M. Brown, Jonathan P. Lynch
 
-**期刊**: *Plant Cell & Environment* · **DOI**: [10.1111/pce.13875](https://doi.org/10.1111/pce.13875) · **引用数**: 73
+**期刊**: *Plant Cell & Environment* · **DOI**: [10.1111/pce.13875](https://doi.org/10.1111/pce.13875) · **引用数**: 74
 
 **匹配主题**: drought
 {: .label .label-green }
@@ -181,7 +181,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Pasquale Borrelli, David A. Robinson, Panos Panagos, Emanuele Lugato, Jae E. Yang, Christine Alewell et al.
 
-**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2001403117](https://doi.org/10.1073/pnas.2001403117) · **引用数**: 1350
+**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2001403117](https://doi.org/10.1073/pnas.2001403117) · **引用数**: 1351
 
 **匹配主题**: water management, land surface model, climate change, earth system model
 {: .label .label-green }
@@ -194,7 +194,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Steef V. Hanssen, Vassilis Daioglou, Zoran J. N. Steinmann, Jonathan Doelman, Detlef P. van Vuuren, Mark A. J. Huijbregts
 
-**期刊**: *Nature Climate Change* · **DOI**: [10.1038/s41558-020-0885-y](https://doi.org/10.1038/s41558-020-0885-y) · **引用数**: 293
+**期刊**: *Nature Climate Change* · **DOI**: [10.1038/s41558-020-0885-y](https://doi.org/10.1038/s41558-020-0885-y) · **引用数**: 294
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -220,7 +220,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Susannah M. Burrows, Mathew Maltrud, Xiaojuan Yang, Qing Zhu, Nicole Jeffery, Xiaoying Shi et al.
 
-**期刊**: *Journal of Advances in Modeling Earth Systems* · **DOI**: [10.1029/2019ms001766](https://doi.org/10.1029/2019ms001766) · **引用数**: 187
+**期刊**: *Journal of Advances in Modeling Earth Systems* · **DOI**: [10.1029/2019ms001766](https://doi.org/10.1029/2019ms001766) · **引用数**: 188
 
 **匹配主题**: hydrology, land surface model, earth system model
 {: .label .label-green }
@@ -233,7 +233,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Marianne Hrabok, Aaron Delorme, Vincent I. O. Agyapong
 
-**期刊**: *Journal of Anxiety Disorders* · **DOI**: [10.1016/j.janxdis.2020.102295](https://doi.org/10.1016/j.janxdis.2020.102295) · **引用数**: 168
+**期刊**: *Journal of Anxiety Disorders* · **DOI**: [10.1016/j.janxdis.2020.102295](https://doi.org/10.1016/j.janxdis.2020.102295) · **引用数**: 169
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -350,7 +350,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Arsum Pathak, Philip E. van Beynen, Fenda A. Akiwumi, Kenyon C. Lindeman
 
-**期刊**: *Environmental Development* · **DOI**: [10.1016/j.envdev.2020.100556](https://doi.org/10.1016/j.envdev.2020.100556) · **引用数**: 81
+**期刊**: *Environmental Development* · **DOI**: [10.1016/j.envdev.2020.100556](https://doi.org/10.1016/j.envdev.2020.100556) · **引用数**: 82
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -419,7 +419,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Tilo Ziehn, Matthew A. Chamberlain, R. M. Law, Andrew Lenton, Roger Bodman, Martin Dix et al.
 
-**期刊**: *Journal of Southern Hemisphere Earth System Science* · **DOI**: [10.1071/es19035](https://doi.org/10.1071/es19035) · **引用数**: 611
+**期刊**: *Journal of Southern Hemisphere Earth System Science* · **DOI**: [10.1071/es19035](https://doi.org/10.1071/es19035) · **引用数**: 612
 
 **匹配主题**: land surface model, earth system model
 {: .label .label-green }
@@ -475,7 +475,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Paolo D’Odorico, Davide Danilo Chiarelli, Lorenzo Rosa, Alfredo Bini, David Zilberman, Maria Cristina Rulli
 
-**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2005835117](https://doi.org/10.1073/pnas.2005835117) · **引用数**: 274
+**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2005835117](https://doi.org/10.1073/pnas.2005835117) · **引用数**: 275
 
 **匹配主题**: hydrology, hydrologic model, irrigation
 {: .label .label-green }
@@ -488,7 +488,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Nathan Lee, Ursula Grunwald, Evan Rosenlieb, Heather Mirletz, Alexandra Aznar, Robert Spencer et al.
 
-**期刊**: *Renewable Energy* · **DOI**: [10.1016/j.renene.2020.08.080](https://doi.org/10.1016/j.renene.2020.08.080) · **引用数**: 227
+**期刊**: *Renewable Energy* · **DOI**: [10.1016/j.renene.2020.08.080](https://doi.org/10.1016/j.renene.2020.08.080) · **引用数**: 228
 
 **匹配主题**: hydropower
 {: .label .label-green }
@@ -540,7 +540,7 @@ highlight: "本周最高引用论文：Land use and climate change impacts on gl
 
 **作者**: Natarajan Rajmohan, Milad Masoud, Burhan Niyazi
 
-**期刊**: *CATENA* · **DOI**: [10.1016/j.catena.2020.104864](https://doi.org/10.1016/j.catena.2020.104864) · **引用数**: 105
+**期刊**: *CATENA* · **DOI**: [10.1016/j.catena.2020.104864](https://doi.org/10.1016/j.catena.2020.104864) · **引用数**: 106
 
 **匹配主题**: irrigation
 {: .label .label-green }

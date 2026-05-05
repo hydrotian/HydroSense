@@ -8,7 +8,7 @@ date: 2020-08-30
 categories: [weekly, 2020, august]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "Top paper: Land use and climate change impacts on global soil erosion b (1350 citations)"
+highlight: "Top paper: Land use and climate change impacts on global soil erosion b (1351 citations)"
 lang: en
 lang_link: /zh/2020/august/2020-08-30-weekly-review
 ---
@@ -57,7 +57,7 @@ This week features 2 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Le Qi, Zilong Ma, Scott X. Chang, Peng Zhou, Rong Huang, Yingyan Wang et al.
 
-**Journal**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.141958](https://doi.org/10.1016/j.scitotenv.2020.141958) · **Citations**: 91
+**Journal**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.141958](https://doi.org/10.1016/j.scitotenv.2020.141958) · **Citations**: 92
 
 **Matched topics**: flood
 {: .label .label-green }
@@ -165,7 +165,7 @@ Drought research this week encompasses 8 studies covering monitoring, prediction
 
 **Authors**: Christopher Strock, James Burridge, Miranda Niemiec, Kathleen M. Brown, Jonathan P. Lynch
 
-**Journal**: *Plant Cell & Environment* · **DOI**: [10.1111/pce.13875](https://doi.org/10.1111/pce.13875) · **Citations**: 73
+**Journal**: *Plant Cell & Environment* · **DOI**: [10.1111/pce.13875](https://doi.org/10.1111/pce.13875) · **Citations**: 74
 
 **Matched topics**: drought
 {: .label .label-green }
@@ -182,7 +182,7 @@ Climate-water interactions are explored in 18 papers this week, addressing impac
 
 **Authors**: Pasquale Borrelli, David A. Robinson, Panos Panagos, Emanuele Lugato, Jae E. Yang, Christine Alewell et al.
 
-**Journal**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2001403117](https://doi.org/10.1073/pnas.2001403117) · **Citations**: 1350
+**Journal**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2001403117](https://doi.org/10.1073/pnas.2001403117) · **Citations**: 1351
 
 **Matched topics**: water management, land surface model, climate change, earth system model
 {: .label .label-green }
@@ -195,7 +195,7 @@ Climate-water interactions are explored in 18 papers this week, addressing impac
 
 **Authors**: Steef V. Hanssen, Vassilis Daioglou, Zoran J. N. Steinmann, Jonathan Doelman, Detlef P. van Vuuren, Mark A. J. Huijbregts
 
-**Journal**: *Nature Climate Change* · **DOI**: [10.1038/s41558-020-0885-y](https://doi.org/10.1038/s41558-020-0885-y) · **Citations**: 293
+**Journal**: *Nature Climate Change* · **DOI**: [10.1038/s41558-020-0885-y](https://doi.org/10.1038/s41558-020-0885-y) · **Citations**: 294
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -221,7 +221,7 @@ Climate-water interactions are explored in 18 papers this week, addressing impac
 
 **Authors**: Susannah M. Burrows, Mathew Maltrud, Xiaojuan Yang, Qing Zhu, Nicole Jeffery, Xiaoying Shi et al.
 
-**Journal**: *Journal of Advances in Modeling Earth Systems* · **DOI**: [10.1029/2019ms001766](https://doi.org/10.1029/2019ms001766) · **Citations**: 187
+**Journal**: *Journal of Advances in Modeling Earth Systems* · **DOI**: [10.1029/2019ms001766](https://doi.org/10.1029/2019ms001766) · **Citations**: 188
 
 **Matched topics**: hydrology, land surface model, earth system model
 {: .label .label-green }
@@ -234,7 +234,7 @@ Climate-water interactions are explored in 18 papers this week, addressing impac
 
 **Authors**: Marianne Hrabok, Aaron Delorme, Vincent I. O. Agyapong
 
-**Journal**: *Journal of Anxiety Disorders* · **DOI**: [10.1016/j.janxdis.2020.102295](https://doi.org/10.1016/j.janxdis.2020.102295) · **Citations**: 168
+**Journal**: *Journal of Anxiety Disorders* · **DOI**: [10.1016/j.janxdis.2020.102295](https://doi.org/10.1016/j.janxdis.2020.102295) · **Citations**: 169
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -351,7 +351,7 @@ Climate-water interactions are explored in 18 papers this week, addressing impac
 
 **Authors**: Arsum Pathak, Philip E. van Beynen, Fenda A. Akiwumi, Kenyon C. Lindeman
 
-**Journal**: *Environmental Development* · **DOI**: [10.1016/j.envdev.2020.100556](https://doi.org/10.1016/j.envdev.2020.100556) · **Citations**: 81
+**Journal**: *Environmental Development* · **DOI**: [10.1016/j.envdev.2020.100556](https://doi.org/10.1016/j.envdev.2020.100556) · **Citations**: 82
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -420,7 +420,7 @@ Hydrologic model development and evaluation features 3 papers covering precipita
 
 **Authors**: Tilo Ziehn, Matthew A. Chamberlain, R. M. Law, Andrew Lenton, Roger Bodman, Martin Dix et al.
 
-**Journal**: *Journal of Southern Hemisphere Earth System Science* · **DOI**: [10.1071/es19035](https://doi.org/10.1071/es19035) · **Citations**: 611
+**Journal**: *Journal of Southern Hemisphere Earth System Science* · **DOI**: [10.1071/es19035](https://doi.org/10.1071/es19035) · **Citations**: 612
 
 **Matched topics**: land surface model, earth system model
 {: .label .label-green }
@@ -476,7 +476,7 @@ Water management research spans 19 papers addressing topics from irrigation opti
 
 **Authors**: Paolo D’Odorico, Davide Danilo Chiarelli, Lorenzo Rosa, Alfredo Bini, David Zilberman, Maria Cristina Rulli
 
-**Journal**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2005835117](https://doi.org/10.1073/pnas.2005835117) · **Citations**: 274
+**Journal**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2005835117](https://doi.org/10.1073/pnas.2005835117) · **Citations**: 275
 
 **Matched topics**: hydrology, hydrologic model, irrigation
 {: .label .label-green }
@@ -489,7 +489,7 @@ Water management research spans 19 papers addressing topics from irrigation opti
 
 **Authors**: Nathan Lee, Ursula Grunwald, Evan Rosenlieb, Heather Mirletz, Alexandra Aznar, Robert Spencer et al.
 
-**Journal**: *Renewable Energy* · **DOI**: [10.1016/j.renene.2020.08.080](https://doi.org/10.1016/j.renene.2020.08.080) · **Citations**: 227
+**Journal**: *Renewable Energy* · **DOI**: [10.1016/j.renene.2020.08.080](https://doi.org/10.1016/j.renene.2020.08.080) · **Citations**: 228
 
 **Matched topics**: hydropower
 {: .label .label-green }
@@ -541,7 +541,7 @@ Water management research spans 19 papers addressing topics from irrigation opti
 
 **Authors**: Natarajan Rajmohan, Milad Masoud, Burhan Niyazi
 
-**Journal**: *CATENA* · **DOI**: [10.1016/j.catena.2020.104864](https://doi.org/10.1016/j.catena.2020.104864) · **Citations**: 105
+**Journal**: *CATENA* · **DOI**: [10.1016/j.catena.2020.104864](https://doi.org/10.1016/j.catena.2020.104864) · **Citations**: 106
 
 **Matched topics**: irrigation
 {: .label .label-green }
