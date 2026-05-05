@@ -62445,6 +62445,506 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.abn7980": {
+      "title": "Rapid changes to global river suspended sediment flux by humans",
+      "journal": "Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.abn9668": {
+      "title": "Harnessing the potential of nature-based solutions for mitigating and adapting to climate change",
+      "journal": "Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-022-00953-y": {
+      "title": "High Mountain Asia hydropower systems threatened by climate-driven landscape instability",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11069-022-05423-7": {
+      "title": "Machine learning and landslide studies: recent advances and applications",
+      "journal": "Natural Hazards",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-26-3079-2022": {
+      "title": "Hydrological concept formation inside long short-term memory (LSTM) networks",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10750-022-04916-7": {
+      "title": "Ecosystem services provided by river-floodplain ecosystems",
+      "journal": "Hydrobiologia",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-022-14569-0": {
+      "title": "A functional definition to distinguish ponds from lakes and wetlands",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-022-31146-1": {
+      "title": "Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41612-022-00272-4": {
+      "title": "Dynamics and characteristics of dry and moist heatwaves over East Asia",
+      "journal": "npj Climate and Atmospheric Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envsci.2022.06.004": {
+      "title": "The role of indigenous knowledge in climate change adaptation in Africa",
+      "journal": "Environmental Science & Policy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/risa.13975": {
+      "title": "Attention to climate change and downside risk: Evidence from China",
+      "journal": "Risk Analysis",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.landurbplan.2022.104500": {
+      "title": "Planning for green infrastructure using multiple urban ecosystem service models and multicriteria analysis",
+      "journal": "Landscape and Urban Planning",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/jof8070660": {
+      "title": "Arbuscular Mycorrhizal Fungi Mediated Enhanced Biomass, Root Morphological Traits and Nutrient Uptake under Drought Stress: A Meta-Analysis",
+      "journal": "Journal of Fungi",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41597-022-01425-z": {
+      "title": "Global hydro-environmental lake characteristics at high spatial resolution",
+      "journal": "Scientific Data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agrformet.2022.109065": {
+      "title": "Modification of the microclimate and water balance through the integration of trees into temperate cropping systems",
+      "journal": "Agricultural and Forest Meteorology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.foreco.2022.120342": {
+      "title": "Forest restoration and hydrology",
+      "journal": "Forest Ecology and Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envexpbot.2022.104965": {
+      "title": "Barley with improved drought tolerance: Challenges and perspectives",
+      "journal": "Environmental and Experimental Botany",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envexpbot.2022.104974": {
+      "title": "Exogenous silicon alleviates drought stress in maize by improving growth, photosynthetic and antioxidant metabolism",
+      "journal": "Environmental and Experimental Botany",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-15-4709-2022": {
+      "title": "A map of global peatland extent created using machine learning (Peat-ML)",
+      "journal": "Geoscientific model development",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1177/00420980221098946": {
+      "title": "African urbanisation at the confluence of informality and climate change",
+      "journal": "Urban Studies",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/nhess-22-2099-2022": {
+      "title": "Different drought types and the spatial variability in their hazard, impact, and propagation characteristics",
+      "journal": "Natural hazards and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41560-022-01056-z": {
+      "title": "Development of onshore wind turbine fleet counteracts climate change-induced reduction in global capacity factor",
+      "journal": "Nature Energy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2022gl099499": {
+      "title": "Landslide Sensitivity and Response to Precipitation Changes in Wet and Dry Climates",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/ijms23126869": {
+      "title": "Transcriptomic and Metabolomic Analysis of Seedling-Stage Soybean Responses to PEG-Simulated Drought Stress",
+      "journal": "International Journal of Molecular Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2022.109080": {
+      "title": "Time-frequency optimization of RSEI: A case study of Yangtze River Basin",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11069-022-05428-2": {
+      "title": "Global Flood Mapper: a novel Google Earth Engine application for rapid flood mapping using Sentinel-1 SAR",
+      "journal": "Natural Hazards",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2022.128097": {
+      "title": "Modified drought severity index: Model improvement and its application in drought monitoring in China",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2022.109084": {
+      "title": "Assessment of influencing factors on non-point source pollution critical source areas in an agricultural watershed",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.nexus.2022.100104": {
+      "title": "Evaluation of Morphometric and Hypsometric Analysis of the Bagh River Basin using Remote Sensing and Geographic Information System Techniques",
+      "journal": "Energy Nexus",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41597-022-01449-5": {
+      "title": "ReaLSAT, a global dataset of reservoir and lake surface area variations",
+      "journal": "Scientific Data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.asej.2022.101826": {
+      "title": "Wiener index for an intuitionistic fuzzy graph and its application in water pipeline network",
+      "journal": "Ain Shams Engineering Journal",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2022.128055": {
+      "title": "Optimality of flood influencing factors for flood hazard mapping: An evaluation of two multi-criteria decision-making methods",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/plants11131690": {
+      "title": "Effect of Irrigation and Fertilizer Management on Rice Yield and Nitrogen Loss: A Meta-Analysis",
+      "journal": "Plants",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/plants11121616": {
+      "title": "Potential Impacts of Climate Change on the Habitat Suitability of the Dominant Tree Species in Greece",
+      "journal": "Plants",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ac7ac5": {
+      "title": "Past and projected climate change impacts on heat-related child mortality in Africa",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2022.128103": {
+      "title": "Hydrologic utility of satellite precipitation products in flood prediction: A meta-data analysis and lessons learnt",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2022.128099": {
+      "title": "A new seq2seq architecture for hourly runoff prediction using historical rainfall and runoff as input",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/bse.3185": {
+      "title": "From carbon dependence to renewables: The European oil majors' strategies to face climate change",
+      "journal": "Business Strategy and the Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ijsrc.2022.06.004": {
+      "title": "Multivariate statistical methods and GIS based evaluation of the health risk potential and water quality due to arsenic pollution in the Kızılırmak River",
+      "journal": "International Journal of Sediment Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-022-31345-w": {
+      "title": "Impact of interannual and multidecadal trends on methane-climate feedbacks and sensitivity",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2022.128088": {
+      "title": "Regional-scale prediction of pluvial and flash flood susceptible areas using tree-based classifiers",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/1365-2435.14125": {
+      "title": "Invertebrate traits, diversity and the vulnerability of groundwater ecosystems",
+      "journal": "Functional Ecology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/lno.12166": {
+      "title": "Basin‐scale estimates of greenhouse gas emissions from the Mara River, Kenya: Importance of discharge, stream size, and land use/land cover",
+      "journal": "Limnology and Oceanography",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2022.156952": {
+      "title": "Integrated organic and inorganic fertilization and reduced irrigation altered prokaryotic microbial community and diversity in different compartments of wheat root zone contributing to improved nitrogen uptake and wheat yield",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.molliq.2022.119693": {
+      "title": "Application of a novel natural surfactant extracted from Avena Sativa for enhanced oil recovery during low salinity water flooding: Synergism of natural surfactant with different salts",
+      "journal": "Journal of Molecular Liquids",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2022.128105": {
+      "title": "Quantifying the superimposed effects of drought-flood abrupt alternation stress on vegetation dynamics of the Wei River Basin in China",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-022-14228-4": {
+      "title": "Open-source, low-cost, in-situ turbidity sensor for river network monitoring",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.renene.2022.06.096": {
+      "title": "Effect of floating photovoltaic system on water temperature of deep reservoir and assessment of its potential benefits, a case on Xiangjiaba Reservoir with hydropower station",
+      "journal": "Renewable Energy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/cli2.45": {
+      "title": "Cultural heritage and risk assessments: Gaps, challenges, and future research directions for the inclusion of heritage within climate change adaptation and disaster management",
+      "journal": "Climate Resilience and Sustainability",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.advwatres.2022.104258": {
+      "title": "Mapping storm spatial profiles for flood impact assessments",
+      "journal": "Advances in Water Resources",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2022-W25"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -65513,6 +66013,29 @@
       "type": "weekly",
       "timestamp": "2026-05-05T14:45:45.014230",
       "date": "2022-06-19",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2022-W25": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T14:47:12.948995",
+      "date": "2022-06-26",
       "topics": [
         "hydrology",
         "hydrologic model",
