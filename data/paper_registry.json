@@ -15299,6 +15299,506 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.3390/rs12162659": {
+      "title": "Recent Advances of Hyperspectral Imaging Technology and Applications in Agriculture",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/bg-17-4173-2020": {
+      "title": "Carbon–concentration and carbon–climate feedbacks in CMIP6 models and their comparison to CMIP5 models",
+      "journal": "Biogeosciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jdeveco.2020.102557": {
+      "title": "Response and adaptation of agriculture to climate change: Evidence from China",
+      "journal": "Journal of Development Economics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/acp-20-9591-2020": {
+      "title": "Effective radiative forcing and adjustments in CMIP6 models",
+      "journal": "Atmospheric chemistry and physics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-020-0010-1": {
+      "title": "Return to rapid ice loss in Greenland and record loss in 2019 detected by the GRACE-FO satellites",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s12274-020-2970-y": {
+      "title": "Vertically aligned reduced graphene oxide/Ti3C2Tx MXene hybrid hydrogel for highly efficient solar steam generation",
+      "journal": "Nano Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/abb051": {
+      "title": "Global surface air temperatures in CMIP6: historical performance and future changes",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/esd-11-737-2020": {
+      "title": "Emergent constraints on transient climate response (TCR) and equilibrium climate sensitivity (ECS) from historical warming in CMIP5 and CMIP6 models",
+      "journal": "Earth System Dynamics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-3643-2020": {
+      "title": "Evaluation of global ocean–sea-ice model simulations based on the experimental protocols of the Ocean Model Intercomparison Project phase 2 (OMIP-2)",
+      "journal": "Geoscientific model development",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.techfore.2020.120246": {
+      "title": "Bridging the gap between circular economy and climate change mitigation policies through eco-innovations and Quintuple Helix Model",
+      "journal": "Technological Forecasting and Social Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/wcc.675": {
+      "title": "Climate journalism in a changing media ecosystem: Assessing the production of climate change‐related news around the world",
+      "journal": "Wiley Interdisciplinary Reviews Climate Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-020-0874-1": {
+      "title": "Increasing threat of coastal groundwater hazards from sea-level rise in California",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-19-0471.1": {
+      "title": "Why Has the Inner Tibetan Plateau Become Wetter since the Mid-1990s?",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/saj2.20143": {
+      "title": "The processes of preferential flow in the unsaturated zone",
+      "journal": "Soil Science Society of America Journal",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rse.2020.112028": {
+      "title": "Continental drought monitoring using satellite soil moisture, data assimilation and an integrated drought index",
+      "journal": "Remote Sensing of Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2020.123851": {
+      "title": "Trade-off analyses and optimization of water-related ecosystem services (WRESs) based on land use change in a typical agricultural watershed, southern China",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/s2214-109x(20)30278-3": {
+      "title": "Mapping geographical inequalities in access to drinking water and sanitation facilities in low-income and middle-income countries, 2000–17",
+      "journal": "The Lancet Global Health",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.141792": {
+      "title": "From the comfort zone to crown dieback: Sequence of physiological stress thresholds in mature European beech trees across progressive drought",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aay5538": {
+      "title": "Synchronous timing of abrupt climate changes during the last glacial period",
+      "journal": "Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/biosci/biaa088": {
+      "title": "The Ecology of Disturbance Interactions",
+      "journal": "BioScience",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rse.2020.112033": {
+      "title": "Automated detection of rock glaciers using deep learning and object-based image analysis",
+      "journal": "Remote Sensing of Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-12-1805-2020": {
+      "title": "Glacier shrinkage in the Alps continues unabated as revealed by a new glacier inventory from Sentinel-2",
+      "journal": "Earth system science data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125440": {
+      "title": "A hybrid runoff generation modelling framework based on spatial combination of three runoff generation schemes for semi-humid and semi-arid watersheds",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125423": {
+      "title": "Novel hybrid intelligence models for flood-susceptibility prediction: Meta optimization of the GMDH and SVR models with the genetic algorithm and harmony search",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/esp.4981": {
+      "title": "Runoff‐generated debris flows: Observation of initiation conditions and erosion–deposition dynamics along the channel at Cancia (eastern Italian Alps)",
+      "journal": "Earth Surface Processes and Landforms",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-19-0855.1": {
+      "title": "Pattern Recognition Methods to Separate Forced Responses from Internal Variability in Climate Model Ensembles and Observations",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.resourpol.2020.101828": {
+      "title": "The impacts of climate change risks on financial performance of mining industry: Evidence from listed companies in China",
+      "journal": "Resources Policy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2020.106841": {
+      "title": "Land use/cover predictions incorporating ecological security for the Yangtze River Delta region, China",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.enbuild.2020.110397": {
+      "title": "Climate change impacts on trends and extremes in future heating and cooling demands over Europe",
+      "journal": "Energy and Buildings",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41612-020-00131-0": {
+      "title": "Historical total ozone radiative forcing derived from CMIP6 simulations",
+      "journal": "npj Climate and Atmospheric Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/fevo.2020.00271": {
+      "title": "Thermal Plasticity in Insects’ Response to Climate Change and to Multifactorial Environments",
+      "journal": "Frontiers in Ecology and Evolution",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/cp-16-1565-2020": {
+      "title": "Bipolar volcanic synchronization of abrupt climate change in Greenland and Antarctic ice cores during the last glacial period",
+      "journal": "Climate of the past",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acs.est.0c01340": {
+      "title": "The Shallow and Deep Hypothesis: Subsurface Vertical Chemical Contrasts Shape Nitrate Export Patterns from Different Land Uses",
+      "journal": "Environmental Science & Technology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11269-020-02630-4": {
+      "title": "Hydrological Response to Agricultural Land Use Heterogeneity Using Variable Infiltration Capacity Model",
+      "journal": "Water Resources Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41597-020-00612-0": {
+      "title": "The green and blue crop water requirement WATNEEDS model and its global gridded outputs",
+      "journal": "Scientific Data",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-70963-6": {
+      "title": "A comparative metabolomic study on desi and kabuli chickpea (Cicer arietinum L.) genotypes under rainfed and irrigated field conditions",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/min10090728": {
+      "title": "Mine Waste Rock: Insights for Sustainable Hydrogeochemical Management",
+      "journal": "Minerals",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1104/pp.20.00407": {
+      "title": "Drought-Induced Xylem Embolism Limits the Recovery of Leaf Gas Exchange in Scots Pine",
+      "journal": "PLANT PHYSIOLOGY",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020gl089096": {
+      "title": "The Shifting Scales of Western U.S. Landfalling Atmospheric Rivers Under Climate Change",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1201/9781003078845": {
+      "title": "HYDROLOGY AND WATER RESOURCES",
+      "journal": "",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-020-0008-8": {
+      "title": "Increase in sea level variability with ocean warming associated with the nonlinear thermal expansion of seawater",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-13-3627-2020": {
+      "title": "Evaluating simulated climate patterns from the CMIP archives using satellite and reanalysis datasets using the Climate Model Assessment Tool (CMATv1)",
+      "journal": "Geoscientific model development",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.125432": {
+      "title": "Mass balance and runoff modelling of partially debris-covered Dokriani Glacier in monsoon-dominated Himalaya using ERA5 data since 1979",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2007998117": {
+      "title": "Dry soils can intensify mesoscale convective systems",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/13563467.2020.1810218": {
+      "title": "‘The End of the Fossil Fuel Age’? Discourse Politics and Climate Change Political Economy",
+      "journal": "New Political Economy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/jxb/eraa383": {
+      "title": "ABF3 enhances drought tolerance via promoting ABA-induced stomatal closure by directly regulating<i>ADF5</i>in<i>Populus euphratica</i>",
+      "journal": "Journal of Experimental Botany",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-19-0923.1": {
+      "title": "Freeze–Thaw Changes of Seasonally Frozen Ground on the Tibetan Plateau from 1960 to 2014",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-70593-y": {
+      "title": "Campylobacter infections expected to increase due to climate change in Northern Europe",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/agronomy10091232": {
+      "title": "Challenges to Cocoa Production in the Face of Climate Change and the Spread of Pests and Diseases",
+      "journal": "Agronomy",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020jf005641": {
+      "title": "Accelerated Snow Melt in the Russian Caucasus Mountains After the Saharan Dust Outbreak in March 2018",
+      "journal": "Journal of Geophysical Research Earth Surface",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -16159,6 +16659,29 @@
       "type": "weekly",
       "timestamp": "2026-05-05T12:01:01.993544",
       "date": "2020-08-16",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2020-W34": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T12:02:19.179074",
+      "date": "2020-08-23",
       "topics": [
         "hydrology",
         "hydrologic model",
