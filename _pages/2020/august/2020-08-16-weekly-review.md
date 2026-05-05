@@ -8,7 +8,7 @@ date: 2020-08-16
 categories: [weekly, 2020, august]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "Top paper: The shared socio-economic pathway (SSP) greenhouse gas conce (1666 citations)"
+highlight: "Top paper: The shared socio-economic pathway (SSP) greenhouse gas conce (1668 citations)"
 lang: en
 lang_link: /zh/2020/august/2020-08-16-weekly-review
 ---
@@ -44,7 +44,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Hossein Tabari
 
-**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-70816-2](https://doi.org/10.1038/s41598-020-70816-2) · **Citations**: 1445
+**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-70816-2](https://doi.org/10.1038/s41598-020-70816-2) · **Citations**: 1447
 
 **Matched topics**: hydrology, hydrologic model, runoff, streamflow, flood, seasonal, land surface model, climate change, earth system model
 {: .label .label-green }
@@ -70,7 +70,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Duminda Perera, Jetal Agnihotri, Ousmane Seidou, Riyanti Djalante
 
-**Journal**: *International Journal of Disaster Risk Reduction* · **DOI**: [10.1016/j.ijdrr.2020.101794](https://doi.org/10.1016/j.ijdrr.2020.101794) · **Citations**: 194
+**Journal**: *International Journal of Disaster Risk Reduction* · **DOI**: [10.1016/j.ijdrr.2020.101794](https://doi.org/10.1016/j.ijdrr.2020.101794) · **Citations**: 195
 
 **Matched topics**: flood
 {: .label .label-green }
@@ -83,7 +83,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Bo Wang, Becky P.Y. Loo, Feng Zhen, Guangliang Xi
 
-**Journal**: *Cities* · **DOI**: [10.1016/j.cities.2020.102884](https://doi.org/10.1016/j.cities.2020.102884) · **Citations**: 129
+**Journal**: *Cities* · **DOI**: [10.1016/j.cities.2020.102884](https://doi.org/10.1016/j.cities.2020.102884) · **Citations**: 130
 
 **Matched topics**: flood
 {: .label .label-green }
@@ -96,7 +96,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Laura Bakkensen, Lala Ma
 
-**Journal**: *Journal of Environmental Economics and Management* · **DOI**: [10.1016/j.jeem.2020.102362](https://doi.org/10.1016/j.jeem.2020.102362) · **Citations**: 118
+**Journal**: *Journal of Environmental Economics and Management* · **DOI**: [10.1016/j.jeem.2020.102362](https://doi.org/10.1016/j.jeem.2020.102362) · **Citations**: 119
 
 **Matched topics**: flood
 {: .label .label-green }
@@ -109,7 +109,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Christian Huggel, Mark Carey, Adam Emmer, Holger Frey, Noah Walker-Crawford, Ivo Wallimann-Helmer
 
-**Journal**: *Natural hazards and earth system sciences* · **DOI**: [10.5194/nhess-20-2175-2020](https://doi.org/10.5194/nhess-20-2175-2020) · **Citations**: 110
+**Journal**: *Natural hazards and earth system sciences* · **DOI**: [10.5194/nhess-20-2175-2020](https://doi.org/10.5194/nhess-20-2175-2020) · **Citations**: 111
 
 **Matched topics**: flood, climate change
 {: .label .label-green }
@@ -146,7 +146,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 ## Drought Analysis and Prediction
 
-Drought research this week encompasses 5 studies covering monitoring, prediction, and impact assessment. Key work by Mahlalela, Mahto et al. highlights advances in drought characterization across multiple spatial and temporal scales.
+Drought research this week encompasses 4 studies covering monitoring, prediction, and impact assessment. Key work by Mahlalela, Mahto et al. highlights advances in drought characterization across multiple spatial and temporal scales.
 
 ### Drought in the Eastern Cape region of South Africa and trends in rainfall characteristics
 
@@ -200,19 +200,6 @@ Drought research this week encompasses 5 studies covering monitoring, prediction
 
 ---
 
-### Fine root and root hair morphology of cotton under drought stress revealed with RhizoPot
-
-**Authors**: Shuang Xiao, Liantao Liu, Yongjiang Zhang, Hongchun Sun, Ke Zhang, Zhiying Bai et al.
-
-**Journal**: *Journal of Agronomy and Crop Science* · **DOI**: [10.1111/jac.12429](https://doi.org/10.1111/jac.12429) · **Citations**: 89
-
-**Matched topics**: drought
-{: .label .label-green }
-
-> Abstract Fine roots (roots with a diameter of less than 2 mm) and root hairs are the primary absorbers of water and nutrients; however, the morphology of cotton fine roots and root hairs in response to drought stress has not yet been defined. To solve this problem, this study characterized a self‐made in situ root observation device (RhizoPot) with a scanner with a resolution of up to 4,800 DPI was used to observe the roots of cotton plants grown indoors under both well‐watered and drought st...
-
----
-
 ## Streamflow Forecasting and Machine Learning
 
 Machine learning and data-driven approaches to streamflow prediction feature prominently with 1 papers. The studies demonstrate continued innovation in hybrid modeling frameworks, signal decomposition techniques, and ensemble methods for improved hydrological forecasting.
@@ -232,13 +219,13 @@ Machine learning and data-driven approaches to streamflow prediction feature pro
 
 ## Climate Change and Water Resources
 
-Climate-water interactions are explored in 14 papers this week, addressing impacts on the cryosphere, water cycle components, and regional water resources under changing conditions.
+Climate-water interactions are explored in 15 papers this week, addressing impacts on the cryosphere, water cycle components, and regional water resources under changing conditions.
 
 ### Large stocks of peatland carbon and nitrogen are vulnerable to permafrost thaw
 
 **Authors**: Gustaf Hugelius, Julie Loisel, Sarah Chadburn, Robert B. Jackson, Miriam C. Jones, Glen M. MacDonald et al.
 
-**Journal**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.1916387117](https://doi.org/10.1073/pnas.1916387117) · **Citations**: 766
+**Journal**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.1916387117](https://doi.org/10.1073/pnas.1916387117) · **Citations**: 768
 
 **Matched topics**: hydrology, earth system model
 {: .label .label-green }
@@ -247,11 +234,24 @@ Climate-water interactions are explored in 14 papers this week, addressing impac
 
 ---
 
+### Dynamic ice loss from the Greenland Ice Sheet driven by sustained glacier retreat
+
+**Authors**: Michalea D. King, Ian M. Howat, S. G. Candela, Myoung J. Noh, Seongsu Jeong, Brice Noël et al.
+
+**Journal**: *Communications Earth & Environment* · **DOI**: [10.1038/s43247-020-0001-2](https://doi.org/10.1038/s43247-020-0001-2) · **Citations**: 387
+
+**Matched topics**: earth system model
+{: .label .label-green }
+
+> Abstract The Greenland Ice Sheet is losing mass at accelerated rates in the 21st century, making it the largest single contributor to rising sea levels. Faster flow of outlet glaciers has substantially contributed to this loss, with the cause of speedup, and potential for future change, uncertain. Here we combine more than three decades of remotely sensed observational products of outlet glacier velocity, elevation, and front position changes over the full ice sheet. We compare decadal variab...
+
+---
+
 ### Urban Climates and Climate Change
 
 **Authors**: Valéry Masson, Aude Lemonsu, Julia Hidalgo, James Voogt
 
-**Journal**: *Annual Review of Environment and Resources* · **DOI**: [10.1146/annurev-environ-012320-083623](https://doi.org/10.1146/annurev-environ-012320-083623) · **Citations**: 339
+**Journal**: *Annual Review of Environment and Resources* · **DOI**: [10.1146/annurev-environ-012320-083623](https://doi.org/10.1146/annurev-environ-012320-083623) · **Citations**: 341
 
 **Matched topics**: hydrology, land surface model, climate change, earth system model
 {: .label .label-green }
@@ -277,7 +277,7 @@ Climate-water interactions are explored in 14 papers this week, addressing impac
 
 **Authors**: Michele L. Barnes, Peng Wang, Joshua E. Cinner, Nicholas A. J. Graham, Angela M. Guerrero, Lorien Jasny et al.
 
-**Journal**: *Nature Climate Change* · **DOI**: [10.1038/s41558-020-0871-4](https://doi.org/10.1038/s41558-020-0871-4) · **Citations**: 250
+**Journal**: *Nature Climate Change* · **DOI**: [10.1038/s41558-020-0871-4](https://doi.org/10.1038/s41558-020-0871-4) · **Citations**: 251
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -325,6 +325,19 @@ Climate-water interactions are explored in 14 papers this week, addressing impac
 
 ---
 
+### The ERA5-Land soil temperature bias in permafrost regions
+
+**Authors**: Bin Cao, Stephan Gruber, Donghai Zheng, Xin Li
+
+**Journal**: *The cryosphere* · **DOI**: [10.5194/tc-14-2581-2020](https://doi.org/10.5194/tc-14-2581-2020) · **Citations**: 172
+
+**Matched topics**: hydrology, land surface model, earth system model
+{: .label .label-green }
+
+> Abstract. ERA5-Land (ERA5L) is a reanalysis product derived by running the land component of ERA5 at increased resolution. This study evaluates ERA5L soil temperature in permafrost regions based on observations and published permafrost products. We find that ERA5L overestimates soil temperature in northern Canada and Alaska but underestimates it in mid–low latitudes, leading to an average bias of −0.08 ∘C. The warm bias of ERA5L soil is stronger in winter than in other seasons. As calculated ...
+
+---
+
 ### The Sensitivity of the Antarctic Ice Sheet to a Changing Climate: Past, Present, and Future
 
 **Authors**: Taryn L. Noble, Eelco J. Rohling, Alan Aitken, Helen Bostock, ﻿Zanna Chase, Natalya Gomez et al.
@@ -335,19 +348,6 @@ Climate-water interactions are explored in 14 papers this week, addressing impac
 {: .label .label-green }
 
 > Abstract The Antarctic Ice Sheet (AIS) is out of equilibrium with the current anthropogenic‐enhanced climate forcing. Paleoenvironmental records and ice sheet models reveal that the AIS has been tightly coupled to the climate system during the past and indicate the potential for accelerated and sustained Antarctic ice mass loss into the future. Modern observations by contrast suggest that the AIS has only just started to respond to climate change in recent decades. The maximum projected sea l...
-
----
-
-### The ERA5-Land soil temperature bias in permafrost regions
-
-**Authors**: Bin Cao, Stephan Gruber, Donghai Zheng, Xin Li
-
-**Journal**: *The cryosphere* · **DOI**: [10.5194/tc-14-2581-2020](https://doi.org/10.5194/tc-14-2581-2020) · **Citations**: 171
-
-**Matched topics**: hydrology, land surface model, earth system model
-{: .label .label-green }
-
-> Abstract. ERA5-Land (ERA5L) is a reanalysis product derived by running the land component of ERA5 at increased resolution. This study evaluates ERA5L soil temperature in permafrost regions based on observations and published permafrost products. We find that ERA5L overestimates soil temperature in northern Canada and Alaska but underestimates it in mid–low latitudes, leading to an average bias of −0.08 ∘C. The warm bias of ERA5L soil is stronger in winter than in other seasons. As calculated ...
 
 ---
 
@@ -381,7 +381,7 @@ Climate-water interactions are explored in 14 papers this week, addressing impac
 
 **Authors**: Judith Naamala, Donald L. Smith
 
-**Journal**: *Agronomy* · **DOI**: [10.3390/agronomy10081179](https://doi.org/10.3390/agronomy10081179) · **Citations**: 114
+**Journal**: *Agronomy* · **DOI**: [10.3390/agronomy10081179](https://doi.org/10.3390/agronomy10081179) · **Citations**: 116
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -424,7 +424,7 @@ Hydrologic model development and evaluation features 4 papers covering precipita
 
 **Authors**: John P. Dunne, Larry W. Horowitz, Alistair Adcroft, Paul Ginoux, Isaac M. Held, Jasmin G. John et al.
 
-**Journal**: *Journal of Advances in Modeling Earth Systems* · **DOI**: [10.1029/2019ms002015](https://doi.org/10.1029/2019ms002015) · **Citations**: 980
+**Journal**: *Journal of Advances in Modeling Earth Systems* · **DOI**: [10.1029/2019ms002015](https://doi.org/10.1029/2019ms002015) · **Citations**: 981
 
 **Matched topics**: land surface model, surface water, earth system model
 {: .label .label-green }
@@ -480,7 +480,7 @@ Water management research spans 18 papers addressing topics from irrigation opti
 
 **Authors**: Malte Meinshausen, Zebedee Nicholls, Jared Lewis, Matthew Gidden, Elisabeth Vogel, Mandy Freund et al.
 
-**Journal**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-3571-2020](https://doi.org/10.5194/gmd-13-3571-2020) · **Citations**: 1666
+**Journal**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-3571-2020](https://doi.org/10.5194/gmd-13-3571-2020) · **Citations**: 1668
 
 **Matched topics**: land surface model, earth system model
 {: .label .label-green }
@@ -519,7 +519,7 @@ Water management research spans 18 papers addressing topics from irrigation opti
 
 **Authors**: Xuelian Bai, Y. Son
 
-**Journal**: *Science of the Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.141622](https://doi.org/10.1016/j.scitotenv.2020.141622) · **Citations**: 274
+**Journal**: *Science of the Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.141622](https://doi.org/10.1016/j.scitotenv.2020.141622) · **Citations**: 275
 
 **Matched topics**: surface water
 {: .label .label-green }
@@ -717,9 +717,9 @@ Water management research spans 18 papers addressing topics from irrigation opti
 | Databases searched | 2 |
 | Topics searched | 16 |
 | Total papers fetched | 860 |
-| After deduplication | 581 |
+| After deduplication | 582 |
 | After LLM relevance filtering | 50 |
-| Rejected (not relevant) | 531 |
+| Rejected (not relevant) | 532 |
 
 ### Papers by journal
 
@@ -738,15 +738,15 @@ Water management research spans 18 papers addressing topics from irrigation opti
 | Climate Dynamics | 1 |
 | Planta | 1 |
 | New Phytologist | 1 |
-| Journal of Agronomy and Crop Science | 1 |
 | Hydrology and earth system sciences | 1 |
 | Proceedings of the National Academy of Sciences | 1 |
+| Communications Earth & Environment | 1 |
 | Annual Review of Environment and Resources | 1 |
 | Nature | 1 |
 | Weather | 1 |
 | Interface Focus | 1 |
-| Reviews of Geophysics | 1 |
 | The cryosphere | 1 |
+| Reviews of Geophysics | 1 |
 | IEEE Transactions on Geoscience and Remote Sensing | 1 |
 | Communication Reports | 1 |
 | Agronomy | 1 |

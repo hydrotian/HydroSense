@@ -9,7 +9,7 @@ date: 2020-08-16
 categories: [weekly-zh, 2020, august]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) greenhouse（1666次引用）"
+highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) greenhouse（1668次引用）"
 ---
 
 # 每周文献综述
@@ -43,7 +43,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Hossein Tabari
 
-**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-70816-2](https://doi.org/10.1038/s41598-020-70816-2) · **引用数**: 1445
+**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-70816-2](https://doi.org/10.1038/s41598-020-70816-2) · **引用数**: 1447
 
 **匹配主题**: hydrology, hydrologic model, runoff, streamflow, flood, seasonal, land surface model, climate change, earth system model
 {: .label .label-green }
@@ -69,7 +69,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Duminda Perera, Jetal Agnihotri, Ousmane Seidou, Riyanti Djalante
 
-**期刊**: *International Journal of Disaster Risk Reduction* · **DOI**: [10.1016/j.ijdrr.2020.101794](https://doi.org/10.1016/j.ijdrr.2020.101794) · **引用数**: 194
+**期刊**: *International Journal of Disaster Risk Reduction* · **DOI**: [10.1016/j.ijdrr.2020.101794](https://doi.org/10.1016/j.ijdrr.2020.101794) · **引用数**: 195
 
 **匹配主题**: flood
 {: .label .label-green }
@@ -82,7 +82,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Bo Wang, Becky P.Y. Loo, Feng Zhen, Guangliang Xi
 
-**期刊**: *Cities* · **DOI**: [10.1016/j.cities.2020.102884](https://doi.org/10.1016/j.cities.2020.102884) · **引用数**: 129
+**期刊**: *Cities* · **DOI**: [10.1016/j.cities.2020.102884](https://doi.org/10.1016/j.cities.2020.102884) · **引用数**: 130
 
 **匹配主题**: flood
 {: .label .label-green }
@@ -95,7 +95,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Laura Bakkensen, Lala Ma
 
-**期刊**: *Journal of Environmental Economics and Management* · **DOI**: [10.1016/j.jeem.2020.102362](https://doi.org/10.1016/j.jeem.2020.102362) · **引用数**: 118
+**期刊**: *Journal of Environmental Economics and Management* · **DOI**: [10.1016/j.jeem.2020.102362](https://doi.org/10.1016/j.jeem.2020.102362) · **引用数**: 119
 
 **匹配主题**: flood
 {: .label .label-green }
@@ -108,7 +108,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Christian Huggel, Mark Carey, Adam Emmer, Holger Frey, Noah Walker-Crawford, Ivo Wallimann-Helmer
 
-**期刊**: *Natural hazards and earth system sciences* · **DOI**: [10.5194/nhess-20-2175-2020](https://doi.org/10.5194/nhess-20-2175-2020) · **引用数**: 110
+**期刊**: *Natural hazards and earth system sciences* · **DOI**: [10.5194/nhess-20-2175-2020](https://doi.org/10.5194/nhess-20-2175-2020) · **引用数**: 111
 
 **匹配主题**: flood, climate change
 {: .label .label-green }
@@ -145,7 +145,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 ## 干旱分析与预测
 
-本周干旱研究包含5篇论文，涵盖监���、预测和影响评估。研究突出了多时空尺度干旱表征方面的进展。
+本周干旱研究包含4篇论文，涵盖监���、预测和影响评估。研究突出了多时空尺度干旱表征方面的进展。
 
 ### Drought in the Eastern Cape region of South Africa and trends in rainfall characteristics
 
@@ -199,19 +199,6 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 ---
 
-### Fine root and root hair morphology of cotton under drought stress revealed with RhizoPot
-
-**作者**: Shuang Xiao, Liantao Liu, Yongjiang Zhang, Hongchun Sun, Ke Zhang, Zhiying Bai et al.
-
-**期刊**: *Journal of Agronomy and Crop Science* · **DOI**: [10.1111/jac.12429](https://doi.org/10.1111/jac.12429) · **引用数**: 89
-
-**匹配主题**: drought
-{: .label .label-green }
-
-> Abstract Fine roots (roots with a diameter of less than 2 mm) and root hairs are the primary absorbers of water and nutrients; however, the morphology of cotton fine roots and root hairs in response to drought stress has not yet been defined. To solve this problem, this study characterized a self‐made in situ root observation device (RhizoPot) with a scanner with a resolution of up to 4,800 DPI was used to observe the roots of cotton plants grown indoors under both well‐watered and drought st...
-
----
-
 ## 径流预测与机器学习
 
 机器学习和数据驱动的径流预测方法突出，共1篇论文。研究展示了混���建模框架、信号分解技术和集成方法在水文预报中的持续创新。
@@ -231,13 +218,13 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 ## 气候变化与水资源
 
-本周14篇论文探讨了气候-水相互作用，涉及冰冻圈影响、水循环组分以及变化条件下的区域水资源。
+本周15篇论文探讨了气候-水相互作用，涉及冰冻圈影响、水循环组分以及变化条件下的区域水资源。
 
 ### Large stocks of peatland carbon and nitrogen are vulnerable to permafrost thaw
 
 **作者**: Gustaf Hugelius, Julie Loisel, Sarah Chadburn, Robert B. Jackson, Miriam C. Jones, Glen M. MacDonald et al.
 
-**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.1916387117](https://doi.org/10.1073/pnas.1916387117) · **引用数**: 766
+**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.1916387117](https://doi.org/10.1073/pnas.1916387117) · **引用数**: 768
 
 **匹配主题**: hydrology, earth system model
 {: .label .label-green }
@@ -246,11 +233,24 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 ---
 
+### Dynamic ice loss from the Greenland Ice Sheet driven by sustained glacier retreat
+
+**作者**: Michalea D. King, Ian M. Howat, S. G. Candela, Myoung J. Noh, Seongsu Jeong, Brice Noël et al.
+
+**期刊**: *Communications Earth & Environment* · **DOI**: [10.1038/s43247-020-0001-2](https://doi.org/10.1038/s43247-020-0001-2) · **引用数**: 387
+
+**匹配主题**: earth system model
+{: .label .label-green }
+
+> Abstract The Greenland Ice Sheet is losing mass at accelerated rates in the 21st century, making it the largest single contributor to rising sea levels. Faster flow of outlet glaciers has substantially contributed to this loss, with the cause of speedup, and potential for future change, uncertain. Here we combine more than three decades of remotely sensed observational products of outlet glacier velocity, elevation, and front position changes over the full ice sheet. We compare decadal variab...
+
+---
+
 ### Urban Climates and Climate Change
 
 **作者**: Valéry Masson, Aude Lemonsu, Julia Hidalgo, James Voogt
 
-**期刊**: *Annual Review of Environment and Resources* · **DOI**: [10.1146/annurev-environ-012320-083623](https://doi.org/10.1146/annurev-environ-012320-083623) · **引用数**: 339
+**期刊**: *Annual Review of Environment and Resources* · **DOI**: [10.1146/annurev-environ-012320-083623](https://doi.org/10.1146/annurev-environ-012320-083623) · **引用数**: 341
 
 **匹配主题**: hydrology, land surface model, climate change, earth system model
 {: .label .label-green }
@@ -276,7 +276,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Michele L. Barnes, Peng Wang, Joshua E. Cinner, Nicholas A. J. Graham, Angela M. Guerrero, Lorien Jasny et al.
 
-**期刊**: *Nature Climate Change* · **DOI**: [10.1038/s41558-020-0871-4](https://doi.org/10.1038/s41558-020-0871-4) · **引用数**: 250
+**期刊**: *Nature Climate Change* · **DOI**: [10.1038/s41558-020-0871-4](https://doi.org/10.1038/s41558-020-0871-4) · **引用数**: 251
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -324,6 +324,19 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 ---
 
+### The ERA5-Land soil temperature bias in permafrost regions
+
+**作者**: Bin Cao, Stephan Gruber, Donghai Zheng, Xin Li
+
+**期刊**: *The cryosphere* · **DOI**: [10.5194/tc-14-2581-2020](https://doi.org/10.5194/tc-14-2581-2020) · **引用数**: 172
+
+**匹配主题**: hydrology, land surface model, earth system model
+{: .label .label-green }
+
+> Abstract. ERA5-Land (ERA5L) is a reanalysis product derived by running the land component of ERA5 at increased resolution. This study evaluates ERA5L soil temperature in permafrost regions based on observations and published permafrost products. We find that ERA5L overestimates soil temperature in northern Canada and Alaska but underestimates it in mid–low latitudes, leading to an average bias of −0.08 ∘C. The warm bias of ERA5L soil is stronger in winter than in other seasons. As calculated ...
+
+---
+
 ### The Sensitivity of the Antarctic Ice Sheet to a Changing Climate: Past, Present, and Future
 
 **作者**: Taryn L. Noble, Eelco J. Rohling, Alan Aitken, Helen Bostock, ﻿Zanna Chase, Natalya Gomez et al.
@@ -334,19 +347,6 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 {: .label .label-green }
 
 > Abstract The Antarctic Ice Sheet (AIS) is out of equilibrium with the current anthropogenic‐enhanced climate forcing. Paleoenvironmental records and ice sheet models reveal that the AIS has been tightly coupled to the climate system during the past and indicate the potential for accelerated and sustained Antarctic ice mass loss into the future. Modern observations by contrast suggest that the AIS has only just started to respond to climate change in recent decades. The maximum projected sea l...
-
----
-
-### The ERA5-Land soil temperature bias in permafrost regions
-
-**作者**: Bin Cao, Stephan Gruber, Donghai Zheng, Xin Li
-
-**期刊**: *The cryosphere* · **DOI**: [10.5194/tc-14-2581-2020](https://doi.org/10.5194/tc-14-2581-2020) · **引用数**: 171
-
-**匹配主题**: hydrology, land surface model, earth system model
-{: .label .label-green }
-
-> Abstract. ERA5-Land (ERA5L) is a reanalysis product derived by running the land component of ERA5 at increased resolution. This study evaluates ERA5L soil temperature in permafrost regions based on observations and published permafrost products. We find that ERA5L overestimates soil temperature in northern Canada and Alaska but underestimates it in mid–low latitudes, leading to an average bias of −0.08 ∘C. The warm bias of ERA5L soil is stronger in winter than in other seasons. As calculated ...
 
 ---
 
@@ -380,7 +380,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Judith Naamala, Donald L. Smith
 
-**期刊**: *Agronomy* · **DOI**: [10.3390/agronomy10081179](https://doi.org/10.3390/agronomy10081179) · **引用数**: 114
+**期刊**: *Agronomy* · **DOI**: [10.3390/agronomy10081179](https://doi.org/10.3390/agronomy10081179) · **引用数**: 116
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -423,7 +423,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: John P. Dunne, Larry W. Horowitz, Alistair Adcroft, Paul Ginoux, Isaac M. Held, Jasmin G. John et al.
 
-**期刊**: *Journal of Advances in Modeling Earth Systems* · **DOI**: [10.1029/2019ms002015](https://doi.org/10.1029/2019ms002015) · **引用数**: 980
+**期刊**: *Journal of Advances in Modeling Earth Systems* · **DOI**: [10.1029/2019ms002015](https://doi.org/10.1029/2019ms002015) · **引用数**: 981
 
 **匹配主题**: land surface model, surface water, earth system model
 {: .label .label-green }
@@ -479,7 +479,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Malte Meinshausen, Zebedee Nicholls, Jared Lewis, Matthew Gidden, Elisabeth Vogel, Mandy Freund et al.
 
-**期刊**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-3571-2020](https://doi.org/10.5194/gmd-13-3571-2020) · **引用数**: 1666
+**期刊**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-3571-2020](https://doi.org/10.5194/gmd-13-3571-2020) · **引用数**: 1668
 
 **匹配主题**: land surface model, earth system model
 {: .label .label-green }
@@ -518,7 +518,7 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 
 **作者**: Xuelian Bai, Y. Son
 
-**期刊**: *Science of the Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.141622](https://doi.org/10.1016/j.scitotenv.2020.141622) · **引用数**: 274
+**期刊**: *Science of the Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.141622](https://doi.org/10.1016/j.scitotenv.2020.141622) · **引用数**: 275
 
 **匹配主题**: surface water
 {: .label .label-green }
@@ -716,9 +716,9 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 | 搜索数据库 | 2 |
 | 搜索主题 | 16 |
 | 获取论文总数 | 860 |
-| 去重后 | 581 |
+| 去重后 | 582 |
 | LLM相关性筛选后 | 50 |
-| 排除（不相关） | 531 |
+| 排除（不相关） | 532 |
 
 ### 按期刊分布
 
@@ -737,15 +737,15 @@ highlight: "本周最高引用论文：The shared socio-economic pathway (SSP) g
 | Climate Dynamics | 1 |
 | Planta | 1 |
 | New Phytologist | 1 |
-| Journal of Agronomy and Crop Science | 1 |
 | Hydrology and earth system sciences | 1 |
 | Proceedings of the National Academy of Sciences | 1 |
+| Communications Earth & Environment | 1 |
 | Annual Review of Environment and Resources | 1 |
 | Nature | 1 |
 | Weather | 1 |
 | Interface Focus | 1 |
-| Reviews of Geophysics | 1 |
 | The cryosphere | 1 |
+| Reviews of Geophysics | 1 |
 | IEEE Transactions on Geoscience and Remote Sensing | 1 |
 | Communication Reports | 1 |
 | Agronomy | 1 |
