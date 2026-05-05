@@ -9,7 +9,7 @@ date: 2020-07-26
 categories: [weekly-zh, 2020, july]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "本周最高引用论文：South-to-North Water Diversion stabilizing Beijing（549次引用）"
+highlight: "本周最高引用论文：South-to-North Water Diversion stabilizing Beijing（550次引用）"
 ---
 
 # 每周文献综述
@@ -56,7 +56,7 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 
 **作者**: Adaku Jane Echendu
 
-**期刊**: *Ecosystem Health and Sustainability* · **DOI**: [10.1080/20964129.2020.1791735](https://doi.org/10.1080/20964129.2020.1791735) · **引用数**: 190
+**期刊**: *Ecosystem Health and Sustainability* · **DOI**: [10.1080/20964129.2020.1791735](https://doi.org/10.1080/20964129.2020.1791735) · **引用数**: 191
 
 **匹配主题**: flood
 {: .label .label-green }
@@ -125,7 +125,7 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 
 **作者**: S. S. Jiang, Linyong Wei, Liliang Ren, Chong‐Yu Xu, Feng Zhong, Menghao Wang et al.
 
-**期刊**: *Atmospheric Research* · **DOI**: [10.1016/j.atmosres.2020.105141](https://doi.org/10.1016/j.atmosres.2020.105141) · **引用数**: 125
+**期刊**: *Atmospheric Research* · **DOI**: [10.1016/j.atmosres.2020.105141](https://doi.org/10.1016/j.atmosres.2020.105141) · **引用数**: 126
 
 **匹配主题**: drought
 {: .label .label-green }
@@ -371,7 +371,7 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 
 **作者**: Peter Burek, Yusuke Satoh, Taher Kahil, Ting Tang, Peter Greve, Mikhail Smilovic et al.
 
-**期刊**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-3267-2020](https://doi.org/10.5194/gmd-13-3267-2020) · **引用数**: 229
+**期刊**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-3267-2020](https://doi.org/10.5194/gmd-13-3267-2020) · **引用数**: 230
 
 **匹配主题**: hydrology, hydrologic model, streamflow, water management, land surface model, hydropower, surface water, earth system model
 {: .label .label-green }
@@ -518,7 +518,7 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 
 **作者**: Di Long, Wenting Yang, Bridget R. Scanlon, Jianshi Zhao, Dagen Liu, Peter Burek et al.
 
-**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17428-6](https://doi.org/10.1038/s41467-020-17428-6) · **引用数**: 549
+**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17428-6](https://doi.org/10.1038/s41467-020-17428-6) · **引用数**: 550
 
 **匹配主题**: hydrology, hydrologic model, streamflow, water management, land surface model, irrigation, earth system model
 {: .label .label-green }
@@ -531,7 +531,7 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 
 **作者**: Milan Chytrý, Lubomír Tichý, S.M. Hennekens, Ilona Knollová, John Janssen, J. S. Rodwell et al.
 
-**期刊**: *Applied Vegetation Science* · **DOI**: [10.1111/avsc.12519](https://doi.org/10.1111/avsc.12519) · **引用数**: 393
+**期刊**: *Applied Vegetation Science* · **DOI**: [10.1111/avsc.12519](https://doi.org/10.1111/avsc.12519) · **引用数**: 396
 
 **匹配主题**: land surface model
 {: .label .label-green }
@@ -618,6 +618,19 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 
 ---
 
+### Matches and mismatches between the supply of and demand for cultural ecosystem services in rapidly urbanizing watersheds: A case study in the Guanting Reservoir basin, China
+
+**作者**: Shiting Meng, Qingxu Huang, Ling Zhang, Chunyang He, Luis Inostroza, Yansong Bai et al.
+
+**期刊**: *Ecosystem Services* · **DOI**: [10.1016/j.ecoser.2020.101156](https://doi.org/10.1016/j.ecoser.2020.101156) · **引用数**: 93
+
+**匹配主题**: reservoir
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
 ### A Novel Salt-Rejecting Linen Fabric-Based Solar Evaporator for Stable and Efficient Water Desalination under Highly Saline Water
 
 **作者**: Liang Song, Peng Mu, Le Geng, Qingtao Wang, Jian Li
@@ -628,19 +641,6 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 {: .label .label-green }
 
 > Solar-driven interfacial evaporation has been considered as a potential pathway for yielding freshwater from seawater. However, the significant reduction of the evaporation rate has become an immediate problem because of the inevitable salt accumulation on evaporators during long-term evaporation, especially for highly saline water. Here, a novel efficient linen fiber-based solar steam generator by combination of broadband light absorption, superhydrophilicity, and a unique transition layer o...
-
----
-
-### Matches and mismatches between the supply of and demand for cultural ecosystem services in rapidly urbanizing watersheds: A case study in the Guanting Reservoir basin, China
-
-**作者**: Shiting Meng, Qingxu Huang, Ling Zhang, Chunyang He, Luis Inostroza, Yansong Bai et al.
-
-**期刊**: *Ecosystem Services* · **DOI**: [10.1016/j.ecoser.2020.101156](https://doi.org/10.1016/j.ecoser.2020.101156) · **引用数**: 92
-
-**匹配主题**: reservoir
-{: .label .label-green }
-
-> Abstract not available.
 
 ---
 
@@ -716,9 +716,9 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 | 搜索数据库 | 2 |
 | 搜索主题 | 16 |
 | 获取论文总数 | 996 |
-| 去重后 | 675 |
+| 去重后 | 674 |
 | LLM相关性筛选后 | 50 |
-| 排除（不相关） | 625 |
+| 排除（不相关） | 624 |
 
 ### 按期刊分布
 
@@ -762,8 +762,8 @@ highlight: "本周最高引用论文：South-to-North Water Diversion stabilizin
 | Water Research | 1 |
 | Agricultural Water Management | 1 |
 | Remote Sensing Applications Society and Environment | 1 |
-| ACS Sustainable Chemistry & Engineering | 1 |
 | Ecosystem Services | 1 |
+| ACS Sustainable Chemistry & Engineering | 1 |
 | Ocean Engineering | 1 |
 | Advanced Sustainable Systems | 1 |
 | Environmental Monitoring and Assessment | 1 |

@@ -8,7 +8,7 @@ date: 2020-07-26
 categories: [weekly, 2020, july]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "Top paper: South-to-North Water Diversion stabilizing Beijing’s groundw (549 citations)"
+highlight: "Top paper: South-to-North Water Diversion stabilizing Beijing’s groundw (550 citations)"
 lang: en
 lang_link: /zh/2020/july/2020-07-26-weekly-review
 ---
@@ -57,7 +57,7 @@ This week features 3 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Adaku Jane Echendu
 
-**Journal**: *Ecosystem Health and Sustainability* · **DOI**: [10.1080/20964129.2020.1791735](https://doi.org/10.1080/20964129.2020.1791735) · **Citations**: 190
+**Journal**: *Ecosystem Health and Sustainability* · **DOI**: [10.1080/20964129.2020.1791735](https://doi.org/10.1080/20964129.2020.1791735) · **Citations**: 191
 
 **Matched topics**: flood
 {: .label .label-green }
@@ -126,7 +126,7 @@ Drought research this week encompasses 9 studies covering monitoring, prediction
 
 **Authors**: S. S. Jiang, Linyong Wei, Liliang Ren, Chong‐Yu Xu, Feng Zhong, Menghao Wang et al.
 
-**Journal**: *Atmospheric Research* · **DOI**: [10.1016/j.atmosres.2020.105141](https://doi.org/10.1016/j.atmosres.2020.105141) · **Citations**: 125
+**Journal**: *Atmospheric Research* · **DOI**: [10.1016/j.atmosres.2020.105141](https://doi.org/10.1016/j.atmosres.2020.105141) · **Citations**: 126
 
 **Matched topics**: drought
 {: .label .label-green }
@@ -372,7 +372,7 @@ Hydrologic model development and evaluation features 11 papers covering precipit
 
 **Authors**: Peter Burek, Yusuke Satoh, Taher Kahil, Ting Tang, Peter Greve, Mikhail Smilovic et al.
 
-**Journal**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-3267-2020](https://doi.org/10.5194/gmd-13-3267-2020) · **Citations**: 229
+**Journal**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-3267-2020](https://doi.org/10.5194/gmd-13-3267-2020) · **Citations**: 230
 
 **Matched topics**: hydrology, hydrologic model, streamflow, water management, land surface model, hydropower, surface water, earth system model
 {: .label .label-green }
@@ -519,7 +519,7 @@ Water management research spans 15 papers addressing topics from irrigation opti
 
 **Authors**: Di Long, Wenting Yang, Bridget R. Scanlon, Jianshi Zhao, Dagen Liu, Peter Burek et al.
 
-**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17428-6](https://doi.org/10.1038/s41467-020-17428-6) · **Citations**: 549
+**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17428-6](https://doi.org/10.1038/s41467-020-17428-6) · **Citations**: 550
 
 **Matched topics**: hydrology, hydrologic model, streamflow, water management, land surface model, irrigation, earth system model
 {: .label .label-green }
@@ -532,7 +532,7 @@ Water management research spans 15 papers addressing topics from irrigation opti
 
 **Authors**: Milan Chytrý, Lubomír Tichý, S.M. Hennekens, Ilona Knollová, John Janssen, J. S. Rodwell et al.
 
-**Journal**: *Applied Vegetation Science* · **DOI**: [10.1111/avsc.12519](https://doi.org/10.1111/avsc.12519) · **Citations**: 393
+**Journal**: *Applied Vegetation Science* · **DOI**: [10.1111/avsc.12519](https://doi.org/10.1111/avsc.12519) · **Citations**: 396
 
 **Matched topics**: land surface model
 {: .label .label-green }
@@ -619,6 +619,19 @@ Water management research spans 15 papers addressing topics from irrigation opti
 
 ---
 
+### Matches and mismatches between the supply of and demand for cultural ecosystem services in rapidly urbanizing watersheds: A case study in the Guanting Reservoir basin, China
+
+**Authors**: Shiting Meng, Qingxu Huang, Ling Zhang, Chunyang He, Luis Inostroza, Yansong Bai et al.
+
+**Journal**: *Ecosystem Services* · **DOI**: [10.1016/j.ecoser.2020.101156](https://doi.org/10.1016/j.ecoser.2020.101156) · **Citations**: 93
+
+**Matched topics**: reservoir
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
 ### A Novel Salt-Rejecting Linen Fabric-Based Solar Evaporator for Stable and Efficient Water Desalination under Highly Saline Water
 
 **Authors**: Liang Song, Peng Mu, Le Geng, Qingtao Wang, Jian Li
@@ -629,19 +642,6 @@ Water management research spans 15 papers addressing topics from irrigation opti
 {: .label .label-green }
 
 > Solar-driven interfacial evaporation has been considered as a potential pathway for yielding freshwater from seawater. However, the significant reduction of the evaporation rate has become an immediate problem because of the inevitable salt accumulation on evaporators during long-term evaporation, especially for highly saline water. Here, a novel efficient linen fiber-based solar steam generator by combination of broadband light absorption, superhydrophilicity, and a unique transition layer o...
-
----
-
-### Matches and mismatches between the supply of and demand for cultural ecosystem services in rapidly urbanizing watersheds: A case study in the Guanting Reservoir basin, China
-
-**Authors**: Shiting Meng, Qingxu Huang, Ling Zhang, Chunyang He, Luis Inostroza, Yansong Bai et al.
-
-**Journal**: *Ecosystem Services* · **DOI**: [10.1016/j.ecoser.2020.101156](https://doi.org/10.1016/j.ecoser.2020.101156) · **Citations**: 92
-
-**Matched topics**: reservoir
-{: .label .label-green }
-
-> Abstract not available.
 
 ---
 
@@ -717,9 +717,9 @@ Water management research spans 15 papers addressing topics from irrigation opti
 | Databases searched | 2 |
 | Topics searched | 16 |
 | Total papers fetched | 996 |
-| After deduplication | 675 |
+| After deduplication | 674 |
 | After LLM relevance filtering | 50 |
-| Rejected (not relevant) | 625 |
+| Rejected (not relevant) | 624 |
 
 ### Papers by journal
 
@@ -763,8 +763,8 @@ Water management research spans 15 papers addressing topics from irrigation opti
 | Water Research | 1 |
 | Agricultural Water Management | 1 |
 | Remote Sensing Applications Society and Environment | 1 |
-| ACS Sustainable Chemistry & Engineering | 1 |
 | Ecosystem Services | 1 |
+| ACS Sustainable Chemistry & Engineering | 1 |
 | Ocean Engineering | 1 |
 | Advanced Sustainable Systems | 1 |
 | Environmental Monitoring and Assessment | 1 |
