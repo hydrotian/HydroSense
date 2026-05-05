@@ -276,7 +276,7 @@ highlight: "本周最高引用论文：Climate anxiety: Psychological responses 
 
 **作者**: Tripti Dimri, Shamshad Ahmad, Mohammed Sharif
 
-**期刊**: *Journal of Earth System Science* · **DOI**: [10.1007/s12040-020-01408-x](https://doi.org/10.1007/s12040-020-01408-x) · **引用数**: 229
+**期刊**: *Journal of Earth System Science* · **DOI**: [10.1007/s12040-020-01408-x](https://doi.org/10.1007/s12040-020-01408-x) · **引用数**: 230
 
 **匹配主题**: water management, seasonal
 {: .label .label-green }
@@ -410,7 +410,7 @@ highlight: "本周最高引用论文：Climate anxiety: Psychological responses 
 
 **作者**: Joe R. Melton, Vivek K. Arora, Eduard Wisernig-Cojoc, Christian Seiler, Matthew Fortier, Ed Chan et al.
 
-**期刊**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-2825-2020](https://doi.org/10.5194/gmd-13-2825-2020) · **引用数**: 160
+**期刊**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-2825-2020](https://doi.org/10.5194/gmd-13-2825-2020) · **引用数**: 161
 
 **匹配主题**: hydrology, streamflow, land surface model, earth system model
 {: .label .label-green }
@@ -501,7 +501,7 @@ highlight: "本周最高引用论文：Climate anxiety: Psychological responses 
 
 **作者**: Abdullah Muratoğlu
 
-**期刊**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.140553](https://doi.org/10.1016/j.scitotenv.2020.140553) · **引用数**: 81
+**期刊**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.140553](https://doi.org/10.1016/j.scitotenv.2020.140553) · **引用数**: 82
 
 **匹配主题**: runoff, water management
 {: .label .label-green }

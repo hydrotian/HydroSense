@@ -277,7 +277,7 @@ Climate-water interactions are explored in 11 papers this week, addressing impac
 
 **Authors**: Tripti Dimri, Shamshad Ahmad, Mohammed Sharif
 
-**Journal**: *Journal of Earth System Science* · **DOI**: [10.1007/s12040-020-01408-x](https://doi.org/10.1007/s12040-020-01408-x) · **Citations**: 229
+**Journal**: *Journal of Earth System Science* · **DOI**: [10.1007/s12040-020-01408-x](https://doi.org/10.1007/s12040-020-01408-x) · **Citations**: 230
 
 **Matched topics**: water management, seasonal
 {: .label .label-green }
@@ -411,7 +411,7 @@ Hydrologic model development and evaluation features 11 papers covering precipit
 
 **Authors**: Joe R. Melton, Vivek K. Arora, Eduard Wisernig-Cojoc, Christian Seiler, Matthew Fortier, Ed Chan et al.
 
-**Journal**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-2825-2020](https://doi.org/10.5194/gmd-13-2825-2020) · **Citations**: 160
+**Journal**: *Geoscientific model development* · **DOI**: [10.5194/gmd-13-2825-2020](https://doi.org/10.5194/gmd-13-2825-2020) · **Citations**: 161
 
 **Matched topics**: hydrology, streamflow, land surface model, earth system model
 {: .label .label-green }
@@ -502,7 +502,7 @@ Hydrologic model development and evaluation features 11 papers covering precipit
 
 **Authors**: Abdullah Muratoğlu
 
-**Journal**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.140553](https://doi.org/10.1016/j.scitotenv.2020.140553) · **Citations**: 81
+**Journal**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.140553](https://doi.org/10.1016/j.scitotenv.2020.140553) · **Citations**: 82
 
 **Matched topics**: runoff, water management
 {: .label .label-green }
