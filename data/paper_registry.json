@@ -966,7 +966,7 @@
         "weekly-2020-W02",
         "weekly-2020-W18"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1029/2019MS001882": {
@@ -2602,7 +2602,7 @@
         "weekly-2020-W07",
         "weekly-2020-W18"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1007/s00382-020-05153-1": {
@@ -3105,7 +3105,7 @@
         "weekly-2020-W08",
         "weekly-2020-W18"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1016/j.jhydrol.2020.124715": {
@@ -6156,7 +6156,7 @@
         "weekly-2020-W15",
         "weekly-2020-W18"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1038/s41597-020-0444-4": {
@@ -7622,7 +7622,7 @@
         "weekly-2020-W18",
         "weekly-2020-W23"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1016/j.baae.2020.04.003": {
@@ -7633,7 +7633,7 @@
         "weekly-2020-W18",
         "weekly-2020-W23"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1126/science.aaz5845": {
@@ -7643,8 +7643,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1126/sciadv.aaz6031": {
       "title": "Global agricultural economic water scarcity",
@@ -7653,8 +7653,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jclepro.2020.120138": {
       "title": "(Micro)plastic crisis: Un-ignorable contribution to global greenhouse gas emissions and climate change",
@@ -7663,8 +7663,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3389/fmars.2020.00263": {
       "title": "A High-Resolution Global Dataset of Extreme Sea Levels, Tides, and Storm Surges, Including Future Projections",
@@ -7673,8 +7673,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3390/app10093092": {
       "title": "A Review of the Potential Climate Change Impacts and Adaptation Options for European Viticulture",
@@ -7683,8 +7683,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jclepro.2020.121634": {
       "title": "Climate change and credit risk",
@@ -7693,8 +7693,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-020-16010-4": {
       "title": "Accelerating invasion potential of disease vector Aedes aegypti under climate change",
@@ -7703,8 +7703,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1093/nsr/nwaa091": {
       "title": "Why ‘the uplift of the Tibetan Plateau’ is a myth",
@@ -7713,8 +7713,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41597-020-0469-8": {
       "title": "Harmonised global datasets of wind and solar farm locations and power",
@@ -7723,8 +7723,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/gmd-13-2109-2020": {
       "title": "Configuration and intercomparison of deep learning neural models for statistical downscaling",
@@ -7733,8 +7733,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1111/gcb.15075": {
       "title": "Robust ecological drought projections for drylands in the 21st century",
@@ -7743,8 +7743,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s40725-020-00116-5": {
       "title": "Satellite Remote Sensing Contributions to Wildland Fire Science and Management",
@@ -7753,8 +7753,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.tplants.2020.04.003": {
       "title": "Soil Rather Than Xylem Vulnerability Controls Stomatal Response to Drought.",
@@ -7763,8 +7763,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.rse.2020.111803": {
       "title": "Monthly estimation of the surface water extent in France at a 10-m resolution using Sentinel-2 data",
@@ -7774,7 +7774,7 @@
         "weekly-2020-W18",
         "weekly-2020-W27"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1038/s41561-020-0571-8": {
@@ -7784,8 +7784,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1093/biosci/biaa055": {
       "title": "Tree Transpiration and Urban Temperatures: Current Understanding, Implications, and Future Research Directions",
@@ -7794,8 +7794,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-020-15929-y": {
       "title": "Global CO2 emissions from dry inland waters share common drivers across ecosystems",
@@ -7804,8 +7804,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125007": {
       "title": "Flash flood susceptibility modelling using functional tree and hybrid ensemble techniques",
@@ -7814,8 +7814,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.124694": {
       "title": "Response of runoff and soil erosion to erosive rainstorm events and vegetation restoration on abandoned slope farmland in the Loess Plateau region, China",
@@ -7824,8 +7824,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2019wr026987": {
       "title": "What Are the Key Drivers Controlling the Quality of Seasonal Streamflow Forecasts?",
@@ -7834,8 +7834,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3390/plants9050565": {
       "title": "Screening for Drought Tolerance in Maize (Zea mays L.) Germplasm Using Germination and Seedling Traits under Simulated Drought Conditions",
@@ -7844,8 +7844,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125026": {
       "title": "Drought propagation in Northern China Plain: A comparative analysis of GLDAS and MERRA-2 datasets",
@@ -7854,8 +7854,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1002/hyp.13791": {
       "title": "Evaluation of <scp>WaPOR V2</scp> evapotranspiration products across Africa",
@@ -7864,8 +7864,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.energy.2020.117418": {
       "title": "The reservoir network: A new network topology for district heating and cooling",
@@ -7874,8 +7874,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.catena.2020.104604": {
       "title": "GIS-based soil erosion modelling under various steep-slope vineyard practices",
@@ -7884,8 +7884,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2019WR025286": {
       "title": "Many Commonly Used Rainfall‐Runoff Models Lack Long, Slow Dynamics: Implications for Runoff Projections",
@@ -7894,8 +7894,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125013": {
       "title": "Future hydropower generation prediction of large-scale reservoirs in the upper Yangtze River basin under climate change",
@@ -7904,8 +7904,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s00477-020-01797-x": {
       "title": "Dissecting innovative trend analysis",
@@ -7914,8 +7914,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/nhess-20-1149-2020": {
       "title": "Invited perspectives: How machine learning will change flood risk and impact assessment",
@@ -7924,8 +7924,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-020-15859-9": {
       "title": "Downstream changes in river avulsion style are related to channel morphology",
@@ -7934,8 +7934,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1111/pce.13770": {
       "title": "Photosynthetic quantum efficiency in <scp>south‐eastern</scp> Amazonian trees may be already affected by climate change",
@@ -7944,8 +7944,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125012": {
       "title": "On how wetlands can provide flood resilience in a large river basin: A case study in Nenjiang river Basin, China",
@@ -7954,8 +7954,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020gl087505": {
       "title": "Decreasing Landslide Erosion on Steeper Slopes in Soil‐Mantled Landscapes",
@@ -7964,8 +7964,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1130/g47211.1": {
       "title": "What drives large-scale glacier detachments? Insights from Flat Creek glacier, St. Elias Mountains, Alaska",
@@ -7974,8 +7974,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3390/rs12091422": {
       "title": "Using GIS, Remote Sensing, and Machine Learning to Highlight the Correlation between the Land-Use/Land-Cover Changes and Flash-Flood Potential",
@@ -7984,8 +7984,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.clay.2020.105638": {
       "title": "Strong adsorption of phosphate from aqueous solution by zirconium-loaded Ca-montmorillonite",
@@ -7994,8 +7994,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1111/gcb.15143": {
       "title": "Moderate disturbances accelerate forest transition dynamics under climate change in the temperate–boreal ecotone of eastern North America",
@@ -8004,8 +8004,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s12665-020-08944-1": {
       "title": "A comparison of machine learning models for the mapping of groundwater spring potential",
@@ -8014,8 +8014,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.molliq.2020.113222": {
       "title": "RETRACTED: Molecular dynamics simulation of Water-Copper nanofluid flow in a three-dimensional nanochannel with different types of surface roughness geometry for energy economic management",
@@ -8024,8 +8024,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jenvman.2020.110651": {
       "title": "Assessment of aquatic ecological health based on determination of biological community variability of fish and macroinvertebrates in the Weihe River Basin, China",
@@ -8034,8 +8034,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1088/1748-9326/ab8ec4": {
       "title": "Permafrost thermal conditions are sensitive to shifts in snow timing",
@@ -8044,8 +8044,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.3390/f11050492": {
       "title": "Biogeochemical Processes of C and N in the Soil of Mangrove Forest Ecosystems",
@@ -8054,8 +8054,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1086/709463": {
       "title": "Climate Change and Migration: New Insights from a Dynamic Model of Out-Migration and Return Migration",
@@ -8064,8 +8064,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s11119-020-09718-2": {
       "title": "Optimizing precision irrigation of a vineyard to improve water use efficiency and profitability by using a decision-oriented vine water consumption model",
@@ -8074,8 +8074,8 @@
       "sources": [
         "weekly-2020-W18"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41893-020-0521-x": {
       "title": "High-spatiotemporal-resolution mapping of global urban change from 1985 to 2015",
@@ -17285,7 +17285,7 @@
     },
     "weekly-2020-W18": {
       "type": "weekly",
-      "timestamp": "2026-05-05T11:41:08.925931",
+      "timestamp": "2026-05-05T12:07:01.722255",
       "date": "2020-05-03",
       "topics": [
         "hydrology",
