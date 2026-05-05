@@ -31431,6 +31431,506 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1016/j.biocon.2021.109070": {
+      "title": "Endemism increases species' climate change risk in areas of global biodiversity importance",
+      "journal": "Biological Conservation",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00382-021-05708-w": {
+      "title": "The first multi-model ensemble of regional climate simulations at kilometer-scale resolution, part I: evaluation of precipitation",
+      "journal": "Climate Dynamics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020jd034202": {
+      "title": "A Global High‐Resolution Mesoscale Convective System Database Using Satellite‐Derived Cloud Tops, Surface Precipitation, and Tracking",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-021-01014-9": {
+      "title": "Winter melt trends portend widespread declines in snow water resources",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-021-01011-y": {
+      "title": "Future increases in Arctic lightning and fire risk for permafrost carbon",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020gl092293": {
+      "title": "Five Decades of Observed Daily Precipitation Reveal Longer and More Variable Drought Events Across Much of the Western United States",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020gl091733": {
+      "title": "Surface Melt and Runoff on Antarctic Ice Shelves at 1.5°C, 2°C, and 4°C of Future Warming",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rse.2021.112434": {
+      "title": "Estimation of root zone soil moisture from ground and remotely sensed soil information with multisensor data fusion and automated machine learning",
+      "journal": "Remote Sensing of Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.geoderma.2021.115118": {
+      "title": "Mapping soil organic carbon stock by hyperspectral and time-series multispectral remote sensing images in low-relief agricultural areas",
+      "journal": "Geoderma",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gsf.2021.101203": {
+      "title": "Applying deep learning and benchmark machine learning algorithms for landslide susceptibility modelling in Rorachu river basin of Sikkim Himalaya, India",
+      "journal": "Geoscience Frontiers",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.146896": {
+      "title": "Upward shift and elevational range contractions of subtropical mountain plants in response to climate change",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2021.127001": {
+      "title": "Zoning irrigation smart system based on fuzzy control technology and IoT for water and energy saving",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020rg000702": {
+      "title": "Polar Stratospheric Clouds: Satellite Observations, Processes, and Role in Ozone Depletion",
+      "journal": "Reviews of Geophysics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.146927": {
+      "title": "From local to regional compound flood mapping with deep learning and data fusion techniques",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s43615-021-00022-3": {
+      "title": "Nature-Based Solutions as a Tool in the New Circular Economic Model for Climate Change Adaptation",
+      "journal": "Circular Economy and Sustainability",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/plants10040748": {
+      "title": "Exogenous Gibberellic Acid or Dilute Bee Honey Boosts Drought Stress Tolerance in Vicia faba by Rebalancing Osmoprotectants, Antioxidants, Nutrients, and Phytohormones",
+      "journal": "Plants",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.146858": {
+      "title": "Quantification of blue carbon in seagrass ecosystems of Southeast Asia and their potential for climate change mitigation",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2020ef001965": {
+      "title": "Coastal Migration due to 21st Century Sea‐Level Rise",
+      "journal": "Earth s Future",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2021.106899": {
+      "title": "Managing agricultural water-energy-food-environment nexus considering water footprint and carbon footprint under uncertainty",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/fmars.2021.612874": {
+      "title": "A Dynamically Downscaled Ensemble of Future Projections for the California Current System",
+      "journal": "Frontiers in Marine Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s40066-020-00283-5": {
+      "title": "Challenges and opportunities in crop simulation modelling under seasonal and projected climate change scenarios for crop production in South Africa",
+      "journal": "Agriculture & Food Security",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.foreco.2021.119199": {
+      "title": "Impacts of climate change scenarios on European ash tree (Fraxinus excelsior L.) in Turkey",
+      "journal": "Forest Ecology and Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acs.est.0c06740": {
+      "title": "Machine-Learning Predictions of High Arsenic and High Manganese at Drinking Water Depths of the Glacial Aquifer System, Northern Continental United States",
+      "journal": "Environmental Science & Technology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.146973": {
+      "title": "Global assessment of future sectoral water scarcity under adaptive inner-basin water allocation measures",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2021.126252": {
+      "title": "Measuring precipitation in Eastern Himalaya: Ground validation of eleven satellite, model and gauge interpolated gridded products",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2021.126282": {
+      "title": "Variations of groundwater storage in different basins of China over recent decades",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.fcr.2021.108141": {
+      "title": "Optimizing irrigation and planting density of spring maize under mulch drip irrigation system in the arid region of Northwest China",
+      "journal": "Field Crops Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s12524-021-01360-3": {
+      "title": "Cause and Process Mechanism of Rockslide Triggered Flood Event in Rishiganga and Dhauliganga River Valleys, Chamoli, Uttarakhand, India Using Satellite Remote Sensing and in situ Observations",
+      "journal": "Journal of the Indian Society of Remote Sensing",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.advwatres.2021.103910": {
+      "title": "A new dataset of global irrigation areas from 2001 to 2015",
+      "journal": "Advances in Water Resources",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-021-22153-9": {
+      "title": "Climate signals in river flood damages emerge under sound regional disaggregation",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10661-021-09037-7": {
+      "title": "Automatic flood detection using sentinel-1 images on the google earth engine",
+      "journal": "Environmental Monitoring and Assessment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-021-22241-w": {
+      "title": "The anatomy of past abrupt warmings recorded in Greenland ice",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2021.146953": {
+      "title": "Using citizen science to understand river water quality while filling data gaps to meet United Nations Sustainable Development Goal 6 objectives",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s40663-021-00303-1": {
+      "title": "Tree growth is more limited by drought in rear-edge forests most of the times",
+      "journal": "Forest Ecosystems",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2021.126293": {
+      "title": "Urban flood analysis for Pearl River Delta cities using an equivalent drainage method upon combined rainfall-high tide-storm surge events",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gloenvcha.2021.102253": {
+      "title": "Harnessing scientific and local knowledge to face climate change in small-scale fisheries",
+      "journal": "Global Environmental Change",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.resconrec.2021.105577": {
+      "title": "Green roofs for stormwater runoff retention: A global quantitative synthesis of the performance",
+      "journal": "Resources Conservation and Recycling",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.apgeog.2021.102440": {
+      "title": "Integrating local perceptions with scientific evidence to understand climate change variability in northern Ghana: A mixed-methods approach",
+      "journal": "Applied Geography",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2021.126941": {
+      "title": "Food-energy-water nexus of different cacao production systems from a LCA approach",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s12870-021-02945-3": {
+      "title": "Effects of ectomycorrhizal fungi (Suillus variegatus) on the growth, hydraulic function, and non-structural carbohydrates of Pinus tabulaeformis under drought stress",
+      "journal": "BMC Plant Biology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/frwa.2021.640544": {
+      "title": "A Decade of Hydrological Drought in Central-Western Argentina",
+      "journal": "Frontiers in Water",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.cobeha.2021.03.013": {
+      "title": "Understanding the effects of partisan identity on climate change",
+      "journal": "Current Opinion in Behavioral Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/plants10040712": {
+      "title": "Early Growth Stage Characterization and the Biochemical Responses for Salinity Stress in Tomato",
+      "journal": "Plants",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-021-87105-1": {
+      "title": "A strain of Phoma species improves drought tolerance of Pinus tabulaeformis",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00477-021-02011-2": {
+      "title": "A novel hybrid dragonfly optimization algorithm for agricultural drought prediction",
+      "journal": "Stochastic Environmental Research and Risk Assessment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecoenv.2021.112193": {
+      "title": "Crop irrigation (soybean, bean, and corn) with enrofloxacin-contaminated water leads to yield reductions and antibiotic accumulation",
+      "journal": "Ecotoxicology and Environmental Safety",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agee.2021.107433": {
+      "title": "Responses of maize yield, nitrogen and phosphorus runoff losses and soil properties to biochar and organic fertilizer application in a light-loamy fluvo-aquic soil",
+      "journal": "Agriculture Ecosystems & Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/17524032.2021.1894197": {
+      "title": "Changing the World One Meme at a Time: The Effects of Climate Change Memes on Civic Engagement Intentions",
+      "journal": "Environmental Communication",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/designs5020027": {
+      "title": "Medium-Term Regional Electricity Load Forecasting through Machine Learning and Deep Learning",
+      "journal": "Designs",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s40710-021-00512-4": {
+      "title": "Long Short-Term Memory Networks to Predict One-Step Ahead Reference Evapotranspiration in a Subtropical Climatic Zone",
+      "journal": "Environmental Processes",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2021-W14"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -33050,6 +33550,29 @@
       "type": "weekly",
       "timestamp": "2026-05-05T13:16:19.982203",
       "date": "2021-04-04",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2021-W14": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T13:17:39.818418",
+      "date": "2021-04-11",
       "topics": [
         "hydrology",
         "hydrologic model",
