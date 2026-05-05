@@ -143,7 +143,7 @@ Climate-water interactions are explored in 18 papers this week, addressing impac
 
 **Authors**: Shuai Chen, Binlei Gong
 
-**Journal**: *Journal of Development Economics* · **DOI**: [10.1016/j.jdeveco.2020.102557](https://doi.org/10.1016/j.jdeveco.2020.102557) · **Citations**: 410
+**Journal**: *Journal of Development Economics* · **DOI**: [10.1016/j.jdeveco.2020.102557](https://doi.org/10.1016/j.jdeveco.2020.102557) · **Citations**: 411
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -195,7 +195,7 @@ Climate-water interactions are explored in 18 papers this week, addressing impac
 
 **Authors**: Mike S. Schäfer, James Painter
 
-**Journal**: *Wiley Interdisciplinary Reviews Climate Change* · **DOI**: [10.1002/wcc.675](https://doi.org/10.1002/wcc.675) · **Citations**: 218
+**Journal**: *Wiley Interdisciplinary Reviews Climate Change* · **DOI**: [10.1002/wcc.675](https://doi.org/10.1002/wcc.675) · **Citations**: 220
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -502,7 +502,7 @@ Water management research spans 18 papers addressing topics from irrigation opti
 
 **Authors**: Xuewei Fan, Qingyun Duan, Chenwei Shen, Yi Wu, Chang Xing
 
-**Journal**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/abb051](https://doi.org/10.1088/1748-9326/abb051) · **Citations**: 262
+**Journal**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/abb051](https://doi.org/10.1088/1748-9326/abb051) · **Citations**: 264
 
 **Matched topics**: land surface model
 {: .label .label-green }
@@ -528,7 +528,7 @@ Water management research spans 18 papers addressing topics from irrigation opti
 
 **Authors**: John R. Nimmo
 
-**Journal**: *Soil Science Society of America Journal* · **DOI**: [10.1002/saj2.20143](https://doi.org/10.1002/saj2.20143) · **Citations**: 198
+**Journal**: *Soil Science Society of America Journal* · **DOI**: [10.1002/saj2.20143](https://doi.org/10.1002/saj2.20143) · **Citations**: 200
 
 **Matched topics**: surface water
 {: .label .label-green }
@@ -541,7 +541,7 @@ Water management research spans 18 papers addressing topics from irrigation opti
 
 **Authors**: Jie Liang, Shuai Li, Xiaodong Li, Xiaodong Li, Xin Li, Xin Li et al.
 
-**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123851](https://doi.org/10.1016/j.jclepro.2020.123851) · **Citations**: 184
+**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123851](https://doi.org/10.1016/j.jclepro.2020.123851) · **Citations**: 185
 
 **Matched topics**: water management
 {: .label .label-green }
@@ -606,7 +606,7 @@ Water management research spans 18 papers addressing topics from irrigation opti
 
 **Authors**: Dou Zhang, Xiangrong Wang, QU Li-ping, Shicheng Li, Yuanping Lin, Rui Yao et al.
 
-**Journal**: *Ecological Indicators* · **DOI**: [10.1016/j.ecolind.2020.106841](https://doi.org/10.1016/j.ecolind.2020.106841) · **Citations**: 146
+**Journal**: *Ecological Indicators* · **DOI**: [10.1016/j.ecolind.2020.106841](https://doi.org/10.1016/j.ecolind.2020.106841) · **Citations**: 147
 
 **Matched topics**: river
 {: .label .label-green }
@@ -632,7 +632,7 @@ Water management research spans 18 papers addressing topics from irrigation opti
 
 **Authors**: Zaib Un Nisa, Anjuman Arif, Muhammad Qandeel Waheed, Tariq Mahmood Shah, Ayesha Iqbal, Amna Jabbar Siddiqui et al.
 
-**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-70963-6](https://doi.org/10.1038/s41598-020-70963-6) · **Citations**: 114
+**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-70963-6](https://doi.org/10.1038/s41598-020-70963-6) · **Citations**: 115
 
 **Matched topics**: irrigation
 {: .label .label-green }

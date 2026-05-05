@@ -142,7 +142,7 @@ highlight: "本周最高引用论文：Recent Advances of Hyperspectral Imaging 
 
 **作者**: Shuai Chen, Binlei Gong
 
-**期刊**: *Journal of Development Economics* · **DOI**: [10.1016/j.jdeveco.2020.102557](https://doi.org/10.1016/j.jdeveco.2020.102557) · **引用数**: 410
+**期刊**: *Journal of Development Economics* · **DOI**: [10.1016/j.jdeveco.2020.102557](https://doi.org/10.1016/j.jdeveco.2020.102557) · **引用数**: 411
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -194,7 +194,7 @@ highlight: "本周最高引用论文：Recent Advances of Hyperspectral Imaging 
 
 **作者**: Mike S. Schäfer, James Painter
 
-**期刊**: *Wiley Interdisciplinary Reviews Climate Change* · **DOI**: [10.1002/wcc.675](https://doi.org/10.1002/wcc.675) · **引用数**: 218
+**期刊**: *Wiley Interdisciplinary Reviews Climate Change* · **DOI**: [10.1002/wcc.675](https://doi.org/10.1002/wcc.675) · **引用数**: 220
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -501,7 +501,7 @@ highlight: "本周最高引用论文：Recent Advances of Hyperspectral Imaging 
 
 **作者**: Xuewei Fan, Qingyun Duan, Chenwei Shen, Yi Wu, Chang Xing
 
-**期刊**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/abb051](https://doi.org/10.1088/1748-9326/abb051) · **引用数**: 262
+**期刊**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/abb051](https://doi.org/10.1088/1748-9326/abb051) · **引用数**: 264
 
 **匹配主题**: land surface model
 {: .label .label-green }
@@ -527,7 +527,7 @@ highlight: "本周最高引用论文：Recent Advances of Hyperspectral Imaging 
 
 **作者**: John R. Nimmo
 
-**期刊**: *Soil Science Society of America Journal* · **DOI**: [10.1002/saj2.20143](https://doi.org/10.1002/saj2.20143) · **引用数**: 198
+**期刊**: *Soil Science Society of America Journal* · **DOI**: [10.1002/saj2.20143](https://doi.org/10.1002/saj2.20143) · **引用数**: 200
 
 **匹配主题**: surface water
 {: .label .label-green }
@@ -540,7 +540,7 @@ highlight: "本周最高引用论文：Recent Advances of Hyperspectral Imaging 
 
 **作者**: Jie Liang, Shuai Li, Xiaodong Li, Xiaodong Li, Xin Li, Xin Li et al.
 
-**期刊**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123851](https://doi.org/10.1016/j.jclepro.2020.123851) · **引用数**: 184
+**期刊**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123851](https://doi.org/10.1016/j.jclepro.2020.123851) · **引用数**: 185
 
 **匹配主题**: water management
 {: .label .label-green }
@@ -605,7 +605,7 @@ highlight: "本周最高引用论文：Recent Advances of Hyperspectral Imaging 
 
 **作者**: Dou Zhang, Xiangrong Wang, QU Li-ping, Shicheng Li, Yuanping Lin, Rui Yao et al.
 
-**期刊**: *Ecological Indicators* · **DOI**: [10.1016/j.ecolind.2020.106841](https://doi.org/10.1016/j.ecolind.2020.106841) · **引用数**: 146
+**期刊**: *Ecological Indicators* · **DOI**: [10.1016/j.ecolind.2020.106841](https://doi.org/10.1016/j.ecolind.2020.106841) · **引用数**: 147
 
 **匹配主题**: river
 {: .label .label-green }
@@ -631,7 +631,7 @@ highlight: "本周最高引用论文：Recent Advances of Hyperspectral Imaging 
 
 **作者**: Zaib Un Nisa, Anjuman Arif, Muhammad Qandeel Waheed, Tariq Mahmood Shah, Ayesha Iqbal, Amna Jabbar Siddiqui et al.
 
-**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-70963-6](https://doi.org/10.1038/s41598-020-70963-6) · **引用数**: 114
+**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-70963-6](https://doi.org/10.1038/s41598-020-70963-6) · **引用数**: 115
 
 **匹配主题**: irrigation
 {: .label .label-green }
