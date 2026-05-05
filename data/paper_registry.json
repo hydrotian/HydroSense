@@ -921,10 +921,11 @@
       "journal": "Geophysical Research Letters",
       "first_seen": "2026-04-12",
       "sources": [
-        "weekly-2020-W02"
+        "weekly-2020-W02",
+        "weekly-2020-W10"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.neucom.2020.04.110": {
       "title": "Interpretable spatio-temporal attention LSTM model for flood forecasting",
@@ -3686,6 +3687,496 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1036/1097-8542.301300": {
+      "title": "Groundwater Hydrology",
+      "journal": "Groundwater Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-020-2035-0": {
+      "title": "Asynchronous carbon sink saturation in African and Amazonian tropical forests",
+      "journal": "Nature",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/14733285.2019.1614532": {
+      "title": "A systematic review of climate change education: giving children and young people a ‘voice’ and a ‘hand’ in redressing climate change",
+      "journal": "Children's Geographies",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s41180-020-00034-3": {
+      "title": "Transition towards green banking: role of financial regulators and financial institutions",
+      "journal": "Asian Journal of Sustainability and Social Responsibility",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/gcb.15067": {
+      "title": "Renewable energy development threatens many globally important biodiversity areas",
+      "journal": "Global Change Biology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41396-020-0621-7": {
+      "title": "Spatiotemporal dynamics of the archaeal community in coastal sediments: assembly process and co-occurrence relationship",
+      "journal": "The ISME Journal",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvp.2020.101408": {
+      "title": "Predicting climate change mitigation and adaptation behaviors in agricultural production: A comparison of the theory of planned behavior and the Value-Belief-Norm Theory",
+      "journal": "Journal of Environmental Psychology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/nhess-20-695-2020": {
+      "title": "Global-scale drought risk assessment for agricultural systems",
+      "journal": "Natural hazards and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/met10030345": {
+      "title": "Reuse and Recycling of By-Products in the Steel Sector: Recent Achievements Paving the Way to Circular Economy and Industrial Symbiosis in Europe",
+      "journal": "Metals",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2020.110214": {
+      "title": "Evaluating the cumulative and time-lag effects of drought on grassland vegetation: A case study in the Chinese Loess Plateau",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gsd.2020.100365": {
+      "title": "Multi-criteria decision analysis for delineation of groundwater potential zones in a tropical river basin using remote sensing, GIS and analytical hierarchy process (AHP)",
+      "journal": "Groundwater for Sustainable Development",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-60698-9": {
+      "title": "A comparative study among machine learning and numerical models for simulating groundwater dynamics in the Heihe River Basin, northwestern China",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.137647": {
+      "title": "Recent advances in understanding and measurement of mercury in the environment: Terrestrial Hg cycling",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-020-15108-z": {
+      "title": "Global lake thermal regions shift under climate change",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gsd.2020.100364": {
+      "title": "Spring water quality and discharge assessment in the Basantar watershed of Jammu Himalaya using geographic information system (GIS) and water quality Index(WQI)",
+      "journal": "Groundwater for Sustainable Development",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ijheatmasstransfer.2020.119541": {
+      "title": "State-of-the-art heat transfer fluids for parabolic trough collector",
+      "journal": "International Journal of Heat and Mass Transfer",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/acp-20-2637-2020": {
+      "title": "An evaluation of global organic aerosol schemes using airborne observations",
+      "journal": "Atmospheric chemistry and physics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/nph.16524": {
+      "title": "Root‐specific NF‐Y family transcription factor, <i>PdNF‐YB21</i>, positively regulates root growth and drought resistance by abscisic acid‐mediated indoylacetic acid transport in <i>Populu</i>s",
+      "journal": "New Phytologist",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.2166/hydro.2020.098": {
+      "title": "Updating the neural network sediment load models using different sensitivity analysis methods: a regional application",
+      "journal": "Journal of Hydroinformatics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12050863": {
+      "title": "Measuring Individual Tree Diameter and Height Using GatorEye High-Density UAV-Lidar in an Integrated Crop-Livestock-Forest System",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/s20051487": {
+      "title": "A Framework for Agricultural Pest and Disease Monitoring Based on Internet-of-Things and Unmanned Aerial Vehicles",
+      "journal": "Sensors",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gecco.2020.e01011": {
+      "title": "Runoff loss of nitrogen and phosphorus from a rice paddy field in the east of China: Effects of long-term chemical N fertilizer and organic manure applications",
+      "journal": "Global Ecology and Conservation",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/acp-20-2549-2020": {
+      "title": "First direct observation of sea salt aerosol production from blowing snow above sea ice",
+      "journal": "Atmospheric chemistry and physics",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41893-020-0483-z": {
+      "title": "Water scarcity and fish imperilment driven by beef production",
+      "journal": "Nature Sustainability",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs12050794": {
+      "title": "The Impact of Urban Renewal on Land Surface Temperature Changes: A Case Study in the Main City of Guangzhou, China",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jeem.2020.102306": {
+      "title": "Climate change and adaptation in agriculture: Evidence from US cropping patterns",
+      "journal": "Journal of Environmental Economics and Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-020-0542-0": {
+      "title": "Mechanical and hydrological effects of seamount subduction on megathrust stress and slip",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019wr026551": {
+      "title": "Comparison of Data‐Driven Techniques to Reconstruct (1992–2002) and Predict (2017–2018) GRACE‐Like Gridded Total Water Storage Changes Using Climate Inputs",
+      "journal": "Water Resources Research",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2020.106236": {
+      "title": "Chlorophyll-a and total suspended solids retrieval and mapping using Sentinel-2A and machine learning for inland waters",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.geomorph.2020.107124": {
+      "title": "Parameter-free delineation of slope units and terrain subdivision of Italy",
+      "journal": "Geomorphology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acs.est.9b07749": {
+      "title": "Developing an Urban Resource Cadaster for Circular Economy: A Case of Odense, Denmark",
+      "journal": "Environmental Science & Technology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2020.137736": {
+      "title": "Investigating the impact of climate and land-use land cover changes on hydrological predictions over the Krishna river basin under present and future scenarios",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/adfm.201910534": {
+      "title": "Recent Advances in Atomic‐Level Engineering of Nanostructured Catalysts for Electrochemical CO<sub>2</sub> Reduction",
+      "journal": "Advanced Functional Materials",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.erss.2020.101485": {
+      "title": "Unpacking the right-populist threat to climate action: Poland's pro-governmental media on energy transition and climate change",
+      "journal": "Energy Research & Social Science",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acsenergylett.0c00234": {
+      "title": "Bicarbonate or Carbonate Processes for Coupling Carbon Dioxide Capture and Electrochemical Conversion",
+      "journal": "ACS Energy Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1146/annurev-soc-121919-054750": {
+      "title": "Sociology and the Climate Crisis",
+      "journal": "Annual Review of Sociology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2020.110355": {
+      "title": "Remote sensing and GIS based analysis of temporal land use/land cover and water quality changes in Harike wetland ecosystem, Punjab, India",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2020.124761": {
+      "title": "Drought hazard transferability from meteorological to hydrological propagation",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/tc-14-855-2020": {
+      "title": "CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica",
+      "journal": "The cryosphere",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s12870-020-2288-7": {
+      "title": "Comparative functional genomics analysis of cytochrome P450 gene superfamily in wheat and maize",
+      "journal": "BMC Plant Biology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agrformet.2020.107957": {
+      "title": "Environmental and biophysical controls of evapotranspiration from Seasonally Dry Tropical Forests (Caatinga) in the Brazilian Semiarid",
+      "journal": "Agricultural and Forest Meteorology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-24-1081-2020": {
+      "title": "Using hydrological and climatic catchment clusters to explore drivers of catchment behavior",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-020-60762-4": {
+      "title": "Sea-Level Rise Induced Multi-Mechanism Flooding and Contribution to Urban Infrastructure Failure",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2019jd031672": {
+      "title": "Critical Soil Moisture Derived From Satellite Observations Over Europe",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/treephys/tpaa026": {
+      "title": "Variation in the access to deep soil water pools explains tree-to-tree differences in drought-triggered dieback of Mediterranean oaks",
+      "journal": "Tree Physiology",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rser.2020.109788": {
+      "title": "Advances and challenges in assessing urban sustainability: an advanced bibliometric review",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s40677-020-0146-4": {
+      "title": "Spatial and temporal drought incidence analysis in the northeastern highlands of Ethiopia",
+      "journal": "Geoenvironmental Disasters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/geb.13081": {
+      "title": "The role of northern peatlands in the global carbon cycle for the 21st century",
+      "journal": "Global Ecology and Biogeography",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ijheh.2020.113496": {
+      "title": "Human fecal contamination of water, soil, and surfaces in households sharing poor-quality sanitation facilities in Maputo, Mozambique",
+      "journal": "International Journal of Hygiene and Environmental Health",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "weekly-2020-W10"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -3994,6 +4485,29 @@
       "type": "weekly",
       "timestamp": "2026-05-05T11:15:35.940264",
       "date": "2020-03-01",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2020-W10": {
+      "type": "weekly",
+      "timestamp": "2026-05-05T11:20:11.974801",
+      "date": "2020-03-08",
       "topics": [
         "hydrology",
         "hydrologic model",
