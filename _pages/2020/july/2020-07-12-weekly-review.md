@@ -8,7 +8,7 @@ date: 2020-07-12
 categories: [weekly, 2020, july]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "Top paper: The FLUXNET2015 dataset and the ONEFlux processing pipeline  (1718 citations)"
+highlight: "Top paper: The FLUXNET2015 dataset and the ONEFlux processing pipeline  (1719 citations)"
 lang: en
 lang_link: /zh/2020/july/2020-07-12-weekly-review
 ---
@@ -74,7 +74,7 @@ Drought research this week encompasses 6 studies covering monitoring, prediction
 
 **Authors**: Eva Boergens, Andreas Güntner, Henryk Dobslaw, Christoph Dahle
 
-**Journal**: *Geophysical Research Letters* · **DOI**: [10.1029/2020gl087285](https://doi.org/10.1029/2020gl087285) · **Citations**: 210
+**Journal**: *Geophysical Research Letters* · **DOI**: [10.1029/2020gl087285](https://doi.org/10.1029/2020gl087285) · **Citations**: 211
 
 **Matched topics**: drought
 {: .label .label-green }
@@ -173,7 +173,7 @@ Climate-water interactions are explored in 17 papers this week, addressing impac
 
 **Authors**: Lester Kwiatkowski, Olivier Torres, Laurent Bopp, Olivier Aumont, Matthew A. Chamberlain, James R. Christian et al.
 
-**Journal**: *Biogeosciences* · **DOI**: [10.5194/bg-17-3439-2020](https://doi.org/10.5194/bg-17-3439-2020) · **Citations**: 845
+**Journal**: *Biogeosciences* · **DOI**: [10.5194/bg-17-3439-2020](https://doi.org/10.5194/bg-17-3439-2020) · **Citations**: 846
 
 **Matched topics**: earth system model
 {: .label .label-green }
@@ -186,7 +186,7 @@ Climate-water interactions are explored in 17 papers this week, addressing impac
 
 **Authors**: Guoqing Zhang, Tandong Yao, Hongjie Xie, Kun Yang, Liping Zhu, C. K. Shum et al.
 
-**Journal**: *Earth-Science Reviews* · **DOI**: [10.1016/j.earscirev.2020.103269](https://doi.org/10.1016/j.earscirev.2020.103269) · **Citations**: 599
+**Journal**: *Earth-Science Reviews* · **DOI**: [10.1016/j.earscirev.2020.103269](https://doi.org/10.1016/j.earscirev.2020.103269) · **Citations**: 601
 
 **Matched topics**: water management, climate change
 {: .label .label-green }
@@ -199,7 +199,7 @@ Climate-water interactions are explored in 17 papers this week, addressing impac
 
 **Authors**: Gustav Bøg Petersen, Sara Klingenberg, Richard E. Mayer, Guido Makransky
 
-**Journal**: *British Journal of Educational Technology* · **DOI**: [10.1111/bjet.12991](https://doi.org/10.1111/bjet.12991) · **Citations**: 237
+**Journal**: *British Journal of Educational Technology* · **DOI**: [10.1111/bjet.12991](https://doi.org/10.1111/bjet.12991) · **Citations**: 238
 
 **Matched topics**: climate change, earth system model
 {: .label .label-green }
@@ -212,7 +212,7 @@ Climate-water interactions are explored in 17 papers this week, addressing impac
 
 **Authors**: Andrew J. Heymsfield, Carl Schmitt, Chih‐Chieh Chen, Aaron Bansemer, Andrew Gettelman, Paul R. Field et al.
 
-**Journal**: *Journal of the Atmospheric Sciences* · **DOI**: [10.1175/jas-d-19-0352.1](https://doi.org/10.1175/jas-d-19-0352.1) · **Citations**: 160
+**Journal**: *Journal of the Atmospheric Sciences* · **DOI**: [10.1175/jas-d-19-0352.1](https://doi.org/10.1175/jas-d-19-0352.1) · **Citations**: 161
 
 **Matched topics**: land surface model, earth system model
 {: .label .label-green }
@@ -277,7 +277,7 @@ Climate-water interactions are explored in 17 papers this week, addressing impac
 
 **Authors**: Delong Li, Shuyao Wu, Ze Liang, Shuangcheng Li
 
-**Journal**: *Urban forestry & urban greening* · **DOI**: [10.1016/j.ufug.2020.126764](https://doi.org/10.1016/j.ufug.2020.126764) · **Citations**: 140
+**Journal**: *Urban forestry & urban greening* · **DOI**: [10.1016/j.ufug.2020.126764](https://doi.org/10.1016/j.ufug.2020.126764) · **Citations**: 141
 
 **Matched topics**: climate change
 {: .label .label-green }
@@ -493,7 +493,7 @@ Water management research spans 17 papers addressing topics from irrigation opti
 
 **Authors**: Gilberto Pastorello, Carlo Trotta, Eleonora Canfora, Housen Chu, Danielle Christianson, You-Wei Cheah et al.
 
-**Journal**: *Scientific Data* · **DOI**: [10.1038/s41597-020-0534-3](https://doi.org/10.1038/s41597-020-0534-3) · **Citations**: 1718
+**Journal**: *Scientific Data* · **DOI**: [10.1038/s41597-020-0534-3](https://doi.org/10.1038/s41597-020-0534-3) · **Citations**: 1719
 
 **Matched topics**: hydrology, land surface model, earth system model
 {: .label .label-green }
@@ -545,7 +545,7 @@ Water management research spans 17 papers addressing topics from irrigation opti
 
 **Authors**: Martin Jakobsson, Larry A. Mayer, Caroline Bringensparr, Carlos F. Castro, Rezwan Mohammad, Paul Johnson et al.
 
-**Journal**: *Scientific Data* · **DOI**: [10.1038/s41597-020-0520-9](https://doi.org/10.1038/s41597-020-0520-9) · **Citations**: 305
+**Journal**: *Scientific Data* · **DOI**: [10.1038/s41597-020-0520-9](https://doi.org/10.1038/s41597-020-0520-9) · **Citations**: 307
 
 **Matched topics**: earth system model
 {: .label .label-green }
@@ -597,7 +597,7 @@ Water management research spans 17 papers addressing topics from irrigation opti
 
 **Authors**: Mostafa Emadi, Ruhollah Taghizadeh-Mehrjardi, Ali Cherati, Majid Danesh, Amir Mosavi, Thomas Scholten
 
-**Journal**: *Remote Sensing* · **DOI**: [10.3390/rs12142234](https://doi.org/10.3390/rs12142234) · **Citations**: 245
+**Journal**: *Remote Sensing* · **DOI**: [10.3390/rs12142234](https://doi.org/10.3390/rs12142234) · **Citations**: 246
 
 **Matched topics**: land surface model
 {: .label .label-green }
@@ -649,7 +649,7 @@ Water management research spans 17 papers addressing topics from irrigation opti
 
 **Authors**: Chuan Zhang, Xinyu Li, Haofang Yan, Ikram Ullah, Zhiyu Zuo, Lanlan Li et al.
 
-**Journal**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106263](https://doi.org/10.1016/j.agwat.2020.106263) · **Citations**: 138
+**Journal**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106263](https://doi.org/10.1016/j.agwat.2020.106263) · **Citations**: 139
 
 **Matched topics**: irrigation
 {: .label .label-green }

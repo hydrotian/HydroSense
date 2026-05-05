@@ -9,7 +9,7 @@ date: 2020-07-12
 categories: [weekly-zh, 2020, july]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux processing（1718次引用）"
+highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux processing（1719次引用）"
 ---
 
 # 每周文献综述
@@ -73,7 +73,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Eva Boergens, Andreas Güntner, Henryk Dobslaw, Christoph Dahle
 
-**期刊**: *Geophysical Research Letters* · **DOI**: [10.1029/2020gl087285](https://doi.org/10.1029/2020gl087285) · **引用数**: 210
+**期刊**: *Geophysical Research Letters* · **DOI**: [10.1029/2020gl087285](https://doi.org/10.1029/2020gl087285) · **引用数**: 211
 
 **匹配主题**: drought
 {: .label .label-green }
@@ -172,7 +172,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Lester Kwiatkowski, Olivier Torres, Laurent Bopp, Olivier Aumont, Matthew A. Chamberlain, James R. Christian et al.
 
-**期刊**: *Biogeosciences* · **DOI**: [10.5194/bg-17-3439-2020](https://doi.org/10.5194/bg-17-3439-2020) · **引用数**: 845
+**期刊**: *Biogeosciences* · **DOI**: [10.5194/bg-17-3439-2020](https://doi.org/10.5194/bg-17-3439-2020) · **引用数**: 846
 
 **匹配主题**: earth system model
 {: .label .label-green }
@@ -185,7 +185,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Guoqing Zhang, Tandong Yao, Hongjie Xie, Kun Yang, Liping Zhu, C. K. Shum et al.
 
-**期刊**: *Earth-Science Reviews* · **DOI**: [10.1016/j.earscirev.2020.103269](https://doi.org/10.1016/j.earscirev.2020.103269) · **引用数**: 599
+**期刊**: *Earth-Science Reviews* · **DOI**: [10.1016/j.earscirev.2020.103269](https://doi.org/10.1016/j.earscirev.2020.103269) · **引用数**: 601
 
 **匹配主题**: water management, climate change
 {: .label .label-green }
@@ -198,7 +198,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Gustav Bøg Petersen, Sara Klingenberg, Richard E. Mayer, Guido Makransky
 
-**期刊**: *British Journal of Educational Technology* · **DOI**: [10.1111/bjet.12991](https://doi.org/10.1111/bjet.12991) · **引用数**: 237
+**期刊**: *British Journal of Educational Technology* · **DOI**: [10.1111/bjet.12991](https://doi.org/10.1111/bjet.12991) · **引用数**: 238
 
 **匹配主题**: climate change, earth system model
 {: .label .label-green }
@@ -211,7 +211,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Andrew J. Heymsfield, Carl Schmitt, Chih‐Chieh Chen, Aaron Bansemer, Andrew Gettelman, Paul R. Field et al.
 
-**期刊**: *Journal of the Atmospheric Sciences* · **DOI**: [10.1175/jas-d-19-0352.1](https://doi.org/10.1175/jas-d-19-0352.1) · **引用数**: 160
+**期刊**: *Journal of the Atmospheric Sciences* · **DOI**: [10.1175/jas-d-19-0352.1](https://doi.org/10.1175/jas-d-19-0352.1) · **引用数**: 161
 
 **匹配主题**: land surface model, earth system model
 {: .label .label-green }
@@ -276,7 +276,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Delong Li, Shuyao Wu, Ze Liang, Shuangcheng Li
 
-**期刊**: *Urban forestry & urban greening* · **DOI**: [10.1016/j.ufug.2020.126764](https://doi.org/10.1016/j.ufug.2020.126764) · **引用数**: 140
+**期刊**: *Urban forestry & urban greening* · **DOI**: [10.1016/j.ufug.2020.126764](https://doi.org/10.1016/j.ufug.2020.126764) · **引用数**: 141
 
 **匹配主题**: climate change
 {: .label .label-green }
@@ -492,7 +492,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Gilberto Pastorello, Carlo Trotta, Eleonora Canfora, Housen Chu, Danielle Christianson, You-Wei Cheah et al.
 
-**期刊**: *Scientific Data* · **DOI**: [10.1038/s41597-020-0534-3](https://doi.org/10.1038/s41597-020-0534-3) · **引用数**: 1718
+**期刊**: *Scientific Data* · **DOI**: [10.1038/s41597-020-0534-3](https://doi.org/10.1038/s41597-020-0534-3) · **引用数**: 1719
 
 **匹配主题**: hydrology, land surface model, earth system model
 {: .label .label-green }
@@ -544,7 +544,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Martin Jakobsson, Larry A. Mayer, Caroline Bringensparr, Carlos F. Castro, Rezwan Mohammad, Paul Johnson et al.
 
-**期刊**: *Scientific Data* · **DOI**: [10.1038/s41597-020-0520-9](https://doi.org/10.1038/s41597-020-0520-9) · **引用数**: 305
+**期刊**: *Scientific Data* · **DOI**: [10.1038/s41597-020-0520-9](https://doi.org/10.1038/s41597-020-0520-9) · **引用数**: 307
 
 **匹配主题**: earth system model
 {: .label .label-green }
@@ -596,7 +596,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Mostafa Emadi, Ruhollah Taghizadeh-Mehrjardi, Ali Cherati, Majid Danesh, Amir Mosavi, Thomas Scholten
 
-**期刊**: *Remote Sensing* · **DOI**: [10.3390/rs12142234](https://doi.org/10.3390/rs12142234) · **引用数**: 245
+**期刊**: *Remote Sensing* · **DOI**: [10.3390/rs12142234](https://doi.org/10.3390/rs12142234) · **引用数**: 246
 
 **匹配主题**: land surface model
 {: .label .label-green }
@@ -648,7 +648,7 @@ highlight: "本周最高引用论文：The FLUXNET2015 dataset and the ONEFlux p
 
 **作者**: Chuan Zhang, Xinyu Li, Haofang Yan, Ikram Ullah, Zhiyu Zuo, Lanlan Li et al.
 
-**期刊**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106263](https://doi.org/10.1016/j.agwat.2020.106263) · **引用数**: 138
+**期刊**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106263](https://doi.org/10.1016/j.agwat.2020.106263) · **引用数**: 139
 
 **匹配主题**: irrigation
 {: .label .label-green }
