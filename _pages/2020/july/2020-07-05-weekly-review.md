@@ -148,7 +148,7 @@ This week features 11 papers advancing flood science, spanning susceptibility ma
 
 **Authors**: Conrad Wasko, Rory Nathan, Murray Peel
 
-**Journal**: *Water Resources Research* · **DOI**: [10.1029/2020wr027233](https://doi.org/10.1029/2020wr027233) · **Citations**: 121
+**Journal**: *Water Resources Research* · **DOI**: [10.1029/2020wr027233](https://doi.org/10.1029/2020wr027233) · **Citations**: 122
 
 **Matched topics**: hydrology, streamflow, flood
 {: .label .label-green }
