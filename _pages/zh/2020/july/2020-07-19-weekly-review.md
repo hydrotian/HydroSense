@@ -9,7 +9,7 @@ date: 2020-07-19
 categories: [weekly-zh, 2020, july]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "本周最高引用论文：Effective uptake of submicrometre plastics by crop（1362次引用）"
+highlight: "本周最高引用论文：Effective uptake of submicrometre plastics by crop（1366次引用）"
 ---
 
 # 每周文献综述
@@ -69,7 +69,7 @@ highlight: "本周最高引用论文：Effective uptake of submicrometre plastic
 
 **作者**: M. Iqbal R. Khan, Alice Trivellini, Himanshu Chhillar, Priyanka Chopra, A. Ferrante, Nafees A. Khan et al.
 
-**期刊**: *Environmental and Experimental Botany* · **DOI**: [10.1016/j.envexpbot.2020.104188](https://doi.org/10.1016/j.envexpbot.2020.104188) · **引用数**: 108
+**期刊**: *Environmental and Experimental Botany* · **DOI**: [10.1016/j.envexpbot.2020.104188](https://doi.org/10.1016/j.envexpbot.2020.104188) · **引用数**: 110
 
 **匹配主题**: flood
 {: .label .label-green }
@@ -95,7 +95,7 @@ highlight: "本周最高引用论文：Effective uptake of submicrometre plastic
 
 **作者**: Sang-Jin Park, Dong‐Kun Lee
 
-**期刊**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/aba5b3](https://doi.org/10.1088/1748-9326/aba5b3) · **引用数**: 92
+**期刊**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/aba5b3](https://doi.org/10.1088/1748-9326/aba5b3) · **引用数**: 93
 
 **匹配主题**: flood, climate change
 {: .label .label-green }
@@ -177,7 +177,7 @@ highlight: "本周最高引用论文：Effective uptake of submicrometre plastic
 
 **作者**: Shankar Sharma, Nitesh Khadka, Kalpana Hamal, Dibas Shrestha, Rocky Talchabhadel, Yingying Chen
 
-**期刊**: *Earth and Space Science* · **DOI**: [10.1029/2020ea001315](https://doi.org/10.1029/2020ea001315) · **引用数**: 96
+**期刊**: *Earth and Space Science* · **DOI**: [10.1029/2020ea001315](https://doi.org/10.1029/2020ea001315) · **引用数**: 97
 
 **匹配主题**: drought
 {: .label .label-green }
@@ -276,7 +276,7 @@ highlight: "本周最高引用论文：Effective uptake of submicrometre plastic
 
 **作者**: Avni Malhotra, Deanne J. Brice, Joanne Childs, Jake D. Graham, Erik A. Hobbie, Holly Vander Stel et al.
 
-**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2003361117](https://doi.org/10.1073/pnas.2003361117) · **引用数**: 160
+**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2003361117](https://doi.org/10.1073/pnas.2003361117) · **引用数**: 161
 
 **匹配主题**: hydrology, earth system model
 {: .label .label-green }
@@ -341,7 +341,7 @@ highlight: "本周最高引用论文：Effective uptake of submicrometre plastic
 
 **作者**: Nathalie Voisin, Ana Dyreson, Tao Fu, Matthew O’Connell, Sean Turner, Tian Zhou et al.
 
-**期刊**: *Applied Energy* · **DOI**: [10.1016/j.apenergy.2020.115467](https://doi.org/10.1016/j.apenergy.2020.115467) · **引用数**: 84
+**期刊**: *Applied Energy* · **DOI**: [10.1016/j.apenergy.2020.115467](https://doi.org/10.1016/j.apenergy.2020.115467) · **引用数**: 85
 
 **匹配主题**: hydrology, hydrologic model, water management, climate change, hydropower
 {: .label .label-green }
@@ -440,7 +440,7 @@ highlight: "本周最高引用论文：Effective uptake of submicrometre plastic
 
 **作者**: Lianzhen Li, Yongming Luo, Ruijie Li, Qian Zhou, Willie J.G.M. Peijnenburg, Na Yin et al.
 
-**期刊**: *Nature Sustainability* · **DOI**: [10.1038/s41893-020-0567-9](https://doi.org/10.1038/s41893-020-0567-9) · **引用数**: 1362
+**期刊**: *Nature Sustainability* · **DOI**: [10.1038/s41893-020-0567-9](https://doi.org/10.1038/s41893-020-0567-9) · **引用数**: 1366
 
 **匹配主题**: land surface model, irrigation
 {: .label .label-green }
@@ -479,7 +479,7 @@ highlight: "本周最高引用论文：Effective uptake of submicrometre plastic
 
 **作者**: Devison Souza Peixoto, Lucas de Castro Moreira da Silva, Laura Beatriz Batista de Melo, Raphael Passaglia Azevedo, Brunno Cassiano Lemos Araújo, Teotônio Soares de Carvalho et al.
 
-**期刊**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.140887](https://doi.org/10.1016/j.scitotenv.2020.140887) · **引用数**: 159
+**期刊**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.140887](https://doi.org/10.1016/j.scitotenv.2020.140887) · **引用数**: 160
 
 **匹配主题**: runoff, water management
 {: .label .label-green }

@@ -8,7 +8,7 @@ date: 2020-07-19
 categories: [weekly, 2020, july]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "Top paper: Effective uptake of submicrometre plastics by crop plants vi (1362 citations)"
+highlight: "Top paper: Effective uptake of submicrometre plastics by crop plants vi (1366 citations)"
 lang: en
 lang_link: /zh/2020/july/2020-07-19-weekly-review
 ---
@@ -70,7 +70,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 **Authors**: M. Iqbal R. Khan, Alice Trivellini, Himanshu Chhillar, Priyanka Chopra, A. Ferrante, Nafees A. Khan et al.
 
-**Journal**: *Environmental and Experimental Botany* · **DOI**: [10.1016/j.envexpbot.2020.104188](https://doi.org/10.1016/j.envexpbot.2020.104188) · **Citations**: 108
+**Journal**: *Environmental and Experimental Botany* · **DOI**: [10.1016/j.envexpbot.2020.104188](https://doi.org/10.1016/j.envexpbot.2020.104188) · **Citations**: 110
 
 **Matched topics**: flood
 {: .label .label-green }
@@ -96,7 +96,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Sang-Jin Park, Dong‐Kun Lee
 
-**Journal**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/aba5b3](https://doi.org/10.1088/1748-9326/aba5b3) · **Citations**: 92
+**Journal**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/aba5b3](https://doi.org/10.1088/1748-9326/aba5b3) · **Citations**: 93
 
 **Matched topics**: flood, climate change
 {: .label .label-green }
@@ -178,7 +178,7 @@ Drought research this week encompasses 4 studies covering monitoring, prediction
 
 **Authors**: Shankar Sharma, Nitesh Khadka, Kalpana Hamal, Dibas Shrestha, Rocky Talchabhadel, Yingying Chen
 
-**Journal**: *Earth and Space Science* · **DOI**: [10.1029/2020ea001315](https://doi.org/10.1029/2020ea001315) · **Citations**: 96
+**Journal**: *Earth and Space Science* · **DOI**: [10.1029/2020ea001315](https://doi.org/10.1029/2020ea001315) · **Citations**: 97
 
 **Matched topics**: drought
 {: .label .label-green }
@@ -277,7 +277,7 @@ Climate-water interactions are explored in 12 papers this week, addressing impac
 
 **Authors**: Avni Malhotra, Deanne J. Brice, Joanne Childs, Jake D. Graham, Erik A. Hobbie, Holly Vander Stel et al.
 
-**Journal**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2003361117](https://doi.org/10.1073/pnas.2003361117) · **Citations**: 160
+**Journal**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2003361117](https://doi.org/10.1073/pnas.2003361117) · **Citations**: 161
 
 **Matched topics**: hydrology, earth system model
 {: .label .label-green }
@@ -342,7 +342,7 @@ Climate-water interactions are explored in 12 papers this week, addressing impac
 
 **Authors**: Nathalie Voisin, Ana Dyreson, Tao Fu, Matthew O’Connell, Sean Turner, Tian Zhou et al.
 
-**Journal**: *Applied Energy* · **DOI**: [10.1016/j.apenergy.2020.115467](https://doi.org/10.1016/j.apenergy.2020.115467) · **Citations**: 84
+**Journal**: *Applied Energy* · **DOI**: [10.1016/j.apenergy.2020.115467](https://doi.org/10.1016/j.apenergy.2020.115467) · **Citations**: 85
 
 **Matched topics**: hydrology, hydrologic model, water management, climate change, hydropower
 {: .label .label-green }
@@ -441,7 +441,7 @@ Water management research spans 21 papers addressing topics from irrigation opti
 
 **Authors**: Lianzhen Li, Yongming Luo, Ruijie Li, Qian Zhou, Willie J.G.M. Peijnenburg, Na Yin et al.
 
-**Journal**: *Nature Sustainability* · **DOI**: [10.1038/s41893-020-0567-9](https://doi.org/10.1038/s41893-020-0567-9) · **Citations**: 1362
+**Journal**: *Nature Sustainability* · **DOI**: [10.1038/s41893-020-0567-9](https://doi.org/10.1038/s41893-020-0567-9) · **Citations**: 1366
 
 **Matched topics**: land surface model, irrigation
 {: .label .label-green }
@@ -480,7 +480,7 @@ Water management research spans 21 papers addressing topics from irrigation opti
 
 **Authors**: Devison Souza Peixoto, Lucas de Castro Moreira da Silva, Laura Beatriz Batista de Melo, Raphael Passaglia Azevedo, Brunno Cassiano Lemos Araújo, Teotônio Soares de Carvalho et al.
 
-**Journal**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.140887](https://doi.org/10.1016/j.scitotenv.2020.140887) · **Citations**: 159
+**Journal**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2020.140887](https://doi.org/10.1016/j.scitotenv.2020.140887) · **Citations**: 160
 
 **Matched topics**: runoff, water management
 {: .label .label-green }
