@@ -3196,6 +3196,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2529986123": {
+      "title": "Holocene Nile dynamics shaped the physical and cultural landscape of ancient Nubia",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "daily-2026-04-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl121645": {
+      "title": "On the Biases of Empirical Riverine Gas Transfer Velocity Models at High Submergence",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "daily-2026-04-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-72385-w": {
+      "title": "Scandinavian pattern and temperature changes shape European summer droughts over the past millennium",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "daily-2026-04-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-72405-9": {
+      "title": "Persistent organic carbon storage in river floodplains over millennia",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-05",
+      "sources": [
+        "daily-2026-04-27"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -3493,6 +3533,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-04-27": {
+      "type": "daily",
+      "timestamp": "2026-05-05T10:14:44.819080",
+      "date": "2026-04-27",
+      "papers_found": 4
     }
   }
 }
