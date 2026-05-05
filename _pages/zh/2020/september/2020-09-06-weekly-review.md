@@ -9,7 +9,7 @@ date: 2020-09-06
 categories: [weekly-zh, 2020, september]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "本周最高引用论文：The contribution of global aviation to anthropogen（1524次引用）"
+highlight: "本周最高引用论文：The contribution of global aviation to anthropogen（1526次引用）"
 ---
 
 # 每周文献综述
@@ -43,7 +43,7 @@ highlight: "本周最高引用论文：The contribution of global aviation to an
 
 **作者**: Syed Rezwan Kabir, Sandhya Patidar, Xilin Xia, Qiuhua Liang, Jeffrey Neal, Gareth Pender
 
-**期刊**: *Journal of Hydrology* · **DOI**: [10.1016/j.jhydrol.2020.125481](https://doi.org/10.1016/j.jhydrol.2020.125481) · **引用数**: 340
+**期刊**: *Journal of Hydrology* · **DOI**: [10.1016/j.jhydrol.2020.125481](https://doi.org/10.1016/j.jhydrol.2020.125481) · **引用数**: 343
 
 **匹配主题**: flood
 {: .label .label-green }
@@ -203,7 +203,7 @@ highlight: "本周最高引用论文：The contribution of global aviation to an
 
 **作者**: Caitlin C. Rering, José G. Franco, Kathleen M. Yeater, Rachel E. Mallinger
 
-**期刊**: *Ecosphere* · **DOI**: [10.1002/ecs2.3254](https://doi.org/10.1002/ecs2.3254) · **引用数**: 123
+**期刊**: *Ecosphere* · **DOI**: [10.1002/ecs2.3254](https://doi.org/10.1002/ecs2.3254) · **引用数**: 124
 
 **匹配主题**: drought
 {: .label .label-green }
@@ -367,7 +367,7 @@ highlight: "本周最高引用论文：The contribution of global aviation to an
 
 **作者**: David S. Lee, D. W. Fahey, Agnieszka Skowron, Myles Allen, Ulrike Burkhardt, Qing Chen et al.
 
-**期刊**: *Atmospheric Environment* · **DOI**: [10.1016/j.atmosenv.2020.117834](https://doi.org/10.1016/j.atmosenv.2020.117834) · **引用数**: 1524
+**期刊**: *Atmospheric Environment* · **DOI**: [10.1016/j.atmosenv.2020.117834](https://doi.org/10.1016/j.atmosenv.2020.117834) · **引用数**: 1526
 
 **匹配主题**: land surface model, climate change, earth system model
 {: .label .label-green }
@@ -687,7 +687,7 @@ highlight: "本周最高引用论文：The contribution of global aviation to an
 
 **作者**: Yufeng Zou, Qaisar Saddique, Ajaz Ali, Jiatun Xu, Muhammad Imran Khan, Qing Mu et al.
 
-**期刊**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106483](https://doi.org/10.1016/j.agwat.2020.106483) · **引用数**: 115
+**期刊**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106483](https://doi.org/10.1016/j.agwat.2020.106483) · **引用数**: 116
 
 **匹配主题**: irrigation
 {: .label .label-green }

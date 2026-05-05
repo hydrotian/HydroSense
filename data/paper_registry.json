@@ -880,7 +880,7 @@
         "weekly-2020-W02",
         "weekly-2020-W36"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1016/j.gsf.2020.09.006": {
@@ -10578,7 +10578,7 @@
         "weekly-2020-W24",
         "weekly-2020-W36"
       ],
-      "appearance_count": 3,
+      "appearance_count": 4,
       "important": true
     },
     "10.1016/j.jhydrol.2020.125164": {
@@ -16300,8 +16300,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125481": {
       "title": "A deep convolutional neural network model for rapid prediction of fluvial flood inundation",
@@ -16310,8 +16310,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s00477-020-01862-5": {
       "title": "Flood susceptibility modeling in Teesta River basin, Bangladesh using novel ensembles of bagging algorithms",
@@ -16320,8 +16320,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1098/rstb.2019.0505": {
       "title": "A historical, geographical and ecological perspective on the 2018 European summer drought",
@@ -16330,8 +16330,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41598-020-71295-1": {
       "title": "Drought characteristics and its elevation dependence in the Qinghai–Tibet plateau during the last half-century",
@@ -16340,8 +16340,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1080/14747731.2020.1807856": {
       "title": "The appallingly bad neoclassical economics of climate change",
@@ -16350,8 +16350,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.accre.2020.09.003": {
       "title": "Projected drought conditions in Northwest China with CMIP6 models under combined SSPs and RCPs for 2015–2099",
@@ -16360,8 +16360,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41598-020-71312-3": {
       "title": "More frequent and widespread persistent compound drought and heat event observed in China",
@@ -16370,8 +16370,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125472": {
       "title": "Impacts of climate change and reservoir operation on streamflow and flood characteristics in the Lancang-Mekong River Basin",
@@ -16380,8 +16380,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.accre.2020.09.004": {
       "title": "New perspectives on ‘warming–wetting’ trend in Xinjiang, China",
@@ -16390,8 +16390,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1098/rstb.2019.0747": {
       "title": "Sensitivity of gross primary productivity to climatic drivers during the summer drought of 2018 in Europe",
@@ -16400,8 +16400,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.ijdrr.2020.101839": {
       "title": "Disaster and climate change resilience: A bibliometric analysis",
@@ -16410,8 +16410,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020wr027101": {
       "title": "Improved Estimators of Model Performance Efficiency for Skewed Hydrologic Data",
@@ -16420,8 +16420,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.scitotenv.2020.142159": {
       "title": "Future global socioeconomic risk to droughts based on estimates of hazard, exposure, and vulnerability in a changing climate",
@@ -16430,8 +16430,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020wr027755": {
       "title": "Drought Propagation in Contiguous U.S. Watersheds: A Process‐Based Understanding of the Role of Climate and Watershed Properties",
@@ -16440,8 +16440,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/gmd-13-3887-2020": {
       "title": "Taiwan Earth System Model Version 1: description and evaluation of mean state",
@@ -16450,8 +16450,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.gloplacha.2020.103312": {
       "title": "Mercury linked to Deccan Traps volcanism, climate change and the end-Cretaceous mass extinction",
@@ -16460,8 +16460,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1002/ecs2.3254": {
       "title": "Drought stress alters floral volatiles and reduces floral rewards, pollinator activity, and seed set in a global plant",
@@ -16470,8 +16470,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s11625-020-00853-3": {
       "title": "Three decades of research on climate change and peace: a bibliometrics analysis",
@@ -16480,8 +16480,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/essd-12-1929-2020": {
       "title": "The Sea State CCI dataset v1: towards a sea state climate data record based on satellite observations",
@@ -16490,8 +16490,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1098/rstb.2019.0512": {
       "title": "Changes in net ecosystem exchange over Europe during the 2018 drought based on atmospheric observations",
@@ -16500,8 +16500,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.regsus.2020.06.003": {
       "title": "Potential risks and challenges of climate change in the arid region of northwestern China",
@@ -16510,8 +16510,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s11600-020-00475-4": {
       "title": "Seasonality shift and streamflow flow variability trends in central India",
@@ -16520,8 +16520,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.agwat.2020.106483": {
       "title": "Deficit irrigation improves maize yield and water use efficiency in a semi-arid environment",
@@ -16530,8 +16530,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.watres.2020.116388": {
       "title": "Rainfall and conduit drainage combine to accelerate nitrate loss from a karst agroecosystem: Insights from stable isotope tracing and high-frequency nitrate sensing",
@@ -16540,8 +16540,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.oneear.2020.08.007": {
       "title": "Improving Climate Change Mitigation Analysis: A Framework for Examining Feasibility",
@@ -16550,8 +16550,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41586-020-2641-x": {
       "title": "Butterfly effect and a self-modulating El Niño response to global warming",
@@ -16560,8 +16560,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.envsoft.2020.104856": {
       "title": "Improving near real-time precipitation estimation using a U-Net convolutional neural network and geographical information",
@@ -16570,8 +16570,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41438-020-00372-3": {
       "title": "Grapevine VlbZIP30 improves drought resistance by directly activating VvNAC17 and promoting lignin biosynthesis through the regulation of three peroxidase genes",
@@ -16580,8 +16580,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1098/rstb.2019.0517": {
       "title": "Effect of the 2018 European drought on methane and carbon dioxide exchange of northern mire ecosystems",
@@ -16590,8 +16590,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1021/acsomega.0c03820": {
       "title": "Characteristics of Leaf Stomata and Their Relationship with Photosynthesis in <i>Saccharum officinarum</i> Under Drought and Silicon Application",
@@ -16600,8 +16600,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.wace.2020.100278": {
       "title": "Future changes in heatwave severity, duration and frequency due to climate change for the most populous cities",
@@ -16610,8 +16610,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125460": {
       "title": "Impact assessment of climate change and human activities on streamflow signatures in the Yellow River Basin using the Budyko hypothesis and derived differential equation",
@@ -16620,8 +16620,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020gb006672": {
       "title": "Assessing the Potential for Mobilization of Old Soil Carbon After Permafrost Thaw: A Synthesis of <sup>14</sup>C Measurements From the Northern Permafrost Region",
@@ -16630,8 +16630,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s12665-020-09171-4": {
       "title": "Health risk assessment of toxicants in Meriç River Delta Wetland, Thrace Region, Turkey",
@@ -16640,8 +16640,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1080/17524032.2020.1805343": {
       "title": "A Research Agenda for Climate Change Communication and Public Opinion: The Role of Scientific Consensus Messaging and Beyond",
@@ -16650,8 +16650,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1098/rstb.2019.0513": {
       "title": "The fingerprint of the summer 2018 drought in Europe on ground-based atmospheric CO<sub>2</sub>measurements",
@@ -16660,8 +16660,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.5194/hess-24-4317-2020": {
       "title": "Climate elasticity of evapotranspiration shifts the water balance of Mediterranean climates during multi-year droughts",
@@ -16670,8 +16670,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jbusres.2020.08.047": {
       "title": "How anticipated emotions shape behavioral intentions to fight climate change",
@@ -16680,8 +16680,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.28991/cej-2020-03091577": {
       "title": "Climate Change Scenarios and Effects on Snow-Melt Runoff",
@@ -16690,8 +16690,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.oneear.2020.08.011": {
       "title": "Leveraging Social Science to Generate Lasting Engagement with Climate Change Solutions",
@@ -16700,8 +16700,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s11069-020-04262-8": {
       "title": "Cryosphere hazards in Ladakh: the 2014 Gya glacial lake outburst flood and its implications for risk assessment",
@@ -16710,8 +16710,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.oneear.2020.08.019": {
       "title": "Unfamiliar Territory: Emerging Themes for Ecological Drought Research and Management",
@@ -16720,8 +16720,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1098/rstb.2019.0521": {
       "title": "Physiological response of Swiss ecosystems to 2018 drought across plant types and elevation",
@@ -16730,8 +16730,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2019WR026604": {
       "title": "Forecast Informed Reservoir Operations Using Ensemble Streamflow Predictions for a Multipurpose Reservoir in Northern California",
@@ -16740,8 +16740,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jeem.2020.102376": {
       "title": "The impact of climate change on the labor allocation: Empirical evidence from China",
@@ -16750,8 +16750,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.scitotenv.2020.142233": {
       "title": "Assessing impacts of future climate change on extreme fire weather and pyro-regions in Iberian Peninsula",
@@ -16760,8 +16760,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020gl089964": {
       "title": "The Global‐Mean Precipitation Response to CO<sub>2</sub>‐Induced Warming in CMIP6 Models",
@@ -16770,8 +16770,8 @@
       "sources": [
         "weekly-2020-W36"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s43247-020-0001-2": {
       "title": "Dynamic ice loss from the Greenland Ice Sheet driven by sustained glacier retreat",
@@ -17709,7 +17709,7 @@
     },
     "weekly-2020-W36": {
       "type": "weekly",
-      "timestamp": "2026-05-05T12:04:56.854073",
+      "timestamp": "2026-05-05T12:34:44.082204",
       "date": "2020-09-06",
       "topics": [
         "hydrology",

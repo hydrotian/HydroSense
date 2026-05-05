@@ -8,7 +8,7 @@ date: 2020-09-06
 categories: [weekly, 2020, september]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "Top paper: The contribution of global aviation to anthropogenic climate (1524 citations)"
+highlight: "Top paper: The contribution of global aviation to anthropogenic climate (1526 citations)"
 lang: en
 lang_link: /zh/2020/september/2020-09-06-weekly-review
 ---
@@ -44,7 +44,7 @@ This week features 4 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Syed Rezwan Kabir, Sandhya Patidar, Xilin Xia, Qiuhua Liang, Jeffrey Neal, Gareth Pender
 
-**Journal**: *Journal of Hydrology* · **DOI**: [10.1016/j.jhydrol.2020.125481](https://doi.org/10.1016/j.jhydrol.2020.125481) · **Citations**: 340
+**Journal**: *Journal of Hydrology* · **DOI**: [10.1016/j.jhydrol.2020.125481](https://doi.org/10.1016/j.jhydrol.2020.125481) · **Citations**: 343
 
 **Matched topics**: flood
 {: .label .label-green }
@@ -204,7 +204,7 @@ Drought research this week encompasses 17 studies covering monitoring, predictio
 
 **Authors**: Caitlin C. Rering, José G. Franco, Kathleen M. Yeater, Rachel E. Mallinger
 
-**Journal**: *Ecosphere* · **DOI**: [10.1002/ecs2.3254](https://doi.org/10.1002/ecs2.3254) · **Citations**: 123
+**Journal**: *Ecosphere* · **DOI**: [10.1002/ecs2.3254](https://doi.org/10.1002/ecs2.3254) · **Citations**: 124
 
 **Matched topics**: drought
 {: .label .label-green }
@@ -368,7 +368,7 @@ Climate-water interactions are explored in 19 papers this week, addressing impac
 
 **Authors**: David S. Lee, D. W. Fahey, Agnieszka Skowron, Myles Allen, Ulrike Burkhardt, Qing Chen et al.
 
-**Journal**: *Atmospheric Environment* · **DOI**: [10.1016/j.atmosenv.2020.117834](https://doi.org/10.1016/j.atmosenv.2020.117834) · **Citations**: 1524
+**Journal**: *Atmospheric Environment* · **DOI**: [10.1016/j.atmosenv.2020.117834](https://doi.org/10.1016/j.atmosenv.2020.117834) · **Citations**: 1526
 
 **Matched topics**: land surface model, climate change, earth system model
 {: .label .label-green }
@@ -688,7 +688,7 @@ Water management research spans 3 papers addressing topics from irrigation optim
 
 **Authors**: Yufeng Zou, Qaisar Saddique, Ajaz Ali, Jiatun Xu, Muhammad Imran Khan, Qing Mu et al.
 
-**Journal**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106483](https://doi.org/10.1016/j.agwat.2020.106483) · **Citations**: 115
+**Journal**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106483](https://doi.org/10.1016/j.agwat.2020.106483) · **Citations**: 116
 
 **Matched topics**: irrigation
 {: .label .label-green }
