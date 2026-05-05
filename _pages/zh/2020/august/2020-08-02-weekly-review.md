@@ -9,7 +9,7 @@ date: 2020-08-02
 categories: [weekly-zh, 2020, august]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocarbon Age C（7322次引用）"
+highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocarbon Age C（7341次引用）"
 ---
 
 # 每周文献综述
@@ -43,7 +43,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Ebru Kirezci, Ian R. Young, Roshanka Ranasinghe, Sanne Muis, Robert J. Nicholls, Daniël Lincke et al.
 
-**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-67736-6](https://doi.org/10.1038/s41598-020-67736-6) · **引用数**: 605
+**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-67736-6](https://doi.org/10.1038/s41598-020-67736-6) · **引用数**: 607
 
 **匹配主题**: flood
 {: .label .label-green }
@@ -203,7 +203,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Heng Zhou, Ying Chen, Fengchao Zhai, Jing Zhang, Feng Zhang, Xingxing Yuan et al.
 
-**期刊**: *Plant Physiology and Biochemistry* · **DOI**: [10.1016/j.plaphy.2020.07.038](https://doi.org/10.1016/j.plaphy.2020.07.038) · **引用数**: 85
+**期刊**: *Plant Physiology and Biochemistry* · **DOI**: [10.1016/j.plaphy.2020.07.038](https://doi.org/10.1016/j.plaphy.2020.07.038) · **引用数**: 86
 
 **匹配主题**: drought
 {: .label .label-green }
@@ -263,7 +263,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Arden Burrell, Jason P. Evans, Martin G. De Kauwe
 
-**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17710-7](https://doi.org/10.1038/s41467-020-17710-7) · **引用数**: 516
+**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17710-7](https://doi.org/10.1038/s41467-020-17710-7) · **引用数**: 519
 
 **匹配主题**: hydrologic model, climate change
 {: .label .label-green }
@@ -276,7 +276,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Michael Ghil, Valerio Lucarini
 
-**期刊**: *Reviews of Modern Physics* · **DOI**: [10.1103/revmodphys.92.035002](https://doi.org/10.1103/revmodphys.92.035002) · **引用数**: 413
+**期刊**: *Reviews of Modern Physics* · **DOI**: [10.1103/revmodphys.92.035002](https://doi.org/10.1103/revmodphys.92.035002) · **引用数**: 412
 
 **匹配主题**: climate change, earth system model
 {: .label .label-green }
@@ -289,7 +289,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Γεώργιος Νικολάου, Damianos Neocleous, Anastasis Christou, Evangelini Κιττα, Nikolaos Katsoulas
 
-**期刊**: *Agronomy* · **DOI**: [10.3390/agronomy10081120](https://doi.org/10.3390/agronomy10081120) · **引用数**: 299
+**期刊**: *Agronomy* · **DOI**: [10.3390/agronomy10081120](https://doi.org/10.3390/agronomy10081120) · **引用数**: 301
 
 **匹配主题**: water management, climate change, surface water, irrigation
 {: .label .label-green }
@@ -367,7 +367,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Jingyi Chen, Yue Wu, Michael T. O’Connor, M. Bayani Cardenas, Kevin Schaefer, Roger Michaelides et al.
 
-**期刊**: *Remote Sensing of Environment* · **DOI**: [10.1016/j.rse.2020.112007](https://doi.org/10.1016/j.rse.2020.112007) · **引用数**: 124
+**期刊**: *Remote Sensing of Environment* · **DOI**: [10.1016/j.rse.2020.112007](https://doi.org/10.1016/j.rse.2020.112007) · **引用数**: 125
 
 **匹配主题**: hydrology, streamflow
 {: .label .label-green }
@@ -423,7 +423,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Paula Reimer, William E. N. Austin, Édouard Bard, Alex Bayliss, Paul G. Blackwell, Christopher Bronk Ramsey et al.
 
-**期刊**: *Radiocarbon* · **DOI**: [10.1017/rdc.2020.41](https://doi.org/10.1017/rdc.2020.41) · **引用数**: 7322
+**期刊**: *Radiocarbon* · **DOI**: [10.1017/rdc.2020.41](https://doi.org/10.1017/rdc.2020.41) · **引用数**: 7341
 
 **匹配主题**: hydrologic model, reservoir, land surface model, earth system model
 {: .label .label-green }
@@ -436,7 +436,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Timothy Heaton, Peter Köhler, Martin Butzin, Édouard Bard, Ron Reimer, William E. N. Austin et al.
 
-**期刊**: *Radiocarbon* · **DOI**: [10.1017/rdc.2020.68](https://doi.org/10.1017/rdc.2020.68) · **引用数**: 1864
+**期刊**: *Radiocarbon* · **DOI**: [10.1017/rdc.2020.68](https://doi.org/10.1017/rdc.2020.68) · **引用数**: 1869
 
 **匹配主题**: reservoir, land surface model, earth system model
 {: .label .label-green }
@@ -449,7 +449,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Lawrence Mudryk, María Santolaria-Otín, Gerhard Krinner, Martin Ménégoz, Chris Derksen, Claire Brutel-Vuilmet et al.
 
-**期刊**: *The cryosphere* · **DOI**: [10.5194/tc-14-2495-2020](https://doi.org/10.5194/tc-14-2495-2020) · **引用数**: 274
+**期刊**: *The cryosphere* · **DOI**: [10.5194/tc-14-2495-2020](https://doi.org/10.5194/tc-14-2495-2020) · **引用数**: 276
 
 **匹配主题**: streamflow, land surface model, earth system model
 {: .label .label-green }
@@ -501,7 +501,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Qi Huang, Guanghua Qin, Yongqiang Zhang, Qiuhong Tang, Changming Liu, Jun Xia et al.
 
-**期刊**: *Water Resources Research* · **DOI**: [10.1029/2020wr028205](https://doi.org/10.1029/2020wr028205) · **引用数**: 108
+**期刊**: *Water Resources Research* · **DOI**: [10.1029/2020wr028205](https://doi.org/10.1029/2020wr028205) · **引用数**: 109
 
 **匹配主题**: hydrology, hydrologic model, runoff, streamflow
 {: .label .label-green }
@@ -570,7 +570,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Piyush Jain, Sean C.P. Coogan, Sriram Ganapathi Subramanian, Mark Crowley, Steve Taylor, Mike D. Flannigan
 
-**期刊**: *Environmental Reviews* · **DOI**: [10.1139/er-2020-0019](https://doi.org/10.1139/er-2020-0019) · **引用数**: 664
+**期刊**: *Environmental Reviews* · **DOI**: [10.1139/er-2020-0019](https://doi.org/10.1139/er-2020-0019) · **引用数**: 669
 
 **匹配主题**: hydrology
 {: .label .label-green }
@@ -635,7 +635,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Jana Zinkernagel, J.F. Maestre-Valero, Sogol Y. Seresti, Diego S. Intrigliolo
 
-**期刊**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106404](https://doi.org/10.1016/j.agwat.2020.106404) · **引用数**: 110
+**期刊**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106404](https://doi.org/10.1016/j.agwat.2020.106404) · **引用数**: 111
 
 **匹配主题**: water management, irrigation
 {: .label .label-green }
@@ -674,7 +674,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Cheng Sun, Lei Chen, Limei Zhai, Hongbin Liu, Kai Wang, Cong Jiao et al.
 
-**期刊**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123519](https://doi.org/10.1016/j.jclepro.2020.123519) · **引用数**: 89
+**期刊**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123519](https://doi.org/10.1016/j.jclepro.2020.123519) · **引用数**: 90
 
 **匹配主题**: runoff, water management
 {: .label .label-green }
@@ -687,7 +687,7 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 
 **作者**: Viet‐Ha Nhu, Himan Shahabi, Ebrahim Nohani, Ataollah Shirzadi, Nadhir Al‐Ansari, Sepideh Bahrami et al.
 
-**期刊**: *ISPRS International Journal of Geo-Information* · **DOI**: [10.3390/ijgi9080479](https://doi.org/10.3390/ijgi9080479) · **引用数**: 83
+**期刊**: *ISPRS International Journal of Geo-Information* · **DOI**: [10.3390/ijgi9080479](https://doi.org/10.3390/ijgi9080479) · **引用数**: 84
 
 **匹配主题**: streamflow, water management
 {: .label .label-green }
@@ -716,9 +716,9 @@ highlight: "本周最高引用论文：The IntCal20 Northern Hemisphere Radiocar
 | 搜索数据库 | 2 |
 | 搜索主题 | 16 |
 | 获取论文总数 | 971 |
-| 去重后 | 708 |
+| 去重后 | 707 |
 | LLM相关性筛选后 | 50 |
-| 排除（不相关） | 658 |
+| 排除（不相关） | 657 |
 
 ### 按期刊分布
 

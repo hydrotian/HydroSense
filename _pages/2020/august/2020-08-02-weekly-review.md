@@ -8,7 +8,7 @@ date: 2020-08-02
 categories: [weekly, 2020, august]
 tags: [hydrology, literature-review, research]
 paper_count: 50
-highlight: "Top paper: The IntCal20 Northern Hemisphere Radiocarbon Age Calibration (7322 citations)"
+highlight: "Top paper: The IntCal20 Northern Hemisphere Radiocarbon Age Calibration (7341 citations)"
 lang: en
 lang_link: /zh/2020/august/2020-08-02-weekly-review
 ---
@@ -44,7 +44,7 @@ This week features 8 papers advancing flood science, spanning susceptibility map
 
 **Authors**: Ebru Kirezci, Ian R. Young, Roshanka Ranasinghe, Sanne Muis, Robert J. Nicholls, Daniël Lincke et al.
 
-**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-67736-6](https://doi.org/10.1038/s41598-020-67736-6) · **Citations**: 605
+**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-020-67736-6](https://doi.org/10.1038/s41598-020-67736-6) · **Citations**: 607
 
 **Matched topics**: flood
 {: .label .label-green }
@@ -204,7 +204,7 @@ Drought research this week encompasses 5 studies covering monitoring, prediction
 
 **Authors**: Heng Zhou, Ying Chen, Fengchao Zhai, Jing Zhang, Feng Zhang, Xingxing Yuan et al.
 
-**Journal**: *Plant Physiology and Biochemistry* · **DOI**: [10.1016/j.plaphy.2020.07.038](https://doi.org/10.1016/j.plaphy.2020.07.038) · **Citations**: 85
+**Journal**: *Plant Physiology and Biochemistry* · **DOI**: [10.1016/j.plaphy.2020.07.038](https://doi.org/10.1016/j.plaphy.2020.07.038) · **Citations**: 86
 
 **Matched topics**: drought
 {: .label .label-green }
@@ -264,7 +264,7 @@ Climate-water interactions are explored in 13 papers this week, addressing impac
 
 **Authors**: Arden Burrell, Jason P. Evans, Martin G. De Kauwe
 
-**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17710-7](https://doi.org/10.1038/s41467-020-17710-7) · **Citations**: 516
+**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-020-17710-7](https://doi.org/10.1038/s41467-020-17710-7) · **Citations**: 519
 
 **Matched topics**: hydrologic model, climate change
 {: .label .label-green }
@@ -277,7 +277,7 @@ Climate-water interactions are explored in 13 papers this week, addressing impac
 
 **Authors**: Michael Ghil, Valerio Lucarini
 
-**Journal**: *Reviews of Modern Physics* · **DOI**: [10.1103/revmodphys.92.035002](https://doi.org/10.1103/revmodphys.92.035002) · **Citations**: 413
+**Journal**: *Reviews of Modern Physics* · **DOI**: [10.1103/revmodphys.92.035002](https://doi.org/10.1103/revmodphys.92.035002) · **Citations**: 412
 
 **Matched topics**: climate change, earth system model
 {: .label .label-green }
@@ -290,7 +290,7 @@ Climate-water interactions are explored in 13 papers this week, addressing impac
 
 **Authors**: Γεώργιος Νικολάου, Damianos Neocleous, Anastasis Christou, Evangelini Κιττα, Nikolaos Katsoulas
 
-**Journal**: *Agronomy* · **DOI**: [10.3390/agronomy10081120](https://doi.org/10.3390/agronomy10081120) · **Citations**: 299
+**Journal**: *Agronomy* · **DOI**: [10.3390/agronomy10081120](https://doi.org/10.3390/agronomy10081120) · **Citations**: 301
 
 **Matched topics**: water management, climate change, surface water, irrigation
 {: .label .label-green }
@@ -368,7 +368,7 @@ Climate-water interactions are explored in 13 papers this week, addressing impac
 
 **Authors**: Jingyi Chen, Yue Wu, Michael T. O’Connor, M. Bayani Cardenas, Kevin Schaefer, Roger Michaelides et al.
 
-**Journal**: *Remote Sensing of Environment* · **DOI**: [10.1016/j.rse.2020.112007](https://doi.org/10.1016/j.rse.2020.112007) · **Citations**: 124
+**Journal**: *Remote Sensing of Environment* · **DOI**: [10.1016/j.rse.2020.112007](https://doi.org/10.1016/j.rse.2020.112007) · **Citations**: 125
 
 **Matched topics**: hydrology, streamflow
 {: .label .label-green }
@@ -424,7 +424,7 @@ Hydrologic model development and evaluation features 11 papers covering precipit
 
 **Authors**: Paula Reimer, William E. N. Austin, Édouard Bard, Alex Bayliss, Paul G. Blackwell, Christopher Bronk Ramsey et al.
 
-**Journal**: *Radiocarbon* · **DOI**: [10.1017/rdc.2020.41](https://doi.org/10.1017/rdc.2020.41) · **Citations**: 7322
+**Journal**: *Radiocarbon* · **DOI**: [10.1017/rdc.2020.41](https://doi.org/10.1017/rdc.2020.41) · **Citations**: 7341
 
 **Matched topics**: hydrologic model, reservoir, land surface model, earth system model
 {: .label .label-green }
@@ -437,7 +437,7 @@ Hydrologic model development and evaluation features 11 papers covering precipit
 
 **Authors**: Timothy Heaton, Peter Köhler, Martin Butzin, Édouard Bard, Ron Reimer, William E. N. Austin et al.
 
-**Journal**: *Radiocarbon* · **DOI**: [10.1017/rdc.2020.68](https://doi.org/10.1017/rdc.2020.68) · **Citations**: 1864
+**Journal**: *Radiocarbon* · **DOI**: [10.1017/rdc.2020.68](https://doi.org/10.1017/rdc.2020.68) · **Citations**: 1869
 
 **Matched topics**: reservoir, land surface model, earth system model
 {: .label .label-green }
@@ -450,7 +450,7 @@ Hydrologic model development and evaluation features 11 papers covering precipit
 
 **Authors**: Lawrence Mudryk, María Santolaria-Otín, Gerhard Krinner, Martin Ménégoz, Chris Derksen, Claire Brutel-Vuilmet et al.
 
-**Journal**: *The cryosphere* · **DOI**: [10.5194/tc-14-2495-2020](https://doi.org/10.5194/tc-14-2495-2020) · **Citations**: 274
+**Journal**: *The cryosphere* · **DOI**: [10.5194/tc-14-2495-2020](https://doi.org/10.5194/tc-14-2495-2020) · **Citations**: 276
 
 **Matched topics**: streamflow, land surface model, earth system model
 {: .label .label-green }
@@ -502,7 +502,7 @@ Hydrologic model development and evaluation features 11 papers covering precipit
 
 **Authors**: Qi Huang, Guanghua Qin, Yongqiang Zhang, Qiuhong Tang, Changming Liu, Jun Xia et al.
 
-**Journal**: *Water Resources Research* · **DOI**: [10.1029/2020wr028205](https://doi.org/10.1029/2020wr028205) · **Citations**: 108
+**Journal**: *Water Resources Research* · **DOI**: [10.1029/2020wr028205](https://doi.org/10.1029/2020wr028205) · **Citations**: 109
 
 **Matched topics**: hydrology, hydrologic model, runoff, streamflow
 {: .label .label-green }
@@ -571,7 +571,7 @@ Water management research spans 11 papers addressing topics from irrigation opti
 
 **Authors**: Piyush Jain, Sean C.P. Coogan, Sriram Ganapathi Subramanian, Mark Crowley, Steve Taylor, Mike D. Flannigan
 
-**Journal**: *Environmental Reviews* · **DOI**: [10.1139/er-2020-0019](https://doi.org/10.1139/er-2020-0019) · **Citations**: 664
+**Journal**: *Environmental Reviews* · **DOI**: [10.1139/er-2020-0019](https://doi.org/10.1139/er-2020-0019) · **Citations**: 669
 
 **Matched topics**: hydrology
 {: .label .label-green }
@@ -636,7 +636,7 @@ Water management research spans 11 papers addressing topics from irrigation opti
 
 **Authors**: Jana Zinkernagel, J.F. Maestre-Valero, Sogol Y. Seresti, Diego S. Intrigliolo
 
-**Journal**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106404](https://doi.org/10.1016/j.agwat.2020.106404) · **Citations**: 110
+**Journal**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2020.106404](https://doi.org/10.1016/j.agwat.2020.106404) · **Citations**: 111
 
 **Matched topics**: water management, irrigation
 {: .label .label-green }
@@ -675,7 +675,7 @@ Water management research spans 11 papers addressing topics from irrigation opti
 
 **Authors**: Cheng Sun, Lei Chen, Limei Zhai, Hongbin Liu, Kai Wang, Cong Jiao et al.
 
-**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123519](https://doi.org/10.1016/j.jclepro.2020.123519) · **Citations**: 89
+**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2020.123519](https://doi.org/10.1016/j.jclepro.2020.123519) · **Citations**: 90
 
 **Matched topics**: runoff, water management
 {: .label .label-green }
@@ -688,7 +688,7 @@ Water management research spans 11 papers addressing topics from irrigation opti
 
 **Authors**: Viet‐Ha Nhu, Himan Shahabi, Ebrahim Nohani, Ataollah Shirzadi, Nadhir Al‐Ansari, Sepideh Bahrami et al.
 
-**Journal**: *ISPRS International Journal of Geo-Information* · **DOI**: [10.3390/ijgi9080479](https://doi.org/10.3390/ijgi9080479) · **Citations**: 83
+**Journal**: *ISPRS International Journal of Geo-Information* · **DOI**: [10.3390/ijgi9080479](https://doi.org/10.3390/ijgi9080479) · **Citations**: 84
 
 **Matched topics**: streamflow, water management
 {: .label .label-green }
@@ -717,9 +717,9 @@ Water management research spans 11 papers addressing topics from irrigation opti
 | Databases searched | 2 |
 | Topics searched | 16 |
 | Total papers fetched | 971 |
-| After deduplication | 708 |
+| After deduplication | 707 |
 | After LLM relevance filtering | 50 |
-| Rejected (not relevant) | 658 |
+| Rejected (not relevant) | 657 |
 
 ### Papers by journal
 
