@@ -571,7 +571,7 @@ Water management research spans 20 papers addressing topics from irrigation opti
 
 **Authors**: Matthew W. Jones, Alysha I. Coppola, Cristina Santín, Thorsten Dittmar, Rudolf Jaffé, Stefan H. Doerr et al.
 
-**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-020-16576-z](https://doi.org/10.1038/s41467-020-16576-z) · **Citations**: 153
+**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-020-16576-z](https://doi.org/10.1038/s41467-020-16576-z) · **Citations**: 154
 
 **Matched topics**: land surface model, earth system model
 {: .label .label-green }

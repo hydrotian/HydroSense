@@ -570,7 +570,7 @@ highlight: "本周最高引用论文：Development and validation of a measure o
 
 **作者**: Matthew W. Jones, Alysha I. Coppola, Cristina Santín, Thorsten Dittmar, Rudolf Jaffé, Stefan H. Doerr et al.
 
-**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-020-16576-z](https://doi.org/10.1038/s41467-020-16576-z) · **引用数**: 153
+**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-020-16576-z](https://doi.org/10.1038/s41467-020-16576-z) · **引用数**: 154
 
 **匹配主题**: land surface model, earth system model
 {: .label .label-green }

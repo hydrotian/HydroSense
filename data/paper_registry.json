@@ -806,7 +806,7 @@
         "weekly-2020-W02",
         "weekly-2020-W23"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1016/j.jhydrol.2020.125188": {
@@ -2803,7 +2803,7 @@
         "weekly-2020-W07",
         "weekly-2020-W23"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1002/hyp.13726": {
@@ -3296,7 +3296,7 @@
         "weekly-2020-W09",
         "weekly-2020-W23"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.1016/j.agwat.2020.106002": {
@@ -3929,7 +3929,7 @@
         "weekly-2020-W10",
         "weekly-2020-W23"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.5194/acp-20-2549-2020": {
@@ -7622,7 +7622,7 @@
         "weekly-2020-W18",
         "weekly-2020-W23"
       ],
-      "appearance_count": 3,
+      "appearance_count": 4,
       "important": true
     },
     "10.1016/j.baae.2020.04.003": {
@@ -7633,7 +7633,7 @@
         "weekly-2020-W18",
         "weekly-2020-W23"
       ],
-      "appearance_count": 3,
+      "appearance_count": 4,
       "important": true
     },
     "10.1126/science.aaz5845": {
@@ -10075,8 +10075,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1126/sciadv.aba2724": {
       "title": "Direct and seasonal legacy effects of the 2018 heat wave and drought on European ecosystem productivity",
@@ -10086,7 +10086,7 @@
         "weekly-2020-W23",
         "weekly-2020-W24"
       ],
-      "appearance_count": 2,
+      "appearance_count": 3,
       "important": true
     },
     "10.5194/essd-12-1217-2020": {
@@ -10096,8 +10096,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-020-16557-2": {
       "title": "Ancient genomes from northern China suggest links between subsistence changes and human migration",
@@ -10106,8 +10106,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1146/annurev-environ-012320-082720": {
       "title": "Soil Microbiomes Under Climate Change and Implications for Carbon Cycling",
@@ -10116,8 +10116,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.agwat.2020.106303": {
       "title": "A deep learning CNN architecture applied in smart near-infrared analysis of water pollution for agricultural irrigation resources",
@@ -10126,8 +10126,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1073/pnas.1921628117": {
       "title": "Human influence has intensified extreme precipitation in North America",
@@ -10136,8 +10136,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41558-020-0781-5": {
       "title": "Plant hydraulics accentuates the effect of atmospheric moisture stress on transpiration",
@@ -10146,8 +10146,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.catena.2020.104681": {
       "title": "Delineation of groundwater potential zones in a drought-prone semi-arid region of east India using GIS and analytical hierarchical process techniques",
@@ -10156,8 +10156,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.scitotenv.2020.139899": {
       "title": "Scenario-based flood risk assessment for urbanizing deltas using future land-use simulation (FLUS): Guangzhou Metropolitan Area as a case study.",
@@ -10166,8 +10166,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1109/CVPRW50498.2020.00113": {
       "title": "Sen1Floods11: a georeferenced dataset to train and test deep learning flood algorithms for Sentinel-1",
@@ -10176,8 +10176,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s40725-020-00119-2": {
       "title": "Quantifying Growth Responses of Trees to Drought—a Critique of Commonly Used Resilience Indices and Recommendations for Future Studies",
@@ -10186,8 +10186,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1002/joc.6686": {
       "title": "WRF‐based dynamical downscaling of <scp>ERA5</scp> reanalysis data for High Mountain Asia: Towards a new version of the High Asia Refined analysis",
@@ -10196,8 +10196,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s10712-020-09594-5": {
       "title": "Earth Observations for Monitoring Marine Coastal Hazards and Their Drivers",
@@ -10206,8 +10206,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020jd032835": {
       "title": "An Evaluation of the Large‐Scale Atmospheric Circulation and Its Variability in CESM2 and Other CMIP Models",
@@ -10216,8 +10216,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.oneear.2020.05.011": {
       "title": "Attributing Extreme Events to Climate Change: A New Frontier in a Warming World",
@@ -10226,8 +10226,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1061/(asce)ir.1943-4774.0001464": {
       "title": "Irrigation Scheduling Approaches and Applications: A Review",
@@ -10236,8 +10236,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1111/gcb.15109": {
       "title": "Global human influence maps reveal clear opportunities in conserving Earth’s remaining intact terrestrial ecosystems",
@@ -10246,8 +10246,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020ms002075": {
       "title": "The CNRM Global Atmosphere Model ARPEGE‐Climat 6.3: Description and Evaluation",
@@ -10256,8 +10256,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.envpol.2020.114907": {
       "title": "Impact assessment of metal contamination in surface water of Sutlej River (India) on human health risks",
@@ -10266,8 +10266,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-020-16576-z": {
       "title": "Fires prime terrestrial organic carbon for riverine export to the global oceans",
@@ -10276,8 +10276,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-020-16631-9": {
       "title": "Emergent constraints on future projections of the western North Pacific Subtropical High",
@@ -10286,8 +10286,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125130": {
       "title": "Modelling of daily lake surface water temperature from air temperature: Extremely randomized trees (ERT) versus Air2Water, MARS, M5Tree, RF and MLPNN",
@@ -10296,8 +10296,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1093/reep/reaa004": {
       "title": "Irrigation Technology and Water Conservation: A Review of the Theory and Evidence",
@@ -10306,8 +10306,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.renene.2020.05.161": {
       "title": "Optimisation of cascade reservoir operation considering environmental flows for different environmental management classes",
@@ -10316,8 +10316,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1190/geo2019-0261.1": {
       "title": "Deep learning reservoir porosity prediction based on multilayer long short-term memory network",
@@ -10326,8 +10326,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125133": {
       "title": "Rainfall-runoff modelling using improved machine learning methods: Harris hawks optimizer vs. particle swarm optimization",
@@ -10336,8 +10336,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.earscirev.2020.103223": {
       "title": "Position paper: Open web-distributed integrated geographic modelling and simulation to enable broader participation and applications",
@@ -10346,8 +10346,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1088/1748-9326/ab98b4": {
       "title": "Use of radar data for characterizing extreme precipitation at fine scales and short durations",
@@ -10356,8 +10356,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.earscirev.2020.103227": {
       "title": "Pore-scale controls on hydrological and geochemical processes in peat: Implications on interacting processes",
@@ -10366,8 +10366,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2020gl087867": {
       "title": "Global Heat Uptake by Inland Waters",
@@ -10376,8 +10376,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s12665-020-09053-9": {
       "title": "Delineating groundwater potential zones of agriculture dominated landscapes using GIS based AHP techniques: a case study from Uttar Dinajpur district, West Bengal",
@@ -10386,8 +10386,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1175/jcli-d-19-0835.1": {
       "title": "Strong Summer Atmospheric Rivers Trigger Greenland Ice Sheet Melt through Spatially Varying Surface Energy Balance and Cloud Regimes",
@@ -10396,8 +10396,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.landusepol.2020.104773": {
       "title": "Spatial and temporal analyses of potential land use conflict under the constraints of water resources in the middle reaches of the Heihe River",
@@ -10406,8 +10406,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s13351-020-9829-8": {
       "title": "Causes and Changes of Drought in China: Research Progress and Prospects",
@@ -10416,8 +10416,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.agrformet.2020.108057": {
       "title": "GRACE satellite-based drought index indicating increased impact of drought over major basins in China during 2002–2017",
@@ -10426,8 +10426,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41598-020-66171-x": {
       "title": "Potential Impacts of Climate and Land Use Change on the Water Quality of Ganga River around the Industrialized Kanpur Region",
@@ -10436,8 +10436,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s00521-020-05010-6": {
       "title": "High temporal resolution rainfall–runoff modeling using long-short-term-memory (LSTM) networks",
@@ -10446,8 +10446,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jhydrol.2020.125128": {
       "title": "The performance of the IMERG satellite-based product in identifying sub-daily rainfall events and their properties",
@@ -10456,8 +10456,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.ijsrc.2020.05.004": {
       "title": "Effect of shrub-grass vegetation coverage and slope gradient on runoff and sediment yield under simulated rainfall",
@@ -10466,8 +10466,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1007/s12583-020-1306-x": {
       "title": "Karst Types and Their Karstification",
@@ -10476,8 +10476,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.catena.2020.104725": {
       "title": "A GIS-based assessment of the potential soil erosion and flood hazard zones in Ekiti State, Southwestern Nigeria using integrated RUSLE and HAND models",
@@ -10486,8 +10486,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2019jf005513": {
       "title": "Physical Interpretation of Rainfall Thresholds for Runoff‐Generated Debris Flows",
@@ -10496,8 +10496,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1016/j.jclepro.2020.122271": {
       "title": "Economic and resource and environmental carrying capacity trade-off analysis in the Haihe River basin in China",
@@ -10506,8 +10506,8 @@
       "sources": [
         "weekly-2020-W23"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1111/ejss.13010": {
       "title": "Climate change impacts on soil salinity in agricultural areas",
@@ -17400,7 +17400,7 @@
     },
     "weekly-2020-W23": {
       "type": "weekly",
-      "timestamp": "2026-05-05T11:47:55.098372",
+      "timestamp": "2026-05-05T12:14:36.850290",
       "date": "2020-06-07",
       "topics": [
         "hydrology",
