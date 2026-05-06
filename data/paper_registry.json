@@ -107885,6 +107885,506 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41586-024-07145-1": {
+      "title": "Global prediction of extreme floods in ungauged watersheds",
+      "journal": "Nature",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/plphys/kiae105": {
+      "title": "Regulatory networks in plant responses to drought and cold stress",
+      "journal": "Plant Physiology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-16-1543-2024": {
+      "title": "Dataset of stable isotopes of precipitation in the Eurasian continent",
+      "journal": "Earth system science data",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2024.171923": {
+      "title": "Source-specific probabilistic health risk assessment of heavy metals in surface water of the Yangtze River Basin.",
+      "journal": "Science of the Total Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecoinf.2024.102555": {
+      "title": "Impacts of climate factors and human activities on NDVI change in China",
+      "journal": "Ecological Informatics",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/biosci/biae007": {
+      "title": "All tidal wetlands are blue carbon ecosystems",
+      "journal": "BioScience",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.frl.2024.105283": {
+      "title": "Green finance, climate change, and green innovation: Evidence from China",
+      "journal": "Finance research letters",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2024.171630": {
+      "title": "Exploring future ecosystem service changes and key contributing factors from a “past-future-action” perspective: A case study of the Yellow River Basin",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/math12070945": {
+      "title": "A Novel Variant of LSTM Stock Prediction Method Incorporating Attention Mechanism",
+      "journal": "Mathematics",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/min14030319": {
+      "title": "Towards a Circular Economy in the Mining Industry: Possible Solutions for Water Recovery through Advanced Mineral Tailings Dewatering",
+      "journal": "Minerals",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/fmicb.2024.1342331": {
+      "title": "Serratia spp. as plant growth-promoting bacteria alleviating salinity, drought, and nutrient imbalance stresses",
+      "journal": "Frontiers in Microbiology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-024-01956-w": {
+      "title": "Enhanced CO2 uptake of the coastal ocean is dominated by biological carbon fixation",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-45286-z": {
+      "title": "Climate change will reduce North American inland wetland areas and disrupt their seasonal regimes",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/02626667.2024.2333846": {
+      "title": "Advancing river monitoring using image-based techniques: challenges and opportunities",
+      "journal": "Hydrological Sciences Journal",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s43630-024-00552-3": {
+      "title": "Plastics in the environment in the context of UV radiation, climate change and the Montreal Protocol: UNEP Environmental Effects Assessment Panel, Update 2023",
+      "journal": "Photochemical & Photobiological Sciences",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/sciadv.adi8594": {
+      "title": "Physical science research needed to evaluate the viability and risks of marine cloud brightening",
+      "journal": "Science Advances",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41612-024-00618-0": {
+      "title": "The prevalent life cycle of agricultural flash droughts",
+      "journal": "npj Climate and Atmospheric Science",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131102": {
+      "title": "Unleashing the power of machine learning and remote sensing for robust seasonal drought monitoring: A stacking ensemble approach",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2024.171684": {
+      "title": "Improving the simulations of the hydrological model in the karst catchment by integrating the conceptual model with machine learning models",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-46852-1": {
+      "title": "Higher-order Granger reservoir computing: simultaneously achieving scalable complex structures inference and accurate dynamics prediction",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-024-57563-4": {
+      "title": "Mangrove mapping and monitoring using remote sensing techniques towards climate change resilience",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131074": {
+      "title": "Using satellite imagery to estimate CO2 partial pressure and exchange with the atmosphere in the Songhua River",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gsd.2024.101153": {
+      "title": "Nitrate contamination in groundwater and its evaluation of non-carcinogenic health hazards from Arjunanadi River basin, south India",
+      "journal": "Groundwater for Sustainable Development",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.48550/arXiv.2403.12226": {
+      "title": "Large-scale flood modeling and forecasting with FloodCast",
+      "journal": "Water Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scs.2024.105355": {
+      "title": "Contribution of buildings climate change mitigation options to sustainable development",
+      "journal": "Sustainable Cities and Society",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1001/jama.2023.27724": {
+      "title": "Infectious Diseases in a Changing Climate",
+      "journal": "JAMA",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131117": {
+      "title": "Coupling the remote sensing data-enhanced SWAT model with the bidirectional long short-term memory model to improve daily streamflow simulations",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/nph.19703": {
+      "title": "The <scp> miR6445‐ <i>NAC029</i> </scp> module regulates drought tolerance by regulating the expression of glutathione S‐transferase U23 and reactive oxygen species scavenging in <i>Populus</i>",
+      "journal": "New Phytologist",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acsphyschemau.4c00004": {
+      "title": "The Potential of Neural Network Potentials",
+      "journal": "ACS Physical Chemistry Au",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2023gl107918": {
+      "title": "Drought Spatial Extent and Dependence Increase During Drought Propagation From the Atmosphere to the Hydrosphere",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/vms3.1416": {
+      "title": "Climate change and broiler production",
+      "journal": "Veterinary Medicine and Science",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rines.2024.100019": {
+      "title": "Integrated GIS and analytic hierarchy process for flood risk assessment in the Dades Wadi watershed (Central High Atlas, Morocco)",
+      "journal": "Results in Earth Sciences",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.watres.2024.121508": {
+      "title": "Fate and behaviour of Microplastics (&gt; 25µm) within the water distribution network, from water treatment works to service reservoirs and customer taps",
+      "journal": "Water Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-46754-2": {
+      "title": "A double-stranded RNA binding protein enhances drought resistance via protein phase separation in rice",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agrformet.2024.109951": {
+      "title": "A brief history of the thermal IR-based Two-Source Energy Balance (TSEB) model – diagnosing evapotranspiration from plant to global scales",
+      "journal": "Agricultural and Forest Meteorology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-46930-4": {
+      "title": "Elevation-dependent pattern of net CO2 uptake across China",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rsase.2024.101191": {
+      "title": "Ground deformation monitoring via PS-InSAR time series: An industrial zone in Sacco River Valley, central Italy",
+      "journal": "Remote Sensing Applications Society and Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ad33d3": {
+      "title": "Demand-side climate change mitigation: where do we stand and where do we go?",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11069-024-06550-z": {
+      "title": "Optimizing flood susceptibility assessment in semi-arid regions using ensemble algorithms: a case study of Moroccan High Atlas",
+      "journal": "Natural Hazards",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.51594/estj.v5i3.952": {
+      "title": "EXPLORING THEORETICAL CONSTRUCTS OF URBAN RESILIENCE THROUGH SMART WATER GRIDS: CASE STUDIES IN AFRICAN AND U.S. CITIES",
+      "journal": "Engineering Science & Technology Journal",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/1365-2745.14288": {
+      "title": "Biodiversity promotes resistance but dominant species shape recovery of grasslands under extreme drought",
+      "journal": "Journal of Ecology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rineng.2024.102017": {
+      "title": "Enhancing river flow predictions: Comparative analysis of machine learning approaches in modeling stage-discharge relationship",
+      "journal": "Results in Engineering",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131096": {
+      "title": "Quantifying the long-term changes of terrestrial water storage and their driving factors",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11101-024-09927-x": {
+      "title": "Environmental, industrial, and health benefits of Moringa oleifera",
+      "journal": "Phytochemistry Reviews",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acsomega.4c00469": {
+      "title": "Comprehensive Review of the Determination and Reduction of the Minimum Miscibility Pressure during CO<sub>2</sub> Flooding",
+      "journal": "ACS Omega",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.51594/csitrj.v5i3.928": {
+      "title": "THEORETICAL FRAMEWORKS FOR THE ROLE OF AI AND MACHINE LEARNING IN WATER CYBERSECURITY: INSIGHTS FROM AFRICAN AND U.S. APPLICATIONS",
+      "journal": "Computer Science & IT Research Journal",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1109/icassp48485.2024.10446785": {
+      "title": "LEFormer: A Hybrid CNN-Transformer Architecture for Accurate Lake Extraction from Remote Sensing Imagery",
+      "journal": "",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jrmge.2023.11.040": {
+      "title": "Time series prediction of reservoir bank landslide failure probability considering the spatial variability of soil properties",
+      "journal": "Journal of Rock Mechanics and Geotechnical Engineering",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.micres.2024.127698": {
+      "title": "Harnessing root-soil-microbiota interactions for drought-resilient cereals",
+      "journal": "Microbiological Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/14616688.2024.2332359": {
+      "title": "Climate change and tourism geographies",
+      "journal": "Tourism Geographies",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W12"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -113029,6 +113529,29 @@
       "type": "weekly",
       "timestamp": "2026-05-06T13:15:08.028341",
       "date": "2024-03-17",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2024-W12": {
+      "type": "weekly",
+      "timestamp": "2026-05-06T13:16:29.056226",
+      "date": "2024-03-24",
       "topics": [
         "hydrology",
         "hydrologic model",
