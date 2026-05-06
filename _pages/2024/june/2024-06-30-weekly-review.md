@@ -1,0 +1,770 @@
+---
+layout: default
+title: "Week 26 (June 24 - June 30), 50 papers"
+parent: June
+grand_parent: "2024"
+nav_order: 37
+date: 2024-06-30
+categories: [weekly, 2024, june]
+tags: [hydrology, literature-review, research]
+paper_count: 50
+highlight: "Top paper: Impacts of Drought on Photosynthesis in Major Food Crops and the Related Mech... (277 citations)"
+lang: en
+lang_link: /zh/2024/june/2024-06-30-weekly-review
+---
+
+# Weekly Literature Review
+{: .no_toc }
+
+**Week 26** · June 24–June 30, 2024
+{: .text-grey-dk-000 }
+
+**50** relevant papers found across **5** themes
+{: .fs-5 .fw-300 }
+
+## Executive Summary
+
+This week's review covers 50 papers across 5 themes. The most cited paper examines Impacts of Drought on Photosynthesis in Major Food Crops and the Related Mechani, with 277 citations. Key research areas include climate change and terrestrial water storage, flood risk assessment and extreme precipitation, machine learning and ai for hydrological prediction.
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Climate Change and Terrestrial Water Storage
+
+This week features 17 papers examining the intersection of climate change and terrestrial water dynamics. Studies investigate water storage changes, drought mechanisms and projections, vegetation-water interactions, and Earth system model uncertainties. Key contributions address large-scale water storage trends, land-atmosphere coupling effects on drought onset, and methods for characterizing future drought under climate change scenarios.
+
+### Impacts of Drought on Photosynthesis in Major Food Crops and the Related Mechanisms of Plant Responses to Drought
+
+**Authors**: Meiyu Qiao, Conghao Hong, Yongjuan Jiao, Sijia Hou, Hongbo Gao
+
+**Journal**: *Plants* · **DOI**: [10.3390/plants13131808](https://doi.org/10.3390/plants13131808) · **Citations**: 277
+
+**Matched topics**: drought
+{: .label .label-green }
+
+> Drought stress is one of the most critical threats to crop productivity and global food security. This review addresses the multiple effects of drought on the process of photosynthesis in major food crops. Affecting both light-dependent and light-independent reactions, drought leads to severe damage to photosystems and blocks the electron transport chain. Plants face a CO2 shortage provoked by stomatal closure, which triggers photorespiration; not only does it reduce carbon fixation efficienc...
+
+---
+
+### Impacts of Global Climate Change on Agricultural Production: A Comprehensive Review
+
+**Authors**: Xiangning Yuan, Sien Li, Jinliang Chen, Haichao Yu, Tianyi Yang, Chunyu Wang et al.
+
+**Journal**: *Agronomy* · **DOI**: [10.3390/agronomy14071360](https://doi.org/10.3390/agronomy14071360) · **Citations**: 207
+
+**Matched topics**: climate change
+{: .label .label-green }
+
+> Global warming is one of the greatest threats to the social development of human beings. It is a typical example of global climate change, and has profoundly affected human production and life in various aspects. As the foundation of human existence, agricultural production is particularly vulnerable to climate change, which has altered environmental factors such as temperature, precipitation, and wind speed, and affected crop growth cycles, the frequency of extreme weather events, and the oc...
+
+---
+
+### Tackling climate change in agriculture: A global evaluation of the effectiveness of carbon emission reduction policies
+
+**Authors**: Assa Nsabiyeze, Ruiqin Ma, Jun Li, Hailing Luo, Qinan Zhao, J. Tomka et al.
+
+**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2024.142973](https://doi.org/10.1016/j.jclepro.2024.142973) · **Citations**: 95
+
+**Matched topics**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Water Management and Hydrological Characteristics of Paddy-Rice Fields under Alternate Wetting and Drying Irrigation Practice as Climate Smart Practice: A Review
+
+**Authors**: Denis Bwire, Hirotaka Saito, R. Sidle, J. Nishiwaki
+
+**Journal**: *Agronomy* · **DOI**: [10.3390/agronomy14071421](https://doi.org/10.3390/agronomy14071421) · **Citations**: 48
+
+**Matched topics**: water management
+{: .label .label-green }
+
+> Paddy-rice cultivation using the traditional continuous flooding method requires much water, up to 2500 L, to produce 1 kg of rice. Decreasing water availability is being exacerbated by climate dynamics, i.e., droughts and rainfall variability negatively affecting food security in developing regions, particularly Africa. Alternate wetting and drying (AWD) practice is a climate-smart water management strategy that, together with puddling (a critical field preparation process), significantly af...
+
+---
+
+### Explaining the Mechanism of Multiscale Groundwater Drought Events: A New Perspective From Interpretable Deep Learning Model
+
+**Authors**: Hejiang Cai, Haiyun Shi, Zhaoqiang Zhou, Suning Liu, Vladan Babovic
+
+**Journal**: *Water Resources Research* · **DOI**: [10.1029/2023wr035139](https://doi.org/10.1029/2023wr035139) · **Citations**: 39
+
+**Matched topics**: hydrologic model, drought
+{: .label .label-green }
+
+> Abstract This study presents a new approach to understand the causes of groundwater drought events with interpretable deep learning (DL) models. As prerequisites, accurate long short‐term memory (LSTM) models for simulating groundwater are built for 16 regions representing three types of spatial scales in the southeastern United States, and standardized groundwater index is applied to identify 233 groundwater drought events. Two interpretation methods, expected gradients (EG) and additive dec...
+
+---
+
+### Selenium Nanoparticles Boost the Drought Stress Response of Soybean by Enhancing Pigment Accumulation, Oxidative Stress Management and Ultrastructural Integrity
+
+**Authors**: Muhammad Zeeshan, Xin Wang, Abdus Salam, Hao Wu, Shengnan Li, Shiqi Zhu et al.
+
+**Journal**: *Agronomy* · **DOI**: [10.3390/agronomy14071372](https://doi.org/10.3390/agronomy14071372) · **Citations**: 43
+
+**Matched topics**: drought
+{: .label .label-green }
+
+> Drought is a persistent and devastating obstacle to crop production, affecting both humanity and livestock. The application of selenium (Se) effectively mitigates various types of abiotic stresses and enhances crop yield under unfavorable conditions. However, our understanding of how nano-Se (nSe) alleviates drought stress (DS) in soybeans is still limited. To address this gap, our study focused on assessing the effectiveness of foliar nSe application during the reproductive stage of soybeans...
+
+---
+
+### Temperature-related neonatal deaths attributable to climate change in 29 low- and middle-income countries
+
+**Authors**: Asya Dimitrova, Anna Dimitrova, Matthias Mengel, Antonio Gasparrini, Hermann Lotze‐Campen, Sabine Gabrysch
+
+**Journal**: *Nature Communications* · **DOI**: [10.1038/s41467-024-49890-x](https://doi.org/10.1038/s41467-024-49890-x) · **Citations**: 42
+
+**Matched topics**: climate change
+{: .label .label-green }
+
+> Exposure to high and low ambient temperatures increases the risk of neonatal mortality, but the contribution of climate change to temperature-related neonatal deaths is unknown. We use Demographic and Health Survey (DHS) data (n = 40,073) from 29 low- and middle-income countries to estimate the temperature-related burden of neonatal deaths between 2001 and 2019 that is attributable to climate change. We find that across all countries, 4.3% of neonatal deaths were associated with non-optimal t...
+
+---
+
+### Sources of dissolved carbon in large rivers: Insights from coupled 13C-14C in the upper Changjiang (Yangtze) River
+
+**Authors**: Jun Zhong, Αlbert Galy, Scott Zolkos, Sheng Xu, Cong-Qiang Liu, Si‐Liang Li
+
+**Journal**: *Earth and Planetary Science Letters* · **DOI**: [10.1016/j.epsl.2024.118813](https://doi.org/10.1016/j.epsl.2024.118813) · **Citations**: 35
+
+**Matched topics**: hydrology, river
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Dataset of spatially extensive long-term quality-assured land–atmosphere interactions over the Tibetan Plateau
+
+**Authors**: Yaoming Ma, Zhipeng Xie, Yingying Chen, Shaomin Liu, Tao Che, Ziwei Xu et al.
+
+**Journal**: *Earth system science data* · **DOI**: [10.5194/essd-16-3017-2024](https://doi.org/10.5194/essd-16-3017-2024) · **Citations**: 38
+
+**Matched topics**: land surface model
+{: .label .label-green }
+
+> Abstract. The climate of the Tibetan Plateau (TP) has experienced substantial changes in recent decades as a result of the location's susceptibility to global climate change. The changes observed across the TP are closely associated with regional land–atmosphere interactions. Current models and satellites struggle to accurately depict the interactions; therefore, critical field observations on land–atmosphere interactions outlined here provide necessary independent validation data and fine-sc...
+
+---
+
+### Proximal microclimate: Moving beyond spatiotemporal resolution improves ecological predictions
+
+**Authors**: David H. Klinges, J. Alex Baecher, Jonas J. Lembrechts, Ilya M. D. Maclean, Jonathan Lenoir, Caroline Greiser et al.
+
+**Journal**: *Global Ecology and Biogeography* · **DOI**: [10.1111/geb.13884](https://doi.org/10.1111/geb.13884) · **Citations**: 36
+
+**Matched topics**: earth system model
+{: .label .label-green }
+
+> Abstract Aim The scale of environmental data is often defined by their extent (spatial area, temporal duration) and resolution (grain size, temporal interval). Although describing climate data scale via these terms is appropriate for most meteorological applications, for ecology and biogeography, climate data of the same spatiotemporal resolution and extent may differ in their relevance to an organism. Here, we propose that climate proximity, or how well climate data represent the actual cond...
+
+---
+
+### Unraveling farmers' interrelated adaptation and mitigation adoption decisions under perceived climate change risks
+
+**Authors**: María Rodríguez-Barillas, P. Marijn Poortvliet, Laurens Klerkx
+
+**Journal**: *Journal of Rural Studies* · **DOI**: [10.1016/j.jrurstud.2024.103329](https://doi.org/10.1016/j.jrurstud.2024.103329) · **Citations**: 33
+
+**Matched topics**: climate change
+{: .label .label-green }
+
+> Climate change poses a risk to agricultural activity. Understanding farmers' behaviors is increasingly important for managing climate risks and improving their adaptive capacity. This study aims to identify the key risk-related drivers influencing several adaptation and mitigation strategies by adopting various Climate-Smart Agriculture (CSA) technologies to reduce climate change vulnerability. We investigate the interrelated nature of the adoption of CSA technologies related to soil fertilit...
+
+---
+
+### Climate change impacts on the within-country income distributions
+
+**Authors**: Martino Gilli, Matteo Calcaterra, Johannes Emmerling, Francesco Granella
+
+**Journal**: *Journal of Environmental Economics and Management* · **DOI**: [10.1016/j.jeem.2024.103012](https://doi.org/10.1016/j.jeem.2024.103012) · **Citations**: 32
+
+**Matched topics**: climate change
+{: .label .label-green }
+
+> This paper investigates the relationship between climate change and income inequality, recognizing that the economic impacts of climate change are not uniform across different levels of income within and across countries. Using methods from the existing literature on climate and economic growth, we analyze the economic impact of rising temperatures by within-country income decile. Our findings suggest that climate change disproportionately affects the poorer segments of the population within ...
+
+---
+
+### Simulation of CO2 enhanced oil recovery and storage in shale oil reservoirs: Unveiling the impacts of nano-confinement and oil composition
+
+**Authors**: Yilei Song, Zhaojie Song, Zhangxin Chen, Yasi Mo, Qiancheng Zhou, Shouceng Tian
+
+**Journal**: *ADVANCES IN GEO-ENERGY RESEARCH* · **DOI**: [10.46690/ager.2024.08.05](https://doi.org/10.46690/ager.2024.08.05) · **Citations**: 31
+
+**Matched topics**: reservoir
+{: .label .label-green }
+
+> CO2 injection into oil reservoirs is expected to achieve enhanced oil recovery along with the benefit of carbon storage, while the application potential of this strategy for shale reservoirs is unclear. In this work, a numerical model for multiphase flow in shale oil reservoirs is developed to investigate the impacts of nano-confinement and oil composition on shale oil recovery and CO2 storage efficiency. Two shale oils with different maturity levels are selected, with the higher-maturity sha...
+
+---
+
+### Chitosan–Chitin Nanocrystal Films from Lobster and Spider Crab: Properties and Environmental Sustainability
+
+**Authors**: Rut Fernández-Marín, Amaia Morales, Xabier Erdocia, Maider Iturrondobeitia, Jalel Labidi, Erlantz Lizundia
+
+**Journal**: *ACS Sustainable Chemistry & Engineering* · **DOI**: [10.1021/acssuschemeng.4c01205](https://doi.org/10.1021/acssuschemeng.4c01205) · **Citations**: 31
+
+**Matched topics**: hydropower
+{: .label .label-green }
+
+> The valorization of chitinous biomass from underutilized renewable carbon feedstock offers alternative routes for bioproduct development, reducing our dependence on nonrenewable and nonbiodegradable materials composed of fossil carbon. This work utilizes crustacean waste consisting of inedible shells to isolate chitin and its derivatives, chitin nanocrystals and chitosan, from lobster (Homarus gammarus) and spider crab (Maja squinado) shells. Chitin nanocrystals (ChNCs) with a degree of acety...
+
+---
+
+### Comparing spatio-temporal propagation patterns of hydrological and meteorological droughts: Insights from SWAT modelling in the poyang lake basin
+
+**Authors**: Rui Zou, Xiaojun Wang, Yixing Yin, Xieyao Ma, Xiuqin Yang, Pengnian Huang et al.
+
+**Journal**: *CATENA* · **DOI**: [10.1016/j.catena.2024.108183](https://doi.org/10.1016/j.catena.2024.108183) · **Citations**: 21
+
+**Matched topics**: hydrologic model, runoff, drought
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Effects of climate change on plant-pollinator interactions and its multitrophic consequences
+
+**Authors**: Judith Trunschke, Robert R. Junker, Gaku Kudo, Jake M. Alexander, Sarah K. Richman, Irène Till‐Bottraud
+
+**Journal**: *Alpine Botany* · **DOI**: [10.1007/s00035-024-00316-w](https://doi.org/10.1007/s00035-024-00316-w) · **Citations**: 28
+
+**Matched topics**: climate change
+{: .label .label-green }
+
+> Abstract There is wide consensus that climate change will seriously impact flowering plants and their pollinators. Shifts in flowering phenology and insect emergence as well as changes in the functional traits involved can cause alterations in plant-pollinator interactions, pollination success and plant reproductive output. Effects of rising temperatures, advanced snowmelt and altered precipitation patterns are expected to be particularly severe in alpine habitats due to the constrained seaso...
+
+---
+
+### Groundwater drought risk assessment in the semi-arid Kansai river basin, West Bengal, India using SWAT and machine learning models
+
+**Authors**: Amit Bera, Nikhil Kumar Baranval, Rajwardhan Kumar, Sanjit Kumar Pal
+
+**Journal**: *Groundwater for Sustainable Development* · **DOI**: [10.1016/j.gsd.2024.101254](https://doi.org/10.1016/j.gsd.2024.101254) · **Citations**: 17
+
+**Matched topics**: hydrologic model, river, drought
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+## Flood Risk Assessment and Extreme Precipitation
+
+Flood risk assessment and extreme precipitation research are well represented this week with 4 papers advancing methodologies for flood susceptibility mapping, early warning systems, and resilience evaluation. Multiple studies employ GIS-based multi-criteria approaches and machine learning methods for spatial flood hazard assessment across diverse regions. Research also addresses the social dimensions of flood preparedness and strategic planning for flood mitigation.
+
+### A novel approach to flood risk assessment: Synergizing with geospatial based MCDM-AHP model, multicollinearity, and sensitivity analysis in the Lower Brahmaputra Floodplain, Assam
+
+**Authors**: Pranab Dutta, Sujit Deka
+
+**Journal**: *Journal of Cleaner Production* · **DOI**: [10.1016/j.jclepro.2024.142985](https://doi.org/10.1016/j.jclepro.2024.142985) · **Citations**: 40
+
+**Matched topics**: flood
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Assessing dynamic congestion risks of flood-disrupted transportation network systems through time-variant topological analysis and traffic demand dynamics
+
+**Authors**: Xuhui Lin, Qiuchen Lu, Long Chen, Ioannis Brilakis
+
+**Journal**: *Advanced Engineering Informatics* · **DOI**: [10.1016/j.aei.2024.102672](https://doi.org/10.1016/j.aei.2024.102672) · **Citations**: 27
+
+**Matched topics**: hydrologic model, flood
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Investigating the spatial distribution of flood inundation and landforms using topographic position index (TPI) and geomorphon-based automated landform classification methods
+
+**Authors**: Laxmi Gupta, Jagabandhu Dixit
+
+**Journal**: *Journal of Earth System Science* · **DOI**: [10.1007/s12040-024-02343-x](https://doi.org/10.1007/s12040-024-02343-x) · **Citations**: 27
+
+**Matched topics**: runoff, flood
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Threat of low-frequency high-intensity floods to global cropland and crop yields
+
+**Authors**: Jichong Han, Zhao Zhang, Jialu Xu, Yi Chen, Jonas Jägermeyr, Juan Cao et al.
+
+**Journal**: *Nature Sustainability* · **DOI**: [10.1038/s41893-024-01375-x](https://doi.org/10.1038/s41893-024-01375-x) · **Citations**: 29
+
+**Matched topics**: flood
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+## Machine Learning and AI for Hydrological Prediction
+
+This week's 9 papers demonstrate continued momentum in applying machine learning and artificial intelligence to hydrological prediction challenges. Contributions span groundwater level forecasting, streamflow prediction, river flow modeling, and physics-informed approaches that integrate domain knowledge with data-driven methods. Notable advances include uncertainty quantification in ML predictions and optimization of model architectures for improved hydrological forecasting.
+
+### An interpretable hybrid deep learning model for flood forecasting based on Transformer and LSTM
+
+**Authors**: Wenzhong Li, Chengshuai Liu, Yingying Xu, Chaojie Niu, Runxi Li, Ming Li et al.
+
+**Journal**: *Journal of Hydrology Regional Studies* · **DOI**: [10.1016/j.ejrh.2024.101873](https://doi.org/10.1016/j.ejrh.2024.101873) · **Citations**: 83
+
+**Matched topics**: runoff, flood
+{: .label .label-green }
+
+> Flood formation involves complex nonlinear processes and numerous variables, with data-driven models becoming a key non-engineering approach to flood prevention and mitigation. Yet, single machine learning models are insufficient to fully capture the complex dynamics of the flood process. We propose an interpretable flood forecasting hybrid model based on Transformer, LSTM, and Adaptive Random Search Algorithm (AGRS), termed as AGRS-LSTM-Transformer. Investigating the predictive performance o...
+
+---
+
+### Integrative approaches in modern agriculture: IoT, ML and AI for disease forecasting amidst climate change
+
+**Authors**: Payam Delfani, Vishnukiran Thuraga, Bikram Pratap Banerjee, Aakash Chawade
+
+**Journal**: *Precision Agriculture* · **DOI**: [10.1007/s11119-024-10164-7](https://doi.org/10.1007/s11119-024-10164-7) · **Citations**: 76
+
+**Matched topics**: climate change
+{: .label .label-green }
+
+> Abstract Plant disease forecasting models, driven by concurrent data and advanced technologies, are reliable tools for accurate prediction of disease outbreaks in achieving sustainable and productive agricultural systems. Optimal integration of Internet of Things (IoTs), machine learning (ML) techniques and artificial intelligence (AI), further augment the capabilities of these models in empowering farmers with proactive disease control measures towards modern agriculture manifested by effici...
+
+---
+
+### Chemical reservoir computation in a self-organizing reaction network
+
+**Authors**: Mathieu G. Baltussen, Thijs de Jong, Quentin Duez, William E. Robinson, Wilhelm T. S. Huck
+
+**Journal**: *Nature* · **DOI**: [10.1038/s41586-024-07567-x](https://doi.org/10.1038/s41586-024-07567-x) · **Citations**: 41
+
+**Matched topics**: reservoir
+{: .label .label-green }
+
+> . We demonstrate how this complex, self-organizing chemical reaction network can perform several nonlinear classification tasks in parallel, predict the dynamics of other complex systems and achieve time-series forecasting. This in chemico information processing system provides proof of principle for the emergent computational capabilities of complex chemical reaction networks, paving the way for a new class of biomimetic information processing systems.
+
+---
+
+### To bucket or not to bucket? Analyzing the performance and interpretability of hybrid hydrological models with dynamic parameterization
+
+**Authors**: Eduardo Acuña Espinoza, Ralf Loritz, Manuel Álvarez Chaves, Nicole Bäuerle, Uwe Ehret
+
+**Journal**: *Hydrology and earth system sciences* · **DOI**: [10.5194/hess-28-2705-2024](https://doi.org/10.5194/hess-28-2705-2024) · **Citations**: 29
+
+**Matched topics**: hydrology, hydrologic model, streamflow
+{: .label .label-green }
+
+> Abstract. Hydrological hybrid models have been proposed as an option to combine the enhanced performance of deep learning methods with the interpretability of process-based models. Among the various hybrid methods available, the dynamic parameterization of conceptual models using long short-term memory (LSTM) networks has shown high potential. We explored this method further to evaluate specifically if the flexibility given by the dynamic parameterization overwrites the physical interpretabil...
+
+---
+
+### Assessment of groundwater quality in arid regions utilizing principal component analysis, GIS, and machine learning techniques
+
+**Authors**: Mustafa El-Rawy, Mohamed Wahba, Heba Fathi, Fahad Alshehri, Fathy Abdalla, Raafat M. El Attar
+
+**Journal**: *Marine Pollution Bulletin* · **DOI**: [10.1016/j.marpolbul.2024.116645](https://doi.org/10.1016/j.marpolbul.2024.116645) · **Citations**: 38
+
+**Matched topics**: water management
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Ensemble empirical mode decomposition based deep learning models for forecasting river flow time series
+
+**Authors**: Reetun Maiti, Balagopal G. Menon, Anand Abraham
+
+**Journal**: *Expert Systems with Applications* · **DOI**: [10.1016/j.eswa.2024.124550](https://doi.org/10.1016/j.eswa.2024.124550) · **Citations**: 24
+
+**Matched topics**: hydrologic model, river
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### SHAP-powered insights into spatiotemporal effects: Unlocking explainable Bayesian-neural-network urban flood forecasting
+
+**Authors**: W. P. Chu, Chunxiao Zhang, Heng Li, Laifu Zhang, Dingtao Shen, Rongrong Li
+
+**Journal**: *International Journal of Applied Earth Observation and Geoinformation* · **DOI**: [10.1016/j.jag.2024.103972](https://doi.org/10.1016/j.jag.2024.103972) · **Citations**: 26
+
+**Matched topics**: flood
+{: .label .label-green }
+
+> Given the increased incidence of pluvial floods due to climate change and urbanization, the demand for highly efficient and accurate modeling within urban drainage systems has intensified, making machine learning and deep learning techniques increasingly popular. Nonetheless, these data-driven approaches face challenges in adequately capturing and interpreting dynamic process-evolving features, especially the spatiotemporal effects emanating from manholes during urban waterlogging events. To ...
+
+---
+
+### Long-term drought prediction using deep neural networks based on geospatial weather data
+
+**Authors**: Alexander Marusov, Vsevolod Grabar, Yury Maximov, Nazar Sotiriadi, Alexander Bulkin, Alexey Zaytsev
+
+**Journal**: *Environmental Modelling & Software* · **DOI**: [10.1016/j.envsoft.2024.106127](https://doi.org/10.1016/j.envsoft.2024.106127) · **Citations**: 26
+
+**Matched topics**: drought
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### A novel Bayesian network approach for predicting soil-structure interactions induced by deep excavations
+
+**Authors**: S.C. Jong, Dominic Ek Leong Ong
+
+**Journal**: *Tunnelling and Underground Space Technology* · **DOI**: [10.1016/j.tust.2024.105865](https://doi.org/10.1016/j.tust.2024.105865) · **Citations**: 26
+
+**Matched topics**: land surface model
+{: .label .label-green }
+
+> The demand for deep excavations to construct underground infrastructure has been growing in metropolitan cities due to rapid urban development and limited land space. In this original research, a machine learning technique based on Bayesian Network is proposed to evaluate and predict soil-structure interactions caused by braced excavations. A novel framework based on Bayesian Network incorporating the Bayesian updating process was proposed to study the ground and wall responses induced by dee...
+
+---
+
+## Water Management, Irrigation, and Groundwater
+
+Water management research this week spans 8 papers covering integrated water resources management, irrigation scheduling, groundwater monitoring, and water-energy-food nexus analyses. Studies range from global-scale assessments to site-specific irrigation optimization, with particular attention to satellite-based monitoring of water use and land subsidence from groundwater extraction.
+
+### Using stable isotopes to inform water resource management in forested and agricultural ecosystems
+
+**Authors**: Francesca Scandellari, Taha Attou, Adrià Barbeta, Fabian Bernhard, Concetta D'Amato, Katya Dimitrova‐Petrova et al.
+
+**Journal**: *Journal of Environmental Management* · **DOI**: [10.1016/j.jenvman.2024.121381](https://doi.org/10.1016/j.jenvman.2024.121381) · **Citations**: 26
+
+**Matched topics**: hydrology, streamflow, water management, surface water
+{: .label .label-green }
+
+> Present and future climatic trends are expected to markedly alter water fluxes and stores in the hydrologic cycle. In addition, water demand continues to grow due to increased human use and a growing population. Sustainably managing water resources requires a thorough understanding of water storage and flow in natural, agricultural, and urban ecosystems. Measurements of stable isotopes of water (hydrogen and oxygen) in the water cycle (atmosphere, soils, plants, surface water, and groundwater...
+
+---
+
+### Unlocking policy effects: Water resources management plans and urban water pollution
+
+**Authors**: Pengyu Chen
+
+**Journal**: *Journal of Environmental Management* · **DOI**: [10.1016/j.jenvman.2024.121642](https://doi.org/10.1016/j.jenvman.2024.121642) · **Citations**: 40
+
+**Matched topics**: water management
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Extraction of water bodies from high-resolution remote sensing imagery based on a deep semantic segmentation network
+
+**Authors**: Dechao Sun, Guang Gao, Lijun Huang, Yunpeng Liu, Dongquan Liu
+
+**Journal**: *Scientific Reports* · **DOI**: [10.1038/s41598-024-65430-5](https://doi.org/10.1038/s41598-024-65430-5) · **Citations**: 37
+
+**Matched topics**: water management
+{: .label .label-green }
+
+> The precise delineation of urban aquatic features is of paramount importance in scrutinizing water resources, monitoring floods, and devising water management strategies. Addressing the challenge of indistinct boundaries and the erroneous classification of shadowed regions as water in high-resolution remote sensing imagery, we introduce WaterDeep, which is a novel deep learning framework inspired by the DeepLabV3 + architecture and an innovative fusion mechanism for high- and low-level featur...
+
+---
+
+### Smart Irrigation Systems from Cyber-Physical Perspective: State of Art and Future Directions
+
+**Authors**: Mian Qian, Cheng Qian, Guobin Xu, Pu Tian, Wei Yu
+
+**Journal**: *Future Internet* · **DOI**: [10.3390/fi16070234](https://doi.org/10.3390/fi16070234) · **Citations**: 31
+
+**Matched topics**: irrigation
+{: .label .label-green }
+
+> Irrigation refers to supplying water to soil through pipes, pumps, and spraying systems to ensure even distribution across the field. In traditional farming or gardening, the setup and usage of an agricultural irrigation system solely rely on the personal experience of farmers. The Food and Agriculture Organization of the United Nations (UN) has projected that by 2030, developing countries will expand their irrigated areas by 34%, while water consumption will only be up 14%. This discrepancy ...
+
+---
+
+### Enhancing stand establishment and yield formation of cotton with multiple drip irrigation during emergence in saline fields of Southern Xinjiang
+
+**Authors**: Jianlong Dai, Zhengpeng Cui, Yanjun Zhang, Lijie Zhan, Junjun Nie, Jianqiang Cui et al.
+
+**Journal**: *Field Crops Research* · **DOI**: [10.1016/j.fcr.2024.109482](https://doi.org/10.1016/j.fcr.2024.109482) · **Citations**: 31
+
+**Matched topics**: irrigation
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Evolving pathways towards water security in the Vietnamese Mekong Delta: An adaptive management perspective
+
+**Authors**: Thong Anh Tran, Dung Duc Tran, Oc Van Vo, Van Huynh Thanh Pham, Hieu Van Tran, Ming Li Yong et al.
+
+**Journal**: *AMBIO* · **DOI**: [10.1007/s13280-024-02045-0](https://doi.org/10.1007/s13280-024-02045-0) · **Citations**: 21
+
+**Matched topics**: hydrology, water management, hydropower
+{: .label .label-green }
+
+> The interplay of climate change, upstream hydropower development, and local water engineering interventions for agricultural production contributes substantially to the transformation of waterscapes and water scarcity in the Vietnamese Mekong Delta. This paper aims to examine how these dynamics are linked to the paradigm shift in water management in An Giang and Ben Tre, the two ecologically distinct provinces that face serious water scarcity in the delta. We used the adaptive management conc...
+
+---
+
+### Efficiency over excess: Maximising cotton lint yields with optimum irrigation and nitrogen fertiliser application
+
+**Authors**: Jon Baird, Graeme Schwenke, Ben Macdonald, Gunasekhar Nachimuthu, Annabelle McPherson, Clarence Mercer
+
+**Journal**: *Field Crops Research* · **DOI**: [10.1016/j.fcr.2024.109484](https://doi.org/10.1016/j.fcr.2024.109484) · **Citations**: 30
+
+**Matched topics**: irrigation
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Linking local and global: Assessing water scarcity risk through nested trade networks
+
+**Authors**: Chenglong Wang, Chenyang Shuai, Xi Chen, Jingran Sun, Bu Zhao
+
+**Journal**: *Sustainable Development* · **DOI**: [10.1002/sd.3103](https://doi.org/10.1002/sd.3103) · **Citations**: 27
+
+**Matched topics**: water management
+{: .label .label-green }
+
+> Abstract As water scarcity escalates globally, there is a growing focus on assessing its economic impact, both locally and through trade networks, defined as water scarcity risk (WSR). Given China's pivotal role as a top importer and exporter, coupled with significant spatial disparities in water scarcity across its provinces, understanding the spread of water scarcity risks within China and their interplay with global water dynamics is imperative yet relatively unexplored. This study constru...
+
+---
+
+## Hydrological Processes, Snow Dynamics, and Remote Sensing
+
+This theme encompasses 12 papers advancing understanding of hydrological processes through field observations, modeling, and remote sensing. Research covers snow distribution and dynamics in cold regions, forest-hydrology interactions, land use change impacts on river systems, rainfall-runoff modeling uncertainty, and satellite-based monitoring of terrestrial water resources.
+
+### Role of Pacific Ocean climate in regulating runoff in the source areas of water transfer projects on the Pacific Rim
+
+**Authors**: Feng Chen, Shijie Wang, Q. Dong, J. Esper, Ulf Büntgen, David Meko et al.
+
+**Journal**: *npj Climate and Atmospheric Science* · **DOI**: [10.1038/s41612-024-00706-1](https://doi.org/10.1038/s41612-024-00706-1) · **Citations**: 37
+
+**Matched topics**: runoff, streamflow, earth system model
+{: .label .label-green }
+
+> Over the past two decades, more frequent and intense climate events have seriously threatened the operation of water transfer projects in the Pacific Rim region. However, the role of climatic change in driving runoff variations in the water source areas of these projects is unclear. We used tree-ring data to reconstruct changes in the runoff of the Hanjiang River since 1580 CE representing an important water source area for China’s south-north water transfer project. Comparisons with hydrocli...
+
+---
+
+### From disruption to adaptation: Response of phytoplankton communities in representative impounded lakes to China's South-to-North Water Diversion Project
+
+**Authors**: Xing Hou, Xiaodong Hu, Yi Li, Huanjun Zhang, Lihua Niu, Rui Huang et al.
+
+**Journal**: *Water Research* · **DOI**: [10.1016/j.watres.2024.122001](https://doi.org/10.1016/j.watres.2024.122001) · **Citations**: 42
+
+**Matched topics**: runoff, water management
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Comparison of datasets citation coverage in Google Scholar, Web of Science, Scopus, Crossref, and DataCite
+
+**Authors**: Irina Gerasimov, Binita Kc, Armin Mehrabian, James Acker, Michael P. McGuire
+
+**Journal**: *Scientometrics* · **DOI**: [10.1007/s11192-024-05073-5](https://doi.org/10.1007/s11192-024-05073-5) · **Citations**: 43
+
+**Matched topics**: earth system model
+{: .label .label-green }
+
+> Abstract The rapid increase of Earth science data from remote sensing, models, and ground-based observations highlights an urgent need for effective data management practices. Data repositories track provenance and usage metrics which are crucial for ensuring data integrity and scientific reproducibility. Although the introduction of Digital Object Identifiers (DOIs) for datasets in the late 1990s has significantly aided in crediting creators and enhancing dataset discoverability (akin to tra...
+
+---
+
+### Typical emerging contaminants in sewage treatment plant effluent, and related watersheds in the Pearl River Basin: Ecological risks and source identification
+
+**Authors**: Xiaohui Zhu, Siyan Liu, Xiaofeng Gao, Yilu Gu, Ying Yu, Ying Yu et al.
+
+**Journal**: *Journal of Hazardous Materials* · **DOI**: [10.1016/j.jhazmat.2024.135046](https://doi.org/10.1016/j.jhazmat.2024.135046) · **Citations**: 32
+
+**Matched topics**: river, runoff, surface water
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Spatiotemporal evolution and influencing factors of flood control storage sedimentation in the Three Gorges Reservoir, Changjiang River, China
+
+**Authors**: Chao Guo, Zhongwu Jin, Dongfang Liang, Michael Nones, Yinjun Zhou
+
+**Journal**: *CATENA* · **DOI**: [10.1016/j.catena.2024.108214](https://doi.org/10.1016/j.catena.2024.108214) · **Citations**: 10
+
+**Matched topics**: hydrology, river, streamflow, reservoir, flood, hydropower
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Microplastics in Hong Kong's marine waters: Impact of rainfall and Pearl River discharge
+
+**Authors**: Kai Zhang, Michael C Y Cheng, Mengyang Liu, Shaopeng Xu, Yue Ma, Hoi Shan Chau et al.
+
+**Journal**: *Marine Pollution Bulletin* · **DOI**: [10.1016/j.marpolbul.2024.116635](https://doi.org/10.1016/j.marpolbul.2024.116635) · **Citations**: 27
+
+**Matched topics**: river, runoff
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### A Runoff‐On‐Grid Approach to Embed Hydrological Processes in Shallow Water Models
+
+**Authors**: Pasquale Perrini, Luís Cea, Francesco Chiaravalloti, Salvatore Gabriele, Salvatore Manfreda, Mauro Fiorentino et al.
+
+**Journal**: *Water Resources Research* · **DOI**: [10.1029/2023wr036421](https://doi.org/10.1029/2023wr036421) · **Citations**: 17
+
+**Matched topics**: hydrology, hydrologic model, runoff, streamflow
+{: .label .label-green }
+
+> Abstract Catchment‐scale hydrological models encountered dichotomies with the numerical hydrodynamic models when describing surface routing process. We propose a new modeling framework, the so‐called “Runoff‐On‐Grid” approach, for embedding distributed process‐based hydrological modeling into shallow water models, as an alternative to the traditional Fully Hydrodynamic Approach (also known as Rain‐On‐Grid). Antecedent Soil Moisture, subsurface dynamics, and other topsoil hydrological processe...
+
+---
+
+### General circulation models simulate negative liquid water path–droplet number correlations, but anthropogenic aerosols still increase simulated liquid water path
+
+**Authors**: Johannes Mülmenstädt, Edward Gryspeerdt, Sudhakar Dipu, Johannes Quaas, Andrew S. Ackerman, Ann M. Fridlind et al.
+
+**Journal**: *Atmospheric chemistry and physics* · **DOI**: [10.5194/acp-24-7331-2024](https://doi.org/10.5194/acp-24-7331-2024) · **Citations**: 29
+
+**Matched topics**: earth system model
+{: .label .label-green }
+
+> Abstract. General circulation models' (GCMs) estimates of the liquid water path adjustment to anthropogenic aerosol emissions differ in sign from other lines of evidence. This reduces confidence in estimates of the effective radiative forcing of the climate by aerosol–cloud interactions (ERFaci). The discrepancy is thought to stem in part from GCMs' inability to represent the turbulence–microphysics interactions in cloud-top entrainment, a mechanism that leads to a reduction in liquid water i...
+
+---
+
+### Occurrence, potential sources, and ecological risk assessment of microplastics in the inland river basins in Northern China
+
+**Authors**: Mufan Gan, Yan Zhang, Peng Shi, Lingzhou Cui, Chengqian Zhang, Jiahua Guo
+
+**Journal**: *Marine Pollution Bulletin* · **DOI**: [10.1016/j.marpolbul.2024.116656](https://doi.org/10.1016/j.marpolbul.2024.116656) · **Citations**: 24
+
+**Matched topics**: river, surface water
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Occurrence of emerging contaminants in three river basins impacted by wastewater treatment plant effluents: Spatio-seasonal patterns and environmental risk assessment
+
+**Authors**: Irene Beltrán de Heredia, Belén González-Gaya, Olatz Zuloaga, Itziar Garrido, T. Acosta, Néstor Etxebarría et al.
+
+**Journal**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2024.174062](https://doi.org/10.1016/j.scitotenv.2024.174062) · **Citations**: 24
+
+**Matched topics**: river, seasonal
+{: .label .label-green }
+
+> The concern on the fate and distribution of contaminants of emerging concern (CECs) is a burning topic due to their widespread occurrence and potential harmful effects. Particularly, antibiotics have received great attention due to their implications in antimicrobial resistance occurrence. The impact of wastewater treatment plants (WWTP) is remarkable, being one of the main pathways for the introduction of CECs into aquatic systems. The combination of novel analytical methodologies and risk a...
+
+---
+
+### Wastewater discharges and urban land cover dominate urban hydrology signals across England and Wales
+
+**Authors**: G. Coxon, H. McMillan, J. Bloomfield, L. Bolotin, J. Dean, Christa A. Kelleher et al.
+
+**Journal**: *Environmental Research Letters* · **DOI**: [10.1088/1748-9326/ad5bf2](https://doi.org/10.1088/1748-9326/ad5bf2) · **Citations**: 15
+
+**Matched topics**: hydrology, streamflow, water management
+{: .label .label-green }
+
+> Urbanisation is an important driver of changes in streamflow. These changes are not uniform across catchments due to the diverse nature of water sources, storage, and pathways in urban river systems. While land cover data are typically used in urban hydrology analyses, other characteristics of urban systems (such as water management practices) are poorly quantified which means that urbanisation impacts on streamflow are often difficult to detect and quantify. Here, we assess urban impacts on ...
+
+---
+
+### Unveiling the hidden dynamics of intermittent surface water: A remote sensing framework
+
+**Authors**: Zhen Xiao, Runkui Li, Mingjun Ding, Panli Cai, Jingxian Guo, Haiyu Fu et al.
+
+**Journal**: *Remote Sensing of Environment* · **DOI**: [10.1016/j.rse.2024.114285](https://doi.org/10.1016/j.rse.2024.114285) · **Citations**: 27
+
+**Matched topics**: surface water
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+## Statistics
+
+| Metric | Count |
+|:-------|------:|
+| Databases searched | 2 |
+| Topics searched | 16 |
+| Total papers fetched | 861 |
+| After deduplication | 659 |
+| After LLM relevance filtering | 50 |
+| Rejected (not relevant) | 609 |
+
+### Papers by journal
+
+| Journal | Papers |
+|:--------|-------:|
+| Agronomy | 3 |
+| Marine Pollution Bulletin | 3 |
+| Journal of Cleaner Production | 2 |
+| Water Resources Research | 2 |
+| Journal of Environmental Management | 2 |
+| CATENA | 2 |
+| Field Crops Research | 2 |
+| Plants | 1 |
+| Journal of Hydrology Regional Studies | 1 |
+| Precision Agriculture | 1 |
+| npj Climate and Atmospheric Science | 1 |
+| Water Research | 1 |
+| Scientometrics | 1 |
+| Nature Communications | 1 |
+| Journal of Hazardous Materials | 1 |
+| Nature | 1 |
+| Earth and Planetary Science Letters | 1 |
+| Hydrology and earth system sciences | 1 |
+| Earth system science data | 1 |
+| Scientific Reports | 1 |
+| Global Ecology and Biogeography | 1 |
+| Future Internet | 1 |
+| Journal of Rural Studies | 1 |
+| Journal of Environmental Economics and Management | 1 |
+| Advanced Engineering Informatics | 1 |
+| Journal of Earth System Science | 1 |
+| ADVANCES IN GEO-ENERGY RESEARCH | 1 |
+| ACS Sustainable Chemistry & Engineering | 1 |
+| AMBIO | 1 |
+| Nature Sustainability | 1 |
+| Atmospheric chemistry and physics | 1 |
+| Expert Systems with Applications | 1 |
+| The Science of The Total Environment | 1 |
+| Alpine Botany | 1 |
+| Environmental Research Letters | 1 |
+| Sustainable Development | 1 |
+| Remote Sensing of Environment | 1 |
+| Groundwater for Sustainable Development | 1 |
+| International Journal of Applied Earth Observation and Geoinformation | 1 |
+| Environmental Modelling & Software | 1 |
+| Tunnelling and Underground Space Technology | 1 |
+
+## Filtering Criteria
+
+**Topics**: hydrology, hydrologic model, river, runoff, streamflow, reservoir, water management, flood, drought, seasonal, land surface model, climate change, hydropower, surface water, irrigation, earth system model
+
+**Databases**: Semantic Scholar, OpenAlex
