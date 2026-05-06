@@ -101885,6 +101885,506 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1093/nsr/nwad329": {
+      "title": "Scientific objectives and payload configuration of the Chang'E-7 mission",
+      "journal": "National Science Review",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.watres.2023.121092": {
+      "title": "A hybrid deep learning approach to improve real-time effluent quality prediction in wastewater treatment plant",
+      "journal": "Water Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envpol.2023.123225": {
+      "title": "Addressing the challenges of combined sewer overflows",
+      "journal": "Environmental Pollution",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gsd.2023.101075": {
+      "title": "Climate change and water scarcity impacts on sustainability in semi-arid areas: Lessons from the South of Iran",
+      "journal": "Groundwater for Sustainable Development",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.xplc.2023.100782": {
+      "title": "OsNAC120 balances plant growth and drought tolerance by integrating GA and ABA signaling in rice",
+      "journal": "Plant Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.24136/oc.2023.032": {
+      "title": "Going green with artificial intelligence: The path of technological change towards the renewable energy transition",
+      "journal": "Oeconomia Copernicana",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/risa.14265": {
+      "title": "Dissecting climate change risk and financial market instability: Implications for ecological risk management",
+      "journal": "Risk Analysis",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-023-01335-8": {
+      "title": "Recent human-induced atmospheric drying across Europe unprecedented in the last 400 years",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.teadva.2023.200095": {
+      "title": "Global water quality indices: Development, implications, and limitations",
+      "journal": "Total Environment Advances",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1109/mgrs.2023.3343623": {
+      "title": "DeepBlue: Advanced convolutional neural network applications for ocean remote sensing",
+      "journal": "IEEE Geoscience and Remote Sensing Magazine",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.24294/nrcr.v6i2.3825": {
+      "title": "Artificial intelligence and machine learning applications in forest management and biodiversity conservation",
+      "journal": "Natural Resources Conservation and Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.sciaf.2023.e02053": {
+      "title": "A comparative study of Machine Learning and Deep Learning methods for flood forecasting in the Far-North region, Cameroon",
+      "journal": "Scientific African",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/s24010132": {
+      "title": "AI-Assisted Fatigue and Stamina Control for Performance Sports on IMU-Generated Multivariate Times Series Datasets",
+      "journal": "Sensors",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2023.119866": {
+      "title": "Optimisation and interpretation of machine and deep learning models for improved water quality management in Lake Loktak",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2023.169627": {
+      "title": "Occurrence characteristics and risk assessment of microplastics in agricultural soils in the loess hilly gully area of Yan' an, China",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.marpolbul.2023.115951": {
+      "title": "Predictions of heavy metal concentrations by physiochemical water quality parameters in coastal areas of Yangtze river estuary",
+      "journal": "Marine Pollution Bulletin",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rse.2023.113962": {
+      "title": "SAR-Transformer-based decomposition and geophysical interpretation of InSAR time-series deformations for the Hong Kong-Zhuhai-Macao Bridge",
+      "journal": "Remote Sensing of Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.apenergy.2023.122495": {
+      "title": "Power market models for the clean energy transition: State of the art and future research needs",
+      "journal": "Applied Energy",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00299-023-03090-x": {
+      "title": "Gene editing of ZmGA20ox3 improves plant architecture and drought tolerance in maize",
+      "journal": "Plant Cell Reports",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2023.169670": {
+      "title": "Illuminated fulvic acid stimulates denitrification and As(III) immobilization in flooded paddy soils via an enhanced biophotoelectrochemical pathway",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s42114-023-00821-2": {
+      "title": "Intelligent hydrogel on–off controller sensor for irrigation",
+      "journal": "Advanced Composites and Hybrid Materials",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2023.119879": {
+      "title": "Leveraging food waste for electricity: A low-carbon approach in energy sector for mitigating climate change and achieving net zero emission in Hong Kong (China)",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.watres.2023.121090": {
+      "title": "Wastewater surveillance for antibiotics and resistance genes in a river catchment: Spatiotemporal variations and the main drivers",
+      "journal": "Water Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.watres.2023.121076": {
+      "title": "A nationwide investigation on the characteristics and health risk of trace elements in surface water across China",
+      "journal": "Water Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.energy.2023.130184": {
+      "title": "TimeNet: Time2Vec attention-based CNN-BiGRU neural network for predicting production in shale and sandstone gas reservoirs",
+      "journal": "Energy",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.envsoft.2023.105939": {
+      "title": "Urban flood extent segmentation and evaluation from real-world surveillance camera images using deep convolutional neural network",
+      "journal": "Environmental Modelling & Software",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/wcc.874": {
+      "title": "Challenges in the attribution of river flood events",
+      "journal": "Wiley Interdisciplinary Reviews Climate Change",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.geogeo.2023.100250": {
+      "title": "Flood hazard zonation using GIS-based multi-parametric Analytical Hierarchy Process",
+      "journal": "Geosystems and Geoenvironment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2023.111482": {
+      "title": "Identification of ecologically sensitive zones affected by climate change and anthropogenic activities in Southwest China through a NDVI-based spatial-temporal model",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.biortech.2023.130258": {
+      "title": "Trends and social aspects in the management and conversion of agricultural residues into valuable resources: A comprehensive approach to counter environmental degradation, food security, and climate change",
+      "journal": "Bioresource Technology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/vzj2.20302": {
+      "title": "Effects of improved water retention by increased soil organic matter on the water balance of arable soils: A numerical analysis",
+      "journal": "Vadose Zone Journal",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-23-0186.1": {
+      "title": "QLB-NET: A Dense Soil Moisture and Freeze–Thaw Monitoring Network in the Qinghai Lake Basin on the Qinghai–Tibetan Plateau",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s41748-023-00362-0": {
+      "title": "Exploring Climate Change Effects on Drought Patterns in Bangladesh Using Bias-Corrected CMIP6 GCMs",
+      "journal": "Earth Systems and Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1093/plphys/kiad684": {
+      "title": "Rice kinase OsMRLK63 contributes to drought tolerance by regulating reactive oxygen species production",
+      "journal": "PLANT PHYSIOLOGY",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/informatics11010003": {
+      "title": "Integrating IOTA’s Tangle with the Internet of Things for Sustainable Agriculture: A Proof-of-Concept Study on Rice Cultivation",
+      "journal": "Informatics",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2023ea003170": {
+      "title": "A Framework to Identify Rock Glaciers and Model Mountain Permafrost in the Jhelum Basin, Kashmir Himalaya, India",
+      "journal": "Earth and Space Science",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/polym16010075": {
+      "title": "Evaluating Factors Impacting Polymer Flooding in Hydrocarbon Reservoirs: Laboratory and Field-Scale Applications",
+      "journal": "Polymers",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/feart.2023.1285766": {
+      "title": "The impacts of rainfall and soil moisture to flood hazards in a humid mountainous catchment: a modeling investigation",
+      "journal": "Frontiers in Earth Science",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2023.140392": {
+      "title": "Experimental study of the suppressing effect of the primary fire and thermal runaway propagation for electric bicycle batteries using flood cooling",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.chemosphere.2023.141087": {
+      "title": "Influence of climate change on wastewater treatment plants performances and energy costs in Apulia, south Italy",
+      "journal": "Chemosphere",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2023gl105948": {
+      "title": "Winds and Meltwater Together Lead to Southern Ocean Surface Cooling and Sea Ice Expansion",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2023gl104962": {
+      "title": "Are Plant Functional Types Fit for Purpose?",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2023jd039735": {
+      "title": "The Impact of Climatic Conditions, Human Activities, and Catchment Characteristics on the Propagation From Meteorological to Agricultural and Hydrological Droughts in China",
+      "journal": "Journal of Geophysical Research Atmospheres",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2023.108606": {
+      "title": "The role of changing land use and irrigation scheduling in groundwater depletion mitigation in a humid region",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/gcb.17103": {
+      "title": "Active around the year: Butterflies and moths adapt their life cycles to a warming world",
+      "journal": "Global Change Biology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jrmge.2023.09.025": {
+      "title": "Centrifuge modeling of unreinforced and multi-row stabilizing piles reinforced landslides subjected to reservoir water level fluctuation",
+      "journal": "Journal of Rock Mechanics and Geotechnical Engineering",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.30574/wjarr.2023.20.3.2304": {
+      "title": "A conceptual procurement model for sustainability and climate change mitigation in the oil, gas, and energy sectors",
+      "journal": "World Journal of Advanced Research and Reviews",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-023-50314-x": {
+      "title": "Climate change increases the number of landslides at the juncture of the Alpine, Pannonian and Mediterranean regions",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhazmat.2023.133407": {
+      "title": "Environmental fate and health risks of polycyclic aromatic hydrocarbons in the Yangtze River Delta Urban Agglomeration during the 21st century",
+      "journal": "Journal of Hazardous Materials",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/ecog.06919": {
+      "title": "Present status, future trends, and control strategies of invasive alien plants in China affected by human activities and climate change",
+      "journal": "Ecography",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2023-W52"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -105601,8 +106101,8 @@
     },
     "weekly-2023-W52": {
       "type": "weekly",
-      "timestamp": "2026-05-06T11:48:36.679440",
-      "date": "2023-01-01",
+      "timestamp": "2026-05-06T12:59:10.140965",
+      "date": "2023-12-31",
       "topics": [
         "hydrology",
         "hydrologic model",
