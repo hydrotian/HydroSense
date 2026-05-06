@@ -103885,6 +103885,506 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41586-023-06879-8": {
+      "title": "Rapid groundwater decline and some cases of recovery in aquifers globally",
+      "journal": "Nature",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/17538947.2024.2308734": {
+      "title": "Vertical accuracy assessment of freely available global DEMs (FABDEM, Copernicus DEM, NASADEM, AW3D30 and SRTM) in flood-prone environments",
+      "journal": "International Journal of Digital Earth",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jece.2024.111996": {
+      "title": "Review on biofuel production: Sustainable development scenario, environment, and climate change perspectives − A sustainable approach",
+      "journal": "Journal of environmental chemical engineering",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-023-44562-8": {
+      "title": "Rising rainfall intensity induces spatially divergent hydrological changes within a large river basin",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rineng.2024.101822": {
+      "title": "An integrated framework for sustainable and efficient building maintenance operations aligning with climate change, SDGs, and emerging technology",
+      "journal": "Results in Engineering",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-44982-0": {
+      "title": "Recent intensified erosion and massive sediment deposition in Tibetan Plateau rivers",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhazmat.2024.133623": {
+      "title": "The processes and transport fluxes of land-based macroplastics and microplastics entering the ocean via rivers",
+      "journal": "Journal of Hazardous Materials",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2024.120113": {
+      "title": "Contributions of climate change and urbanization to urban flood hazard changes in China's 293 major cities since 1980",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-44942-8": {
+      "title": "Toward grouped-reservoir computing: organic neuromorphic vertical transistor with distributed reservoir states for efficient recognition and prediction",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecoinf.2024.102493": {
+      "title": "Quantifying the direct and indirect effects of terrain, climate and human activity on the spatial pattern of kNDVI-based vegetation growth: A case study from the Minjiang River Basin, Southeast China",
+      "journal": "Ecological Informatics",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acsnano.3c08648": {
+      "title": "Enhancing Solar-Driven Water Purification by Multiscale Biomimetic Evaporators Featuring Lamellar MoS<sub>2</sub>/GO Heterojunctions",
+      "journal": "ACS Nano",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.eneco.2024.107321": {
+      "title": "Technological innovation and its influence on energy risk management: Unpacking China’s energy consumption structure optimisation amidst climate change",
+      "journal": "Energy Economics",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.watres.2024.121187": {
+      "title": "Impact of cascade reservoirs on nutrients transported downstream and regulation method based on hydraulic retention time",
+      "journal": "Water Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-024-52617-z": {
+      "title": "Prediction of atmospheric PM2.5 level by machine learning techniques in Isfahan, Iran",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s13201-023-02084-0": {
+      "title": "Hydrochemical assessment of groundwater using multivariate statistical methods and water quality indices (WQIs)",
+      "journal": "Applied Water Science",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/pce.14834": {
+      "title": "The AP2/ERF transcription factor MdDREB2A regulates nitrogen utilisation and sucrose transport under drought stress.",
+      "journal": "Plant, Cell and Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.2166/ws.2024.008": {
+      "title": "Implications of climate change on water quality and sanitation in climate hotspot locations: A case study in Indonesia",
+      "journal": "Water Science & Technology Water Supply",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-024-52481-x": {
+      "title": "Extreme fire weather in Chile driven by climate change and El Niño–Southern Oscillation (ENSO)",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00170-024-13023-x": {
+      "title": "Machine learning for multi-dimensional performance optimization and predictive modelling of nanopowder-mixed electric discharge machining (EDM)",
+      "journal": "The International Journal of Advanced Manufacturing Technology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.comcom.2024.01.032": {
+      "title": "Semantic segmentation of deep learning remote sensing images based on band combination principle: Application in urban planning and land use",
+      "journal": "Computer Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/sciadv.adj4289": {
+      "title": "Increasing prevalence of hot drought across western North America since the 16th century",
+      "journal": "Science Advances",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11104-024-06499-9": {
+      "title": "Comprehensive journey from past to present to future about seed priming with hydrogen peroxide and hydrogen sulfide concerning drought, temperature, UV and ozone stresses- a review",
+      "journal": "Plant and Soil",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s41748-023-00367-9": {
+      "title": "Hydrological Responses to Climate Change and Land-Use Dynamics in Central Asia's Semi-arid Regions: An SWAT Model Analysis of the Tuul River Basin",
+      "journal": "Earth Systems and Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.mex.2024.102582": {
+      "title": "Analytical methods for determining environmental contaminants of concern in water and wastewater",
+      "journal": "MethodsX",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolecon.2023.108103": {
+      "title": "Remaining Loyal to Our Soil: A Prospective Integrated Assessment of Soil Erosion on Global Food Security",
+      "journal": "Ecological Economics",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41893-023-01260-z": {
+      "title": "Hydropower expansion in eco-sensitive river basins under global energy-economic change",
+      "journal": "Nature Sustainability",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-023-01903-1": {
+      "title": "Towards an increasingly biased view on Arctic change",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41612-024-00569-6": {
+      "title": "Record-shattering 2023 Spring heatwave in western Mediterranean amplified by long-term drought",
+      "journal": "npj Climate and Atmospheric Science",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/joc.8370": {
+      "title": "Spatiotemporal variability and trends of droughts in the Mediterranean coastal region of Türkiye",
+      "journal": "International Journal of Climatology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.130762": {
+      "title": "Improving rainfall-runoff modeling in the Mekong river basin using bias-corrected satellite precipitation products by convolutional neural networks",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2024.140889": {
+      "title": "Assessing intra and interannual variability of water quality in the Sundarban mangrove dominated estuarine ecosystem using remote sensing and hybrid machine learning models",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.130668": {
+      "title": "The effects of reservoir storage and water use on the upstream–downstream drought propagation",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/rs16030454": {
+      "title": "Modeling and Estimating the Land Surface Temperature (LST) Using Remote Sensing and Machine Learning (Case Study: Yazd, Iran)",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-44900-4": {
+      "title": "Connectome-based reservoir computing with the conn2res toolbox",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2024.140852": {
+      "title": "A hybrid PV/wind/battery energy system to assist a run-of-river micro-hydropower for clean electrification and fuelling hydrogen mobility for young population in a rural Moroccan site",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gsd.2024.101100": {
+      "title": "Downscaled GRACE/GRACE-FO observations for spatial and temporal monitoring of groundwater storage variations at the local scale using machine learning",
+      "journal": "Groundwater for Sustainable Development",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10924-023-03153-w": {
+      "title": "Assessment of a Novel Xanthan Gum-Based Composite for Oil Recovery Improvement at Reservoir Conditions; Assisted with Simulation and Economic Studies",
+      "journal": "Journal of Polymers and the Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.watres.2024.121216": {
+      "title": "Economic risks hidden in local water pollution and global markets: A retrospective analysis (1995–2010) and future perspectives on sustainable development goal 6",
+      "journal": "Water Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-44920-0": {
+      "title": "Greenhouse gas emissions from US irrigation pumping and implications for climate-smart irrigation policy",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scs.2024.105237": {
+      "title": "Seasonal influences on preferences for urban blue-green spaces: Integrating land surface temperature into the assessment of cultural ecosystem service value",
+      "journal": "Sustainable Cities and Society",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/bg-21-473-2024": {
+      "title": "Reviews and syntheses: Remotely sensed optical time series for monitoring vegetation productivity",
+      "journal": "Biogeosciences",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhazmat.2024.133610": {
+      "title": "Sustainable water management in rice cultivation reduces arsenic contamination, increases productivity, microbial molecular response, and profitability",
+      "journal": "Journal of Hazardous Materials",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/adfm.202315211": {
+      "title": "Shooting Three Birds with One Stone: Device Construction and Thermal Management for Simultaneous Photothermal Conversion Water Evaporation, Thermoelectric Generation and Photocatalytic Degradation",
+      "journal": "Advanced Functional Materials",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2024.111637": {
+      "title": "Trade-offs and synergies of ecosystem services in karst multi-mountainous cities",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00425-024-04336-y": {
+      "title": "Overexpression of ZmSUS1 increased drought resistance of maize (Zea mays L.) by regulating sucrose metabolism and soluble sugar content",
+      "journal": "Planta",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s13157-023-01769-1": {
+      "title": "Groundwater Abstraction has Caused Extensive Ecological Damage to the Doñana World Heritage Site, Spain",
+      "journal": "Wetlands",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41590-023-01741-5": {
+      "title": "Bispecific antibodies promote natural killer cell-mediated elimination of HIV-1 reservoir cells",
+      "journal": "Nature Immunology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2023gl106422": {
+      "title": "Long‐Term Landslide Evolution and Restoration After the Wenchuan Earthquake Revealed by Time‐Series Remote Sensing Images",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jclepro.2024.140938": {
+      "title": "Revealing the drivers of surface ozone pollution by explainable machine learning and satellite observations in Hangzhou Bay, China",
+      "journal": "Journal of Cleaner Production",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-44888-x": {
+      "title": "Revealing the hidden carbon in forested wetland soils",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W04"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -108845,6 +109345,29 @@
       "type": "weekly",
       "timestamp": "2026-05-06T13:03:56.261393",
       "date": "2024-01-21",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2024-W04": {
+      "type": "weekly",
+      "timestamp": "2026-05-06T13:05:18.574219",
+      "date": "2024-01-28",
       "topics": [
         "hydrology",
         "hydrologic model",
