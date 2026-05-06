@@ -113885,6 +113885,506 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/essd-16-2543-2024": {
+      "title": "Global nitrous oxide budget (1980–2020)",
+      "journal": "Earth system science data",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41893-024-01369-9": {
+      "title": "Impact of groundwater nitrogen legacy on water quality",
+      "journal": "Nature Sustainability",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-024-49333-7": {
+      "title": "Supercooled erythritol for high-performance seasonal thermal energy storage",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.gr.2024.06.001": {
+      "title": "Characterizing coal gas reservoirs: A multiparametric evaluation based on geological and geophysical methods",
+      "journal": "Gondwana Research",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acsestwater.4c00187": {
+      "title": "Surface Modification of Graphene Oxide for Fast Removal of Per- and Polyfluoroalkyl Substances (PFAS) Mixtures from River Water",
+      "journal": "ACS ES&T Water",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-024-00248-z": {
+      "title": "Impact of heteroaggregation between microplastics and algae on particle vertical transport",
+      "journal": "Nature Water",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1162/rest_a_01468": {
+      "title": "Misperceived Social Norms and Willingness to Act Against Climate Change",
+      "journal": "The Review of Economics and Statistics",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-024-63908-w": {
+      "title": "Integrated metaheuristic algorithms with extreme learning machine models for river streamflow prediction",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41893-024-01376-w": {
+      "title": "Ending groundwater overdraft without affecting food security",
+      "journal": "Nature Sustainability",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-024-63585-9": {
+      "title": "Inclusive study of peanut shells derived activated carbon as an adsorbent for removal of lead and methylene blue from water",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131494": {
+      "title": "A hybrid model coupling process-driven and data-driven models for improved real-time flood forecasting",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.oneear.2024.05.005": {
+      "title": "Urbanization exacerbates continental- to regional-scale warming",
+      "journal": "One Earth",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s13705-024-00461-4": {
+      "title": "The circular bioeconomy: a driver for system integration",
+      "journal": "Energy Sustainability and Society",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2024.112212": {
+      "title": "Impact of land-use change on ecological vulnerability in the Yellow River Basin based on a complex network model",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.plaphy.2024.108839": {
+      "title": "Functionality of arbuscular mycorrhizal fungi varies across different growth stages of maize under drought conditions",
+      "journal": "Plant Physiology and Biochemistry",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/exsy.13654": {
+      "title": "When geoscience meets generative <scp>AI</scp> and large language models: Foundations, trends, and future challenges",
+      "journal": "Expert Systems",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.46690/capi.2024.08.02": {
+      "title": "Experimental study on production characteristics and enhanced oil recovery during imbibition and huff-n-puff injection in shale reservoir",
+      "journal": "Capillarity",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2024.121295": {
+      "title": "Forecasting of compound ocean-fluvial floods using machine learning",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131481": {
+      "title": "Numerical simulation study on the effect of underground drainage pipe network in typical urban flood",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-024-63296-1": {
+      "title": "Assessment of drinking water quality using Water Quality Index and synthetic pollution index in urban areas of mega city Lahore: a GIS-based approach",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-28-2531-2024": {
+      "title": "Quantifying cascading uncertainty in compound flood modeling with linked process-based and machine learning models",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s13201-024-02214-2": {
+      "title": "Water strategies and management: current paths to sustainable water use",
+      "journal": "Applied Water Science",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.31893/multirev.2024spe012": {
+      "title": "Education's role in fostering environmental awareness and advancing sustainable development within a holistic framework",
+      "journal": "Multidisciplinary Reviews",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.30574/gjeta.2024.19.3.0099": {
+      "title": "The crucial role of renewable energy in achieving the sustainable development goals for cleaner energy",
+      "journal": "Global Journal of Engineering and Technology Advances",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131508": {
+      "title": "Integrating deep learning, satellite image processing, and spatial-temporal analysis for urban flood prediction",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-28-2483-2024": {
+      "title": "The influence of human activities on streamflow reductions during the megadrought in central Chile",
+      "journal": "Hydrology and earth system sciences",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131475": {
+      "title": "A novel AI-based model for real-time flooding image recognition using super-resolution generative adversarial network",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131493": {
+      "title": "A novel explainable PSO-XGBoost model for regional flood frequency analysis at a national scale: Exploring spatial heterogeneity in flood drivers",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/fenvs.2024.1388606": {
+      "title": "Removal of microplastics from agricultural runoff using biochar: a column feasibility study",
+      "journal": "Frontiers in Environmental Science",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131542": {
+      "title": "Effects of hydraulic conductivity on simulating groundwater–land surface interactions over a typical endorheic river basin",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2024.121430": {
+      "title": "Wastewater treatment process enhancement based on multi-objective optimization and interpretable machine learning",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jconhyd.2024.104385": {
+      "title": "Development of a multi-objective reservoir operation model for water quality-quantity management",
+      "journal": "Journal of Contaminant Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/19942060.2024.2363246": {
+      "title": "Numerical investigation of mesoscale multiphase mass transport mechanism in fibrous porous media",
+      "journal": "Engineering Applications of Computational Fluid Mechanics",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rineng.2024.102417": {
+      "title": "Assessment of CMIP6 GCMs for selecting a suitable climate model for precipitation projections in Southern Thailand",
+      "journal": "Results in Engineering",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.48550/arXiv.2406.08632": {
+      "title": "Coupled Ocean-Atmosphere Dynamics in a Machine Learning Earth System Model",
+      "journal": "arXiv.org",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10346-024-02287-9": {
+      "title": "Regional-scale spatiotemporal landslide probability assessment through machine learning and potential applications for operational warning systems: a case study in Kvam (Norway)",
+      "journal": "Landslides",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2024.108919": {
+      "title": "Assessing the impacts of climate change on agriculture and water systems via coupled human-hydrological modeling",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.rhisph.2024.100922": {
+      "title": "Physiological, hormonal and molecular dynamics of root system architectural response to drought stress signaling in crops",
+      "journal": "Rhizosphere",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2024.112227": {
+      "title": "Response of the soil bacterial community to seasonal variations and land reclamation in a desert grassland",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2024.174044": {
+      "title": "Improving flood and drought management in transboundary Upper Jhelum Basin-South Asia",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.energy.2024.132045": {
+      "title": "Analysis of reservoir permeability evolution and influencing factors during CO2-Enhanced coalbed methane recovery",
+      "journal": "Energy",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.cej.2024.152944": {
+      "title": "Water management and performance enhancement in proton exchange membrane fuel cell through metal foam flow field with hierarchical pore structure",
+      "journal": "Chemical Engineering Journal",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1021/acs.jafc.4c02472": {
+      "title": "Multiomics Analyses Reveal <i>MsC3H29</i> Positively Regulates Flavonoid Biosynthesis to Improve Drought Resistance of Autotetraploid Cultivated Alfalfa (<i>Medicago sativa</i> L.)",
+      "journal": "Journal of Agricultural and Food Chemistry",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1177/0958305x241258799": {
+      "title": "Digitalization's role in shaping climate change, renewable energy, and technological innovation for achieving sustainable development in top Asian countries",
+      "journal": "Energy & Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2024.131482": {
+      "title": "A novel strategy for flood flow Prediction: Integrating Spatio-Temporal information through a Two-Dimensional hidden layer structure",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.scitotenv.2024.173857": {
+      "title": "Spatiotemporal distribution, ecological risk assessment, and human health implications of currently used pesticide (CUP) residues in the surface water of Feni River, Bangladesh",
+      "journal": "The Science of The Total Environment",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s13762-024-05788-1": {
+      "title": "Mangroves in Egypt and the Middle East: current status, threats, and opportunities",
+      "journal": "International Journal of Environmental Science and Technology",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2314036121": {
+      "title": "Changes in above- versus belowground biomass distribution in permafrost regions in response to climate warming",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1108/ijaim-10-2023-0268": {
+      "title": "Breaking barriers: CEOs STEM educational background and corporate climate change disclosure",
+      "journal": "International Journal of Accounting and Information Management",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-16-2741-2024": {
+      "title": "LamaH-Ice: LArge-SaMple DAta for Hydrology and Environmental Sciences for Iceland",
+      "journal": "Earth System Science Data",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "weekly-2024-W24"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -119305,6 +119805,29 @@
       "type": "weekly",
       "timestamp": "2026-05-06T13:32:13.896475",
       "date": "2024-06-09",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
+    },
+    "weekly-2024-W24": {
+      "type": "weekly",
+      "timestamp": "2026-05-06T13:33:39.101404",
+      "date": "2024-06-16",
       "topics": [
         "hydrology",
         "hydrologic model",
