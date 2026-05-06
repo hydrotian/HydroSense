@@ -66355,6 +66355,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-70952-9": {
+      "title": "Desert dust exerts twice the longwave radiative heating estimated by climate models",
+      "journal": "Nature Communications",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "daily-2026-04-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0183.1": {
+      "title": "Hacking Km-Scale Models: A Participative Model for Climate Information",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "daily-2026-04-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02624-x": {
+      "title": "Artificial intelligence to support cross-disciplinary climate change research",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-05-06",
+      "sources": [
+        "daily-2026-04-28"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -69625,6 +69655,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-04-28": {
+      "type": "daily",
+      "timestamp": "2026-05-06T10:08:26.541511",
+      "date": "2026-04-28",
+      "papers_found": 3
     }
   }
 }
