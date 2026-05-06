@@ -1,0 +1,772 @@
+---
+layout: default
+title: "第46周（11月14日 - 11月20日），50篇"
+nav_order: 35
+nav_exclude: true
+lang: zh
+lang_link: /2022/november/2022-11-20-weekly-review
+date: 2022-11-20
+categories: [weekly-zh, 2022, november]
+tags: [hydrology, literature-review, research]
+paper_count: 50
+highlight: "热门论文：Climate Change and Land（567次引用）"
+---
+
+# 每周文献综述
+{: .no_toc }
+
+**第46周** · 2022年11月14日–11月20日
+{: .text-grey-dk-000 }
+
+**50** 篇相关论文，涵盖 **5** 个主题
+{: .fs-5 .fw-300 }
+
+## 摘要总结
+
+本周综述涵盖50篇论文，横跨5个主题。引用次数最高的论文研究了Climate Change and Land，被引567次。主要研究领域包括气候变化与陆地水储量、洪水风险评估与极端降水、水文预测中的机器学习与人工智能。
+
+---
+
+## 目录
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## 气候变化与陆地水储量
+
+本周有25篇论文探讨气候变化与陆地水动态的交叉领域。研究涉及水储量变化、干旱机制与预测、植被-水文相互作用以及地球系统模型不确定性。主要贡献包括大尺度水储量趋势、陆气耦合对干旱发生的影响以及气候变化情景下干旱特征表征方法。
+
+### Climate Change and Land
+
+**作者**: V. Masson-Delmotte, Panmao Zhai, H. Pörtner, D. Roberts, S. Connors, R. V. Diemen et al.
+
+**期刊**: ** · **DOI**: [10.1017/9781009157988](https://doi.org/10.1017/9781009157988) · **被引次数**: 567
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> The Intergovernmental Panel on Climate Change (IPCC) is the leading international body for assessing the science related to climate change. It provides policymakers with regular assessments of the scientific basis of human-induced climate change, its impacts and future risks, and options for adaptation and mitigation. This IPCC Special Report on Climate Change and Land (SRCCL) is the most comprehensive and up-to-date scientific assessment of the multiple interactions between climate change an...
+
+---
+
+### Global crop yields can be lifted by timely adaptation of growing periods to climate change
+
+**作者**: Sara Minoli, Jonas Jägermeyr, Senthold Asseng, Anton Urfels, Christoph Müller
+
+**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-022-34411-5](https://doi.org/10.1038/s41467-022-34411-5) · **被引次数**: 232
+
+**匹配主题**: hydrology, hydrologic model, climate change
+{: .label .label-green }
+
+> fertilization effect. Despite remaining uncertainties, crop growing periods adaptation require consideration in climate change impact assessments.
+
+---
+
+### Climate change adaptation with energy resilience in energy districts—A state-of-the-art review
+
+**作者**: Yuekuan Zhou
+
+**期刊**: *Energy and Buildings* · **DOI**: [10.1016/j.enbuild.2022.112649](https://doi.org/10.1016/j.enbuild.2022.112649) · **被引次数**: 132
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Assessing Responses and Impacts of Solar climate intervention on the Earth system with stratospheric aerosol injection (ARISE-SAI): protocol and initial results from the first simulations
+
+**作者**: Jadwiga H. Richter, Daniele Visioni, Douglas G. MacMartin, David A. Bailey, Nan Rosenbloom, Brian Dobbins et al.
+
+**期刊**: *Geoscientific model development* · **DOI**: [10.5194/gmd-15-8221-2022](https://doi.org/10.5194/gmd-15-8221-2022) · **被引次数**: 106
+
+**匹配主题**: earth system model
+{: .label .label-green }
+
+> Abstract. Solar climate intervention using stratospheric aerosol injection is a proposed method of reducing global mean temperatures to reduce the worst consequences of climate change. A detailed assessment of responses and impacts of such an intervention is needed with multiple global models to support societal decisions regarding the use of these approaches to help address climate change. We present a new modeling protocol aimed at simulating a plausible deployment of stratospheric aerosol ...
+
+---
+
+### Variations in <i>OsSPL10</i> confer drought tolerance by directly regulating <i>OsNAC2</i> expression and ROS production in rice
+
+**作者**: Yingxiu Li, Shichen Han, Xingming Sun, Najeeb Ullah Khan, Qun Zhong, Zhanying Zhang et al.
+
+**期刊**: *Journal of Integrative Plant Biology* · **DOI**: [10.1111/jipb.13414](https://doi.org/10.1111/jipb.13414) · **被引次数**: 105
+
+**匹配主题**: drought
+{: .label .label-green }
+
+> could be a valuable haplotype for the genetic improvement of drought tolerance in rice.
+
+---
+
+### The impact of green digital finance on energy resources and climate change mitigation in carbon neutrality: Case of 60 economies
+
+**作者**: Huaying Yu, Wei Wei, Jinhe Li, Ying Li
+
+**期刊**: *Resources Policy* · **DOI**: [10.1016/j.resourpol.2022.103116](https://doi.org/10.1016/j.resourpol.2022.103116) · **被引次数**: 105
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Benefits of subsidence control for coastal flooding in China
+
+**作者**: Jiayi Fang, Robert J. Nicholls, Sally Brown, Daniël Lincke, Jochen Hinkel, Athanasios T. Vafeidis et al.
+
+**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-022-34525-w](https://doi.org/10.1038/s41467-022-34525-w) · **被引次数**: 83
+
+**匹配主题**: flood
+{: .label .label-green }
+
+> Land subsidence is impacting large populations in coastal Asia via relative sea-level rise (RSLR). Here we assesses these risks and possible response strategies for China, including estimates of present rates of RSLR, flood exposure and risk to 2050. In 2015, each Chinese coastal resident experienced on average RSLR of 11 to 20 mm/yr. This is 3 to 5 times higher than climate-induced SLR, reflecting that people are concentrated in subsiding locations. In 2050, assuming these subsidence rates c...
+
+---
+
+### Vulnerability assessment of drought in India: Insights from meteorological, hydrological, agricultural and socio-economic perspectives
+
+**作者**: Asish Saha, Subodh Chandra Pal, Indrajit Chowdhuri, Paramita Roy, Rabin Chakrabortty, Manisa Shit
+
+**期刊**: *Gondwana Research* · **DOI**: [10.1016/j.gr.2022.11.006](https://doi.org/10.1016/j.gr.2022.11.006) · **被引次数**: 78
+
+**匹配主题**: hydrologic model, drought
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Single- and multi-year ENSO events controlled by pantropical climate interactions
+
+**作者**: Ji‐Won Kim, Jin‐Yi Yu
+
+**期刊**: *npj Climate and Atmospheric Science* · **DOI**: [10.1038/s41612-022-00305-y](https://doi.org/10.1038/s41612-022-00305-y) · **被引次数**: 79
+
+**匹配主题**: earth system model
+{: .label .label-green }
+
+> Abstract To better understand the diverse temporal evolutions of observed El Niño‒Southern Oscillation (ENSO) events, which are characterized as single- or multi-year, this study examines similar events in a 2200-year-long integration of Community Earth System Model, version 1. Results show that selective activation of inter- and intra-basin climate interactions (together, pantropical climate interactions) controls ENSO’s evolution pattern. When ENSO preferentially activates inter-basin inter...
+
+---
+
+### Quantifying the impacts of climate change on wheat phenology, yield, and evapotranspiration under irrigated and rainfed conditions
+
+**作者**: Wajid Ishaque, Raheel Osman, Barira Shoukat Hafiza, Saadatullah Malghani, Ben Y. Zhao, Ming Xu et al.
+
+**期刊**: *Agricultural Water Management* · **DOI**: [10.1016/j.agwat.2022.108017](https://doi.org/10.1016/j.agwat.2022.108017) · **被引次数**: 71
+
+**匹配主题**: climate change, irrigation
+{: .label .label-green }
+
+> Global climate change associated with increasing temperature and unreliable rainfall events will have consequences for crop production. Therefore, strategizing crop management gained the attention of crop scientists to curtail the adverse impacts of climate change on crop production. However, the projected effects of climate change on wheat may vary in different cropping systems as wheat production is reported to be significantly impacted by future climate change in major cropping systems wor...
+
+---
+
+### Early Drought Stress Warning in Plants: Color Pictures of Photosystem II Photochemistry
+
+**作者**: Michael Moustakas, Ilektra Sperdouli, Julietta Moustaka
+
+**期刊**: *Climate* · **DOI**: [10.3390/cli10110179](https://doi.org/10.3390/cli10110179) · **被引次数**: 72
+
+**匹配主题**: drought
+{: .label .label-green }
+
+> Drought, the major limiting factor for plant growth and crop productivity, affecting several physiological and biochemical processes, is expected to increase in duration, intensity, and frequency as a consequence of climate change. Plants have developed several approaches to either avoid or tolerate water deficit. Plants as a response to drought stress (DS), close stomata, reducing carbon dioxide (CO2) entry in the leaf, thus decreasing photosynthesis which results in reduced synthesis of ess...
+
+---
+
+### Influences of MgO and PVA Fiber on the Abrasion and Cracking Resistance, Pore Structure and Fractal Features of Hydraulic Concrete
+
+**作者**: Lei Wang, Xiaoman Zeng, Yang Li, Huamei Yang, Shengwen Tang
+
+**期刊**: *Fractal and Fractional* · **DOI**: [10.3390/fractalfract6110674](https://doi.org/10.3390/fractalfract6110674) · **被引次数**: 72
+
+**匹配主题**: hydropower
+{: .label .label-green }
+
+> Abrasion resistance and cracking resistance are two important properties determining the normal operation and reliability of hydropower projects that are subjected to erosion and abrasive action. In this study, polyvinyl alcohol (abbreviated as PVA) fiber and magnesium oxide expansive agents (abbreviated as MgO) were used together to solve the problems of cracking and abrasive damage. The effects of PVA fiber and MgO on the mechanical property, abrasion and cracking resistance, pore structure...
+
+---
+
+### Global fjords as transitory reservoirs of labile organic carbon modulated by organo-mineral interactions
+
+**作者**: Xingqian Cui, Alfonso Mucci, Thomas S. Bianchi, Ding He, Derrick Vaughn, Elizabeth K. Williams et al.
+
+**期刊**: *Science Advances* · **DOI**: [10.1126/sciadv.add0610](https://doi.org/10.1126/sciadv.add0610) · **被引次数**: 68
+
+**匹配主题**: reservoir
+{: .label .label-green }
+
+> decrease during glacial times, making fjords critical actors in dampening glacial-interglacial climate fluctuations through negative carbon cycling loops.
+
+---
+
+### Paddy rice methane emissions across Monsoon Asia
+
+**作者**: Zutao Ouyang, Robert B. Jackson, Gavin McNicol, Etienne Fluet‐Chouinard, Benjamin R. K. Runkle, Dario Papale et al.
+
+**期刊**: *Remote Sensing of Environment* · **DOI**: [10.1016/j.rse.2022.113335](https://doi.org/10.1016/j.rse.2022.113335) · **被引次数**: 67
+
+**匹配主题**: land surface model
+{: .label .label-green }
+
+> Although rice cultivation is one of the most important agricultural sources of methane (CH4) and contributes ∼8% of total global anthropogenic emissions, large discrepancies remain among estimates of global CH4 emissions from rice cultivation (ranging from 18 to 115 Tg CH4 yr−1) due to a lack of observational constraints. The spatial distribution of paddy-rice emissions has been assessed at regional-to-global scales by bottom-up inventories and land surface models over coarse spatial resoluti...
+
+---
+
+### Extreme harmful algal blooms, climate change, and potential risk of eutrophication in Patagonian fjords: Insights from an exceptional Heterosigma akashiwo fish-killing event
+
+**作者**: Jorge I. Mardones, Javier Paredes-Mella, Ana Flores-Leñero, Kyoko Yarimizu, Marcos Godoy, Osvaldo Artal et al.
+
+**期刊**: *Progress In Oceanography* · **DOI**: [10.1016/j.pocean.2022.102921](https://doi.org/10.1016/j.pocean.2022.102921) · **被引次数**: 67
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Reversible changes in structure and function of photosynthetic apparatus of pea (<i>Pisum sativum</i>) leaves under drought stress
+
+**作者**: Jayendra Pandey, Elsinraju Devadasu, Deepak Saini, Kunal Dhokne, Sureshbabu Marriboina, Agepati S. Raghavendra et al.
+
+**期刊**: *The Plant Journal* · **DOI**: [10.1111/tpj.16034](https://doi.org/10.1111/tpj.16034) · **被引次数**: 66
+
+**匹配主题**: drought
+{: .label .label-green }
+
+> The effects of drought on photosynthesis have been extensively studied, whereas those on thylakoid organization are limited. We observed a significant decline in gas exchange parameters of pea (Pisum sativum) leaves under progressive drought stress. Chl a fluorescence kinetics revealed the reduction of photochemical efficiency of photosystem (PS)II and PSI. The non-photochemical quenching (NPQ) and the levels of PSII subunit PSBS increased. Furthermore, the light-harvesting complexes (LHCs) a...
+
+---
+
+### Melatonin in Micro-Tom Tomato: Improved Drought Tolerance via the Regulation of the Photosynthetic Apparatus, Membrane Stability, Osmoprotectants, and Root System
+
+**作者**: Naveed Ul Mushtaq, Shahid Iqbal, Faisal Hayat, Abdul Raziq, Asma Ayaz, Wajid Zaman
+
+**期刊**: *Life* · **DOI**: [10.3390/life12111922](https://doi.org/10.3390/life12111922) · **被引次数**: 65
+
+**匹配主题**: drought
+{: .label .label-green }
+
+> levels in the drought-stress environment. Additionally, melatonin application enhanced the antioxidant defense enzymes and antioxidant-stress-resistance-related gene (SlCAT1, SlAPX, SlGR, SlDHAR, SlPOD, and SOD) transcript levels in plants. These outcomes imply that the impacts of melatonin treatment on improving drought resistance could be ascribed to the mitigation of photosynthetic function inhibition, the enhancement of the water status, and the alleviation of oxidative stress in tomato p...
+
+---
+
+### Seed priming with Calcium oxide nanoparticles improves germination, biomass, antioxidant defence and yield traits of canola plants under drought stress
+
+**作者**: Muhammad Waqas Mazhar, Muhammad Ishtiaq, Mehwish Maqbool, Raheel Akram
+
+**期刊**: *South African Journal of Botany* · **DOI**: [10.1016/j.sajb.2022.11.017](https://doi.org/10.1016/j.sajb.2022.11.017) · **被引次数**: 58
+
+**匹配主题**: drought
+{: .label .label-green }
+
+> Recent advances in calcium signalling have proved that calcium plays a key role in mitigating abiotic stresses and strengthening the internal defence of plants. In the present research, calcium was imparted through seed nano-priming with calcium oxide nanoparticles (CaONPs) at concentrations of 25, 50, 75, and 100 ppm compared to control (0 ppm) under PEG-induced drought in the canola plants. During the germination experiment, seedlings were given drought conditions simulated by PEG-6000 trea...
+
+---
+
+### Examining the heterogeneity of financial development in the energy-environment nexus in the era of climate change: Novel evidence around the world
+
+**作者**: Hai Hong Trinh, Gagan Deep Sharma, Aviral Kumar Tiwari, Diem Thi Hong Vo
+
+**期刊**: *Energy Economics* · **DOI**: [10.1016/j.eneco.2022.106415](https://doi.org/10.1016/j.eneco.2022.106415) · **被引次数**: 58
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Antarctica's vegetation in a changing climate
+
+**作者**: Claudia Colesie, Charlotte V. Walshaw, Leopoldo G. Sancho, Matthew P. Davey, Andrew N. Gray
+
+**期刊**: *Wiley Interdisciplinary Reviews Climate Change* · **DOI**: [10.1002/wcc.810](https://doi.org/10.1002/wcc.810) · **被引次数**: 57
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract Antarctica plays a central role in regulating global climatic and oceanographic patterns and is an integral part of global climate change discussions. The functioning of Antarctica's terrestrial ecosystems is dominated by poikilohydric cryptogams such as lichens, bryophytes, eukaryotic algae, and cyanobacteria and there are only two native species of vascular plants. Antarctica's vegetation is highly adapted to the region's extreme conditions but, at the same time, it is potentially ...
+
+---
+
+### Effect difference of climate change and urbanization on extreme precipitation over the Guangdong-Hong Kong-Macao Greater Bay Area
+
+**作者**: Zifeng Deng, Zhaoli Wang, Xushu Wu, Chengguang Lai, Weiqin Liu
+
+**期刊**: *Atmospheric Research* · **DOI**: [10.1016/j.atmosres.2022.106514](https://doi.org/10.1016/j.atmosres.2022.106514) · **被引次数**: 56
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Can climate change be avoided? Vision of a hydrogen-electricity energy economy
+
+**作者**: M. Groll
+
+**期刊**: *Energy* · **DOI**: [10.1016/j.energy.2022.126029](https://doi.org/10.1016/j.energy.2022.126029) · **被引次数**: 55
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Three-dimensional linkage between meteorological drought and vegetation drought across China
+
+**作者**: Zhen Weng, Jun Niu, Huade Guan, Kang Shaozhong
+
+**期刊**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2022.160300](https://doi.org/10.1016/j.scitotenv.2022.160300) · **被引次数**: 54
+
+**匹配主题**: drought
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Impact of transportation on climate change: An ecological modernization theoretical perspective
+
+**作者**: Preeti Pal, P.R.C. Gopal, M. Ramkumar
+
+**期刊**: *Transport Policy* · **DOI**: [10.1016/j.tranpol.2022.11.008](https://doi.org/10.1016/j.tranpol.2022.11.008) · **被引次数**: 54
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Hourly air temperature projection in future urban area by coupling climate change and urban heat island effect
+
+**作者**: Pengyuan Shen, Meilin Wang, Junhuan Liu, Yuchen Ji
+
+**期刊**: *Energy and Buildings* · **DOI**: [10.1016/j.enbuild.2022.112676](https://doi.org/10.1016/j.enbuild.2022.112676) · **被引次数**: 54
+
+**匹配主题**: climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+## 洪水风险评估与极端降水
+
+本周有3篇论文推进洪水风险评估和极端降水研究，涵盖洪水易发性制图、预警系统和韧性评估的方法学进展。多项研究采用基于GIS的多准则方法和机器学习方法进行不同区域的空间洪水危害评估。研究还关注洪水防备的社会维度和洪水减灾的战略规划。
+
+### Urban flood susceptibility mapping based on social media data in Chengdu city, China
+
+**作者**: Yao Li, Frank Osei, Tangao Hu, Alfred Stein
+
+**期刊**: *Sustainable Cities and Society* · **DOI**: [10.1016/j.scs.2022.104307](https://doi.org/10.1016/j.scs.2022.104307) · **被引次数**: 108
+
+**匹配主题**: flood
+{: .label .label-green }
+
+> Increase in urban flood hazards has become a major threat to cities, causing considerable losses of life and in the economy. To improve pre-disaster strategies and to mitigate potential losses, it is important to make urban flood susceptibility assessments and to carry out spatiotemporal analyses. In this study, we used standard deviation ellipse (SDE) to analyze the spatial pattern of urban floods and find the area of interest (AOI) based upon related social media data that were collected in...
+
+---
+
+### The impacts of coastal flooding and sea level rise on critical infrastructure: a novel storyline approach
+
+**作者**: Elco Koks, Dewi Le Bars, Arthur Hrast Essenfelder, Sadhana Nirandjan, Paul Sayers
+
+**期刊**: *Sustainable and Resilient Infrastructure* · **DOI**: [10.1080/23789689.2022.2142741](https://doi.org/10.1080/23789689.2022.2142741) · **被引次数**: 53
+
+**匹配主题**: flood
+{: .label .label-green }
+
+> This study presents an event-based storyline framework to assess the influence of future climatic and socioeconomic conditions on coastal flood impacts to critical infrastructure. The framework combines well-established quantitative methods of sea level rise, coastal inundation, and critical infrastructure (CI) physical damage assessments into an integrated modelling approach. We apply our approach to re-imagine three historic events: storm Xaver, storm Xynthia, and a storm surge event along ...
+
+---
+
+### Quantifying the spatial pattern of urban expansion trends in the period 1987–2022 and identifying areas at risk of flooding due to the impact of urbanization in Lao Cai city
+
+**作者**: Tuyet Anh Thi, Anh Ngoc Thi, Hau Duc Tran
+
+**期刊**: *Ecological Informatics* · **DOI**: [10.1016/j.ecoinf.2022.101912](https://doi.org/10.1016/j.ecoinf.2022.101912) · **被引次数**: 52
+
+**匹配主题**: flood
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+## 水文预测中的机器学习与人工智能
+
+本周5篇论文展示了机器学习和人工智能在水文预测挑战中的持续应用势头。贡献涵盖地下水位预测、流量预测、河道水流模拟以及将领域知识与数据驱动方法相结合的物理信息方法。显著进展包括ML预测的不确定性量化和模型架构优化。
+
+### Forecasting of SPI and Meteorological Drought Based on the Artificial Neural Network and M5P Model Tree
+
+**作者**: Chaitanya B. Pande, Nadhir Al‐Ansari, Nand Lal Kushwaha, Aman Srivastava, Rabeea Noor, Manish Kumar et al.
+
+**期刊**: *Land* · **DOI**: [10.3390/land11112040](https://doi.org/10.3390/land11112040) · **被引次数**: 72
+
+**匹配主题**: streamflow, drought
+{: .label .label-green }
+
+> Climate change has caused droughts to increase in frequency and severity worldwide, which has attracted scientists to create drought prediction models to mitigate the impacts of droughts. One of the most important challenges in addressing droughts is developing accurate models to predict their discrete characteristics, i.e., occurrence, duration, and severity. The current research examined the performance of several different machine learning models, including Artificial Neural Network (ANN) ...
+
+---
+
+### Are general circulation models obsolete?
+
+**作者**: V. Balaji, Fleur Couvreux, Julie Deshayes, Jacques Gautrais, F. Hourdin, Catherine Rio
+
+**期刊**: *Proceedings of the National Academy of Sciences* · **DOI**: [10.1073/pnas.2202075119](https://doi.org/10.1073/pnas.2202075119) · **被引次数**: 75
+
+**匹配主题**: earth system model
+{: .label .label-green }
+
+> Traditional general circulation models, or GCMs-that is, three-dimensional dynamical models with unresolved terms represented in equations with tunable parameters-have been a mainstay of climate research for several decades, and some of the pioneering studies have recently been recognized by a Nobel prize in Physics. Yet, there is considerable debate around their continuing role in the future. Frequently mentioned as limitations of GCMs are the structural error and uncertainty across models w...
+
+---
+
+### Brain connectivity meets reservoir computing
+
+**作者**: Fabrizio Damicelli, Claus C. Hilgetag, Alexandros Goulas
+
+**期刊**: *PLoS Computational Biology* · **DOI**: [10.1371/journal.pcbi.1010639](https://doi.org/10.1371/journal.pcbi.1010639) · **被引次数**: 68
+
+**匹配主题**: reservoir
+{: .label .label-green }
+
+> The connectivity of Artificial Neural Networks (ANNs) is different from the one observed in Biological Neural Networks (BNNs). Can the wiring of actual brains help improve ANNs architectures? Can we learn from ANNs about what network features support computation in the brain when solving a task? At a meso/macro-scale level of the connectivity, ANNs' architectures are carefully engineered and such those design decisions have crucial importance in many recent performance improvements. On the ot...
+
+---
+
+### How can we benefit from regime information to make more effective use of long short-term memory (LSTM) runoff models?
+
+**作者**: Reyhaneh Hashemi, Pierre Brigode, Pierre‐André Garambois, Pierre Javelle
+
+**期刊**: *Hydrology and earth system sciences* · **DOI**: [10.5194/hess-26-5793-2022](https://doi.org/10.5194/hess-26-5793-2022) · **被引次数**: 52
+
+**匹配主题**: hydrology, hydrologic model, runoff
+{: .label .label-green }
+
+> Abstract. To date, long short-term memory (LSTM) networks have been successfully applied to a key problem in hydrology: the prediction of runoff. Unlike traditional conceptual models, LSTM models are built on concepts that avoid the need for our knowledge of hydrology to be formally encoded into the model. The question, then, is how we can still make use of our domain knowledge and traditional practices, not to build the LSTM models themselves, as we do for conceptual models, but to use them ...
+
+---
+
+### Prediction of geology condition for slurry pressure balanced shield tunnel with super-large diameter by machine learning algorithms
+
+**作者**: Deming Xu, Yusheng Wang, Jingqi Huang, Sijin Liu, Shujun Xu, Kun Zhou
+
+**期刊**: *Tunnelling and Underground Space Technology* · **DOI**: [10.1016/j.tust.2022.104852](https://doi.org/10.1016/j.tust.2022.104852) · **被引次数**: 60
+
+**匹配主题**: earth system model
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+## 水资源管理、灌溉与地下水
+
+本周水资源管理研究涵盖3篇论文，涉及综合水资源管理、灌溉调度、地下水监测以及水-能源-食物纽带分析。研究范围从全球尺度评估到场地特定灌溉优化，特别关注基于卫星的水资源利用监测和地下水开采引起的地面沉降。
+
+### Irrigation area, efficiency and water storage mediate the drought resilience of irrigated agriculture in a semi-arid catchment
+
+**作者**: Bruce Lankford, Catherine M. Pringle, Jon McCosh, Mlungisi Shabalala, Tim Hess, Jerry Knox
+
+**期刊**: *The Science of The Total Environment* · **DOI**: [10.1016/j.scitotenv.2022.160263](https://doi.org/10.1016/j.scitotenv.2022.160263) · **被引次数**: 80
+
+**匹配主题**: hydrology, hydrologic model, streamflow, water management, drought, irrigation
+{: .label .label-green }
+
+> We examined the effects of hydrological variables such as irrigation area, irrigation efficiency and water storage on the resilience of (mostly commercial) irrigated agriculture to drought in a semi-arid catchment in South Africa. We formulated a conceptual framework termed 'Water, Efficiency, Resilience, Drought' (WERD) and an accompanying spreadsheet model. These allow the resilience of irrigated agriculture to drought to be analysed via water accounts and a key resilience indicator termed ...
+
+---
+
+### Global expansion of sustainable irrigation limited by water storage
+
+**作者**: R. Schmitt, L. Rosa, G. Daily
+
+**期刊**: *Proceedings of the National Academy of Sciences of the United States of America* · **DOI**: [10.1073/pnas.2214291119](https://doi.org/10.1073/pnas.2214291119) · **被引次数**: 68
+
+**匹配主题**: irrigation
+{: .label .label-green }
+
+> Significance Expansion of sustainable irrigation (i.e., using sustainable water resources to irrigate water-limited croplands) can increase food production, while neither depleting water stocks nor encroaching upon nature. Yet, there is a mismatch in timing of water availability and of irrigation needs in many geographies, necessitating temporary water storage. We quantify global volumes of water that requires temporary storage to be leveraged for an expansion of sustainable irrigation and di...
+
+---
+
+### Spatio-temporal variation of groundwater hydrochemistry and suitability for drinking and irrigation in Arba Minch Town, Ethiopia: An integrated approach using water quality index, multivariate statistics, and GIS
+
+**作者**: Nimcan Abdi Mohamed, Akiber Chufo Wachemo, Shankar Karuppannan, Karunanidhi Duraisamy
+
+**期刊**: *Urban Climate* · **DOI**: [10.1016/j.uclim.2022.101338](https://doi.org/10.1016/j.uclim.2022.101338) · **被引次数**: 54
+
+**匹配主题**: irrigation
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+## 水文过程、积雪动态与遥感
+
+本主题涵盖14篇论文，通过野外观测、模型和遥感技术推进对水文过程的理解。研究涵盖寒区积雪分布与动态、森林-水文相互作用、土地利用变化对河流系统的影响、降雨-径流模型不确定性以及基于卫星的陆地水资源监测。
+
+### Spatial-temporal heterogeneity of ecosystem service interactions and their social-ecological drivers: Implications for spatial planning and management
+
+**作者**: Hao Xia, Shaofeng Yuan, Alexander V. Prishchepov
+
+**期刊**: *Resources Conservation and Recycling* · **DOI**: [10.1016/j.resconrec.2022.106767](https://doi.org/10.1016/j.resconrec.2022.106767) · **被引次数**: 447
+
+**匹配主题**: water management, land surface model, earth system model
+{: .label .label-green }
+
+> Uncovering the complex interactions among ecosystem services (ESs) is a prerequisite for managing multiple ESs simultaneously. We mapped the supply of six ESs, quantified their trade-offs/synergies and bundles, determined dominant social-ecological drivers, and subsequently provided sustainable spatial planning and management strategies at both grid and sub-watershed scales. The results revealed that: (1) the patterns of ESs were spatially heterogeneous, with food production decreasing the mo...
+
+---
+
+### Riverhood: political ecologies of socionature commoning and translocal struggles for water justice
+
+**作者**: Rutgerd Boelens, Arturo Escobar, Karen Bakker, Lena Hommes, E Swyngedouw, Bárbara Hogenboom et al.
+
+**期刊**: *The Journal of Peasant Studies* · **DOI**: [10.1080/03066150.2022.2120810](https://doi.org/10.1080/03066150.2022.2120810) · **被引次数**: 168
+
+**匹配主题**: hydrology, hydropower
+{: .label .label-green }
+
+> Mega-damming, pollution and depletion endanger rivers worldwide. Meanwhile, modernist imaginaries of ordering 'unruly waters and humans' have become cornerstones of hydraulic-bureaucratic and capitalist development. They separate hydro/social worlds, sideline river-commons cultures, and deepen socio-environmental injustices. But myriad new water justice movements (NWJMs) proliferate: rooted, disruptive, transdisciplinary, multi-scalar coalitions that deploy alternative river-society ontologie...
+
+---
+
+### The unexpected radiative impact of the Hunga Tonga eruption of 15th January 2022
+
+**作者**: Pasquale Sellitto, Aurélien Podglajen, Redha Belhadji, Marie Boichu, Elisa Carboni, Juan Cuesta et al.
+
+**期刊**: *Communications Earth & Environment* · **DOI**: [10.1038/s43247-022-00618-z](https://doi.org/10.1038/s43247-022-00618-z) · **被引次数**: 151
+
+**匹配主题**: surface water
+{: .label .label-green }
+
+> Abstract The underwater Hunga Tonga-Hunga Ha-apai volcano erupted in the early hours of 15th January 2022, and injected volcanic gases and aerosols to over 50 km altitude. Here we synthesise satellite, ground-based, in situ and radiosonde observations of the eruption to investigate the strength of the stratospheric aerosol and water vapour perturbations in the initial weeks after the eruption and we quantify the net radiative impact across the two species using offline radiative transfer mode...
+
+---
+
+### Drivers of recent decline in dust activity over East Asia
+
+**作者**: Chenglai Wu, Zhaohui Lin, Yaping Shao, Xiaohong Liu, Ying Li
+
+**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-022-34823-3](https://doi.org/10.1038/s41467-022-34823-3) · **被引次数**: 147
+
+**匹配主题**: hydrology
+{: .label .label-green }
+
+> It is essential to understand the factors driving the recent decline of dust activity in East Asia for future dust projections. Using a physically-based dust emission model, here we show that the weakening of surface wind and the increasing of vegetation cover and soil moisture have all contributed to the decline in dust activity during 2001 to 2017. The relative contributions of these three factors to the dust emission reduction during 2010-2017 relative to 2001 are 46%, 30%, and 24%, respec...
+
+---
+
+### Coupled impacts of climate and land use changes on regional ecosystem services
+
+**作者**: Lin Sun, Huajun Yu, Mingxing Sun, Yutao Wang
+
+**期刊**: *Journal of Environmental Management* · **DOI**: [10.1016/j.jenvman.2022.116753](https://doi.org/10.1016/j.jenvman.2022.116753) · **被引次数**: 118
+
+**匹配主题**: water management, climate change
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Brownian reservoir computing realized using geometrically confined skyrmion dynamics
+
+**作者**: K Raab, Maarten A. Brems, Grischa Beneke, Takaaki Dohi, Jan Rothörl, Fabian Kammerbauer et al.
+
+**期刊**: *Nature Communications* · **DOI**: [10.1038/s41467-022-34309-2](https://doi.org/10.1038/s41467-022-34309-2) · **被引次数**: 119
+
+**匹配主题**: reservoir
+{: .label .label-green }
+
+> Reservoir computing (RC) has been considered as one of the key computational principles beyond von-Neumann computing. Magnetic skyrmions, topological particle-like spin textures in magnetic films are particularly promising for implementing RC, since they respond strongly nonlinearly to external stimuli and feature inherent multiscale dynamics. However, despite several theoretical proposals that exist for skyrmion reservoir computing, experimental realizations have been elusive until now. Here...
+
+---
+
+### Nanoceria as an Electron Reservoir: Spontaneous Deposition of Metal Nanoparticles on Oxides and Their Anti-inflammatory Activities
+
+**作者**: Faheem Muhammad, Futao Huang, Yuan Cheng, Xiwen Chen, Quan Wang, Chenxin Zhu et al.
+
+**期刊**: *ACS Nano* · **DOI**: [10.1021/acsnano.2c07306](https://doi.org/10.1021/acsnano.2c07306) · **被引次数**: 92
+
+**匹配主题**: reservoir
+{: .label .label-green }
+
+> models. This oxygen vacancy-mediated reduction strategy can be generalized to produce diverse metal-metal oxide nanostructures for a wide range of applications.
+
+---
+
+### Reservoir stimulation of marine natural gas hydrate-a review
+
+**作者**: Xiaochu Wang, Youhong Sun, Bing Li, Guobiao Zhang, Wei Guo, Shengli Li et al.
+
+**期刊**: *Energy* · **DOI**: [10.1016/j.energy.2022.126120](https://doi.org/10.1016/j.energy.2022.126120) · **被引次数**: 79
+
+**匹配主题**: reservoir
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Preliminary investigations of microplastic pollution in karst systems, from surface watercourses to cave waters
+
+**作者**: Valentina Balestra, Bartolomeo Vigna, Sean De Costanzo, Rossana Bellopede
+
+**期刊**: *Journal of Contaminant Hydrology* · **DOI**: [10.1016/j.jconhyd.2022.104117](https://doi.org/10.1016/j.jconhyd.2022.104117) · **被引次数**: 68
+
+**匹配主题**: water management, surface water
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Thermodynamic driving mechanisms for the formation of global precipitation extremes and ecohydrological effects
+
+**作者**: Jiabo Yin, Shenglian Guo, Jun Wang, Jie Chen, Quan Zhang, Lei Gu et al.
+
+**期刊**: *Science China Earth Sciences* · **DOI**: [10.1007/s11430-022-9987-0](https://doi.org/10.1007/s11430-022-9987-0) · **被引次数**: 67
+
+**匹配主题**: land surface model
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Centrifuge modeling of multi-row stabilizing piles reinforced reservoir landslide with different row spacings
+
+**作者**: Chenyang Zhang, Yueping Yin, Hui Yan, Sainan Zhu, Bo Li, Xuefeng Hou et al.
+
+**期刊**: *Landslides* · **DOI**: [10.1007/s10346-022-01994-5](https://doi.org/10.1007/s10346-022-01994-5) · **被引次数**: 65
+
+**匹配主题**: reservoir
+{: .label .label-green }
+
+> Abstract not available.
+
+---
+
+### Asymmetric emergence of low-to-no snow in the midlatitudes of the American Cordillera
+
+**作者**: Alan M. Rhoades, Benjamin J. Hatchett, Mark D. Risser, William D. Collins, Nicolás Bambach, Laurie S. Huning et al.
+
+**期刊**: *Nature Climate Change* · **DOI**: [10.1038/s41558-022-01518-y](https://doi.org/10.1038/s41558-022-01518-y) · **被引次数**: 44
+
+**匹配主题**: runoff, streamflow, earth system model
+{: .label .label-green }
+
+> Abstract Societies and ecosystems within and downstream of mountains rely on seasonal snowmelt to satisfy their water demands. Anthropogenic climate change has reduced mountain snowpacks worldwide, altering snowmelt magnitude and timing. Here the global warming level leading to widespread and persistent mountain snowpack decline, termed low-to-no snow, is estimated for the world’s most latitudinally contiguous mountain range, the American Cordillera. We show that a combination of dynamical, t...
+
+---
+
+### A single-nucleus transcriptomic atlas of primate testicular aging reveals exhaustion of the spermatogonial stem cell reservoir and loss of Sertoli cell homeostasis
+
+**作者**: Daoyuan Huang, Yuesheng Zuo, Chen Zhang, Guoqiang Sun, Ying Jing, Jinghui Lei et al.
+
+**期刊**: *Protein & Cell* · **DOI**: [10.1093/procel/pwac057](https://doi.org/10.1093/procel/pwac057) · **被引次数**: 53
+
+**匹配主题**: reservoir
+{: .label .label-green }
+
+> The testis is pivotal for male reproduction, and its progressive functional decline in aging is associated with infertility. However, the regulatory mechanism underlying primate testicular aging remains largely elusive. Here, we resolve the aging-related cellular and molecular alterations of primate testicular aging by establishing a single-nucleus transcriptomic atlas. Gene-expression patterns along the spermatogenesis trajectory revealed molecular programs associated with attrition of sperm...
+
+---
+
+### Comparative environmental RNA and DNA metabarcoding analysis of river algae and arthropods for ecological surveys and water quality assessment
+
+**作者**: Kaede Miyata, Yasuaki Inoue, Yuto Amano, Tohru Nishioka, Tomohisa Nagaike, Takamitsu Kawaguchi et al.
+
+**期刊**: *Scientific Reports* · **DOI**: [10.1038/s41598-022-23888-1](https://doi.org/10.1038/s41598-022-23888-1) · **被引次数**: 52
+
+**匹配主题**: river
+{: .label .label-green }
+
+> Environmental DNA (eDNA) metabarcoding is widely used for species analysis, while the use of environmental RNA (eRNA) metabarcoding is more limited. We conducted comparative eDNA/eRNA metabarcoding of the algae and arthropods (aquatic insects) in water samples from Naka River, Japan, to evaluate their potential for biological monitoring and water quality assessment. Both methods detected various algae and arthropod species; however, their compositions were remarkably different from those in t...
+
+---
+
+## 统计信息
+
+| 指标 | 数量 |
+|:-------|------:|
+| 搜索数据库数 | 2 |
+| 搜索主题数 | 16 |
+| 获取论文总数 | 808 |
+| 去重后数量 | 604 |
+| LLM相关性过滤后 | 50 |
+| 排除（不相关） | 554 |
+
+### 按期刊统计
+
+| 期刊 | 论文数 |
+|:--------|-------:|
+| Nature Communications | 4 |
+| Energy and Buildings | 2 |
+| The Science of The Total Environment | 2 |
+| Energy | 2 |
+|  | 1 |
+| Resources Conservation and Recycling | 1 |
+| The Journal of Peasant Studies | 1 |
+| Communications Earth & Environment | 1 |
+| Journal of Environmental Management | 1 |
+| Sustainable Cities and Society | 1 |
+| Geoscientific model development | 1 |
+| Journal of Integrative Plant Biology | 1 |
+| Resources Policy | 1 |
+| ACS Nano | 1 |
+| Gondwana Research | 1 |
+| npj Climate and Atmospheric Science | 1 |
+| Land | 1 |
+| Agricultural Water Management | 1 |
+| Proceedings of the National Academy of Sciences | 1 |
+| Journal of Contaminant Hydrology | 1 |
+| Climate | 1 |
+| Fractal and Fractional | 1 |
+| Proceedings of the National Academy of Sciences of the United States of America | 1 |
+| PLoS Computational Biology | 1 |
+| Science Advances | 1 |
+| Remote Sensing of Environment | 1 |
+| Science China Earth Sciences | 1 |
+| Progress In Oceanography | 1 |
+| The Plant Journal | 1 |
+| Landslides | 1 |
+| Life | 1 |
+| Hydrology and earth system sciences | 1 |
+| Tunnelling and Underground Space Technology | 1 |
+| South African Journal of Botany | 1 |
+| Energy Economics | 1 |
+| Wiley Interdisciplinary Reviews Climate Change | 1 |
+| Atmospheric Research | 1 |
+| Transport Policy | 1 |
+| Urban Climate | 1 |
+| Nature Climate Change | 1 |
+| Protein & Cell | 1 |
+| Sustainable and Resilient Infrastructure | 1 |
+| Scientific Reports | 1 |
+| Ecological Informatics | 1 |
+
+## 筛选标准
+
+**主题**: hydrology, hydrologic model, river, runoff, streamflow, reservoir, water management, flood, drought, seasonal, land surface model, climate change, hydropower, surface water, irrigation, earth system model
+
+**数据库**: Semantic Scholar, OpenAlex
