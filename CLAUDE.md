@@ -213,7 +213,7 @@ Test with `--date` on a recent date to verify papers are retrieved.
 - **S2 404s are normal**: Recent papers may not be indexed yet.
 - **Backfill counter**: Stored in `scripts/.backfill_counter` (gitignored). Delete to reset.
 - **JATS XML cleanup**: Abstracts are cleaned of JATS XML tags via regex in both scripts.
-- **Direct push**: Automated runs push directly to `main` (branch protection bypassed for the bot user).
+- **Push to `main`**: `main` is protected by the `human-touch-only` repo ruleset (requires PR + 1 review). Only repo Admins (the `hydrotian` account) bypass it. The scheduled cloud agent does NOT have bypass — direct `git push origin main` from a cloud worktree is rejected. The daily/weekly skills handle this by pushing the session branch and opening a PR (auto-merge if the actor has bypass; otherwise the PR waits for a human review). **Do not change a skill to "just push to main" — that path silently failed for 8 posts in late April / early May 2026.** If a future change adds bypass for the bot, the existing skill code still works (it just takes the direct-push branch).
 
 ## Blog Site (GitHub Pages)
 

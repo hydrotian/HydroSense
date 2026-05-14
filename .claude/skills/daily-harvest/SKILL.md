@@ -410,25 +410,81 @@ save_registry(reg)
 
 ### Step 7: Commit and push to main
 
-Push directly to `main` — no branch, no PR.
+The post MUST land on `main` for GitHub Pages to publish it. The repo has a "human-touch-only" ruleset that blocks direct pushes to `main` for non-admin actors; only `hydrotian` has bypass. If you're running in a cloud worktree (your git identity is `Claude <noreply@anthropic.com>` and the working branch is `claude/...`), a direct `git push origin main` will be rejected, and the post will be stranded on the session branch with no PR. **This silently broke 8 daily/weekly posts in late April / early May 2026** — tweets went out with 404 links. Do not let that happen again.
+
+**Always commit on a real branch first, then push that branch to origin and merge it into main via PR.** The PR + merge path works whether or not the actor has bypass: if bypass exists, the merge auto-succeeds; if not, the PR sits and the user is alerted (and crucially, no tweet is sent).
 
 ```bash
 cd /Users/zhou014/Local_Drive/Git_repo/HydroSense
+
+# Stage and commit on the current branch (which may be `main` locally or a `claude/...` session branch in cloud)
 git add _pages/ data/paper_registry.json
 git commit -m "Daily harvest - YYYY-MM-DD"
-git push origin main
+
+CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+COMMIT_SHA=$(git rev-parse HEAD)
+
+if [ "$CURRENT_BRANCH" = "main" ]; then
+  # Local-laptop path: try direct push (admin bypass)
+  if git push origin main 2>&1 | tee /tmp/push.log | grep -q "rejected\|protected\|rule violations"; then
+    echo "Direct push to main rejected. Falling back to PR path." >&2
+    git push origin "main:daily-harvest/YYYY-MM-DD"
+    BRANCH_FOR_PR="daily-harvest/YYYY-MM-DD"
+  else
+    BRANCH_FOR_PR=""  # already on main, done
+  fi
+else
+  # Cloud session-branch path: push the session branch and open a PR
+  git push origin "$CURRENT_BRANCH"
+  BRANCH_FOR_PR="$CURRENT_BRANCH"
+fi
+
+if [ -n "$BRANCH_FOR_PR" ]; then
+  PR_URL=$(gh pr create --base main --head "$BRANCH_FOR_PR" \
+    --title "Daily harvest - YYYY-MM-DD" \
+    --body "Automated daily harvest. Auto-merging via skill.")
+  echo "PR: $PR_URL"
+  # Try to auto-merge — works if the actor has bypass; otherwise the PR sits for human review
+  gh pr merge "$PR_URL" --squash --auto --delete-branch || \
+    gh pr merge "$PR_URL" --squash --delete-branch || \
+    { echo "Auto-merge failed — PR left open for manual merge."; SKIP_TWEET=1; }
+fi
 ```
 
-If the push fails due to conflicts (e.g., another run pushed first), pull and retry:
+If you pushed and the push said "rejected" due to upstream changes (someone else pushed first), pull-rebase and retry:
 
 ```bash
 git pull --rebase origin main
-git push origin main
+git push origin main   # or re-push the session branch
+```
+
+### Step 7b: Verify the post is live before tweeting
+
+**This is non-negotiable.** Past failures shipped tweets pointing at 404 URLs because the skill assumed push → URL live. Verify with curl. If the URL isn't live (or `SKIP_TWEET=1` from a failed merge), do not tweet.
+
+```bash
+URL="https://hydrosense.simhydro.com/YYYY/monthname/YYYY-MM-DD-daily-harvest"
+# Wait up to ~5 min for GitHub Pages to rebuild and serve the new post.
+# (Pages typically rebuilds in 60-120s; we retry a few times.)
+for attempt in 1 2 3 4 5 6; do
+  CODE=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
+  echo "attempt $attempt: HTTP $CODE"
+  if [ "$CODE" = "200" ]; then
+    POST_LIVE=1
+    break
+  fi
+  sleep 45
+done
+
+if [ "${POST_LIVE:-0}" != "1" ] || [ "${SKIP_TWEET:-0}" = "1" ]; then
+  echo "Post URL not live — skipping tweet to avoid posting a 404 link."
+  exit 0
+fi
 ```
 
 ### Step 8: Post to X (Twitter)
 
-After the push succeeds (so the website link is live), post a tweet summarizing the day's harvest. The tweet should:
+Only run this step if Step 7b confirmed the URL is live. The tweet should:
 
 - Start with paper count ("N papers today.")
 - Highlight 1-2 key findings — make it compelling and specific
