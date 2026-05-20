@@ -45,6 +45,12 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      # Generate static search index from the built site.
+      # Replaces the Just-the-Docs Lunr.js index (~28 MB, loaded on every page)
+      # with chunked Pagefind shards fetched on demand only when searching.
+      - name: Generate Pagefind search index
+        run: npx -y pagefind@latest --site _site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
