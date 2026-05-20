@@ -29,6 +29,10 @@ search:
   tokenizer_separator: /[\s/]+/
   rel_url: true
   button: false
+  # Index titles + headings only, not full body content.
+  # With 800+ pages, full-content indexing produced a multi-MB Lunr index
+  # downloaded on every page load — caused slow loads and half-rendered pages.
+  index_full_content: false
 
 # Navigation
 nav_enabled: true
@@ -54,13 +58,6 @@ nav_external_links:
   - title: SimHydro Main Site
     url: https://simhydro.com
     hide_icon: false
-
-# Search configuration
-search:
-  enabled: true
-  # Enable full content search including abstracts
-  # May be slower for large sites but provides comprehensive results
-  index_full_content: true
 
 # Collections for organizing content by year/month
 # Using pages collection to enable hierarchical navigation
