@@ -45,6 +45,13 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      # Just-the-Docs still generates assets/js/search-data.json even with
+      # search_enabled: false (its template guard is `!= nil`, not truthy).
+      # Nothing references it on the live site, but it's a 28 MB orphan in
+      # the artifact, so delete it before uploading.
+      - name: Remove unused Lunr search index
+        run: rm -f _site/assets/js/search-data.json
+
       # Generate static search index from the built site.
       # Replaces the Just-the-Docs Lunr.js index (~28 MB, loaded on every page)
       # with chunked Pagefind shards fetched on demand only when searching.
