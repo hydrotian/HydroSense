@@ -1,0 +1,148 @@
+{
+  "seen": {
+    "https://www.nature.com/articles/d41586-026-01655-w": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.nature.com/articles/d41586-026-01655-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01660-z": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.nature.com/articles/d41586-026-01660-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01087-6": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.nature.com/articles/d41586-026-01087-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01651-0": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.nature.com/articles/d41586-026-01651-0",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-01392-0": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.nature.com/articles/d41586-026-01392-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01644-z": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.nature.com/articles/d41586-026-01644-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-53891-9": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.nature.com/articles/s41598-026-53891-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z0qbsi6": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.science.org/content/article/meet-microbiologist-and-science-advocate-who-s-headed-congress",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z7w0aby": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.science.org/content/article/it-s-official-europe-physicists-plan-build-91-kilometer-particle-collider",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zssr3qm": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.science.org/content/article/u-s-agencies-aren-t-ready-rising-cost-making-research-papers-free-report-warns",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/": {
+      "first_seen": "2026-05-23",
+      "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/": {
+      "first_seen": "2026-05-23",
+      "url": "https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/": {
+      "first_seen": "2026-05-23",
+      "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/": {
+      "first_seen": "2026-05-23",
+      "url": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1137845": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1137813": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.technologyreview.com/?p=1137753": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1137756": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1137613": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1137735": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=162299": {
+      "first_seen": "2026-05-23",
+      "url": "https://www.quantamagazine.org/how-ecotypes-harbor-the-genetic-memory-of-a-species-past-20260521/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
+      "first_seen": "2026-05-23",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/gartner-2026-agentic-coding-leader": {
+      "first_seen": "2026-05-23",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/virgin-atlantic": {
+      "first_seen": "2026-05-23",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "decision": "rejected",
+      "bucket": null
+    }
+  }
+}

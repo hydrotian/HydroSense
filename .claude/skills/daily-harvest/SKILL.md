@@ -24,9 +24,30 @@ python scripts/harvest.py --date $HARVEST_DATE --journals top-tier --output-form
 
 On Linux (cloud), use `date -d '8 days ago'` instead of `date -v-8d`.
 
+### Step 1b: Run science-news curation
+
+Read `.claude/skills/science-news/SKILL.md` and execute its workflow. It produces two files used in later steps:
+
+- `/tmp/science_news_fragment.md` — markdown for the "AI for Science" section. May be empty (zero bytes) on days when nothing passes the curation bar.
+- `/tmp/science_news_doi_candidates.json` — `{"urls": [...]}` listing editorial articles whose cited DOIs should be enriched and added to today's Top-Tier list.
+
+If the science-news skill fails for any reason, log it and continue — the daily harvest itself is the priority. Treat the fragment as empty and the DOI candidates as `{"urls": []}` in that case.
+
+### Step 1c: Enrich DOIs cited in kept editorials
+
+```bash
+python scripts/extract_doi_citations.py /tmp/science_news_doi_candidates.json --output /tmp/science_news_citations.json 2>>/tmp/harvest_log.txt
+```
+
+If the candidates file is empty or no DOIs were extracted, the script writes an empty `papers: []` — that's fine, downstream steps just won't have extra papers to merge.
+
+These enriched papers (Nature/Science research cited by today's curated news) get merged into the harvest output's Top-Tier list in Step 2.
+
 ### Step 2: Read and evaluate the results
 
-Read `/tmp/harvest_output.json`. For each paper in `papers.part1` and `papers.part2`:
+Read `/tmp/harvest_output.json`. Then read `/tmp/science_news_citations.json` and merge its `papers` list into `papers.part1` of the harvest output, deduplicating by DOI (if a DOI is already in part1 or part2, keep the existing harvest entry — it has richer metadata like topic matches). Mark each merged citation with `via_source` so the downstream summary can mention "cited in today's Nature News piece on X" where relevant.
+
+For each paper in the combined `papers.part1` and `papers.part2`:
 
 **Relevance evaluation criteria** (evaluate each paper):
 
@@ -121,6 +142,8 @@ highlight: "{{One sentence tweet-style summary of the most notable finding}}"
 ## Today's Highlights
 
 {{2-3 sentence AI-generated summary of the day's most notable findings}}
+
+{{If /tmp/science_news_fragment.md is non-empty, paste its contents here verbatim. The fragment already starts with `## AI for Science` and includes its own subsections. If empty/missing, omit entirely — do not leave a placeholder.}}
 
 ---
 
@@ -292,6 +315,7 @@ Create a Chinese version at `_pages/zh/YYYY/monthname/YYYY-MM-DD-daily-harvest.m
 - Keep all kramdown directives (`{: .no_toc}`, `{: .label .label-green}`, etc.) exactly the same
 - Keep all markdown formatting (bold, blockquotes, tables, `---` rules) the same
 - Keep hero images (`![Figure](URL)`) exactly the same as the English version — same URL, same placement
+- **AI for Science section**: translate `## AI for Science` → `## AI 与科研`, `### How AI is changing research` → `### AI 如何改变科研`, `### Cross-discipline sparks` → `### 跨学科启发`. Translate each item's LLM-written commentary to Chinese, but **keep the linked title in ORIGINAL English** (`**[Original Title](url)**`) and **keep the source name in ORIGINAL English** (`(Nature, 2026-05-22)` stays English so it stays consistent with the source brand). If the English version omits this section (empty fragment), the Chinese version omits it too.
 
 **Front matter for Chinese page:**
 ```yaml
@@ -518,7 +542,7 @@ If the tweet fails (missing credentials, API error), log the error but do not fa
 
 ## Important Notes
 
-- **If no relevant papers are found after LLM filtering**, still create a minimal "no papers" stub post (English + Chinese) so the day is recorded as processed. Use `paper_count: 0`, set `highlight` to a one-line note like "No relevant papers from top-tier journals on this date.", include the same Statistics table (with `After LLM relevance filtering: 0`), and **omit the entire "Top-Tier Journal Papers" section and Table of Contents** (no papers to list). Skip the registry `register_papers` call but still call `register_run` so the day is logged. Commit and push as usual, **but DO NOT post a tweet** for no-paper days.
+- **If no relevant papers are found after LLM filtering**, still create a minimal "no papers" stub post (English + Chinese) so the day is recorded as processed. Use `paper_count: 0`, set `highlight` to a one-line note like "No relevant papers from top-tier journals on this date.", include the same Statistics table (with `After LLM relevance filtering: 0`), and **omit the entire "Top-Tier Journal Papers" section and Table of Contents** (no papers to list). **Still include the AI for Science section if the fragment is non-empty** — a slow paper day doesn't mean nothing AI-relevant happened. Skip the registry `register_papers` call but still call `register_run` so the day is logged. Commit and push as usual, **but DO NOT post a tweet** for no-paper days (even if AI for Science has content — tweets are paper-count driven).
 - Papers flagged as `important` in the registry (appeared in multiple sources) should be noted with "(Also featured in weekly review)" or similar.
 - Always check the harvest log (`/tmp/harvest_log.txt`) for errors before proceeding.
 - Default harvest date is 8 days ago because same-day papers often get S2 404s.

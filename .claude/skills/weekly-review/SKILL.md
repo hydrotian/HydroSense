@@ -47,21 +47,17 @@ Not relevant: pure atmospheric science, medical/pharma, marine biology, pure geo
 - Ocean / coastal / land-ocean coupling papers (estuaries, river plumes, marine heatwaves, ocean BGC) — keep these in daily harvest only
 - Paleohydrology / Quaternary geology / fluvial geomorphology / river-network evolution / OSL dating / paleo-ESM — keep these in daily harvest only
 
-Filter to only relevant papers. **Select up to 50 papers maximum** for the final post. Prioritization depends on whether this is a recent or retrofit search:
+Filter to only relevant papers. Apply the relevance bar strictly — when in doubt, exclude. The expected outcome is **~30 papers, max 50**.
 
-**Recent searches (≤6 months old):** Citation counts are noise — prioritize by:
-1. Papers found by multiple search queries (`matched_queries` has 2+ entries)
-2. Papers found in multiple databases (`source_databases` has 2+ entries)
+Prioritize by (same for recent and retrofit runs):
+1. Papers found by multiple search queries (`matched_queries` has 2+ entries) — cross-topic relevance signal
+2. Papers found in multiple databases (`source_databases` has 2+ entries) — independent confirmation
 3. Papers from well-known journals
 4. Citation count (tiebreaker only)
 
-**Retrofit searches (>6 months old, e.g. backfill runs):** Citation counts are meaningful and should be a primary factor — prioritize by:
-1. Higher citation counts — the field has had time to react, highly cited papers are proven important
-2. Papers found by multiple search queries (`matched_queries` has 2+ entries)
-3. Papers found in multiple databases (`source_databases` has 2+ entries)
-4. Papers from well-known journals
+**Use citation count only to cap, not to amplify.** If after strict relevance filtering you still have >50 papers, drop the lowest-cited ones until you reach 50. Citation count is never a reason to include a marginal-relevance paper.
 
-Check the `--from-date` / `--to-date` passed to search.py to determine which mode applies.
+**Soft retrofit signal (papers >3 years old at time of search window):** a paper with 0 citations after 3+ years is unlikely to be high-impact. Use this as a tiebreaker against including marginal cases, not as a hard filter. A 3-year-old methods paper or niche topic can legitimately have 0 citations; use judgment.
 
 ### Step 3: Check paper registry for duplicates
 

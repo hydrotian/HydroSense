@@ -26,6 +26,14 @@ lang_link: /zh/2026/may/2026-05-15-daily-harvest
 
 Lake surface temperatures globally respond at 76% of the atmospheric warming rate, with nonlinear sensitivities to both long-term warming and short-term heatwaves driven by radiation and wind. Tropical seagrass meadows serve as net greenhouse gas sinks, with N₂O uptake offsetting 63–243% of CH₄ warming potential. A 15-million-year paleowater record from the Tibetan Plateau challenges the long-held assumption that tectonic uplift drove the Cenozoic rise in seawater lithium isotopes.
 
+## AI for Science
+
+### How AI is changing research
+
+- **[AI cracks 80-year-old mathematics challenge — researchers are astonished](https://www.nature.com/articles/d41586-026-01651-0)** (Nature, 2026-05-22) — A concrete instance of an AI system making nontrivial progress on a problem that resisted human effort for decades. The pattern — LLM-driven exploration of a structured conjecture space, in the FunSearch / AlphaProof lineage — is increasingly portable. The same "AI surfaces unexpected structure in a vast search space" recipe is applicable to hydrologic process discovery and parameterization search in earth-system models, where the search space is similarly combinatorial and human intuition has stalled.
+
+- **[Google I/O showed how the path for AI-driven science is shifting](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/)** (MIT Tech Review, 2026-05-22) — DeepMind's framing of where AI-for-science is heading, with Hassabis on world models and "foothills of the singularity." Worth scanning for situational awareness — capabilities the major labs preview at I/O tend to surface as deployable tools in the 6-12 month horizon.
+
 ---
 
 ## Table of Contents

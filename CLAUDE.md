@@ -84,14 +84,20 @@ There is no automated test suite. Validate changes by running scripts with `--da
 
 **`scripts/post_tweet.py`** — Posts a tweet to X via API v2 (OAuth1). Handles t.co URL-length accounting and truncation. Invoked by the daily-harvest skill after a post is published. Requires `X_API_KEY`, `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_TOKEN_SECRET` in `.env`.
 
+**`scripts/fetch_science_news.py`** — Polls curated RSS feeds (Nature, Science Magazine, Ars Technica Science, MIT Tech Review, Quanta, DeepMind, OpenAI) and outputs normalized JSON of recent items. Used by the science-news skill as the first step of the daily AI-for-science curation. State (`data/science_news_seen.json`) prevents re-considering items across runs.
+
+**`scripts/extract_doi_citations.py`** — Given URLs of editorial articles (Nature News, Science Magazine), fetches each page, regex-extracts cited DOIs, enriches via CrossRef + S2 + OpenAlex, and outputs paper records in the same shape as `harvest.py`. Used by the daily-harvest skill to surface peer-reviewed papers cited in today's curated news, merging them into the Top-Tier list.
+
 ### Paper Registry (`data/paper_registry.json`)
 
 Tracks all DOIs across all runs (daily, weekly). Papers appearing in multiple sources are flagged as "important". The registry also records run history for coverage tracking.
 
 ### Claude Skills
 
-- **`.claude/skills/daily-harvest/`**: Daily journal-based harvest, LLM filtering, Jekyll post, push to main, tweet
+- **`.claude/skills/daily-harvest/`**: Daily journal-based harvest, LLM filtering, Jekyll post, push to main, tweet. Invokes science-news as a sub-step to add an "AI for Science" section and merge cited DOIs into the Top-Tier list.
 - **`.claude/skills/weekly-review/`**: Weekly keyword search, thematic synthesis, Jekyll post, push to main
+- **`.claude/skills/science-news/`**: Daily AI-for-science curation from RSS feeds. Filters/dedups/buckets ("How AI is changing research" / "Cross-discipline sparks"), produces a markdown fragment for daily-harvest to inject, flags editorial DOIs for enrichment.
+- **`.claude/skills/backfill-abstracts/`**: Scan posts for missing abstracts, fetch via script, translate to Chinese, patch both files
 
 ### Two-Tier Classification (harvest.py)
 
