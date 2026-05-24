@@ -143,8 +143,6 @@ highlight: "{{One sentence tweet-style summary of the most notable finding}}"
 
 {{2-3 sentence AI-generated summary of the day's most notable findings}}
 
-{{If /tmp/science_news_fragment.md is non-empty, paste its contents here verbatim. The fragment already starts with `## AI for Science` and includes its own subsections. If empty/missing, omit entirely — do not leave a placeholder.}}
-
 ---
 
 ## Table of Contents
@@ -176,6 +174,8 @@ highlight: "{{One sentence tweet-style summary of the most notable finding}}"
 
 {{...repeat the above block (### through ---) for each paper...}}
 
+{{If /tmp/science_news_fragment.md is non-empty, paste its contents here verbatim. The fragment already starts with `## AI for Science` and includes its own subsections. If empty/missing, omit entirely — do not leave a placeholder. This section appears AFTER all paper entries and BEFORE the Statistics section.}}
+
 ## Statistics
 
 | Metric | Count |
@@ -185,6 +185,7 @@ highlight: "{{One sentence tweet-style summary of the most notable finding}}"
 | Passed deterministic filter | {{N}} |
 | After LLM relevance filtering | {{N_selected}} |
 | Rejected (not relevant) | {{N_rejected}} |
+| AI for Science items picked | {{N_ai_news}} |
 
 ### Papers by journal
 
