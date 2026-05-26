@@ -143,6 +143,96 @@
       "url": "https://openai.com/index/virgin-atlantic",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01664-9": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/d41586-026-01664-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01665-8": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/d41586-026-01665-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01663-w": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/d41586-026-01663-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01666-7": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/d41586-026-01666-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01620-7": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/d41586-026-01620-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01621-6": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/d41586-026-01621-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01619-0": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/d41586-026-01619-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-49613-w": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/s41598-026-49613-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42003-026-10283-z": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/s42003-026-10283-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-53523-2": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/s41598-026-53523-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03113-x": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/s41592-026-03113-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03102-0": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.nature.com/articles/s41592-026-03102-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1137855": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1137865": {
+      "first_seen": "2026-05-26",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership": {
+      "first_seen": "2026-05-26",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
