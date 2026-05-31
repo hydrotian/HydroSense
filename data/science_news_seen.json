@@ -233,6 +233,42 @@
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s42003-026-10389-4": {
+      "first_seen": "2026-05-31",
+      "url": "https://www.nature.com/articles/s42003-026-10389-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138110": {
+      "first_seen": "2026-05-31",
+      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138093": {
+      "first_seen": "2026-05-31",
+      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=162533": {
+      "first_seen": "2026-05-31",
+      "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/boston-childrens-hospital": {
+      "first_seen": "2026-05-31",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/braintrust": {
+      "first_seen": "2026-05-31",
+      "url": "https://openai.com/index/braintrust",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
