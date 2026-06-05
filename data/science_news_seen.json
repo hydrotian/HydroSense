@@ -269,6 +269,192 @@
       "url": "https://openai.com/index/braintrust",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01610-9": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/d41586-026-01610-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10694-2": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/s41586-026-10694-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01764-6": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/d41586-026-01764-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01765-5": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/d41586-026-01765-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01789-x": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/d41586-026-01789-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01770-8": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/d41586-026-01770-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01623-4": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/d41586-026-01623-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41597-026-07375-0": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/s41597-026-07375-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-73986-1": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/s41467-026-73986-1",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/s41467-026-73878-4": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/s41467-026-73878-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42256-026-01249-1": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.nature.com/articles/s42256-026-01249-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zvissab": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.science.org/content/article/does-distant-alien-world-harbor-promising-signs-life-most-astrobiologists-say-no",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zatloch": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.science.org/content/article/ai-executives-join-call-stricter-regulation-synthetic-biology",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zt7fmhj": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.science.org/content/article/house-spending-panel-proposes-slight-raise-nih-2027",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zdk7655": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.science.org/doi/10.1126/science.zkowgvo": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.science.org/content/article/bees-just-did-something-no-other-insect-has-been-shown-do",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.ztu2pls": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.science.org/content/article/u-s-health-agencies-join-fight-against-ultraprocessed-foods-whatever-they-are",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zs6ywqt": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.science.org/content/article/democrats-house-china-committee-decry-dismissal-national-science-board",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z90mgki": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.science.org/content/article/after-empty-promises-string-theory-finds-new-uses",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138427": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138408": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138391": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138350": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138322": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=162645": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.quantamagazine.org/more-conversations-complex-questions-and-bold-ideas-in-season-five-of-the-joy-of-why-20260604/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=162658": {
+      "first_seen": "2026-06-05",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/endava-frontiers": {
+      "first_seen": "2026-06-05",
+      "url": "https://openai.com/index/endava-frontiers",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/chatgpt-memory-dreaming": {
+      "first_seen": "2026-06-05",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/biodefense-in-the-intelligence-age": {
+      "first_seen": "2026-06-05",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
+      "first_seen": "2026-06-05",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/wasmer": {
+      "first_seen": "2026-06-05",
+      "url": "https://openai.com/index/wasmer",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
