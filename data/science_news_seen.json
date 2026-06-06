@@ -455,6 +455,66 @@
       "url": "https://openai.com/index/wasmer",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01831-y": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.nature.com/articles/d41586-026-01831-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01827-8": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.nature.com/articles/d41586-026-01827-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01609-2": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.nature.com/articles/d41586-026-01609-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01781-5": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.nature.com/articles/d41586-026-01781-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z8sc2f7": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.science.org/content/article/protein-name-confusion-created-antibody-mix-affecting-hundreds-papers",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zksteff": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.science.org/content/article/satellite-maps-sinking-coastlines-come-under-scrutiny",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zdd4j2r": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.science.org/content/article/extinct-brown-bear-had-surprising-diet",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138452": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138437": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=162774": {
+      "first_seen": "2026-06-06",
+      "url": "https://www.quantamagazine.org/are-memories-transferable-or-edible-20260605/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
