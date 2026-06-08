@@ -515,6 +515,24 @@
       "url": "https://www.quantamagazine.org/are-memories-transferable-or-edible-20260605/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01821-0": {
+      "first_seen": "2026-06-08",
+      "url": "https://www.nature.com/articles/d41586-026-01821-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41746-026-02767-3": {
+      "first_seen": "2026-06-08",
+      "url": "https://www.nature.com/articles/s41746-026-02767-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138470": {
+      "first_seen": "2026-06-08",
+      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
