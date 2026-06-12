@@ -935,6 +935,198 @@
       "url": "https://openai.com/index/nextdoor",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10784-1": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s41586-026-10784-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01886-x": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/d41586-026-01886-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01129-z": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/d41586-026-01129-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01866-1": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/d41586-026-01866-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01857-2": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/d41586-026-01857-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-74207-5": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s41467-026-74207-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-44468-7": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s41598-026-44468-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03135-5": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s41592-026-03135-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-74125-6": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s41467-026-74125-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42255-026-01544-6": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s42255-026-01544-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41746-026-02827-8": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s41746-026-02827-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-74077-x": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s41467-026-74077-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42256-026-01244-6": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.nature.com/articles/s42256-026-01244-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z537a9c": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.science.org/content/article/after-years-opposition-mexico-s-president-reconsidering-fracking",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z7ccahj": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.science.org/content/article/how-did-cruise-ship-hantavirus-outbreak-start-scientists-are-investigating-new",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z98rzmy": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zouk18z": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.science.org/content/article/ocean-current-warms-europe-may-be-more-resilient-feared",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zy3no2z": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.science.org/content/article/laser-boosted-microscopes-could-reveal-new-drug-targets-sharpen-views-inside-cells",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z4680mg": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.science.org/content/article/if-scientists-discover-aliens-they-have-plan-disclosure-day",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zgn1i33": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.science.org/content/article/el-nino-has-begun-it-may-become-strongest-century",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138829": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138833": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138809": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138794": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138502": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138506": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138789": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=162989": {
+      "first_seen": "2026-06-12",
+      "url": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": {
+      "first_seen": "2026-06-12",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/preply": {
+      "first_seen": "2026-06-12",
+      "url": "https://openai.com/index/preply",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/bbva": {
+      "first_seen": "2026-06-12",
+      "url": "https://openai.com/index/bbva",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/openai-to-acquire-ona": {
+      "first_seen": "2026-06-12",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
