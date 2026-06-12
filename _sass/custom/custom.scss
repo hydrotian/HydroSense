@@ -14,6 +14,10 @@
 
   &:hover {
     text-decoration: none;
+
+    &.active {
+      color: #5b9bd5;
+    }
   }
 }
 
@@ -208,6 +212,7 @@ table {
 
     &.active {
       background-color: rgba(100, 181, 246, 0.1);
+      color: #64b5f6;
     }
   }
 
