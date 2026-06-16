@@ -1127,6 +1127,138 @@
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01916-8": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01916-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01914-w": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01914-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01915-9": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01915-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10768-1": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/s41586-026-10768-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01833-w": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01833-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01867-0": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01867-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01917-7": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01917-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01889-8": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01889-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01863-4": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01863-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01887-w": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01887-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01885-y": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01885-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-74122-9": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/s41467-026-74122-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03097-8": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.nature.com/articles/s41592-026-03097-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zonijed": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.science.org/content/article/ai-models-have-troubling-knack-discovering-legal-loopholes",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zi37r1s": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138591": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138983": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138953": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138948": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138552": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=163092": {
+      "first_seen": "2026-06-16",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-openai-partner-network": {
+      "first_seen": "2026-06-16",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
