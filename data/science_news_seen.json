@@ -1259,6 +1259,102 @@
       "url": "https://openai.com/index/introducing-openai-partner-network",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01903-z": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.nature.com/articles/d41586-026-01903-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01883-0": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.nature.com/articles/d41586-026-01883-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10770-7": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.nature.com/articles/s41586-026-10770-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01811-2": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.nature.com/articles/d41586-026-01811-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01877-y": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.nature.com/articles/d41586-026-01877-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01884-z": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.nature.com/articles/d41586-026-01884-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s44161-026-00815-5": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.nature.com/articles/s44161-026-00815-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z1ice3v": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.science.org/content/article/new-space-telescope-will-map-galaxies-ghostly-halos-and-streams",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zu0qu28": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.science.org/content/article/russia-s-plan-drill-superdeep-holes-arctic-revives-controversial-theory-endless-oil",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zvxir08": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.science.org/content/article/dismantling-key-ocean-telescope-raises-fears-u-s-retreat-marine-science",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138600": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138743": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138905": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139010": {
+      "first_seen": "2026-06-17",
+      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/": {
+      "first_seen": "2026-06-17",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/deployment-simulation": {
+      "first_seen": "2026-06-17",
+      "url": "https://openai.com/index/deployment-simulation",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
