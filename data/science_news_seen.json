@@ -1787,6 +1787,54 @@
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10812-0": {
+      "first_seen": "2026-06-20",
+      "url": "https://www.nature.com/articles/s41586-026-10812-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01948-0": {
+      "first_seen": "2026-06-20",
+      "url": "https://www.nature.com/articles/d41586-026-01948-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01963-1": {
+      "first_seen": "2026-06-20",
+      "url": "https://www.nature.com/articles/d41586-026-01963-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42003-026-10497-1": {
+      "first_seen": "2026-06-20",
+      "url": "https://www.nature.com/articles/s42003-026-10497-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zdnc5p4": {
+      "first_seen": "2026-06-20",
+      "url": "https://www.science.org/content/article/researchers-caught-crossfire-companies-and-government-grapple-over-ai-safety",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z5lvljh": {
+      "first_seen": "2026-06-20",
+      "url": "https://www.science.org/content/article/light-bottle-liquid-can-harvest-and-store-energy-multiple-sources",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139327": {
+      "first_seen": "2026-06-20",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139313": {
+      "first_seen": "2026-06-20",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
