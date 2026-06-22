@@ -1835,6 +1835,126 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10807-x": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/s41586-026-10807-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10800-4": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/s41586-026-10800-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10771-6": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/s41586-026-10771-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01949-z": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/d41586-026-01949-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01909-7": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/d41586-026-01909-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01954-2": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/d41586-026-01954-2",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-01801-4": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/d41586-026-01801-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01957-z": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/d41586-026-01957-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01802-3": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/d41586-026-01802-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01956-0": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.nature.com/articles/d41586-026-01956-0",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/": {
+      "first_seen": "2026-06-22",
+      "url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/": {
+      "first_seen": "2026-06-22",
+      "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139424": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139385": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138821": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=163336": {
+      "first_seen": "2026-06-22",
+      "url": "https://www.quantamagazine.org/a-dark-dimension-could-link-two-of-the-universes-great-unknowns-20260622/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/daybreak-securing-the-world": {
+      "first_seen": "2026-06-22",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/patch-the-planet": {
+      "first_seen": "2026-06-22",
+      "url": "https://openai.com/index/patch-the-planet",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/codex-maxxing-long-running-work": {
+      "first_seen": "2026-06-22",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+      "first_seen": "2026-06-22",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
