@@ -1955,6 +1955,84 @@
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01970-2": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.nature.com/articles/d41586-026-01970-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01971-1": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.nature.com/articles/d41586-026-01971-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01969-9": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.nature.com/articles/d41586-026-01969-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01972-0": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.nature.com/articles/d41586-026-01972-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-58583-y": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.nature.com/articles/s41598-026-58583-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41551-026-01694-8": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.nature.com/articles/s41551-026-01694-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41551-026-01701-y": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.nature.com/articles/s41551-026-01701-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zx9q02u": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.science.org/content/article/after-backlash-cdc-revises-plan-retire-research-monkeys-texas-sanctuary",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zhcbpte": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.science.org/content/article/interstellar-comet-unlike-anything-seen-our-solar-system",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z4xm08n": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1138562": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.technologyreview.com/?p=1138837": {
+      "first_seen": "2026-06-23",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/omio": {
+      "first_seen": "2026-06-23",
+      "url": "https://openai.com/index/omio",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
