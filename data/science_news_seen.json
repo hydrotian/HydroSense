@@ -2195,6 +2195,336 @@
       "url": "https://openai.com/index/gpt-5-immunology-mystery",
       "decision": "kept",
       "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41586-026-10813-z": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10813-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10810-2": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10810-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10568-7": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10568-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10767-2": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10767-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10567-8": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10567-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02032-3": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-02032-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01987-7": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01987-7",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-01986-8": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01986-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10685-3": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10685-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10593-6": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10593-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10697-z": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10697-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10704-3": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10704-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10688-0": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10688-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10683-5": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10683-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10599-0": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10599-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10662-w": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10662-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10702-5": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10702-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10674-6": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10674-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10698-y": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10698-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10681-7": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10681-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10625-1": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10625-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10677-3": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10677-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10696-0": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10696-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10684-4": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10684-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10670-w": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10670-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10708-z": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10708-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10678-2": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10678-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10647-9": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41586-026-10647-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01720-4": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01720-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01803-2": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01803-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01704-4": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01704-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01952-4": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01952-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01806-z": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01806-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01804-1": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01804-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01990-y": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01990-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01896-9": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01896-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01894-x": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01894-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01805-0": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/d41586-026-01805-0",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41467-026-74153-2": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.nature.com/articles/s41467-026-74153-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z66gg2m": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.science.org/content/article/universe-unexpectedly-stringy-which-could-unravel-theory-cosmos",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.ziacyin": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.science.org/content/article/migrating-sea-turtles-only-sort-know-where-they-re-going",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.znbitdz": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zmzwnav": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.science.org/content/article/after-menopause-ovaries-may-transform-organs-immune-powers",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zaz1qid": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.science.org/content/article/retraction-questions-claim-cancer-therapy-works-better-morning",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z66u4bw": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.science.org/content/article/why-were-mysterious-ancient-humans-found-african-cave-all-female",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z9gcoi8": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.science.org/content/article/inbreeding-didn-t-doom-neanderthals-study-suggests",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/": {
+      "first_seen": "2026-06-25",
+      "url": "https://arstechnica.com/science/2026/06/experimental-wine-bottle-tracks-oxygen-moving-through-the-cork/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139676": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139658": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139621": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139202": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=163304": {
+      "first_seen": "2026-06-25",
+      "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/": {
+      "first_seen": "2026-06-25",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/how-agents-are-transforming-work": {
+      "first_seen": "2026-06-25",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+      "first_seen": "2026-06-25",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
