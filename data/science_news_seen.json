@@ -2525,6 +2525,138 @@
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10829-5": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/s41586-026-10829-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10826-8": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/s41586-026-10826-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10792-1": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/s41586-026-10792-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01994-8": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/d41586-026-01994-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02028-z": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/d41586-026-02028-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02047-w": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/d41586-026-02047-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01978-8": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/d41586-026-01978-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01899-6": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/d41586-026-01899-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02036-z": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/d41586-026-02036-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02027-0": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.nature.com/articles/d41586-026-02027-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zwsaifa": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqdexmk": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/": {
+      "first_seen": "2026-06-26",
+      "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/": {
+      "first_seen": "2026-06-26",
+      "url": "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/": {
+      "first_seen": "2026-06-26",
+      "url": "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/": {
+      "first_seen": "2026-06-26",
+      "url": "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139760": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1137848": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139738": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139690": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139696": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=163520": {
+      "first_seen": "2026-06-26",
+      "url": "https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
