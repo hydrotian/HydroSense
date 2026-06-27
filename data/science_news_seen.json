@@ -2657,6 +2657,96 @@
       "url": "https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-does-it-show-up-everywhere-20260625/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02059-6": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.nature.com/articles/d41586-026-02059-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02055-w": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.nature.com/articles/d41586-026-02055-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01794-0": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.nature.com/articles/d41586-026-01794-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01976-w": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.nature.com/articles/d41586-026-01976-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01924-8": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.nature.com/articles/d41586-026-01924-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02043-0": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.nature.com/articles/d41586-026-02043-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02046-x": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.nature.com/articles/d41586-026-02046-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zlmsshz": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zelbqvc": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.science.org/content/article/nasa-s-cheapest-missions-deliver-less-scientific-bang-buck-study-finds",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z18sx2a": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.science.org/content/article/engineers-cram-100-billion-transistors-microchip",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/": {
+      "first_seen": "2026-06-27",
+      "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/": {
+      "first_seen": "2026-06-27",
+      "url": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139780": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=163481": {
+      "first_seen": "2026-06-27",
+      "url": "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-erdos-method-an-upgrade-20260626/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/previewing-gpt-5-6-sol": {
+      "first_seen": "2026-06-27",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
