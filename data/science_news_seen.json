@@ -2771,6 +2771,162 @@
       "url": "https://openai.com/index/hp-frontier-partnership",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02068-5": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/d41586-026-02068-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02070-x": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/d41586-026-02070-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02069-4": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/d41586-026-02069-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01873-2": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/d41586-026-01873-2",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41586-026-10815-x": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/s41586-026-10815-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02063-w": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/d41586-026-02063-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01137-z": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/d41586-026-01137-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01672-9": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/d41586-026-01672-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01979-7": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/d41586-026-01979-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-50029-9": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/s41598-026-50029-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03128-4": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/s41592-026-03128-4",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/s41564-026-02412-5": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/s41564-026-02412-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41591-026-04494-4": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/s41591-026-04494-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43588-026-00999-7": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/s43588-026-00999-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-74575-y": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.nature.com/articles/s41467-026-74575-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z6ma58n": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.science.org/content/article/nih-likely-award-fewer-grants-it-races-spend-2026-budget",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zrafutp": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.science.org/content/article/scientists-have-only-discovered-tiny-fraction-living-insect-species",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/": {
+      "first_seen": "2026-06-30",
+      "url": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/": {
+      "first_seen": "2026-06-30",
+      "url": "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/": {
+      "first_seen": "2026-06-30",
+      "url": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/": {
+      "first_seen": "2026-06-30",
+      "url": "https://arstechnica.com/space/2026/06/think-tank-games-out-how-to-respond-to-disaster-scenarios-in-space-warfare/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139849": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139635": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1139834": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=163714": {
+      "first_seen": "2026-06-30",
+      "url": "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stronger-20260629/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/mapping-ai-jobs-transition-eu": {
+      "first_seen": "2026-06-30",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
