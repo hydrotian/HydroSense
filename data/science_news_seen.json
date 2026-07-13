@@ -3629,6 +3629,42 @@
       "url": "https://openai.com/index/mufg",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01339-5": {
+      "first_seen": "2026-07-13",
+      "url": "https://www.nature.com/articles/d41586-026-01339-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02153-9": {
+      "first_seen": "2026-07-13",
+      "url": "https://www.nature.com/articles/d41586-026-02153-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41587-026-03218-w": {
+      "first_seen": "2026-07-13",
+      "url": "https://www.nature.com/articles/s41587-026-03218-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/": {
+      "first_seen": "2026-07-13",
+      "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/": {
+      "first_seen": "2026-07-13",
+      "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/": {
+      "first_seen": "2026-07-13",
+      "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
