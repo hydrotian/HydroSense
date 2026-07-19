@@ -3629,6 +3629,30 @@
       "url": "https://openai.com/index/mufg",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/": {
+      "first_seen": "2026-07-19",
+      "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/": {
+      "first_seen": "2026-07-19",
+      "url": "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140640": {
+      "first_seen": "2026-07-19",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=164237": {
+      "first_seen": "2026-07-19",
+      "url": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
