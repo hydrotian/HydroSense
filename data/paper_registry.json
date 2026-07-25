@@ -146892,6 +146892,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl124127": {
+      "title": "Spatially Heterogeneous Impacts of Urbanization in Reshaping the Dry and Hot Extremes Across Chinese Cities",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-25",
+      "sources": [
+        "daily-2026-07-17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122790": {
+      "title": "From Shadow to Fertilizer: Slanted Sunlight in 3D Radiation Enhances Cloud Condensate, Size, and Lifetime of Shallow Cumulus",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-25",
+      "sources": [
+        "daily-2026-07-17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123310": {
+      "title": "Fracture–Matrix Flow Partitioning Governs Retention Regime Transitions in Unsaturated Fractured Rock",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-25",
+      "sources": [
+        "daily-2026-07-17"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123043": {
+      "title": "Temporal Heterogeneity of In Situ Ocean Observing Capacity Could Cause an Artificial Intensification of Extreme Warm Water Events Globally",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-25",
+      "sources": [
+        "daily-2026-07-17"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154330,6 +154370,12 @@
       "timestamp": "2026-07-24T10:18:24.190829",
       "date": "2026-07-16",
       "papers_found": 5
+    },
+    "daily-2026-07-17": {
+      "type": "daily",
+      "timestamp": "2026-07-25T10:13:57.918733",
+      "date": "2026-07-17",
+      "papers_found": 4
     }
   }
 }
