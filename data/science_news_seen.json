@@ -3653,6 +3653,60 @@
       "url": "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-mind-20260717/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.znuz75p": {
+      "first_seen": "2026-07-26",
+      "url": "https://www.science.org/content/article/are-dolphins-only-animals-call-each-other-name",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z8muq9c": {
+      "first_seen": "2026-07-26",
+      "url": "https://www.science.org/content/article/nih-again-terminating-grants-trump-administration-dislikes",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/": {
+      "first_seen": "2026-07-26",
+      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/": {
+      "first_seen": "2026-07-26",
+      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/": {
+      "first_seen": "2026-07-26",
+      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/": {
+      "first_seen": "2026-07-26",
+      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/": {
+      "first_seen": "2026-07-26",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140790": {
+      "first_seen": "2026-07-26",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140776": {
+      "first_seen": "2026-07-26",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
