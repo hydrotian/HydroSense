@@ -146952,6 +146952,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/hess-30-4481-2026": {
+      "title": "Climate and landscape jointly control European streamflow behaviour",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-07-27",
+      "sources": [
+        "weekly-2026-W29"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ae8c54": {
+      "title": "Enhanced seasonal soil moisture forecasts by integrating APCC multi-model ensemble predictions into a land surface model framework",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-07-27",
+      "sources": [
+        "weekly-2026-W29"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154408,6 +154428,29 @@
       "timestamp": "2026-07-27T10:14:27.297729",
       "date": "2026-07-19",
       "papers_found": 0
+    },
+    "weekly-2026-W29": {
+      "type": "weekly",
+      "timestamp": "2026-07-27T10:18:56.566013",
+      "date": "2026-07-27",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
