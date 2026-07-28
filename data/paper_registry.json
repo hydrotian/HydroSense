@@ -146972,6 +146972,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2612961123": {
+      "title": "The 2026 western US snow drought was about four times more likely due to climate change",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-07-28",
+      "sources": [
+        "daily-2026-07-20"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123239": {
+      "title": "Assessing Dynamical Contributions to SWOT Sea Surface Height in an Internal Tide Hotspot",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-28",
+      "sources": [
+        "daily-2026-07-20"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2024rg000868": {
+      "title": "River Sand and Gravel Mining: Global Drivers, Impacts, and Pathways for Sustainable Management",
+      "journal": "Reviews of Geophysics",
+      "first_seen": "2026-07-28",
+      "sources": [
+        "daily-2026-07-20"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154451,6 +154481,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-07-20": {
+      "type": "daily",
+      "timestamp": "2026-07-28T10:20:01.075173",
+      "date": "2026-07-20",
+      "papers_found": 3
     }
   }
 }
