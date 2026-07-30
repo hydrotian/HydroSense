@@ -147002,6 +147002,76 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41561-026-02050-w": {
+      "title": "European summer drying largely driven by atmospheric circulation changes since the 1980s",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-07-30",
+      "sources": [
+        "daily-2026-07-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl121975": {
+      "title": "Interseasonal Hysteresis and Linearity Among Surface Energy Fluxes and Soil Water Content",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-30",
+      "sources": [
+        "daily-2026-07-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl117592": {
+      "title": "Maximum Temperature Forecasts in the Yangtze River Valley Using a Predictor-Correlation-Based Machine Learning Method",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-30",
+      "sources": [
+        "daily-2026-07-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl121978": {
+      "title": "A Strictly Geostrophic Product of Sea-Surface Velocities From the SWOT Fast-Sampling Phase",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-30",
+      "sources": [
+        "daily-2026-07-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02697-8": {
+      "title": "Ecological novelty induced by climate change",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-07-30",
+      "sources": [
+        "daily-2026-07-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120337": {
+      "title": "Enhanced Orbital-Forcing Sensitivity of Northern High Latitude Temperatures in the Late Cretaceous",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-30",
+      "sources": [
+        "daily-2026-07-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123083": {
+      "title": "Reassessing Last Glacial Maximum Cooling With Proxy-Constrained Emergent Relationships",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-30",
+      "sources": [
+        "daily-2026-07-22"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154487,6 +154557,12 @@
       "timestamp": "2026-07-28T10:20:01.075173",
       "date": "2026-07-20",
       "papers_found": 3
+    },
+    "daily-2026-07-22": {
+      "type": "daily",
+      "timestamp": "2026-07-30T10:20:31.490907",
+      "date": "2026-07-22",
+      "papers_found": 7
     }
   }
 }
