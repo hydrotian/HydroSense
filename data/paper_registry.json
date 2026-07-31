@@ -147072,6 +147072,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-76024-2": {
+      "title": "Disproportionate exposure to extreme floods in historically redlined U.S. communities",
+      "journal": "Nature Communications",
+      "first_seen": "2026-07-31",
+      "sources": [
+        "daily-2026-07-23"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02718-6": {
+      "title": "Global vessel carbon dioxide emission from navigable rivers",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-07-31",
+      "sources": [
+        "daily-2026-07-23"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123073": {
+      "title": "Asymmetry of Land Surface Temperature Response to Forest Gain and Loss: The Role of Land Cover Conversions",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-07-31",
+      "sources": [
+        "daily-2026-07-23"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154563,6 +154593,12 @@
       "timestamp": "2026-07-30T10:20:31.490907",
       "date": "2026-07-22",
       "papers_found": 7
+    },
+    "daily-2026-07-23": {
+      "type": "daily",
+      "timestamp": "2026-07-31T10:19:41.550638",
+      "date": "2026-07-23",
+      "papers_found": 3
     }
   }
 }
