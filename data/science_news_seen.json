@@ -4337,6 +4337,120 @@
       "url": "https://openai.com/index/avatarin",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10921-w": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.nature.com/articles/s41586-026-10921-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02419-2": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.nature.com/articles/d41586-026-02419-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02334-6": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.nature.com/articles/d41586-026-02334-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02362-2": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.nature.com/articles/d41586-026-02362-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02274-1": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.nature.com/articles/d41586-026-02274-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02397-5": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.nature.com/articles/d41586-026-02397-5",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41467-026-76230-y": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.nature.com/articles/s41467-026-76230-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zgjqlml": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.science.org/content/article/what-triggered-one-most-dramatic-changes-earth-s-history",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z6cupei": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.science.org/content/article/these-moths-smell-their-wings",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/": {
+      "first_seen": "2026-08-01",
+      "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/": {
+      "first_seen": "2026-08-01",
+      "url": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/": {
+      "first_seen": "2026-08-01",
+      "url": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/": {
+      "first_seen": "2026-08-01",
+      "url": "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/": {
+      "first_seen": "2026-08-01",
+      "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140999": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=165277": {
+      "first_seen": "2026-08-01",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://openai.com/index/ten-advances-in-mathematics": {
+      "first_seen": "2026-08-01",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/building-abundant-intelligence": {
+      "first_seen": "2026-08-01",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
+      "first_seen": "2026-08-01",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

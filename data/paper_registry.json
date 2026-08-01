@@ -147102,6 +147102,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123991": {
+      "title": "Co-Occurring Flash and Standard Droughts Amplify Global Fire Behavior",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-01",
+      "sources": [
+        "daily-2026-07-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025rg000908": {
+      "title": "Changing Dynamics of the Arctic Ocean-Ice System: Drivers, Feedbacks, and Future Trajectories",
+      "journal": "Reviews of Geophysics",
+      "first_seen": "2026-08-01",
+      "sources": [
+        "daily-2026-07-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-75637-x": {
+      "title": "Upwind terrestrial influences on soil moisture variability across South America",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-01",
+      "sources": [
+        "daily-2026-07-24"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154598,6 +154628,12 @@
       "type": "daily",
       "timestamp": "2026-07-31T10:19:41.550638",
       "date": "2026-07-23",
+      "papers_found": 3
+    },
+    "daily-2026-07-24": {
+      "type": "daily",
+      "timestamp": "2026-08-01T10:18:24.595159",
+      "date": "2026-07-24",
       "papers_found": 3
     }
   }
