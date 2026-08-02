@@ -147132,6 +147132,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122788": {
+      "title": "Extreme Events Reshape Flood Hazards Through Sediment-Induced Channel Change in Southern Taiwan",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-02",
+      "sources": [
+        "daily-2026-07-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122843": {
+      "title": "Mass Loss From Thwaites Glacier Continues Even Without Ocean Melting",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-02",
+      "sources": [
+        "daily-2026-07-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123743": {
+      "title": "Hydrological Threshold for Optimizing Wetland Climate Mitigation",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-02",
+      "sources": [
+        "daily-2026-07-25"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154634,6 +154664,12 @@
       "type": "daily",
       "timestamp": "2026-08-01T10:18:24.595159",
       "date": "2026-07-24",
+      "papers_found": 3
+    },
+    "daily-2026-07-25": {
+      "type": "daily",
+      "timestamp": "2026-08-02T10:14:24.887931",
+      "date": "2026-07-25",
       "papers_found": 3
     }
   }

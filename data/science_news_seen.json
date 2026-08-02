@@ -4451,6 +4451,30 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-61258-3": {
+      "first_seen": "2026-08-02",
+      "url": "https://www.nature.com/articles/s41598-026-61258-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76277-x": {
+      "first_seen": "2026-08-02",
+      "url": "https://www.nature.com/articles/s41467-026-76277-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/": {
+      "first_seen": "2026-08-02",
+      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/": {
+      "first_seen": "2026-08-02",
+      "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
