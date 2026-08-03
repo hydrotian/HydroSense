@@ -147132,6 +147132,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/essd-18-5187-2026": {
+      "title": "The UWO dataset – long-term observations from a full-scale field laboratory to better understand urban hydrology at small spatio-temporal scales",
+      "journal": "Earth System Science Data",
+      "first_seen": "2026-08-03",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-25-0314.1": {
+      "title": "Flash drought characteristics based on three identification methods in the North China Plain, China",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-08-03",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-18-5485-2026": {
+      "title": "EARLS: a runoff reconstruction dataset for Europe",
+      "journal": "Earth System Science Data",
+      "first_seen": "2026-08-03",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-4649-2026": {
+      "title": "The 2022-2023 snow drought in the Italian Alps doubled glacier contribution to summer streamflow",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-03",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s40562-026-00500-2": {
+      "title": "Improving irrigation and evapotranspiration simulation by incorporating seasonal irrigation map into a land surface model",
+      "journal": "Geoscience Letters",
+      "first_seen": "2026-08-03",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154635,6 +154685,35 @@
       "timestamp": "2026-08-01T10:18:24.595159",
       "date": "2026-07-24",
       "papers_found": 3
+    },
+    "daily-2026-07-26": {
+      "type": "daily",
+      "timestamp": "2026-08-03T10:14:08.860587",
+      "date": "2026-07-26",
+      "papers_found": 0
+    },
+    "weekly-2026-W30": {
+      "type": "weekly",
+      "timestamp": "2026-08-03T10:21:07.609999",
+      "date": "2026-08-03",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }

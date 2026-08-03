@@ -4451,6 +4451,42 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02339-1": {
+      "first_seen": "2026-08-03",
+      "url": "https://www.nature.com/articles/d41586-026-02339-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01360-8": {
+      "first_seen": "2026-08-03",
+      "url": "https://www.nature.com/articles/d41586-026-01360-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02387-7": {
+      "first_seen": "2026-08-03",
+      "url": "https://www.nature.com/articles/d41586-026-02387-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-75326-9": {
+      "first_seen": "2026-08-03",
+      "url": "https://www.nature.com/articles/s41467-026-75326-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/": {
+      "first_seen": "2026-08-03",
+      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141009": {
+      "first_seen": "2026-08-03",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
