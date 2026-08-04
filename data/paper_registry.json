@@ -147018,10 +147018,11 @@
       "journal": "Geophysical Research Letters",
       "first_seen": "2026-07-30",
       "sources": [
-        "daily-2026-07-22"
+        "daily-2026-07-22",
+        "weekly-2026-W30"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1029/2025gl117592": {
       "title": "Maximum Temperature Forecasts in the Yangtze River Valley Using a Predictor-Correlation-Based Machine Learning Method",
@@ -147188,10 +147189,11 @@
       "journal": "Nature Communications",
       "first_seen": "2026-08-04",
       "sources": [
-        "daily-2026-07-27"
+        "daily-2026-07-27",
+        "weekly-2026-W30"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-026-76033-1": {
       "title": "Microbial drought resistance is achieved at the expense of soil carbon loss",
@@ -147199,6 +147201,176 @@
       "first_seen": "2026-08-04",
       "sources": [
         "daily-2026-07-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-4667-2026": {
+      "title": "Hybrid models generalize better to warmer climate conditions than process-based or LSTM models",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/essd-18-5485-2026": {
+      "title": "EARLS: a runoff reconstruction dataset for 5,030 European catchments (1951-2023)",
+      "journal": "Earth System Science Data",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2026.136064": {
+      "title": "AIFL: A global daily streamflow forecasting model using LSTM at 21,428 stations",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-026-03847-8": {
+      "title": "U.S. rivers transporting more suspended sediment, often in less time",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00382-026-08269-y": {
+      "title": "Downscaling with AI reveals large role of internal variability in regional climate projections",
+      "journal": "Climate Dynamics",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1186/s40562-026-00500-2": {
+      "title": "Improving irrigation and evapotranspiration simulation in CLM using a seasonal irrigation map",
+      "journal": "Geoscience Letters",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/tc-20-4099-2026": {
+      "title": "Assessing land cover effect on ISBA snow water equivalent simulation over Europe",
+      "journal": "The Cryosphere",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-4629-2026": {
+      "title": "Benchmarking reservoir operation schemes for large-scale hydrological models",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-4611-2026": {
+      "title": "Four decades of full-depth reservoir temperature profiles reveal intensifying thermal stratification",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s40710-026-00860-z": {
+      "title": "Coupled hydrological-deep learning models reveal ENSO effects on hydropower generation",
+      "journal": "Environmental Processes",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ae8e90": {
+      "title": "Reliance on daily mean streamflow biases flood seasonality metrics",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jcli-d-25-0314.1": {
+      "title": "Flash drought characteristics in North China Plain and projected changes under warming",
+      "journal": "Journal of Climate",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-4649-2026": {
+      "title": "2022-2023 snow drought doubled glacier contribution to Alpine streamflow",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2026.103749": {
+      "title": "Future streamflow extremes in the Vakhsh River, Amu Darya Basin under climate change",
+      "journal": "Journal of Hydrology: Regional Studies",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/jhm-d-25-0176.1": {
+      "title": "Gridded precipitation sources affect streamflow prediction during Tropical Cyclone Beryl",
+      "journal": "Journal of Hydrometeorology",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/1752-1688.70139": {
+      "title": "Increasing SWE spatial resolution via SNOTEL and low-cost sensor network integration",
+      "journal": "Journal of the American Water Resources Association",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ae8fec": {
+      "title": "Rainfall-to-total precipitation bias correction over China 1961-2022",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "weekly-2026-W30"
       ],
       "appearance_count": 1,
       "important": false
@@ -154711,6 +154883,29 @@
       "timestamp": "2026-08-04T10:23:48.576791",
       "date": "2026-07-27",
       "papers_found": 7
+    },
+    "weekly-2026-W30": {
+      "type": "weekly",
+      "timestamp": "2026-08-04T10:46:24.525852",
+      "date": "2026-08-04",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
