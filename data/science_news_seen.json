@@ -4451,6 +4451,186 @@
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02426-3": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02426-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02424-5": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02424-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02427-2": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02427-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02425-4": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02425-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02389-5": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02389-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02022-5": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02022-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02385-9": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02385-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10957-y": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/s41586-026-10957-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10943-4": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/s41586-026-10943-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02339-1": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02339-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02372-0": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02372-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02388-6": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02388-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02398-4": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02398-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01850-9": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-01850-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01360-8": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-01360-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02436-1": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02436-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02387-7": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02387-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02083-6": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/d41586-026-02083-6",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41591-026-04553-w": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/s41591-026-04553-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-64076-9": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/s41598-026-64076-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-75326-9": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.nature.com/articles/s41467-026-75326-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z5r6v9y": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.science.org/content/article/major-highway-human-nervous-system-gets-complete-road-map",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/": {
+      "first_seen": "2026-08-04",
+      "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141056": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141039": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141009": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=165323": {
+      "first_seen": "2026-08-04",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://openai.com/index/apple-is-getting-this-wrong": {
+      "first_seen": "2026-08-04",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live": {
+      "first_seen": "2026-08-04",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/circles": {
+      "first_seen": "2026-08-04",
+      "url": "https://openai.com/index/circles",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
