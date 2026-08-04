@@ -147132,6 +147132,76 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2526041123": {
+      "title": "Abrupt transition to irreversible damage in the overdrafted Sacramento Valley aquifer system",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "daily-2026-07-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2610752123": {
+      "title": "Rapid acceleration of ice-cover loss from Northern Hemisphere lakes above critical air temperature thresholds",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "daily-2026-07-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl121382": {
+      "title": "Orographic Effects on Precipitation From Hurricane Helene",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "daily-2026-07-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02692-z": {
+      "title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "daily-2026-07-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-76005-5": {
+      "title": "The saline groundwater legacy of a large buried coastal paleo-estuary",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "daily-2026-07-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-76078-2": {
+      "title": "Balancing energy, water, and ecology through renewable energy transitions in the Yellow River Basin",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "daily-2026-07-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-76033-1": {
+      "title": "Microbial drought resistance is achieved at the expense of soil carbon loss",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-04",
+      "sources": [
+        "daily-2026-07-27"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154635,6 +154705,12 @@
       "timestamp": "2026-08-01T10:18:24.595159",
       "date": "2026-07-24",
       "papers_found": 3
+    },
+    "daily-2026-07-27": {
+      "type": "daily",
+      "timestamp": "2026-08-04T10:23:48.576791",
+      "date": "2026-07-27",
+      "papers_found": 7
     }
   }
 }
