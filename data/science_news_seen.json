@@ -4631,6 +4631,114 @@
       "url": "https://openai.com/index/circles",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02386-8": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-02386-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10958-x": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/s41586-026-10958-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02379-7": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-02379-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02428-1": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-02428-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02350-6": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-02350-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02358-y": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-02358-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02384-w": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-02384-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02288-9": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-02288-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02437-0": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-02437-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01845-6": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.nature.com/articles/d41586-026-01845-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zvs7st8": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.science.org/content/article/lucky-dive-scientists-get-front-row-view-creation-earth-s-surface",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z031k3h": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.science.org/content/article/weekly-anti-hiv-pill-nears-market-vaccine-research-faces-new-hurdles",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zoikk0c": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.science.org/content/article/nasa-mission-predicts-solar-explosion-s-arrival-earth-stunning-precision",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z2v2318": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.science.org/content/article/antimalaria-pesticide-may-have-backfired-helping-mosquitoes-find-love",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141200": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141098": {
+      "first_seen": "2026-08-05",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
+      "first_seen": "2026-08-05",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/learn-teach-chatgpt-work-codex": {
+      "first_seen": "2026-08-05",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
