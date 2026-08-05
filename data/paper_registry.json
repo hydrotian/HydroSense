@@ -147374,6 +147374,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122592": {
+      "title": "Rapid Morphological Changes in the Intertidal Zone of the Ganges-Brahmaputra Delta Revealed by SWOT Altimetry Mission",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-05",
+      "sources": [
+        "daily-2026-07-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-75710-5": {
+      "title": "Coastal flooding at predictable hours",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-05",
+      "sources": [
+        "daily-2026-07-28"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154906,6 +154926,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-07-28": {
+      "type": "daily",
+      "timestamp": "2026-08-05T10:19:59.725924",
+      "date": "2026-07-28",
+      "papers_found": 2
     }
   }
 }
