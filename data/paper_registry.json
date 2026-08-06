@@ -147394,6 +147394,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-75938-1": {
+      "title": "Improving flood detection with large-scale dashboard camera data",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-06",
+      "sources": [
+        "daily-2026-07-29"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154932,6 +154942,12 @@
       "timestamp": "2026-08-05T10:19:59.725924",
       "date": "2026-07-28",
       "papers_found": 2
+    },
+    "daily-2026-07-29": {
+      "type": "daily",
+      "timestamp": "2026-08-06T10:21:46.371203",
+      "date": "2026-07-29",
+      "papers_found": 1
     }
   }
 }
