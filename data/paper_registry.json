@@ -147404,6 +147404,76 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41561-026-02040-y": {
+      "title": "Threefold increase in atmospheric-riverine compound heatwaves under climate change",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "daily-2026-07-30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-76049-7": {
+      "title": "Greenhouse warming exacerbates El Nino-induced Indian monsoon droughts",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "daily-2026-07-30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123641": {
+      "title": "Time-Varying Hydroclimatic and Oceanic Controls on Arctic Submarine Groundwater Discharge Inferred Using Explainable AI",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "daily-2026-07-30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120504": {
+      "title": "Improved Representation of Surface Emissivity Effects on Longwave Radiation in a Coupled Earth System Model",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "daily-2026-07-30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-025-61087-4": {
+      "title": "Benchmark dataset and deep learning method for global tropical cyclone forecasting",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "daily-2026-07-30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s43247-026-03754-y": {
+      "title": "Forecasts of strong tropical cyclones improved by incorporating ocean waves at air-sea interface",
+      "journal": "Communications Earth & Environment",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "daily-2026-07-30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41612-026-01478-6": {
+      "title": "Beyond a single rapid intensification threshold: a continuous intensification rate index for tropical cyclones using vortex-scale machine learning",
+      "journal": "npj Climate and Atmospheric Science",
+      "first_seen": "2026-08-07",
+      "sources": [
+        "daily-2026-07-30"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -154948,6 +155018,12 @@
       "timestamp": "2026-08-06T10:21:46.371203",
       "date": "2026-07-29",
       "papers_found": 1
+    },
+    "daily-2026-07-30": {
+      "type": "daily",
+      "timestamp": "2026-08-07T10:24:08.685473",
+      "date": "2026-07-30",
+      "papers_found": 7
     }
   }
 }

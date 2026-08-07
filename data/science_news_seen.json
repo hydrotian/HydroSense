@@ -4739,6 +4739,174 @@
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10953-2": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.nature.com/articles/s41586-026-10953-2",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-02429-0": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.nature.com/articles/d41586-026-02429-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02360-4": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.nature.com/articles/d41586-026-02360-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02458-9": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.nature.com/articles/d41586-026-02458-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02430-7": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.nature.com/articles/d41586-026-02430-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02235-8": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.nature.com/articles/d41586-026-02235-8",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-02460-1": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.nature.com/articles/d41586-026-02460-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03192-w": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.nature.com/articles/s41592-026-03192-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zyjqzn5": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.science.org/content/article/global-warming-coming-countryside",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zyyrlyn": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z53pkqw": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.science.org/content/article/tau-protein-can-sneak-brain-cells-energy-factories-and-wreak-havoc",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zf5sff9": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.science.org/content/article/astrophysicists-find-best-evidence-yet-galaxies-get-some-spin-birth",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z5mhpv4": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.science.org/content/article/covid-19-can-wake-dormant-viruses-body-large-study-confirms",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zkrzkqf": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.science.org/content/article/neanderthal-growth-gene-turns-modern-humans-muscle-heads",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/": {
+      "first_seen": "2026-08-07",
+      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/": {
+      "first_seen": "2026-08-07",
+      "url": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/": {
+      "first_seen": "2026-08-07",
+      "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/": {
+      "first_seen": "2026-08-07",
+      "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141278": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141230": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141212": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=165510": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasure-20260806/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=165479": {
+      "first_seen": "2026-08-07",
+      "url": "https://www.quantamagazine.org/corals-spin-tiny-vortices-to-get-oxygen-but-not-if-its-too-hot-20260805/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": {
+      "first_seen": "2026-08-07",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/hsp-gruppe": {
+      "first_seen": "2026-08-07",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": {
+      "first_seen": "2026-08-07",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai": {
+      "first_seen": "2026-08-07",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work": {
+      "first_seen": "2026-08-07",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
