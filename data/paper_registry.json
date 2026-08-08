@@ -147474,6 +147474,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41561-026-02060-8": {
+      "title": "Limited remineralization of Arctic permafrost-derived organic carbon in nearshore marine sediments",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-08-08",
+      "sources": [
+        "daily-2026-07-31"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-026-02059-1": {
+      "title": "Himalayan rivers reflect rainfall patterns, not river piracy",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-08-08",
+      "sources": [
+        "daily-2026-07-31"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-026-02061-7": {
+      "title": "Reply to: Himalaya rivers reflect rainfall patterns, not river piracy",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-08-08",
+      "sources": [
+        "daily-2026-07-31"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155024,6 +155054,12 @@
       "timestamp": "2026-08-07T10:24:08.685473",
       "date": "2026-07-30",
       "papers_found": 7
+    },
+    "daily-2026-07-31": {
+      "type": "daily",
+      "timestamp": "2026-08-08T10:16:29.952232",
+      "date": "2026-07-31",
+      "papers_found": 3
     }
   }
 }
