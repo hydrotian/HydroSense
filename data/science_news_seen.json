@@ -4907,6 +4907,78 @@
       "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02488-3": {
+      "first_seen": "2026-08-08",
+      "url": "https://www.nature.com/articles/d41586-026-02488-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02462-z": {
+      "first_seen": "2026-08-08",
+      "url": "https://www.nature.com/articles/d41586-026-02462-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41571-026-01189-0": {
+      "first_seen": "2026-08-08",
+      "url": "https://www.nature.com/articles/s41571-026-01189-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zwwqw7w": {
+      "first_seen": "2026-08-08",
+      "url": "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/": {
+      "first_seen": "2026-08-08",
+      "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/": {
+      "first_seen": "2026-08-08",
+      "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/": {
+      "first_seen": "2026-08-08",
+      "url": "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/": {
+      "first_seen": "2026-08-08",
+      "url": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141389": {
+      "first_seen": "2026-08-08",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141105": {
+      "first_seen": "2026-08-08",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=165569": {
+      "first_seen": "2026-08-08",
+      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+      "first_seen": "2026-08-08",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
