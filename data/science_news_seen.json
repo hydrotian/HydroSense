@@ -5003,6 +5003,42 @@
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
       "decision": "kept",
       "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41586-026-10984-9": {
+      "first_seen": "2026-08-10",
+      "url": "https://www.nature.com/articles/s41586-026-10984-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02447-y": {
+      "first_seen": "2026-08-10",
+      "url": "https://www.nature.com/articles/d41586-026-02447-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01681-8": {
+      "first_seen": "2026-08-10",
+      "url": "https://www.nature.com/articles/d41586-026-01681-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/": {
+      "first_seen": "2026-08-10",
+      "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.technologyreview.com/?p=1141384": {
+      "first_seen": "2026-08-10",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.technologyreview.com/?p=1141511": {
+      "first_seen": "2026-08-10",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
