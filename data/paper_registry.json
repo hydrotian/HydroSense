@@ -147524,6 +147524,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/hess-30-4823-2026": {
+      "title": "Enhancing runoff-infiltration partitioning in the SVS land surface model improves streamflow simulations under frozen soil conditions",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-10",
+      "sources": [
+        "weekly-2026-W31"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-6941-2026": {
+      "title": "The TIPMIP Earth system model experiment protocol: phase 1",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-08-10",
+      "sources": [
+        "weekly-2026-W31"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155092,6 +155112,29 @@
       "timestamp": "2026-08-10T10:17:10.366667",
       "date": "2026-08-02",
       "papers_found": 0
+    },
+    "weekly-2026-W31": {
+      "type": "weekly",
+      "timestamp": "2026-08-10T10:24:33.073397",
+      "date": "2026-08-10",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
