@@ -147544,6 +147544,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2529389123": {
+      "title": "Engineering and land use intensified climate-driven Yangtze River flood hazards since the Little Ice Age",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-08-11",
+      "sources": [
+        "daily-2026-08-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2608894123": {
+      "title": "Controls on glacial erosion rates revealed by cosmogenic nuclide measurements in southeastern Alaska",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-08-11",
+      "sources": [
+        "daily-2026-08-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-026-00675-0": {
+      "title": "Variable scale domains reconcile continuous and patchy carbon dynamics in river networks",
+      "journal": "Nature Water",
+      "first_seen": "2026-08-11",
+      "sources": [
+        "daily-2026-08-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-76303-y": {
+      "title": "Hydrological regimes and drainage systems of aerial rivers across South America",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-11",
+      "sources": [
+        "daily-2026-08-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-76311-y": {
+      "title": "Early-mid Holocene Ross Sea extreme wave heights reflect sea ice retreat and ocean-atmosphere interactions",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-11",
+      "sources": [
+        "daily-2026-08-03"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155135,6 +155185,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-08-03": {
+      "type": "daily",
+      "timestamp": "2026-08-11T10:24:31.021277",
+      "date": "2026-08-03",
+      "papers_found": 5
     }
   }
 }
