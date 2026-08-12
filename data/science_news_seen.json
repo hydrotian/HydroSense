@@ -5231,6 +5231,168 @@
       "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02448-x": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10991-w": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/s41586-026-10991-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10947-0": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/s41586-026-10947-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02431-6": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02431-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02380-0": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02380-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02454-z": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02454-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02374-y": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02374-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02452-1": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02452-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02489-2": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02489-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02142-y": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02142-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02449-w": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/d41586-026-02449-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41551-026-01760-1": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/s41551-026-01760-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41587-026-03144-x": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/s41587-026-03144-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76429-z": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/s41467-026-76429-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76531-2": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.nature.com/articles/s41467-026-76531-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z7h4e51": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.science.org/content/article/mismatched-vaccine-being-rolled-out-against-ebola-outbreak",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z8qk1yy": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.science.org/content/article/halted-dam-releases-threaten-colorado-river-ecosystems",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z4dao2g": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.science.org/content/article/behold-glueball-strange-new-form-matter",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zgki7tv": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.ztv90cv": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.science.org/content/article/gut-microbes-may-help-wild-horses-evolve-survive-harsh-canadian-winters",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zb6sdcz": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.science.org/content/article/newly-discovered-virus-sickening-cattle-western-europe",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/": {
+      "first_seen": "2026-08-12",
+      "url": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141605": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141635": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141610": {
+      "first_seen": "2026-08-12",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/testing-ads-in-chatgpt": {
+      "first_seen": "2026-08-12",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws": {
+      "first_seen": "2026-08-12",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
