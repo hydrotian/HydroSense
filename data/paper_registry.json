@@ -147594,6 +147594,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2535274123": {
+      "title": "Developmental plasticity under human management shaped cereal evolution prior to domestication in the Early Holocene southern Levant",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-08-12",
+      "sources": [
+        "daily-2026-08-04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-76096-0": {
+      "title": "Coupled air–sea interactions drove and sustained the 2013–2016 North Pacific marine heatwave",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-12",
+      "sources": [
+        "daily-2026-08-04"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155191,6 +155211,12 @@
       "timestamp": "2026-08-11T10:24:31.021277",
       "date": "2026-08-03",
       "papers_found": 5
+    },
+    "daily-2026-08-04": {
+      "type": "daily",
+      "timestamp": "2026-08-12T10:22:19.008221",
+      "date": "2026-08-04",
+      "papers_found": 2
     }
   }
 }
