@@ -147614,6 +147614,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl124040": {
+      "title": "Can Neural Networks Think Like Geomorphologists?",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-13",
+      "sources": [
+        "daily-2026-08-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-76149-4": {
+      "title": "Regime shifts of AMOC-sea surface temperature relationship",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-13",
+      "sources": [
+        "daily-2026-08-05"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155216,6 +155236,12 @@
       "type": "daily",
       "timestamp": "2026-08-12T10:22:19.008221",
       "date": "2026-08-04",
+      "papers_found": 2
+    },
+    "daily-2026-08-05": {
+      "type": "daily",
+      "timestamp": "2026-08-13T10:19:44.012530",
+      "date": "2026-08-05",
       "papers_found": 2
     }
   }
