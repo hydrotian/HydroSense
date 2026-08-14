@@ -147634,6 +147634,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl121190": {
+      "title": "Exploring Antarctic Feedback Mechanisms Using Two-Way Coupled Subglacial Hydrology and Ice Flow Modeling in the Siple Coast",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-14",
+      "sources": [
+        "daily-2026-08-06"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155243,6 +155253,12 @@
       "timestamp": "2026-08-13T10:19:44.012530",
       "date": "2026-08-05",
       "papers_found": 2
+    },
+    "daily-2026-08-06": {
+      "type": "daily",
+      "timestamp": "2026-08-14T10:20:56.217662",
+      "date": "2026-08-06",
+      "papers_found": 1
     }
   }
 }
