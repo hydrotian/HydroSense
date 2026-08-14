@@ -5741,6 +5741,150 @@
       "url": "https://openai.com/index/ringcentral",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10959-w": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.nature.com/articles/s41586-026-10959-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01904-y": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.nature.com/articles/d41586-026-01904-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02503-7": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.nature.com/articles/d41586-026-02503-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02494-5": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.nature.com/articles/d41586-026-02494-5",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-02525-1": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.nature.com/articles/d41586-026-02525-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02544-y": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.nature.com/articles/d41586-026-02544-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02502-8": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.nature.com/articles/d41586-026-02502-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41591-026-04575-4": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.nature.com/articles/s41591-026-04575-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zi1azz2": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.science.org/content/article/science-investigation-casts-doubt-genes-hailed-warding-alzheimer-s-disease",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.znxo7by": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.science.org/content/article/new-explanation-why-universe-s-supply-nuclear-matter-fixed",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zxwp0a2": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.science.org/content/article/una-investigación-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/": {
+      "first_seen": "2026-08-14",
+      "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141354": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141431": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141919": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141399": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141041": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141904": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141896": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141788": {
+      "first_seen": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
+      "first_seen": "2026-08-14",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/builders-guide-to-gpt-5-6": {
+      "first_seen": "2026-08-14",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/previewing-ultrafast": {
+      "first_seen": "2026-08-14",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/dali-rajic-chief-revenue-officer": {
+      "first_seen": "2026-08-14",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
