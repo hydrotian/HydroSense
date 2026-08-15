@@ -5885,6 +5885,96 @@
       "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11023-3": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.nature.com/articles/s41586-026-11023-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11022-4": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.nature.com/articles/s41586-026-11022-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02562-w": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.nature.com/articles/d41586-026-02562-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02504-6": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.nature.com/articles/d41586-026-02504-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02542-0": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.nature.com/articles/d41586-026-02542-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03138-2": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.nature.com/articles/s41592-026-03138-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76410-w": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.nature.com/articles/s41467-026-76410-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76564-7": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.nature.com/articles/s41467-026-76564-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zls39m1": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zmo02sm": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.science.org/content/article/slavery-linked-mortality-gap-between-black-and-white-americans-today",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z40s9te": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.science.org/content/article/drought-may-have-driven-brazil-s-first-yellow-fever-outbreak-nearly-80-years",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z0ba2jz": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.science.org/content/article/budget-cuts-and-delays-leave-hundreds-argentine-postdocs-limbo",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zrmiyqv": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.science.org/content/article/surprising-uniqueness-puerto-rico-s-trees-could-make-them-more-resistant-drought",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142033": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=165293": {
+      "first_seen": "2026-08-15",
+      "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

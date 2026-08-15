@@ -147644,6 +147644,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123701": {
+      "title": "Attention-Based Stochastic Simulation of Climate-Informed Spatiotemporal Flood Risk for Multisite Insurance Portfolios",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-15",
+      "sources": [
+        "daily-2026-08-07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122279": {
+      "title": "Satellite Mapping of the Moulin Distribution Across the Entire Greenland Ice Sheet",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-15",
+      "sources": [
+        "daily-2026-08-07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120846": {
+      "title": "Impacts of Future Oil Palm Expansion on Carbon and Hydrological Fluxes Across the Tropics",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-15",
+      "sources": [
+        "daily-2026-08-07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122182": {
+      "title": "Gamma Rays Signal the Vulnerability of Forest to Extreme Drought",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-15",
+      "sources": [
+        "daily-2026-08-07"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155259,6 +155299,12 @@
       "timestamp": "2026-08-14T10:20:56.217662",
       "date": "2026-08-06",
       "papers_found": 1
+    },
+    "daily-2026-08-07": {
+      "type": "daily",
+      "timestamp": "2026-08-15T10:17:44.918218",
+      "date": "2026-08-07",
+      "papers_found": 4
     }
   }
 }
