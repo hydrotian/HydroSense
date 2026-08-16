@@ -5975,6 +5975,12 @@
       "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/": {
+      "first_seen": "2026-08-16",
+      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
