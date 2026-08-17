@@ -5981,6 +5981,48 @@
       "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02530-4": {
+      "first_seen": "2026-08-17",
+      "url": "https://www.nature.com/articles/d41586-026-02530-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02526-0": {
+      "first_seen": "2026-08-17",
+      "url": "https://www.nature.com/articles/d41586-026-02526-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76744-5": {
+      "first_seen": "2026-08-17",
+      "url": "https://www.nature.com/articles/s41467-026-76744-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41551-026-01764-x": {
+      "first_seen": "2026-08-17",
+      "url": "https://www.nature.com/articles/s41551-026-01764-x",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/": {
+      "first_seen": "2026-08-17",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141560": {
+      "first_seen": "2026-08-17",
+      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141568": {
+      "first_seen": "2026-08-17",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
