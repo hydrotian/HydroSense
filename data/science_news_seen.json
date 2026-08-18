@@ -5804,7 +5804,7 @@
     },
     "https://www.science.org/doi/10.1126/science.zxwp0a2": {
       "first_seen": "2026-08-14",
-      "url": "https://www.science.org/content/article/una-investigación-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
+      "url": "https://www.science.org/content/article/una-investigaci\u00f3n-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
       "decision": "rejected",
       "bucket": null
     },
@@ -6023,6 +6023,141 @@
       "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02577-3": {
+      "title": "Heatwaves expose weak links in food systems",
+      "kept": false,
+      "date": "2026-08-18T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/d41586-026-02575-5": {
+      "title": "Treat biological databases as infrastructure, not projects",
+      "kept": false,
+      "date": "2026-08-18T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/d41586-026-02578-2": {
+      "title": "Europe must adapt to live with megafires",
+      "kept": false,
+      "date": "2026-08-18T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/d41586-026-02576-4": {
+      "title": "Asia\u2019s longevity gains must be translated into better health",
+      "kept": false,
+      "date": "2026-08-18T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/d41586-026-02531-3": {
+      "title": "How the Middle East can become a hub for sustainable aviation fuels",
+      "kept": false,
+      "date": "2026-08-18T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/s41586-026-11006-4": {
+      "title": "Positional isomerisation of pyridine via nitrogen transposition",
+      "kept": false,
+      "date": "2026-08-17T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/s41586-026-11009-1": {
+      "title": "Programmable remodelling of carbon\u2013nitrogen connectivity in amines",
+      "kept": false,
+      "date": "2026-08-17T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/s41586-026-10995-6": {
+      "title": "Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer",
+      "kept": false,
+      "date": "2026-08-17T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/s41586-026-11010-8": {
+      "title": "Defect passivation and optical management of triple-junction solar cells",
+      "kept": false,
+      "date": "2026-08-17T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/d41586-026-02532-2": {
+      "title": "Too hot to sleep? How heatwaves at night affect our health",
+      "kept": false,
+      "date": "2026-08-17T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/d41586-026-02552-y": {
+      "title": "First-of-its-kind narcolepsy drug opens door to new therapies for the brain",
+      "kept": false,
+      "date": "2026-08-17T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/d41586-026-02529-x": {
+      "title": "Why AI systems are most useful as designers of new scientific tools",
+      "kept": true,
+      "date": "2026-08-17T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/s42256-026-01285-x": {
+      "title": "Transfer learning with deployment-covariate recalibration for survival prediction under covariate shift",
+      "kept": false,
+      "date": "2026-08-18T00:00:00+00:00"
+    },
+    "https://www.nature.com/articles/s41467-026-76825-5": {
+      "title": "scE2TM improves single-cell embedding interpretability and reveals cellular perturbation signatures",
+      "kept": false,
+      "date": "2026-08-17T00:00:00+00:00"
+    },
+    "https://www.science.org/doi/10.1126/science.zlrk5qt": {
+      "title": "NIH plan to keep peer-review scores for grants secret draws concern",
+      "kept": false,
+      "date": "2026-08-17T03:15:00+00:00"
+    },
+    "https://www.science.org/doi/10.1126/science.zerkcg9": {
+      "title": "Justice Department calls three NSF diversity programs unconstitutional",
+      "kept": false,
+      "date": "2026-08-17T01:48:54+00:00"
+    },
+    "https://www.science.org/doi/10.1126/science.z8kqwmi": {
+      "title": "Massive new animal disease lab in Kansas runs into more delays",
+      "kept": false,
+      "date": "2026-08-17T01:30:00+00:00"
+    },
+    "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/": {
+      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+      "kept": false,
+      "date": "2026-08-18T04:00:40+00:00"
+    },
+    "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/": {
+      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+      "kept": false,
+      "date": "2026-08-17T20:23:09+00:00"
+    },
+    "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/": {
+      "title": "Meet the only known trebuchet casualty in history",
+      "kept": false,
+      "date": "2026-08-17T13:41:35+00:00"
+    },
+    "https://www.technologyreview.com/?p=1141614": {
+      "title": "The role of the astronaut is in flux",
+      "kept": false,
+      "date": "2026-08-18T09:00:00+00:00"
+    },
+    "https://www.technologyreview.com/?p=1142200": {
+      "title": "What Flock\u2019s defenders are missing",
+      "kept": false,
+      "date": "2026-08-17T19:16:09+00:00"
+    },
+    "https://www.technologyreview.com/?p=1142175": {
+      "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
+      "kept": false,
+      "date": "2026-08-17T12:10:00+00:00"
+    },
+    "https://www.quantamagazine.org/?p=165854": {
+      "title": "Theory of Fluids Enters the 21st Century",
+      "kept": false,
+      "date": "2026-08-17T15:11:17+00:00"
+    },
+    "https://openai.com/index/the-defenders-window": {
+      "title": "The Defender\u2019s Window",
+      "kept": false,
+      "date": "2026-08-17T05:30:00+00:00"
+    },
+    "https://openai.com/index/openai-joins-ports-pike-project": {
+      "title": "OpenAI joins PORTS-Pike project",
+      "kept": false,
+      "date": "2026-08-17T05:00:00+00:00"
+    },
+    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
+      "title": "New policy ideas for the Intelligence Age",
+      "kept": false,
+      "date": "2026-08-17T03:15:00+00:00"
     }
   }
 }
