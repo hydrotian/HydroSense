@@ -147704,6 +147704,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2610855123": {
+      "title": "Mitigating China's food-related water scarcity and spatial inequality via integrated basin-city management",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-08-19",
+      "sources": [
+        "daily-2026-08-11"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123439": {
+      "title": "Global Flash Drought Prediction Through Evaporative Stress Forecasting",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-19",
+      "sources": [
+        "daily-2026-08-11"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124463": {
+      "title": "Increasing Climate Constraint on Vegetation Productivity Under Rising CO2 in Northeast Asia",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-19",
+      "sources": [
+        "daily-2026-08-11"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155366,6 +155396,12 @@
       "timestamp": "2026-08-18T10:18:30.014543",
       "date": "2026-08-10",
       "papers_found": 2
+    },
+    "daily-2026-08-11": {
+      "type": "daily",
+      "timestamp": "2026-08-19T10:20:33.705963",
+      "date": "2026-08-11",
+      "papers_found": 3
     }
   }
 }

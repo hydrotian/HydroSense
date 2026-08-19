@@ -5804,7 +5804,7 @@
     },
     "https://www.science.org/doi/10.1126/science.zxwp0a2": {
       "first_seen": "2026-08-14",
-      "url": "https://www.science.org/content/article/una-investigaci\u00f3n-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
+      "url": "https://www.science.org/content/article/una-investigación-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
       "decision": "rejected",
       "bucket": null
     },
@@ -6040,7 +6040,7 @@
       "date": "2026-08-18T00:00:00+00:00"
     },
     "https://www.nature.com/articles/d41586-026-02576-4": {
-      "title": "Asia\u2019s longevity gains must be translated into better health",
+      "title": "Asia’s longevity gains must be translated into better health",
       "kept": false,
       "date": "2026-08-18T00:00:00+00:00"
     },
@@ -6055,7 +6055,7 @@
       "date": "2026-08-17T00:00:00+00:00"
     },
     "https://www.nature.com/articles/s41586-026-11009-1": {
-      "title": "Programmable remodelling of carbon\u2013nitrogen connectivity in amines",
+      "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
       "kept": false,
       "date": "2026-08-17T00:00:00+00:00"
     },
@@ -6130,12 +6130,12 @@
       "date": "2026-08-18T09:00:00+00:00"
     },
     "https://www.technologyreview.com/?p=1142200": {
-      "title": "What Flock\u2019s defenders are missing",
+      "title": "What Flock’s defenders are missing",
       "kept": false,
       "date": "2026-08-17T19:16:09+00:00"
     },
     "https://www.technologyreview.com/?p=1142175": {
-      "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
       "kept": false,
       "date": "2026-08-17T12:10:00+00:00"
     },
@@ -6145,7 +6145,7 @@
       "date": "2026-08-17T15:11:17+00:00"
     },
     "https://openai.com/index/the-defenders-window": {
-      "title": "The Defender\u2019s Window",
+      "title": "The Defender’s Window",
       "kept": false,
       "date": "2026-08-17T05:30:00+00:00"
     },
@@ -6158,6 +6158,168 @@
       "title": "New policy ideas for the Intelligence Age",
       "kept": false,
       "date": "2026-08-17T03:15:00+00:00"
+    },
+    "https://www.nature.com/articles/d41586-026-02528-y": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/d41586-026-02528-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02381-z": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/d41586-026-02381-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01932-8": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/d41586-026-01932-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02527-z": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/d41586-026-02527-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02466-9": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/d41586-026-02466-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02584-4": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/d41586-026-02584-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02535-z": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/d41586-026-02535-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02524-2": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/d41586-026-02524-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41587-026-03238-6": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/s41587-026-03238-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41591-026-04589-y": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.nature.com/articles/s41591-026-04589-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zufqy1k": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.science.org/content/article/medieval-europe-was-battered-16-catastrophic-floods-just-2-years",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.science.org/doi/10.1126/science.zor9f94": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.science.org/content/article/nih-lifts-ban-funding-research-south-africa",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z1f8flf": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/": {
+      "first_seen": "2026-08-19",
+      "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/": {
+      "first_seen": "2026-08-19",
+      "url": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/": {
+      "first_seen": "2026-08-19",
+      "url": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141623": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142229": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142226": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142188": {
+      "first_seen": "2026-08-19",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/chatgpt-ads-expands-across-europe": {
+      "first_seen": "2026-08-19",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
+      "first_seen": "2026-08-19",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/partnering-with-codeai": {
+      "first_seen": "2026-08-19",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/pacing-model-development-cyber-capabilities": {
+      "first_seen": "2026-08-19",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/chatgpt-for-teens": {
+      "first_seen": "2026-08-19",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/nvidia/chatgpt-work": {
+      "first_seen": "2026-08-19",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/asana": {
+      "first_seen": "2026-08-19",
+      "url": "https://openai.com/index/asana",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
