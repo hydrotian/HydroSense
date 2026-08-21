@@ -6548,6 +6548,168 @@
       "url": "https://openai.com/index/chatgpt-for-teens",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11043-z": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/s41586-026-11043-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02555-9": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/d41586-026-02555-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02553-x": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/d41586-026-02553-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02556-8": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/d41586-026-02556-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02574-6": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/d41586-026-02574-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02612-3": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/d41586-026-02612-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02551-z": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/d41586-026-02551-z",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-02455-y": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/d41586-026-02455-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76973-8": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/s41467-026-76973-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76372-z": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/s41467-026-76372-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43588-026-01035-4": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.nature.com/articles/s43588-026-01035-4",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.science.org/doi/10.1126/science.zz6lm8f": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.science.org/content/article/investigators-nih-s-autism-initiative-funding-comes-big-spotlight",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zvtk8li": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zhnpg1o": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.science.org/content/article/footprints-may-reveal-biggest-known-mammal-age-dinosaurs",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z4m4tzo": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.science.org/content/article/scientific-spat-erupts-over-claim-bones-have-key-immune-vessels",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zd11ld6": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.science.org/content/article/nasa-abandons-orbit-boosting-rescue-mission-space-observatory",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/": {
+      "first_seen": "2026-08-21",
+      "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141726": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142627": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142755": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142571": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142579": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142512": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142070": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=165961": {
+      "first_seen": "2026-08-21",
+      "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-ai-futures": {
+      "first_seen": "2026-08-21",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/stampli": {
+      "first_seen": "2026-08-21",
+      "url": "https://openai.com/index/stampli",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
