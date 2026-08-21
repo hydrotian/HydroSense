@@ -147774,6 +147774,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.ael4192": {
+      "title": "Fight over Colorado River water threatens ecosystems",
+      "journal": "Science",
+      "first_seen": "2026-08-21",
+      "sources": [
+        "daily-2026-08-13"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02730-w": {
+      "title": "Failure to track a stable AMOC state under rapid climate change",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-08-21",
+      "sources": [
+        "daily-2026-08-13"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155442,6 +155462,12 @@
       "timestamp": "2026-08-20T10:22:28.053898",
       "date": "2026-08-12",
       "papers_found": 7
+    },
+    "daily-2026-08-13": {
+      "type": "daily",
+      "timestamp": "2026-08-21T10:19:16.684827",
+      "date": "2026-08-13",
+      "papers_found": 2
     }
   }
 }
