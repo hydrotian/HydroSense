@@ -6710,6 +6710,66 @@
       "url": "https://openai.com/index/stampli",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02626-x": {
+      "first_seen": "2026-08-22",
+      "url": "https://www.nature.com/articles/d41586-026-02626-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02596-0": {
+      "first_seen": "2026-08-22",
+      "url": "https://www.nature.com/articles/d41586-026-02596-0",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/d41586-026-02566-6": {
+      "first_seen": "2026-08-22",
+      "url": "https://www.nature.com/articles/d41586-026-02566-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02352-4": {
+      "first_seen": "2026-08-22",
+      "url": "https://www.nature.com/articles/d41586-026-02352-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zr90pj6": {
+      "first_seen": "2026-08-22",
+      "url": "https://www.science.org/content/article/neurologist-antivaccine-views-lead-nih-s-child-health-institute",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z02ihey": {
+      "first_seen": "2026-08-22",
+      "url": "https://www.science.org/content/article/deadly-tick-borne-virus-gains-ground-europe-climate-warms",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/": {
+      "first_seen": "2026-08-22",
+      "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142762": {
+      "first_seen": "2026-08-22",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=166010": {
+      "first_seen": "2026-08-22",
+      "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
+      "first_seen": "2026-08-22",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

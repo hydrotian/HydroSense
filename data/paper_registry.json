@@ -147794,6 +147794,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl121874": {
+      "title": "Multivariate Controls on Bed Turnover in Braided Rivers",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-22",
+      "sources": [
+        "daily-2026-08-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-026-02072-4": {
+      "title": "Changes in the tropical rainfall seasonal cycle dominated by mesoscale convective systems",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-08-22",
+      "sources": [
+        "daily-2026-08-14"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155467,6 +155487,12 @@
       "type": "daily",
       "timestamp": "2026-08-21T10:19:16.684827",
       "date": "2026-08-13",
+      "papers_found": 2
+    },
+    "daily-2026-08-14": {
+      "type": "daily",
+      "timestamp": "2026-08-22T10:16:38.038837",
+      "date": "2026-08-14",
       "papers_found": 2
     }
   }
