@@ -6710,6 +6710,42 @@
       "url": "https://openai.com/index/stampli",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/": {
+      "first_seen": "2026-08-23",
+      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/": {
+      "first_seen": "2026-08-23",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/": {
+      "first_seen": "2026-08-23",
+      "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142762": {
+      "first_seen": "2026-08-23",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=166010": {
+      "first_seen": "2026-08-23",
+      "url": "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
+      "first_seen": "2026-08-23",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
