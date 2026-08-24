@@ -147794,6 +147794,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/hess-30-5117-2026": {
+      "title": "Systematic overestimation of evapotranspiration over irrigated areas by an offline land surface model",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-24",
+      "sources": [
+        "weekly-2026-W33"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-5173-2026": {
+      "title": "An argument for parsimony in differentiable hydrologic models",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-24",
+      "sources": [
+        "weekly-2026-W33"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-5145-2026": {
+      "title": "Groundwater hysteresis increasingly decouples flowing network length from streamflow as snow shifts to rain",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-24",
+      "sources": [
+        "weekly-2026-W33"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-5195-2026": {
+      "title": "Hydrologic model parameter estimation in snow-dominated headwater catchments using multiple observation datasets",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-24",
+      "sources": [
+        "weekly-2026-W33"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00382-026-08320-y": {
+      "title": "Dependence of subseasonal to seasonal precipitation prediction on atmospheric and land initial conditions in the Energy Exascale Earth System Model",
+      "journal": "Climate Dynamics",
+      "first_seen": "2026-08-24",
+      "sources": [
+        "weekly-2026-W33"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155480,6 +155530,29 @@
       "timestamp": "2026-08-24T10:12:37.165120",
       "date": "2026-08-16",
       "papers_found": 0
+    },
+    "weekly-2026-W33": {
+      "type": "weekly",
+      "timestamp": "2026-08-24T10:19:30.962374",
+      "date": "2026-08-24",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
