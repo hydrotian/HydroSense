@@ -6746,6 +6746,30 @@
       "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02572-8": {
+      "first_seen": "2026-08-24",
+      "url": "https://www.nature.com/articles/d41586-026-02572-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02616-z": {
+      "first_seen": "2026-08-24",
+      "url": "https://www.nature.com/articles/d41586-026-02616-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/": {
+      "first_seen": "2026-08-24",
+      "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141740": {
+      "first_seen": "2026-08-24",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
