@@ -6902,6 +6902,234 @@
       "url": "https://openai.com/index/gpt-5-6-in-kiro",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02568-4": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02568-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11017-1": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/s41586-026-11017-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02382-y": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02382-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02611-4": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02611-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02567-5": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02567-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02661-8": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02661-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02115-1": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02115-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02569-3": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02569-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02550-0": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02550-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02635-w": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/d41586-026-02635-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43588-026-01024-7": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/s43588-026-01024-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-63077-y": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/s41598-026-63077-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77102-1": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/s41467-026-77102-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43588-026-01026-5": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/s43588-026-01026-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42256-026-01286-w": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.nature.com/articles/s42256-026-01286-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zfnm2n3": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.science.org/content/article/shingles-vaccine-linked-reduced-heart-risks",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zrynhuy": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.science.org/content/article/researchers-presented-6000-papers-major-meeting-could-ai-reproduce-their-findings",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.science.org/doi/10.1126/science.zvye9ke": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.science.org/content/article/worldwide-study-diseases-gets-historic-funding-influx",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zhl77eg": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.science.org/content/article/global-first-mexico-approves-use-rna-based-fungicide",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z1fr4l3": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.science.org/content/article/what-jurassic-forest-may-have-sounded",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zpohyga": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.science.org/doi/10.1126/science.zmpeclo": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.science.org/content/article/fraudulent-images-are-rife-antibody-sellers-websites-researcher-says",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/": {
+      "first_seen": "2026-08-26",
+      "url": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/": {
+      "first_seen": "2026-08-26",
+      "url": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141949": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141952": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142946": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140902": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140905": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140911": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140914": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140917": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140949": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140952": {
+      "first_seen": "2026-08-26",
+      "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/loveholidays": {
+      "first_seen": "2026-08-26",
+      "url": "https://openai.com/index/loveholidays",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
+      "first_seen": "2026-08-26",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/jalapeno-first-results": {
+      "first_seen": "2026-08-26",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-admin-plugin": {
+      "first_seen": "2026-08-26",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
