@@ -147794,6 +147794,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-76433-3": {
+      "title": "Global estimation of bankfull river discharge reveals distinct flood recurrences across climate zones",
+      "journal": "Nature Communications",
+      "first_seen": "2026-08-26",
+      "sources": [
+        "daily-2026-08-18"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0019.1": {
+      "title": "Bridging the scale gap: enhancing point-scale rainfall estimates by post-processing ERA5",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-08-26",
+      "sources": [
+        "daily-2026-08-18"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2537388123": {
+      "title": "FEMA phase-out? Catastrophic extremes challenge decentralization of US flood insurance",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-08-26",
+      "sources": [
+        "daily-2026-08-18"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-26-0004.1": {
+      "title": "Insights from Ex-Typhoon Halong (2025) – An Arctic Cyclone of Tropical Origin",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-08-26",
+      "sources": [
+        "daily-2026-08-18"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2528506123": {
+      "title": "Marine heatwaves and undernutrition in low- and middle-income countries",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-08-26",
+      "sources": [
+        "daily-2026-08-18"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155480,6 +155530,12 @@
       "timestamp": "2026-08-25T10:16:13.761286",
       "date": "2026-08-17",
       "papers_found": 0
+    },
+    "daily-2026-08-18": {
+      "type": "daily",
+      "timestamp": "2026-08-26T10:22:12.750764",
+      "date": "2026-08-18",
+      "papers_found": 5
     }
   }
 }
