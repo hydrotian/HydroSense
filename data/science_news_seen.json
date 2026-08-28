@@ -7466,6 +7466,156 @@
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02725-9": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-02725-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01913-x": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-01913-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02628-9": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-02628-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02629-8": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-02629-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02713-z": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-02713-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02716-w": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-02716-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02679-y": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-02679-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02662-7": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-02662-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02717-9": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/d41586-026-02717-9",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/s41467-026-77130-x": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/s41467-026-77130-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77142-7": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.nature.com/articles/s41467-026-77142-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zvtsywt": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.science.org/content/article/key-brain-circuit-regulating-hibernation-found-last",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zmv9o06": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.science.org/content/article/dreams-making-drugs-and-tissues-space-get-closer-reality",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zwax4q6": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.science.org/content/article/climate-change-strengthening-el-niño-coral-records-suggest",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqc8p5a": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.science.org/content/article/nsf-s-new-plan-fund-graduate-students-work-industry-covers-familiar-ground",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/": {
+      "first_seen": "2026-08-28",
+      "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/": {
+      "first_seen": "2026-08-28",
+      "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142956": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143037": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143033": {
+      "first_seen": "2026-08-28",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
+      "first_seen": "2026-08-28",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
+      "first_seen": "2026-08-28",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+      "first_seen": "2026-08-28",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+      "first_seen": "2026-08-28",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/expanding-our-presence-in-brazil": {
+      "first_seen": "2026-08-28",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

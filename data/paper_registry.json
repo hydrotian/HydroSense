@@ -78912,10 +78912,11 @@
       "journal": "Nature Communications",
       "first_seen": "2026-05-06",
       "sources": [
-        "weekly-2023-W06"
+        "weekly-2023-W06",
+        "daily-2026-08-20"
       ],
-      "appearance_count": 1,
-      "important": false
+      "appearance_count": 2,
+      "important": true
     },
     "10.1038/s41467-023-36477-1": {
       "title": "Mangrove reforestation provides greater blue carbon benefit than afforestation for mitigating global climate change",
@@ -147874,6 +147875,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122902": {
+      "title": "A Pure Data-Driven Fully Distributed Model for Spatially Consistent Streamflow Prediction",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-28",
+      "sources": [
+        "daily-2026-08-20"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.ady2660": {
+      "title": "Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord",
+      "journal": "Science",
+      "first_seen": "2026-08-28",
+      "sources": [
+        "daily-2026-08-20"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155571,6 +155592,12 @@
       "type": "daily",
       "timestamp": "2026-08-27T10:22:09.254985",
       "date": "2026-08-19",
+      "papers_found": 3
+    },
+    "daily-2026-08-20": {
+      "type": "daily",
+      "timestamp": "2026-08-28T10:18:38.833429",
+      "date": "2026-08-20",
       "papers_found": 3
     }
   }
