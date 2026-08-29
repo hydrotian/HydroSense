@@ -7466,6 +7466,132 @@
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02732-w": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.nature.com/articles/d41586-026-02732-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02725-9": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.nature.com/articles/d41586-026-02725-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02680-5": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.nature.com/articles/d41586-026-02680-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02688-x": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.nature.com/articles/d41586-026-02688-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02733-9": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.nature.com/articles/d41586-026-02733-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-01913-x": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.nature.com/articles/d41586-026-01913-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-61605-4": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.nature.com/articles/s41598-026-61605-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z9voh8b": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.science.org/content/article/how-scientists-unraveled-cause-devastating-flood-tibet-and-nepal",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zl8fcgs": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.science.org/content/article/doom-invasive-fish-scientists-are-breeding-supermales",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqc8p5a": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.science.org/content/article/nsf-s-new-plan-fund-graduate-students-work-industry-covers-familiar-ground",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/": {
+      "first_seen": "2026-08-29",
+      "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/": {
+      "first_seen": "2026-08-29",
+      "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143113": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142956": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143037": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143033": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=166297": {
+      "first_seen": "2026-08-29",
+      "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
+      "first_seen": "2026-08-29",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
+      "first_seen": "2026-08-29",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+      "first_seen": "2026-08-29",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+      "first_seen": "2026-08-29",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
