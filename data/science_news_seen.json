@@ -7466,6 +7466,30 @@
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77128-5": {
+      "first_seen": "2026-08-30",
+      "url": "https://www.nature.com/articles/s41467-026-77128-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-76154-7": {
+      "first_seen": "2026-08-30",
+      "url": "https://www.nature.com/articles/s41467-026-76154-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143113": {
+      "first_seen": "2026-08-30",
+      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=166297": {
+      "first_seen": "2026-08-30",
+      "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
