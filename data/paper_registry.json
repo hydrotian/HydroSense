@@ -147874,6 +147874,86 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl121477": {
+      "title": "A Subtle Atmospheric Shift Is Redefining Winter Hydrology on the Tibetan Plateau",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-31",
+      "sources": [
+        "daily-2026-08-23"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl119760": {
+      "title": "Riverine Export of Millennial and Decadal Carbon From the Amazon Basin",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-08-31",
+      "sources": [
+        "daily-2026-08-23"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1098/rstb.2024.0487": {
+      "title": "Improving the representation of tropical peatland processes in the JULES land surface model using data from the central Congo Basin",
+      "journal": "Philosophical Transactions of the Royal Society B",
+      "first_seen": "2026-08-31",
+      "sources": [
+        "weekly-2026-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00267-026-02574-2": {
+      "title": "Macroinvertebrate Habitat Dynamics under Frequent Hydropower-Induced Discharge Fluctuations",
+      "journal": "Environmental Management",
+      "first_seen": "2026-08-31",
+      "sources": [
+        "weekly-2026-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-5195-2026": {
+      "title": "Hydrologic model parameter estimation in snow-dominated headwater catchments using multiple observation datasets",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-08-31",
+      "sources": [
+        "weekly-2026-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-7787-2026": {
+      "title": "Representation of the nitrogen cycle and its coupling with the carbon cycle in ISBA (SURFEX v9)",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-08-31",
+      "sources": [
+        "weekly-2026-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-7767-2026": {
+      "title": "Optimizing Gaussian process emulation and generalized additive model fitting for rapid, reproducible earth system model analysis",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-08-31",
+      "sources": [
+        "weekly-2026-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1088/1748-9326/ae9c58": {
+      "title": "Evidence that end-of-century emulation errors under overshoot remain largely within internal variability in an Earth system model",
+      "journal": "Environmental Research Letters",
+      "first_seen": "2026-08-31",
+      "sources": [
+        "weekly-2026-W34"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155578,6 +155658,23 @@
       "timestamp": "2026-08-30T10:11:31.752473",
       "date": "2026-08-22",
       "papers_found": 0
+    },
+    "daily-2026-08-23": {
+      "type": "daily",
+      "timestamp": "2026-08-31T10:14:45.628782",
+      "date": "2026-08-23",
+      "papers_found": 2
+    },
+    "weekly-2026-W34": {
+      "type": "weekly",
+      "timestamp": "2026-08-31T10:21:51.486252",
+      "date": "2026-08-31",
+      "topics": [
+        "hydrologic model",
+        "land surface model",
+        "earth system model",
+        "hydropower"
+      ]
     }
   }
 }
