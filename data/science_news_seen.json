@@ -7490,6 +7490,48 @@
       "url": "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02543-z": {
+      "first_seen": "2026-08-31",
+      "url": "https://www.nature.com/articles/d41586-026-02543-z",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-02685-0": {
+      "first_seen": "2026-08-31",
+      "url": "https://www.nature.com/articles/d41586-026-02685-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02669-0": {
+      "first_seen": "2026-08-31",
+      "url": "https://www.nature.com/articles/d41586-026-02669-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02684-1": {
+      "first_seen": "2026-08-31",
+      "url": "https://www.nature.com/articles/d41586-026-02684-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02727-7": {
+      "first_seen": "2026-08-31",
+      "url": "https://www.nature.com/articles/d41586-026-02727-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41593-026-02420-y": {
+      "first_seen": "2026-08-31",
+      "url": "https://www.nature.com/articles/s41593-026-02420-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43587-026-01200-4": {
+      "first_seen": "2026-08-31",
+      "url": "https://www.nature.com/articles/s43587-026-01200-4",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
