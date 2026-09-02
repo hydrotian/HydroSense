@@ -147944,6 +147944,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122253": {
+      "title": "Widespread Divergence Between Precipitation and Discharge Trends Across Global Rivers",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-02",
+      "sources": [
+        "daily-2026-08-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120614": {
+      "title": "Enhanced Occurrence of Springtime Extreme Precipitation Associated With Mesoscale Convective Systems Over the US by Baroclinic Annular Mode",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-02",
+      "sources": [
+        "daily-2026-08-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125188": {
+      "title": "Normalized Regime Persistence: A Simple Metric to Diagnose Land Feedback States",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-02",
+      "sources": [
+        "daily-2026-08-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ijdrr.2022.102914": {
+      "title": "Monitoring and early warning system of Cirenmaco glacial lake in the central Himalayas",
+      "journal": "International Journal of Disaster Risk Reduction",
+      "first_seen": "2026-09-02",
+      "sources": [
+        "daily-2026-08-25"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155654,6 +155694,12 @@
       "timestamp": "2026-09-01T10:20:25.460834",
       "date": "2026-08-24",
       "papers_found": 7
+    },
+    "daily-2026-08-25": {
+      "type": "daily",
+      "timestamp": "2026-09-02T10:19:37.102284",
+      "date": "2026-08-25",
+      "papers_found": 4
     }
   }
 }
