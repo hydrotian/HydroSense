@@ -148024,6 +148024,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/d41586-026-02716-w": {
+      "title": "Glacier collapse caused Nepal's deadly flash flood — a sign of things to come?",
+      "journal": "Nature",
+      "first_seen": "2026-09-04",
+      "sources": [
+        "daily-2026-08-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/d41586-026-02717-9": {
+      "title": "Why are El Niños getting stronger? 1,000-year-coral record points to climate change",
+      "journal": "Nature",
+      "first_seen": "2026-09-04",
+      "sources": [
+        "daily-2026-08-27"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aek8173": {
+      "title": "Desert flooding highlights a critical gap in climate change adaptation",
+      "journal": "Science",
+      "first_seen": "2026-09-04",
+      "sources": [
+        "daily-2026-08-27"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155746,6 +155776,12 @@
       "timestamp": "2026-09-03T10:20:52.502346",
       "date": "2026-08-26",
       "papers_found": 4
+    },
+    "daily-2026-08-27": {
+      "type": "daily",
+      "timestamp": "2026-09-04T10:20:14.918691",
+      "date": "2026-08-27",
+      "papers_found": 3
     }
   }
 }
