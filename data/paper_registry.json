@@ -148054,6 +148054,116 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41586-026-10953-2": {
+      "title": "Operational Tropical Cyclone Forecasting with AI",
+      "journal": "Nature",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124965": {
+      "title": "Global Improvement of Tropical Cyclone Representation Enhances Hindcasts of Extreme Sea Levels Over 68 Years",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122806": {
+      "title": "Thermodynamic Control of Global Seasonal Snow Decline",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124091": {
+      "title": "Dynamic Responses of Groundwater Flow and Salt Transport to Storm Surge Inundation in Unconfined Coastal Aquifers",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122340": {
+      "title": "Re-Evaluating Inherited SIF Anomaly Detection Methods for the 2024 Amazon Drought",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124384": {
+      "title": "Emergent Regimes of River Meandering and Permafrost Extent in Arctic Floodplains",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-24-0301.1": {
+      "title": "Probabilistic Storylines: Characterizing the Likelihood of Impactful Events in an Uncertain World",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/AIES-D-25-0073.1": {
+      "title": "Global Forecasting of Tropical Cyclone Intensity Using Neural Weather Models",
+      "journal": "Artificial Intelligence for the Earth Systems",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025JH001180": {
+      "title": "Can AI-Based Weather Prediction Models Simulate the Butterfly Effect?",
+      "journal": "Journal of Geophysical Research: Hydrology",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2420914122": {
+      "title": "Can AI weather models predict out-of-distribution gray swan tropical cyclones?",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/BAMS-D-23-0196.1": {
+      "title": "Identifying and Categorizing Bias in AI/ML for Earth Sciences",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-09-05",
+      "sources": [
+        "daily-2026-08-28"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155782,6 +155892,12 @@
       "timestamp": "2026-09-04T10:20:14.918691",
       "date": "2026-08-27",
       "papers_found": 3
+    },
+    "daily-2026-08-28": {
+      "type": "daily",
+      "timestamp": "2026-09-05T10:21:13.897640",
+      "date": "2026-08-28",
+      "papers_found": 11
     }
   }
 }

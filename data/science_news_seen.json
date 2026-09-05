@@ -8228,6 +8228,114 @@
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02800-1": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.nature.com/articles/d41586-026-02800-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02741-9": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.nature.com/articles/d41586-026-02741-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02643-w": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.nature.com/articles/d41586-026-02643-w",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-02801-0": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.nature.com/articles/d41586-026-02801-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02799-5": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.nature.com/articles/d41586-026-02799-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02758-0": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.nature.com/articles/d41586-026-02758-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03234-3": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.nature.com/articles/s41592-026-03234-3",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/s41467-026-76382-x": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.nature.com/articles/s41467-026-76382-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z8ul66d": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.science.org/content/article/massive-herbarium-merger-rescues-century-old-plant-collection",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z86clp5": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.science.org/content/article/bernie-sanders-aims-ban-ai-superintelligence-experts-can-t-agree-what-term-means",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zu2g01r": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.science.org/content/article/are-these-killer-whales-out-revenge-humans-or-just-trying-play",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.znpkvc9": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.science.org/content/article/prevent-forest-fires-trump-wants-end-road-building-ban-scientists-are-skeptical",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z3nt95v": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.science.org/content/article/nsf-looks-technology-fixes-ease-water-crisis-along-colorado-river",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/": {
+      "first_seen": "2026-09-05",
+      "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/": {
+      "first_seen": "2026-09-05",
+      "url": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1140872": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143457": {
+      "first_seen": "2026-09-05",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/gpt-6-astra": {
+      "first_seen": "2026-09-05",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
