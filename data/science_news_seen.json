@@ -8336,6 +8336,12 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zr63ar0": {
+      "first_seen": "2026-09-06",
+      "url": "https://www.science.org/content/article/outrage-greets-nih-pact-could-funnel-biodefense-research-funds-pentagon",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
