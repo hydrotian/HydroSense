@@ -148164,6 +148164,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123720": {
+      "title": "Irrigation Impact on Humid Heat Stress: Divergent Metrics, Vegetation Dynamics, and Future Worsening",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-07",
+      "sources": [
+        "daily-2026-08-30"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155904,6 +155914,12 @@
       "timestamp": "2026-09-06T10:14:05.665820",
       "date": "2026-08-29",
       "papers_found": 0
+    },
+    "daily-2026-08-30": {
+      "type": "daily",
+      "timestamp": "2026-09-07T10:13:56.991536",
+      "date": "2026-08-30",
+      "papers_found": 1
     }
   }
 }
