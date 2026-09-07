@@ -155920,6 +155920,29 @@
       "timestamp": "2026-09-07T10:13:56.991536",
       "date": "2026-08-30",
       "papers_found": 1
+    },
+    "weekly-2026-W35": {
+      "type": "weekly",
+      "timestamp": "2026-09-07T10:27:04.752649",
+      "date": "2026-08-30",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
