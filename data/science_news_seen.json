@@ -8342,6 +8342,144 @@
       "url": "https://www.science.org/content/article/outrage-greets-nih-pact-could-funnel-biodefense-research-funds-pentagon",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02796-8": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02796-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02794-w": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02794-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02797-7": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02797-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02795-9": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02795-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02407-6": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02407-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02497-2": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02497-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02802-z": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02802-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02807-8": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02807-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11103-4": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/s41586-026-11103-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11094-2": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/s41586-026-11094-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02805-w": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02805-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02470-z": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02470-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02831-8": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02831-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02808-7": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02808-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02822-9": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/d41586-026-02822-9",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s42003-026-10725-8": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/s42003-026-10725-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03213-8": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/s41592-026-03213-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42003-026-10850-4": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/s42003-026-10850-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77498-w": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.nature.com/articles/s41467-026-77498-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zgsvtnr": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.science.org/content/article/comic-drawing-women-prehistory",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/": {
+      "first_seen": "2026-09-08",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143592": {
+      "first_seen": "2026-09-08",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/supporting-independent-journalism-in-ukraine": {
+      "first_seen": "2026-09-08",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
