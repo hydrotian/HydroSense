@@ -148174,6 +148174,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41561-026-02083-1": {
+      "title": "Multilayer soil moisture depletion intensifies drought impacts on global ecosystems",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-09-09",
+      "sources": [
+        "daily-2026-09-01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2022rg000803": {
+      "title": "Toward an Improved Understanding of the Antarctic Coastal Zone and Its Contribution to Future Global Sea Level",
+      "journal": "Reviews of Geophysics",
+      "first_seen": "2026-09-09",
+      "sources": [
+        "daily-2026-09-01"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77165-0": {
+      "title": "Polar and subpolar shelf seas dominate enhanced coastal CO2 uptake during marine heatwaves",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-09",
+      "sources": [
+        "daily-2026-09-01"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155943,6 +155973,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-09-01": {
+      "type": "daily",
+      "timestamp": "2026-09-09T10:21:59.598320",
+      "date": "2026-09-01",
+      "papers_found": 3
     }
   }
 }
