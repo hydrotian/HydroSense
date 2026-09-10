@@ -148204,6 +148204,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl121120": {
+      "title": "A Causal Examination of the Solar Influence on Holocene Climate",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-10",
+      "sources": [
+        "daily-2026-09-02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124533": {
+      "title": "First Empirical Assessment of Ice Content From a Himalayan Rock Glacier",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-10",
+      "sources": [
+        "daily-2026-09-02"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0208.1": {
+      "title": "From ENSO prediction to regional climate services: The scientific evolution of seasonal forecasting in southern Africa within a US–South Africa collaborative framework",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-09-10",
+      "sources": [
+        "daily-2026-09-02"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -155978,6 +156008,12 @@
       "type": "daily",
       "timestamp": "2026-09-09T10:21:59.598320",
       "date": "2026-09-01",
+      "papers_found": 3
+    },
+    "daily-2026-09-02": {
+      "type": "daily",
+      "timestamp": "2026-09-10T10:20:16.455950",
+      "date": "2026-09-02",
       "papers_found": 3
     }
   }
