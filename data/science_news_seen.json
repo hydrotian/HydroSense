@@ -9056,6 +9056,114 @@
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11079-1": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.nature.com/articles/s41586-026-11079-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02834-5": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.nature.com/articles/d41586-026-02834-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z09tazb": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.science.org/content/article/physicists-detect-tiny-atomic-collisions-give-gas-its-pressure",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z9nyt2l": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.science.org/content/article/what-science-problem-should-ai-tackle-next-new-challenge-atlas-offers-answers",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.science.org/doi/10.1126/science.zil8fz7": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/": {
+      "first_seen": "2026-09-11",
+      "url": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143834": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143828": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1141649": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143804": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.technologyreview.com/?p=1143791": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=166722": {
+      "first_seen": "2026-09-11",
+      "url": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+      "first_seen": "2026-09-11",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/put-data-to-work": {
+      "first_seen": "2026-09-11",
+      "url": "https://openai.com/index/put-data-to-work",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-chatgpt-financial-services": {
+      "first_seen": "2026-09-11",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/expanding-ai-access-us-government": {
+      "first_seen": "2026-09-11",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+      "first_seen": "2026-09-11",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-the-agents-api": {
+      "first_seen": "2026-09-11",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
