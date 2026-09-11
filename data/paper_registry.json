@@ -148234,6 +148234,66 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.aem0437": {
+      "title": "How scientists unraveled the causes of the devastating flood in Tibet and Nepal",
+      "journal": "Science",
+      "first_seen": "2026-09-11",
+      "sources": [
+        "daily-2026-09-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125367": {
+      "title": "How Much Water Can Be Seasonally Buffered by China's Largest Floodplain Lake? A Refined Estimate From SWOT",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-11",
+      "sources": [
+        "daily-2026-09-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0009.1": {
+      "title": "Decision Calendars for Cold Regions Hydrological Forecasting: Collaboration in the Transboundary Yukon River Basin",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-09-11",
+      "sources": [
+        "daily-2026-09-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-026-02095-x": {
+      "title": "Precipitation and soil phosphorus regulate post-drought resilience in tropical forests",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-09-11",
+      "sources": [
+        "daily-2026-09-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77289-3": {
+      "title": "Paleogeographic controls on Phanerozoic weathering rates and implications for climate regulation",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-11",
+      "sources": [
+        "daily-2026-09-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77272-y": {
+      "title": "Drought development characteristics modulate global dry–wet abrupt alternation through distinct land–atmosphere feedbacks",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-11",
+      "sources": [
+        "daily-2026-09-03"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156015,6 +156075,12 @@
       "timestamp": "2026-09-10T10:20:16.455950",
       "date": "2026-09-02",
       "papers_found": 3
+    },
+    "daily-2026-09-03": {
+      "type": "daily",
+      "timestamp": "2026-09-11T10:23:09.576222",
+      "date": "2026-09-03",
+      "papers_found": 6
     }
   }
 }
