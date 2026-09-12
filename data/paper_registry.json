@@ -148294,6 +148294,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123060": {
+      "title": "Diagnosing CESM2 Biases in Northwest Indian Ocean Warming and Its Implications for India Summer Monsoon Precipitation",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-12",
+      "sources": [
+        "daily-2026-09-04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77464-6": {
+      "title": "Phenological Fluctuations Induce Seasonal Asymmetric Warming in Boreal Forests",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-12",
+      "sources": [
+        "daily-2026-09-04"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77456-6": {
+      "title": "Drivers of Northern Peatland CO2 Fluxes Revisited: Interacting Water Level-Temperature Dependency",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-12",
+      "sources": [
+        "daily-2026-09-04"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156081,6 +156111,12 @@
       "timestamp": "2026-09-11T10:23:09.576222",
       "date": "2026-09-03",
       "papers_found": 6
+    },
+    "daily-2026-09-04": {
+      "type": "daily",
+      "timestamp": "2026-09-12T10:16:20.557826",
+      "date": "2026-09-04",
+      "papers_found": 3
     }
   }
 }
