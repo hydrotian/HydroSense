@@ -9164,6 +9164,132 @@
       "url": "https://openai.com/index/introducing-the-agents-api",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02893-8": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.nature.com/articles/d41586-026-02893-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02892-9": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.nature.com/articles/d41586-026-02892-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02883-w": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.nature.com/articles/d41586-026-02883-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02763-3": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.nature.com/articles/d41586-026-02763-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02827-4": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.nature.com/articles/d41586-026-02827-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02828-3": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.nature.com/articles/d41586-026-02828-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zzxedfp": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.science.org/content/article/social-science-studies-may-promise-anonymity-participant-identities-often-lurk-public",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z4uydcg": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.science.org/content/article/department-energy-bets-open-ai-models-science",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.science.org/doi/10.1126/science.z0bqm4n": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.science.org/content/article/swiss-trial-2017-avalanche-deaths-unsettles-hazard-researchers",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.ze5banc": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/": {
+      "first_seen": "2026-09-12",
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/": {
+      "first_seen": "2026-09-12",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/": {
+      "first_seen": "2026-09-12",
+      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/": {
+      "first_seen": "2026-09-12",
+      "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/": {
+      "first_seen": "2026-09-12",
+      "url": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143936": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143879": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=166829": {
+      "first_seen": "2026-09-12",
+      "url": "https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spirals-every-few-millennia-20260911/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/perplexity-improving-accuracy-with-astra": {
+      "first_seen": "2026-09-12",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
+      "first_seen": "2026-09-12",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/cognition-devin-testing-with-astra": {
+      "first_seen": "2026-09-12",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
