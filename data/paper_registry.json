@@ -148324,6 +148324,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl125329": {
+      "title": "The Role of Vegetation Clumping in Regulating Global Heat Fluxes Accounting for Land-Atmosphere Coupling",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-13",
+      "sources": [
+        "daily-2026-09-05"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156117,6 +156127,12 @@
       "timestamp": "2026-09-12T10:16:20.557826",
       "date": "2026-09-04",
       "papers_found": 3
+    },
+    "daily-2026-09-05": {
+      "type": "daily",
+      "timestamp": "2026-09-13T10:13:17.955560",
+      "date": "2026-09-05",
+      "papers_found": 1
     }
   }
 }
