@@ -148334,6 +148334,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1093/9780191953736.001.0001": {
+      "title": "Streamflow Generation",
+      "journal": "Oxford Academic (Book)",
+      "first_seen": "2026-09-14",
+      "sources": [
+        "weekly-2026-W36"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.agwat.2026.110673": {
+      "title": "Soil vertical heterogeneity reduces rootzone soil moisture bias in hyper-resolution land surface model over smallholder agricultural systems",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-09-14",
+      "sources": [
+        "weekly-2026-W36"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/frwa.2026.1788195": {
+      "title": "Hydrologic modeling in mountainous terrains with monsoonal climate: Do gridded precipitation data improve streamflow simulations?",
+      "journal": "Frontiers in Water",
+      "first_seen": "2026-09-14",
+      "sources": [
+        "weekly-2026-W36"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156139,6 +156169,29 @@
       "timestamp": "2026-09-14T10:12:52.706423",
       "date": "2026-09-06",
       "papers_found": 0
+    },
+    "weekly-2026-W36": {
+      "type": "weekly",
+      "timestamp": "2026-09-14T10:17:57.419174",
+      "date": "2026-09-07",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
