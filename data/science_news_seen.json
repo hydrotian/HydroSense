@@ -9290,6 +9290,30 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02852-3": {
+      "first_seen": "2026-09-14",
+      "url": "https://www.nature.com/articles/d41586-026-02852-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02608-z": {
+      "first_seen": "2026-09-14",
+      "url": "https://www.nature.com/articles/d41586-026-02608-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02826-5": {
+      "first_seen": "2026-09-14",
+      "url": "https://www.nature.com/articles/d41586-026-02826-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zejzpe6": {
+      "first_seen": "2026-09-14",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
