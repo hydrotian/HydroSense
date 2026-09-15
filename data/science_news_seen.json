@@ -9290,6 +9290,180 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02904-8": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02904-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02907-5": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02907-5",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/d41586-026-02905-7": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02905-7",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-02906-6": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02906-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02848-z": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02848-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02853-2": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02853-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11124-z": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/s41586-026-11124-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02908-4": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02908-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02847-0": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02847-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02852-3": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02852-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02829-2": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02829-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02895-6": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02895-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02608-z": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02608-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02851-4": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02851-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02882-x": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/d41586-026-02882-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77538-5": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.nature.com/articles/s41467-026-77538-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z5508d3": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.science.org/content/article/three-wild-dogs-have-traveled-farther-any-african-mammal",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z9u2jed": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.science.org/content/article/nsf-memo-implementing-trump-s-golden-age-science-unsettles-researchers",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z45zpx6": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.science.org/content/article/single-brain-implant-lets-paralyzed-people-both-talk-and-gesture-avatar",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zejzpe6": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/": {
+      "first_seen": "2026-09-15",
+      "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/": {
+      "first_seen": "2026-09-15",
+      "url": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/": {
+      "first_seen": "2026-09-15",
+      "url": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144048": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144010": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144037": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144012": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=166935": {
+      "first_seen": "2026-09-15",
+      "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/fyxer": {
+      "first_seen": "2026-09-15",
+      "url": "https://openai.com/index/fyxer",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

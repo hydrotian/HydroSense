@@ -148334,6 +148334,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s44221-026-00704-y": {
+      "title": "Emerging contaminant stress promotes greenhouse gas production through microbial defence–energy trade-off in receiving rivers",
+      "journal": "Nature Water",
+      "first_seen": "2026-09-15",
+      "sources": [
+        "daily-2026-09-07"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156132,6 +156142,12 @@
       "type": "daily",
       "timestamp": "2026-09-13T10:13:17.955560",
       "date": "2026-09-05",
+      "papers_found": 1
+    },
+    "daily-2026-09-07": {
+      "type": "daily",
+      "timestamp": "2026-09-15T10:15:30.432832",
+      "date": "2026-09-07",
       "papers_found": 1
     }
   }
