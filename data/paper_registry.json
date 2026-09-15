@@ -148344,6 +148344,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1016/j.agwat.2026.110673": {
+      "title": "Soil vertical heterogeneity reduces rootzone soil moisture bias in hyper-resolution land surface model over smallholder agricultural systems",
+      "journal": "Agricultural Water Management",
+      "first_seen": "2026-09-15",
+      "sources": [
+        "weekly-2026-W36"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/tc-20-4973-2026": {
+      "title": "Dry snow initialization and densification over the Greenland and Antarctic ice sheets in the ORCHIDEE land surface model",
+      "journal": "The Cryosphere",
+      "first_seen": "2026-09-15",
+      "sources": [
+        "weekly-2026-W36"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/frwa.2026.1788195": {
+      "title": "Hydrologic modeling in mountainous terrains with monsoonal climate: Do gridded precipitation data improve streamflow simulations?",
+      "journal": "Frontiers in Water",
+      "first_seen": "2026-09-15",
+      "sources": [
+        "weekly-2026-W36"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1002/vzj2.70136": {
+      "title": "Subgrid parametrizations mediate the large-scale effects of soil macroporosity on the water cycle in the ORCHIDEE land surface model",
+      "journal": "Vadose Zone Journal",
+      "first_seen": "2026-09-15",
+      "sources": [
+        "weekly-2026-W36"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-8289-2026": {
+      "title": "A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-09-15",
+      "sources": [
+        "weekly-2026-W36"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156149,6 +156199,29 @@
       "timestamp": "2026-09-15T10:15:30.432832",
       "date": "2026-09-07",
       "papers_found": 1
+    },
+    "weekly-2026-W36": {
+      "type": "weekly",
+      "timestamp": "2026-09-15T10:26:39.742329",
+      "date": "2026-09-08",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
