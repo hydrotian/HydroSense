@@ -148394,6 +148394,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122871": {
+      "title": "SWOT Discharge Accuracy Benchmarked in South America",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-16",
+      "sources": [
+        "daily-2026-09-08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123183": {
+      "title": "Detecting Irrigation From Spectral Differences Between Satellite and Modeled Soil Moisture Across the Contiguous United States",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-16",
+      "sources": [
+        "daily-2026-09-08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122236": {
+      "title": "Freshwater-Induced Surface Cooling of the Subpolar North Atlantic in a Large-Ensemble, High-Resolution, Coupled Model",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-16",
+      "sources": [
+        "daily-2026-09-08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2623190123": {
+      "title": "Illusory early-warning signals of Greenland Ice Sheet destabilization",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-09-16",
+      "sources": [
+        "daily-2026-09-08"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77190-z": {
+      "title": "Subglacial geology and thermal conditions regulate methane emissions from Svalbard glaciers",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-16",
+      "sources": [
+        "daily-2026-09-08"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156222,6 +156272,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-09-08": {
+      "type": "daily",
+      "timestamp": "2026-09-16T10:20:19.541929",
+      "date": "2026-09-08",
+      "papers_found": 5
     }
   }
 }
