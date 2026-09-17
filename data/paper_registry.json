@@ -148394,6 +148394,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123024": {
+      "title": "The Impact of Fronts and Eddies Under Various Melt Conditions on Antarctic Ice Shelves",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-17",
+      "sources": [
+        "daily-2026-09-09"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156222,6 +156232,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-09-09": {
+      "type": "daily",
+      "timestamp": "2026-09-17T10:19:19.072505",
+      "date": "2026-09-09",
+      "papers_found": 1
     }
   }
 }
