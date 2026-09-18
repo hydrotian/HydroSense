@@ -9890,6 +9890,126 @@
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02897-4": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/d41586-026-02897-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02946-y": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/d41586-026-02946-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11134-x": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/s41586-026-11134-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02898-3": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/d41586-026-02898-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02896-5": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/d41586-026-02896-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02913-7": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/d41586-026-02913-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02621-2": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/d41586-026-02621-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02911-9": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/d41586-026-02911-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02954-y": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/d41586-026-02954-y",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41467-026-77930-1": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/s41467-026-77930-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-71009-z": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.nature.com/articles/s41598-026-71009-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zmzl5u2": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zprbhzw": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/": {
+      "first_seen": "2026-09-18",
+      "url": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/": {
+      "first_seen": "2026-09-18",
+      "url": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144329": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144314": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167125": {
+      "first_seen": "2026-09-18",
+      "url": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/cooley-gopublic": {
+      "first_seen": "2026-09-18",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/astra-for-law": {
+      "first_seen": "2026-09-18",
+      "url": "https://openai.com/index/astra-for-law",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

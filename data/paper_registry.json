@@ -148404,6 +148404,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.aeb4487": {
+      "title": "Hydroclimatic-driven pulse enrichment amplifies riverine microplastic export in developing countries",
+      "journal": "Science",
+      "first_seen": "2026-09-18",
+      "sources": [
+        "daily-2026-09-10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41561-026-02082-2": {
+      "title": "Multilayer soil moisture deficit amplifies drought impacts on global ecosystems",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-09-18",
+      "sources": [
+        "daily-2026-09-10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aem2419": {
+      "title": "NSF looks for technology fixes to ease water crisis along Colorado River",
+      "journal": "Science",
+      "first_seen": "2026-09-18",
+      "sources": [
+        "daily-2026-09-10"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aei4007": {
+      "title": "Save the bogs, for peat's sake",
+      "journal": "Science",
+      "first_seen": "2026-09-18",
+      "sources": [
+        "daily-2026-09-10"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156238,6 +156278,12 @@
       "timestamp": "2026-09-17T10:19:19.072505",
       "date": "2026-09-09",
       "papers_found": 1
+    },
+    "daily-2026-09-10": {
+      "type": "daily",
+      "timestamp": "2026-09-18T10:18:34.454624",
+      "date": "2026-09-10",
+      "papers_found": 4
     }
   }
 }
