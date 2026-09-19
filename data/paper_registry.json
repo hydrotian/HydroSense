@@ -148404,6 +148404,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122626": {
+      "title": "SWOT Observations Reveal Basin‐Scale Reservoir Operating Patterns",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-19",
+      "sources": [
+        "daily-2026-09-11"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77635-5": {
+      "title": "Reinterpreting precipitation isotope records from Asian monsoon region through the hidden role of atmospheric updraft",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-19",
+      "sources": [
+        "daily-2026-09-11"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77441-z": {
+      "title": "Three-dimensional reconstruction of glacier-derived freshwater in East Antarctica using an end-member-independent hydrographic parameterization",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-19",
+      "sources": [
+        "daily-2026-09-11"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156238,6 +156268,12 @@
       "timestamp": "2026-09-17T10:19:19.072505",
       "date": "2026-09-09",
       "papers_found": 1
+    },
+    "daily-2026-09-11": {
+      "type": "daily",
+      "timestamp": "2026-09-19T10:17:50.127327",
+      "date": "2026-09-11",
+      "papers_found": 3
     }
   }
 }

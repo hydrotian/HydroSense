@@ -9890,6 +9890,150 @@
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02897-4": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/d41586-026-02897-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02984-6": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/d41586-026-02984-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02919-1": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/d41586-026-02919-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02184-2": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/d41586-026-02184-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02945-z": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/d41586-026-02945-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02943-1": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/d41586-026-02943-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02922-6": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/d41586-026-02922-6",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/d41586-026-02946-y": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/d41586-026-02946-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77930-1": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/s41467-026-77930-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77360-z": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.nature.com/articles/s41467-026-77360-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zag22d4": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.science.org/content/article/department-energy-launches-215-million-race-build-quantum-computer-2028",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zs8kemt": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.science.org/content/article/satellite-reveals-world-weird-rivers-shaped-humans",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/": {
+      "first_seen": "2026-09-19",
+      "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/": {
+      "first_seen": "2026-09-19",
+      "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/": {
+      "first_seen": "2026-09-19",
+      "url": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/": {
+      "first_seen": "2026-09-19",
+      "url": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1142577": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144435": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144329": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144314": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167212": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167125": {
+      "first_seen": "2026-09-19",
+      "url": "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-begin-20260917/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/australian-youth-safety-blueprint": {
+      "first_seen": "2026-09-19",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/cooley-gopublic": {
+      "first_seen": "2026-09-19",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
