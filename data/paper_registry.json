@@ -148434,6 +148434,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl125330": {
+      "title": "Evaluating Changes in Convective Environments Over Subtropical South America Under Forced and Natural Climate Variability",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-20",
+      "sources": [
+        "daily-2026-09-12"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156274,6 +156284,12 @@
       "timestamp": "2026-09-19T10:17:50.127327",
       "date": "2026-09-11",
       "papers_found": 3
+    },
+    "daily-2026-09-12": {
+      "type": "daily",
+      "timestamp": "2026-09-20T10:15:04.586986",
+      "date": "2026-09-12",
+      "papers_found": 1
     }
   }
 }

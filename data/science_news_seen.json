@@ -10034,6 +10034,24 @@
       "url": "https://openai.com/index/cooley-gopublic",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77768-7": {
+      "first_seen": "2026-09-20",
+      "url": "https://www.nature.com/articles/s41467-026-77768-7",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/": {
+      "first_seen": "2026-09-20",
+      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/": {
+      "first_seen": "2026-09-20",
+      "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
