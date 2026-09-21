@@ -10052,6 +10052,18 @@
       "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02441-4": {
+      "first_seen": "2026-09-21",
+      "url": "https://www.nature.com/articles/d41586-026-02441-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/": {
+      "first_seen": "2026-09-21",
+      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
