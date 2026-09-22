@@ -148444,6 +148444,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2600775123": {
+      "title": "Spatially refined satellite gravimetry captures human signatures in global terrestrial water storage trends",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-09-22",
+      "sources": [
+        "daily-2026-09-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-026-00710-0": {
+      "title": "Fifty years of research have deepened uncertainties in global irrigation water withdrawals",
+      "journal": "Nature Water",
+      "first_seen": "2026-09-22",
+      "sources": [
+        "daily-2026-09-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2520315122": {
+      "title": "Expanding frameworks: Integrating vulnerability, exposure, and critical infrastructure to assess pluvial flood risks in New York City",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-09-22",
+      "sources": [
+        "daily-2026-09-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2528170123": {
+      "title": "Global greenhouse gas cobenefits of US irrigated agriculture",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-09-22",
+      "sources": [
+        "daily-2026-09-14"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156296,6 +156336,12 @@
       "timestamp": "2026-09-21T10:13:43.305599",
       "date": "2026-09-13",
       "papers_found": 0
+    },
+    "daily-2026-09-14": {
+      "type": "daily",
+      "timestamp": "2026-09-22T10:19:46.988594",
+      "date": "2026-09-14",
+      "papers_found": 4
     }
   }
 }
