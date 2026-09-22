@@ -10064,6 +10064,162 @@
       "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02996-2": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02996-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02997-1": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02997-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02995-3": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02995-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02939-x": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02939-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11160-9": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/s41586-026-11160-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02932-4": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02932-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02928-0": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02928-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02987-3": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02987-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02890-x": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02890-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02931-5": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02931-5",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-02981-9": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/d41586-026-02981-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77607-9": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.nature.com/articles/s41467-026-77607-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zcrkinf": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.science.org/content/article/white-house-move-seize-control-nih-grant-decisions-upsets-senators-and-scientists",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqzn8d7": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.science.org/content/article/dolphin-chased-fish-until-it-puked-then-ate-vomit",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/": {
+      "first_seen": "2026-09-22",
+      "url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144834": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144161": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144164": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144166": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144170": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167300": {
+      "first_seen": "2026-09-22",
+      "url": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+      "first_seen": "2026-09-22",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+      "first_seen": "2026-09-22",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/building-standards-next-phase-ai": {
+      "first_seen": "2026-09-22",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+      "first_seen": "2026-09-22",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/v7": {
+      "first_seen": "2026-09-22",
+      "url": "https://openai.com/index/v7",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
