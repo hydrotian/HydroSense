@@ -10064,6 +10064,264 @@
       "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02949-9": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02949-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02930-6": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02930-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02996-2": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02996-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02997-1": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02997-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02995-3": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02995-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02724-w": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02724-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02979-3": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02979-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02369-9": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02369-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02920-8": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02920-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02942-2": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02942-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03014-1": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-03014-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02818-5": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02818-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02929-z": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02929-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03000-7": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-03000-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02939-x": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02939-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02941-3": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/d41586-026-02941-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43588-026-01061-2": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/s43588-026-01061-2",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41467-026-77963-6": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.nature.com/articles/s41467-026-77963-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zgtn6k2": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.science.org/content/article/submerged-land-bridge-may-have-helped-people-cross-mediterranean",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zmss4ja": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.science.org/content/article/single-wildfire-smoke-exposure-causes-lasting-harm-monkey-study-suggests",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqqktmw": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.science.org/content/article/one-nature-s-greatest-marine-wonders-may-be-about-vanish",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zbru0ut": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.science.org/content/article/dna-analysis-strengthens-evidence-thomas-jefferson-fathered-children-sally-hemings",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zp2t251": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.science.org/content/article/giant-telescope-project-rejects-la-palma-backup-site",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zo5tliq": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.science.org/content/article/how-fire-amoeba-withstands-temperatures-would-kill-most-complex-life",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqzn8d7": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.science.org/content/article/dolphin-chased-fish-until-it-puked-then-ate-vomit",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/": {
+      "first_seen": "2026-09-23",
+      "url": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/": {
+      "first_seen": "2026-09-23",
+      "url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144953": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144890": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144910": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144867": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144834": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144161": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144164": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144166": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144170": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167300": {
+      "first_seen": "2026-09-23",
+      "url": "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-partners-in-evolution-20260921/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/better-prompt-caching-for-gpt-6": {
+      "first_seen": "2026-09-23",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
+      "first_seen": "2026-09-23",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/parallel-cuts-time-and-cost-with-astra": {
+      "first_seen": "2026-09-23",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/priorities-principles-third-party-assessments": {
+      "first_seen": "2026-09-23",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+      "first_seen": "2026-09-23",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+      "first_seen": "2026-09-23",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
