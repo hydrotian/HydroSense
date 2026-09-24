@@ -10322,6 +10322,462 @@
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11189-w": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11189-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11169-0": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11169-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03021-2": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-03021-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02856-z": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02856-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02986-4": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02986-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11053-x": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11053-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11058-6": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11058-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10999-2": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-10999-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10836-6": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-10836-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11072-8": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11072-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11016-2": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11016-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11049-7": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11049-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11051-z": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11051-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11056-8": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11056-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11028-y": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11028-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11007-3": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11007-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11054-w": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11054-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11059-5": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11059-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11033-1": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11033-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10271-7": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-10271-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11040-2": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11040-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11069-3": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11069-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11052-y": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11052-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11029-x": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11029-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11031-3": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11031-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11050-0": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11050-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-025-09573-z": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-025-09573-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11048-8": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11048-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11102-5": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11102-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11041-1": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11041-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11074-6": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11074-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11046-w": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41586-026-11046-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02772-2": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02772-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02937-z": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02937-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02857-y": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02857-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03018-x": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-03018-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03001-6": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-03001-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02855-0": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02855-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02789-7": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02789-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02947-x": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02947-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02770-4": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02770-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02775-z": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02775-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02773-1": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02773-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02858-x": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02858-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02563-9": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02563-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03019-w": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-03019-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02646-7": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02646-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02771-3": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02771-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02637-8": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02637-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02854-1": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02854-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02774-0": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02774-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02861-2": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/d41586-026-02861-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03212-9": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41592-026-03212-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41571-026-01204-4": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.nature.com/articles/s41571-026-01204-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zd89k6y": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.science.org/content/article/project-will-harness-technology-track-amazon-biodiversity-real-time",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zw2zyis": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.science.org/content/article/bones-link-10-000-year-old-temple-complex-village-not-skull-cult",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z09gp5z": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.science.org/content/article/can-ai-feel-pain-it-can-least-act-it-does",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/": {
+      "first_seen": "2026-09-24",
+      "url": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/": {
+      "first_seen": "2026-09-24",
+      "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145048": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.technologyreview.com/?p=1145002": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144966": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144940": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167361": {
+      "first_seen": "2026-09-24",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
+      "first_seen": "2026-09-24",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": {
+      "first_seen": "2026-09-24",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/two-years-of-openai-academy": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/sam-altman-un-security-council-remarks": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/ringg": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/ringg",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-mentalhealthbench": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/airbnb-gpt-6-astra": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
+      "first_seen": "2026-09-24",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
