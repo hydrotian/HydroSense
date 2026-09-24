@@ -148444,6 +148444,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41586-026-11040-2": {
+      "title": "Agricultural liming is a carbon sink in the Mississippi River Basin",
+      "journal": "Nature",
+      "first_seen": "2026-09-24",
+      "sources": [
+        "daily-2026-09-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124294": {
+      "title": "Shallow Landslides Align With Atmospheric Rivers in Coastal Steeplands",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-24",
+      "sources": [
+        "daily-2026-09-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124518": {
+      "title": "Observational Evidence for Accelerated Warming and Salinification Propagating Into the Deep Mediterranean",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-24",
+      "sources": [
+        "daily-2026-09-16"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156302,6 +156332,12 @@
       "timestamp": "2026-09-23T10:15:12.538264",
       "date": "2026-09-15",
       "papers_found": 0
+    },
+    "daily-2026-09-16": {
+      "type": "daily",
+      "timestamp": "2026-09-24T10:19:11.215324",
+      "date": "2026-09-16",
+      "papers_found": 3
     }
   }
 }
