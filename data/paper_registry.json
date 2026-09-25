@@ -148474,6 +148474,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-77809-1": {
+      "title": "Asymmetric basin-wide responses of coastal phytoplankton biomass to the Indian Ocean dipole",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-25",
+      "sources": [
+        "daily-2026-09-17"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156338,6 +156348,12 @@
       "timestamp": "2026-09-24T10:19:11.215324",
       "date": "2026-09-16",
       "papers_found": 3
+    },
+    "daily-2026-09-17": {
+      "type": "daily",
+      "timestamp": "2026-09-25T10:15:42.322552",
+      "date": "2026-09-17",
+      "papers_found": 1
     }
   }
 }
