@@ -10778,6 +10778,102 @@
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03005-2": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/d41586-026-03005-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02988-2": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/d41586-026-02988-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02989-1": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/d41586-026-02989-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03020-3": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/d41586-026-03020-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02990-8": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/d41586-026-02990-8",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03024-z": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/d41586-026-03024-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03029-8": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/d41586-026-03029-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03022-1": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/d41586-026-03022-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-78075-x": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/s41467-026-78075-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77908-z": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.nature.com/articles/s41467-026-77908-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zc2xj7o": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.science.org/content/article/nih-details-170-million-biomedical-research-reproducibility-effort",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqp1jqe": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.science.org/content/article/little-known-arm-immune-system-could-be-key-better-vaccines-cancer-therapies",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145144": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145083": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145064": {
+      "first_seen": "2026-09-25",
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
+      "first_seen": "2026-09-25",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
