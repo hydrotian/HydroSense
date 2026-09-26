@@ -10874,6 +10874,102 @@
       "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03041-y": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.nature.com/articles/d41586-026-03041-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03032-z": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.nature.com/articles/d41586-026-03032-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03039-6": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.nature.com/articles/d41586-026-03039-6",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03023-0": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.nature.com/articles/d41586-026-03023-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03016-z": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.nature.com/articles/d41586-026-03016-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02980-w": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.nature.com/articles/d41586-026-02980-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03028-9": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.nature.com/articles/d41586-026-03028-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-78063-1": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.nature.com/articles/s41467-026-78063-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqse8wt": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zxi6lqj": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.science.org/content/article/japan-s-science-council-face-greater-governmental-oversight",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z9d9ib2": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/": {
+      "first_seen": "2026-09-26",
+      "url": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/": {
+      "first_seen": "2026-09-26",
+      "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145157": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167403": {
+      "first_seen": "2026-09-26",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/proaction": {
+      "first_seen": "2026-09-26",
+      "url": "https://openai.com/index/proaction",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
