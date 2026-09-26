@@ -148484,6 +148484,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122610": {
+      "title": "Assimilation of SWOT Water Surface Elevation Enhances Simulations of River Dynamics in the Ohio River Basin",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-26",
+      "sources": [
+        "daily-2026-09-18"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123975": {
+      "title": "Co-Occurring Weather Systems Vary by Atmospheric River Scale Across the United States",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-26",
+      "sources": [
+        "daily-2026-09-18"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124877": {
+      "title": "Linking Extreme Precipitation to Pluvial Hydrometeorological Disasters in Southeast Asia Using a Long-Term Event Database",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-26",
+      "sources": [
+        "daily-2026-09-18"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124338": {
+      "title": "Ecological and Hydrological Modulation of Land Surface Temperature in the East Asian Monsoon Margin During Pliocene-Pleistocene Global Cooling",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-26",
+      "sources": [
+        "daily-2026-09-18"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156354,6 +156394,12 @@
       "timestamp": "2026-09-25T10:15:42.322552",
       "date": "2026-09-17",
       "papers_found": 1
+    },
+    "daily-2026-09-18": {
+      "type": "daily",
+      "timestamp": "2026-09-26T10:16:30.187670",
+      "date": "2026-09-18",
+      "papers_found": 4
     }
   }
 }
