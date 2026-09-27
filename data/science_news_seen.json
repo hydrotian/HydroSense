@@ -10970,6 +10970,18 @@
       "url": "https://openai.com/index/proaction",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s42003-026-10948-9": {
+      "first_seen": "2026-09-27",
+      "url": "https://www.nature.com/articles/s42003-026-10948-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77924-z": {
+      "first_seen": "2026-09-27",
+      "url": "https://www.nature.com/articles/s41467-026-77924-z",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

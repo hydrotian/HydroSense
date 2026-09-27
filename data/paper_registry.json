@@ -148524,6 +148524,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123799": {
+      "title": "The 2025–2026 Iberian Atmospheric Rivers Exhibited Moisture Transport Resembling the Early SSP5‐8.5 Climate Response",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-27",
+      "sources": [
+        "daily-2026-09-19"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156400,6 +156410,12 @@
       "timestamp": "2026-09-26T10:16:30.187670",
       "date": "2026-09-18",
       "papers_found": 4
+    },
+    "daily-2026-09-19": {
+      "type": "daily",
+      "timestamp": "2026-09-27T10:12:26.312612",
+      "date": "2026-09-19",
+      "papers_found": 1
     }
   }
 }
