@@ -148534,6 +148534,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1007/s00704-026-06579-z": {
+      "title": "Projections of hydrological changes and riverflow extremes using TerM land surface model in the Limpopo River Basin, South Africa",
+      "journal": "Theoretical and Applied Climatology",
+      "first_seen": "2026-09-28",
+      "sources": [
+        "weekly-2026-W38"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/bg-23-6521-2026": {
+      "title": "Introducing shrubs enhances the representation of high-latitude vegetation and carbon cycling in the ORCHIDEE land surface model",
+      "journal": "Biogeosciences",
+      "first_seen": "2026-09-28",
+      "sources": [
+        "weekly-2026-W38"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156422,6 +156442,29 @@
       "timestamp": "2026-09-28T10:13:07.413133",
       "date": "2026-09-20",
       "papers_found": 0
+    },
+    "weekly-2026-W38": {
+      "type": "weekly",
+      "timestamp": "2026-09-28T10:19:29.064676",
+      "date": "2026-09-21",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
