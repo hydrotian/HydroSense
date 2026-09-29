@@ -148554,6 +148554,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2607273123": {
+      "title": "Compound drought-heat wave hazards are concentrated in US regions with multiple social vulnerabilities and agricultural dependence",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-09-29",
+      "sources": [
+        "daily-2026-09-21"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124321": {
+      "title": "Subsurface-Intensified Marine Heatwaves: A Hidden and Intense Warming Threat to Tropical Ocean Ecosystems",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-29",
+      "sources": [
+        "daily-2026-09-21"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156465,6 +156485,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-09-21": {
+      "type": "daily",
+      "timestamp": "2026-09-29T10:17:28.222696",
+      "date": "2026-09-21",
+      "papers_found": 2
     }
   }
 }

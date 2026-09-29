@@ -11012,6 +11012,150 @@
       "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03053-8": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/d41586-026-03053-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03056-5": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/d41586-026-03056-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03054-7": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/d41586-026-03054-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03055-6": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/d41586-026-03055-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02961-z": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/d41586-026-02961-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02964-w": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/d41586-026-02964-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02962-y": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/d41586-026-02962-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02277-y": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/d41586-026-02277-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41564-026-02482-5": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/s41564-026-02482-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42003-026-11044-8": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.nature.com/articles/s42003-026-11044-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z5f7ls0": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.science.org/content/article/scientists-engineered-glowing-cuttlefish-why-was-it-so-hard",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zn0wff3": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.science.org/content/article/russian-drone-kills-least-two-ukraine-science-academy-attack",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zcdtp7v": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.science.org/content/article/fed-brazil-s-politicians-not-listening-climate-scientist-runs-office",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z2974pv": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/": {
+      "first_seen": "2026-09-29",
+      "url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/": {
+      "first_seen": "2026-09-29",
+      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145230": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.technologyreview.com/?p=1145202": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167446": {
+      "first_seen": "2026-09-29",
+      "url": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/how-we-will-do-better-for-australia": {
+      "first_seen": "2026-09-29",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+      "first_seen": "2026-09-29",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/lenfest-ai-collaborative-expansion": {
+      "first_seen": "2026-09-29",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/form/codex-originals": {
+      "first_seen": "2026-09-29",
+      "url": "https://openai.com/form/codex-originals",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/basis-tax-workbook-with-astra": {
+      "first_seen": "2026-09-29",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
