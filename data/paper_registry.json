@@ -148574,6 +148574,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/d41586-026-03000-7": {
+      "title": "Nepal floods pose biggest test yet for UN climate loss and damage fund",
+      "journal": "Nature",
+      "first_seen": "2026-09-30",
+      "sources": [
+        "daily-2026-09-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123850": {
+      "title": "Concurrent Eurasian Heatwaves Will Intensify Beyond the Mean Warming",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-09-30",
+      "sources": [
+        "daily-2026-09-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77801-9": {
+      "title": "Woody plant encroachment enhanced negative interactions in Arctic plant communities over the last 24,000 years",
+      "journal": "Nature Communications",
+      "first_seen": "2026-09-30",
+      "sources": [
+        "daily-2026-09-22"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156491,6 +156521,12 @@
       "timestamp": "2026-09-29T10:17:28.222696",
       "date": "2026-09-21",
       "papers_found": 2
+    },
+    "daily-2026-09-22": {
+      "type": "daily",
+      "timestamp": "2026-09-30T10:17:22.687790",
+      "date": "2026-09-22",
+      "papers_found": 3
     }
   }
 }
