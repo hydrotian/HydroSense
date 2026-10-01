@@ -148604,6 +148604,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl124105": {
+      "title": "OCO-3 Meets ECOSTRESS: Insights Into Ecosystem Diurnal Water-Use Efficiency From Co-Located Solar-Induced Fluorescence and Thermal Observations",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-01",
+      "sources": [
+        "daily-2026-09-23"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156527,6 +156537,12 @@
       "timestamp": "2026-09-30T10:17:22.687790",
       "date": "2026-09-22",
       "papers_found": 3
+    },
+    "daily-2026-09-23": {
+      "type": "daily",
+      "timestamp": "2026-10-01T10:18:16.258275",
+      "date": "2026-09-23",
+      "papers_found": 1
     }
   }
 }
