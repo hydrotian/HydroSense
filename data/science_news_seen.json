@@ -11642,6 +11642,144 @@
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11149-4": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.nature.com/articles/s41586-026-11149-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03036-9": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.nature.com/articles/d41586-026-03036-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03119-7": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.nature.com/articles/d41586-026-03119-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03044-9": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.nature.com/articles/d41586-026-03044-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03101-3": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.nature.com/articles/d41586-026-03101-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03118-8": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.nature.com/articles/d41586-026-03118-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zd9gua1": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zdt8lmx": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.science.org/content/article/africa-s-effort-make-most-its-own-vaccines-2040-faces-significant-headwinds",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.ziihuvh": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.science.org/content/article/menopause-puts-brain-risk-researchers-are-starting-learn-why",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.za1zh1l": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.science.org/content/article/ai-helps-decipher-what-elephant-herds-are-saying",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zvloyc8": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.science.org/content/article/oil-wells-could-become-mines-critical-minerals",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/": {
+      "first_seen": "2026-10-02",
+      "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/": {
+      "first_seen": "2026-10-02",
+      "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/": {
+      "first_seen": "2026-10-02",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145610": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145639": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145592": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145588": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145435": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167492": {
+      "first_seen": "2026-10-02",
+      "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/the-eternal-complement": {
+      "first_seen": "2026-10-02",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/albertsons-reimagining-retail": {
+      "first_seen": "2026-10-02",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/the-den-family-social": {
+      "first_seen": "2026-10-02",
+      "url": "https://openai.com/index/the-den-family-social",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

@@ -148614,6 +148614,76 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.aem6543": {
+      "title": "Satellite reveals a world of altered rivers",
+      "journal": "Science",
+      "first_seen": "2026-10-02",
+      "sources": [
+        "daily-2026-09-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124584": {
+      "title": "Typhoon-Driven Near-Surface Groundwater Dynamics Revealed by Ambient Noise in the Mountain Watershed",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-02",
+      "sources": [
+        "daily-2026-09-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125098": {
+      "title": "North Sea Storm Surges Amplified by Oscillations Triggered by Preceding Storms",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-02",
+      "sources": [
+        "daily-2026-09-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122966": {
+      "title": "Open Ocean Biogeochemical Impacts of Extreme Terrestrial Precipitation",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-02",
+      "sources": [
+        "daily-2026-09-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0228.1": {
+      "title": "Advancing Operational Flood Inundation Maps Through Usability Testing of NOAA Flood Inundation Maps",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-10-02",
+      "sources": [
+        "daily-2026-09-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77143-6": {
+      "title": "Barrier island geomorphic complexity drives storm and post-storm response",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-02",
+      "sources": [
+        "daily-2026-09-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77958-3": {
+      "title": "Divergent trends in post-landfall decay of strong and weak tropical cyclones",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-02",
+      "sources": [
+        "daily-2026-09-24"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156543,6 +156613,12 @@
       "timestamp": "2026-10-01T10:18:16.258275",
       "date": "2026-09-23",
       "papers_found": 1
+    },
+    "daily-2026-09-24": {
+      "type": "daily",
+      "timestamp": "2026-10-02T10:18:49.382968",
+      "date": "2026-09-24",
+      "papers_found": 7
     }
   }
 }
