@@ -148684,6 +148684,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122766": {
+      "title": "Systematic Overestimation of Global Peak Runoff Synchronization in CMIP6 Models",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-03",
+      "sources": [
+        "daily-2026-09-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025gl120974": {
+      "title": "Simulation of Coastal El Niño Events in CMIP6 Models and Its Relationship to Mean-State and ENSO Biases",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-03",
+      "sources": [
+        "daily-2026-09-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125037": {
+      "title": "Global Characterization of Precipitation Peaks in the Seasonal Cycle",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-03",
+      "sources": [
+        "daily-2026-09-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-026-00721-x": {
+      "title": "A River Wave framework to unify river ecosystem concepts and predict ecological change",
+      "journal": "Nature Water",
+      "first_seen": "2026-10-03",
+      "sources": [
+        "daily-2026-09-25"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156619,6 +156659,12 @@
       "timestamp": "2026-10-02T10:18:49.382968",
       "date": "2026-09-24",
       "papers_found": 7
+    },
+    "daily-2026-09-25": {
+      "type": "daily",
+      "timestamp": "2026-10-03T10:15:38.714623",
+      "date": "2026-09-25",
+      "papers_found": 4
     }
   }
 }
