@@ -11780,6 +11780,126 @@
       "url": "https://openai.com/index/the-den-family-social",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03037-8": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-03037-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03057-4": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-03057-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03058-3": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-03058-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03126-8": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-03126-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03145-5": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-03145-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03133-9": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-03133-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02976-6": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-02976-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02769-x": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-02769-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02564-8": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.nature.com/articles/d41586-026-02564-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zxy6r05": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.science.org/content/article/six-biology-breakthroughs-should-have-won-nobel-prize-didn-t",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zvg8wwo": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.science.org/content/article/canada-commits-1-2-billion-protect-oceans-while-pushing-ahead-pipeline",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zzuxvo5": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/": {
+      "first_seen": "2026-10-03",
+      "url": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/": {
+      "first_seen": "2026-10-03",
+      "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/": {
+      "first_seen": "2026-10-03",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143774": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145666": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167558": {
+      "first_seen": "2026-10-03",
+      "url": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/practical-guide-building-gpt-6": {
+      "first_seen": "2026-10-03",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/chatham-financial": {
+      "first_seen": "2026-10-03",
+      "url": "https://openai.com/index/chatham-financial",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
