@@ -11900,6 +11900,12 @@
       "url": "https://openai.com/index/chatham-financial",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/": {
+      "first_seen": "2026-10-04",
+      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
