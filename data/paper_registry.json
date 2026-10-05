@@ -148724,6 +148724,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2025gl120694": {
+      "title": "First Application of a Coastal-Dune Model (AeoLiS) to Simulate Fluvial-Aeolian Morphodynamics",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-05",
+      "sources": [
+        "daily-2026-09-27"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156665,6 +156675,12 @@
       "timestamp": "2026-10-03T10:15:38.714623",
       "date": "2026-09-25",
       "papers_found": 4
+    },
+    "daily-2026-09-27": {
+      "type": "daily",
+      "timestamp": "2026-10-05T10:13:04.759073",
+      "date": "2026-09-27",
+      "papers_found": 1
     }
   }
 }
