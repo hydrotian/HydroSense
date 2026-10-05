@@ -148734,6 +148734,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/bg-23-6687-2026": {
+      "title": "Using deep learning to assimilate sun-induced fluorescence satellite observations in the ISBA land surface model",
+      "journal": "Biogeosciences",
+      "first_seen": "2026-10-05",
+      "sources": [
+        "weekly-2026-W39"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156681,6 +156691,29 @@
       "timestamp": "2026-10-05T10:13:04.759073",
       "date": "2026-09-27",
       "papers_found": 1
+    },
+    "weekly-2026-W39": {
+      "type": "weekly",
+      "timestamp": "2026-10-05T10:22:38.522450",
+      "date": "2026-09-28",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
