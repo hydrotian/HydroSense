@@ -148744,6 +148744,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s44221-026-00724-8": {
+      "title": "Global hydrological drought diverges from atmospheric drying",
+      "journal": "Nature Water",
+      "first_seen": "2026-10-06",
+      "sources": [
+        "daily-2026-09-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2615021123": {
+      "title": "Fragmentation outweighs forest cover in shaping land surface temperature across half of global forests",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-10-06",
+      "sources": [
+        "daily-2026-09-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0196.1": {
+      "title": "Opportunities for increasing resilience to changing severe weather in southern Africa",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-10-06",
+      "sources": [
+        "daily-2026-09-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s44221-026-00718-6": {
+      "title": "Making river cooperation fairer",
+      "journal": "Nature Water",
+      "first_seen": "2026-10-06",
+      "sources": [
+        "daily-2026-09-28"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156714,6 +156754,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-09-28": {
+      "type": "daily",
+      "timestamp": "2026-10-06T10:16:50.671654",
+      "date": "2026-09-28",
+      "papers_found": 4
     }
   }
 }

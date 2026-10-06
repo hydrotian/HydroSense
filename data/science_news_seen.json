@@ -11942,6 +11942,150 @@
       "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03176-y": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03176-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03174-0": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03174-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03177-x": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03177-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03175-z": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03175-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03105-z": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03105-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03131-x": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03131-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03094-z": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03094-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03157-1": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03157-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03091-2": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03091-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03134-8": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03134-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03135-7": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/d41586-026-03135-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03242-3": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/s41592-026-03242-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03236-1": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/s41592-026-03236-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-025-15443-5": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/s41598-025-15443-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-78143-2": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.nature.com/articles/s41467-026-78143-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zspfqsx": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zlewer8": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.science.org/content/article/method-controlling-brain-cells-light-wins-nobel",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/": {
+      "first_seen": "2026-10-06",
+      "url": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145580": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143813": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145711": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167602": {
+      "first_seen": "2026-10-06",
+      "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/eu-text-provenance": {
+      "first_seen": "2026-10-06",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+      "first_seen": "2026-10-06",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
