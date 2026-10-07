@@ -148784,6 +148784,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl124167": {
+      "title": "Dead Sea Warming and the Origin of Salt Giants",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-07",
+      "sources": [
+        "daily-2026-09-29"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124805": {
+      "title": "BridgeSAR: Measuring Bridge-Water Clearance From Space Using SAR Multipath Signatures",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-07",
+      "sources": [
+        "daily-2026-09-29"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124233": {
+      "title": "Water Storage Capacity Dynamics in Drained Boreal Peatlands: Responses to Rewetting and Climate Change",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-07",
+      "sources": [
+        "daily-2026-09-29"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124455": {
+      "title": "Quantifying Land-Sea Connectivity Through Remotely Sensed River Plumes",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-07",
+      "sources": [
+        "daily-2026-09-29"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77979-y": {
+      "title": "Inside-outward breakup of sea ice by locally generated waves in the Vincennes Bay Polynya",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-07",
+      "sources": [
+        "daily-2026-09-29"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156760,6 +156810,12 @@
       "timestamp": "2026-10-06T10:16:50.671654",
       "date": "2026-09-28",
       "papers_found": 4
+    },
+    "daily-2026-09-29": {
+      "type": "daily",
+      "timestamp": "2026-10-07T10:18:39.365630",
+      "date": "2026-09-29",
+      "papers_found": 5
     }
   }
 }

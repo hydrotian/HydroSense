@@ -12086,6 +12086,228 @@
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03132-w": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03132-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11244-6": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/s41586-026-11244-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03155-3": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03155-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02973-9": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-02973-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03160-6": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03160-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03095-y": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03095-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02798-6": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-02798-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03129-5": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03129-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03136-6": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03136-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02966-8": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-02966-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03150-8": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03150-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03092-1": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03092-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02967-7": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-02967-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03130-y": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/d41586-026-03130-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-78206-4": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.nature.com/articles/s41467-026-78206-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zkwxnlt": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.science.org/content/article/exclusive-archaeology-megafirm-abruptly-shuts-down",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z0p7bre": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.science.org/content/article/november-elections-may-bring-little-relief-scientists-beleaguered-trump",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zonw7s7": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.science.org/content/article/possible-plague-death-siberian-lab-baffles-scientists",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z5bi3rx": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.science.org/content/article/complete-devastation-how-nsf-gutted-its-social-sciences-research",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zpqnrv8": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.science.org/content/article/architect-south-pole-observatory-wins-physics-nobel",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/": {
+      "first_seen": "2026-10-07",
+      "url": "https://arstechnica.com/science/2026/10/it-looks-like-the-atlantic-storm-season-may-finally-produce-a-hurricane/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/": {
+      "first_seen": "2026-10-07",
+      "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145836": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145796": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1143800": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144978": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144987": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145020": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145025": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145032": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145172": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145208": {
+      "first_seen": "2026-10-07",
+      "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+      "first_seen": "2026-10-07",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/jump-trading": {
+      "first_seen": "2026-10-07",
+      "url": "https://openai.com/index/jump-trading",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+      "first_seen": "2026-10-07",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://openai.com/index/advancing-computer-use-with-ironclad": {
+      "first_seen": "2026-10-07",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/atlassian-partnership": {
+      "first_seen": "2026-10-07",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
