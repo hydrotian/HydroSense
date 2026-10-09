@@ -12710,6 +12710,168 @@
       "url": "https://openai.com/index/gpt-6-for-everyone",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11266-0": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/s41586-026-11266-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11070-w": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/s41586-026-11070-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03218-5": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/d41586-026-03218-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02921-7": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/d41586-026-02921-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03193-x": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/d41586-026-03193-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03128-6": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/d41586-026-03128-6",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03215-8": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/d41586-026-03215-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03199-5": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/d41586-026-03199-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s44222-026-00502-x": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.nature.com/articles/s44222-026-00502-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zsdpm1v": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zz20nn3": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zzhv2dd": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.science.org/content/article/will-world-end-next-month-science-said-so-1960",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z3xislt": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.science.org/content/article/nih-revives-network-study-emerging-diseases-its-new-restrictions-baffle-scientists",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zwfcwax": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.science.org/content/article/nih-ends-2026-boost-early-career-researchers-new-awards-are-down-overall",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/": {
+      "first_seen": "2026-10-09",
+      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/": {
+      "first_seen": "2026-10-09",
+      "url": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145728": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145737": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146094": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146224": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146045": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145920": {
+      "first_seen": "2026-10-09",
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/sophos": {
+      "first_seen": "2026-10-09",
+      "url": "https://openai.com/index/sophos",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/oracle": {
+      "first_seen": "2026-10-09",
+      "url": "https://openai.com/index/oracle",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/pollo-ai": {
+      "first_seen": "2026-10-09",
+      "url": "https://openai.com/index/pollo-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/legalon-halves-codex-costs": {
+      "first_seen": "2026-10-09",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+      "first_seen": "2026-10-09",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
