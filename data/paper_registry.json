@@ -148864,6 +148864,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2607372123": {
+      "title": "Deep learning of fossil pollen morphology reveals 25,000 y of ecological change in eastern African grasslands",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-10-10",
+      "sources": [
+        "daily-2026-10-02"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156852,6 +156862,12 @@
       "timestamp": "2026-10-08T10:20:40.753046",
       "date": "2026-09-30",
       "papers_found": 3
+    },
+    "daily-2026-10-02": {
+      "type": "daily",
+      "timestamp": "2026-10-10T10:14:58.641244",
+      "date": "2026-10-02",
+      "papers_found": 1
     }
   }
 }
