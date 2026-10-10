@@ -12710,6 +12710,192 @@
       "url": "https://openai.com/index/gpt-6-for-everyone",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03159-z": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.nature.com/articles/d41586-026-03159-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03216-7": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.nature.com/articles/d41586-026-03216-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03158-0": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.nature.com/articles/d41586-026-03158-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03217-6": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.nature.com/articles/d41586-026-03217-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03210-z": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.nature.com/articles/d41586-026-03210-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02909-3": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.nature.com/articles/d41586-026-02909-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11273-1": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.nature.com/articles/s41586-026-11273-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03116-w": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.nature.com/articles/d41586-026-03116-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zgp4o5c": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.science.org/content/article/u-s-crop-genome-sequencing-gets-180-million-boost",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z061c69": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.science.org/content/article/department-energy-expands-genesis-mission-boost-ai-awarding-larger-grants",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zbynaip": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.science.org/content/article/major-employer-archaeologists-shuts-down-leaving-workers-lurch",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zwu3e54": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.science.org/doi/10.1126/science.z3xislt": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.science.org/content/article/nih-revives-network-study-emerging-diseases-its-new-restrictions-baffle-scientists",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zwfcwax": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.science.org/content/article/nih-ends-2026-boost-early-career-researchers-new-awards-are-down-overall",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/": {
+      "first_seen": "2026-10-10",
+      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/": {
+      "first_seen": "2026-10-10",
+      "url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/": {
+      "first_seen": "2026-10-10",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/": {
+      "first_seen": "2026-10-10",
+      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/": {
+      "first_seen": "2026-10-10",
+      "url": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146250": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145728": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145737": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146094": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146224": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146045": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167729": {
+      "first_seen": "2026-10-10",
+      "url": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/sophos": {
+      "first_seen": "2026-10-10",
+      "url": "https://openai.com/index/sophos",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/asana-browser-agent": {
+      "first_seen": "2026-10-10",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/oracle": {
+      "first_seen": "2026-10-10",
+      "url": "https://openai.com/index/oracle",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/pollo-ai": {
+      "first_seen": "2026-10-10",
+      "url": "https://openai.com/index/pollo-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/legalon-halves-codex-costs": {
+      "first_seen": "2026-10-10",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
