@@ -12896,6 +12896,12 @@
       "url": "https://openai.com/index/legalon-halves-codex-costs",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/": {
+      "first_seen": "2026-10-11",
+      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

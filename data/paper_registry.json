@@ -148874,6 +148874,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-77834-0": {
+      "title": "Global climate impact of land-surface change driven by radiative effects",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-11",
+      "sources": [
+        "daily-2026-10-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124553": {
+      "title": "Dust Loading Increases During Topsoil Flash Droughts Under Rapid Surface Drying and Vegetation Stress",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-11",
+      "sources": [
+        "daily-2026-10-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123988": {
+      "title": "The Influence of Sea-Land Breeze on the Circulation and Air-Sea Thermodynamics of the Mississippi Sound and Bight",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-11",
+      "sources": [
+        "daily-2026-10-03"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156868,6 +156898,12 @@
       "timestamp": "2026-10-10T10:14:58.641244",
       "date": "2026-10-02",
       "papers_found": 1
+    },
+    "daily-2026-10-03": {
+      "type": "daily",
+      "timestamp": "2026-10-11T10:15:19.440094",
+      "date": "2026-10-03",
+      "papers_found": 3
     }
   }
 }
