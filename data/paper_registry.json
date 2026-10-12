@@ -148904,6 +148904,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1016/j.envsoft.2026.107149": {
+      "title": "Watershed-agnostic modeling: An explainable, distributed, data-driven hydrologic model",
+      "journal": "Environmental Modelling & Software",
+      "first_seen": "2026-10-12",
+      "sources": [
+        "weekly-2026-W40"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/jhyeff.heeng-6901": {
+      "title": "LID-Design Atlas: Mapping Hydrologic Performance and Cost Trade-Offs in Infiltration-Based LID Design",
+      "journal": "Journal of Hydrologic Engineering",
+      "first_seen": "2026-10-12",
+      "sources": [
+        "weekly-2026-W40"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1101/2025.11.20.689458": {
+      "title": "Benchmarking phenology with a land surface model: an in-silico experiment for temperate forests",
+      "journal": "bioRxiv",
+      "first_seen": "2026-10-12",
+      "sources": [
+        "weekly-2026-W40"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156910,6 +156940,29 @@
       "timestamp": "2026-10-12T10:14:43.547675",
       "date": "2026-10-04",
       "papers_found": 0
+    },
+    "weekly-2026-W40": {
+      "type": "weekly",
+      "timestamp": "2026-10-12T10:19:58.769836",
+      "date": "2026-10-05",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
