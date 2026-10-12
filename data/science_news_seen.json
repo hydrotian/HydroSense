@@ -12902,6 +12902,36 @@
       "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03225-6": {
+      "first_seen": "2026-10-12",
+      "url": "https://www.nature.com/articles/d41586-026-03225-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02714-y": {
+      "first_seen": "2026-10-12",
+      "url": "https://www.nature.com/articles/d41586-026-02714-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77962-7": {
+      "first_seen": "2026-10-12",
+      "url": "https://www.nature.com/articles/s41467-026-77962-7",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.technologyreview.com/?p=1145760": {
+      "first_seen": "2026-10-12",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145745": {
+      "first_seen": "2026-10-12",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
