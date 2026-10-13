@@ -148934,6 +148934,66 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-78275-5": {
+      "title": "Global scale river discharge and mean depth from radar altimetry and model",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-13",
+      "sources": [
+        "daily-2026-10-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2612779123": {
+      "title": "A 2,623-year temperature reconstruction from the Colorado Rocky Mountains reveals warm and cool droughts",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-10-13",
+      "sources": [
+        "daily-2026-10-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0174.1": {
+      "title": "CROCUS Micronet: A Distributed Urban Observation System in Chicago",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-10-13",
+      "sources": [
+        "daily-2026-10-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2606997123": {
+      "title": "Global divergence in urban-rural vegetation resilience driven by broken ecological trade-offs",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-10-13",
+      "sources": [
+        "daily-2026-10-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124065": {
+      "title": "Corals Reveal Atlantic Drivers of Red Sea Surface Variability Through Indian Ocean Inflow",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-13",
+      "sources": [
+        "daily-2026-10-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125062": {
+      "title": "High- and Low-Latitude Insolation Forcing Drives the Half-Precession Cycle in Winter Arctic Sea Ice",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-13",
+      "sources": [
+        "daily-2026-10-05"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -156963,6 +157023,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-10-05": {
+      "type": "daily",
+      "timestamp": "2026-10-13T10:19:29.871076",
+      "date": "2026-10-05",
+      "papers_found": 6
     }
   }
 }

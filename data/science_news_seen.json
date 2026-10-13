@@ -12932,6 +12932,138 @@
       "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03244-3": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03244-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03245-2": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03245-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03246-1": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03246-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03234-5": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03234-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02715-x": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-02715-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03240-7": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03240-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11253-5": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/s41586-026-11253-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03251-4": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03251-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02970-y": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-02970-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03181-1": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03181-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03207-8": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03207-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03255-0": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03255-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03224-7": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03224-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11250-8": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/s41586-026-11250-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03227-4": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/d41586-026-03227-4",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/s41467-026-78451-7": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/s41467-026-78451-7",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/s42003-026-11149-0": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.nature.com/articles/s42003-026-11149-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zkw4odb": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.science.org/content/article/honey-bees-inject-venom-two-stroke-stinger",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zt1x2j3": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.science.org/content/article/did-ai-or-human-write-paper-new-detector-decides-examining-its-ideas",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145755": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146376": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167776": {
+      "first_seen": "2026-10-13",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
