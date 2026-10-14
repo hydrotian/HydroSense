@@ -148994,6 +148994,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123820": {
+      "title": "The Growing Role of Evaporative Demand in Driving Record-Breaking Droughts in the Amazon Basin",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-14",
+      "sources": [
+        "daily-2026-10-06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124747": {
+      "title": "Discrepancies in Extreme Daily and Monthly Precipitation Trends Between Observations and Earth System Models",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-14",
+      "sources": [
+        "daily-2026-10-06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124322": {
+      "title": "Steric-Setup Effects on US East Coast Sea-Level Change",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-14",
+      "sources": [
+        "daily-2026-10-06"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157029,6 +157059,12 @@
       "timestamp": "2026-10-13T10:19:29.871076",
       "date": "2026-10-05",
       "papers_found": 6
+    },
+    "daily-2026-10-06": {
+      "type": "daily",
+      "timestamp": "2026-10-14T10:16:39.512042",
+      "date": "2026-10-06",
+      "papers_found": 3
     }
   }
 }
