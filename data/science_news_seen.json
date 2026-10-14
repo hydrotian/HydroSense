@@ -13064,6 +13064,192 @@
       "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03223-8": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03223-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03222-9": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03222-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11257-1": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/s41586-026-11257-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11255-3": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/s41586-026-11255-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03236-3": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03236-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02974-8": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-02974-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03220-x": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03220-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03221-w": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03221-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03226-5": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03226-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03252-3": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03252-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03153-5": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-03153-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02668-1": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/d41586-026-02668-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11246-4": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.nature.com/articles/s41586-026-11246-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zu2l708": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zxqws1h": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z1hb1jx": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zjyluk0": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.science.org/doi/10.1126/science.z57f6ee": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zpy3crb": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.science.org/content/article/women-academics-feeling-devalued-can-be-fatal-career-blow",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zjmp7om": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.science.org/content/article/russian-ornithologist-sentenced-prison-anticorruption-donation",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/": {
+      "first_seen": "2026-10-14",
+      "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/": {
+      "first_seen": "2026-10-14",
+      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145807": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146382": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146366": {
+      "first_seen": "2026-10-14",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+      "first_seen": "2026-10-14",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+      "first_seen": "2026-10-14",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+      "first_seen": "2026-10-14",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+      "first_seen": "2026-10-14",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+      "first_seen": "2026-10-14",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/higgsfield-longer-videos-voice": {
+      "first_seen": "2026-10-14",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
