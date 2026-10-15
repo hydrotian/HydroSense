@@ -149024,6 +149024,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123722": {
+      "title": "Global Assessment of SWOT River Discharge Representation at Channel Bifurcations",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-15",
+      "sources": [
+        "daily-2026-10-07"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122652": {
+      "title": "Hydrological Extremes Increase Water-Resource Constraints Under Climate Change",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-15",
+      "sources": [
+        "daily-2026-10-07"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157065,6 +157085,12 @@
       "timestamp": "2026-10-14T10:16:39.512042",
       "date": "2026-10-06",
       "papers_found": 3
+    },
+    "daily-2026-10-07": {
+      "type": "daily",
+      "timestamp": "2026-10-15T10:17:54.281293",
+      "date": "2026-10-07",
+      "papers_found": 2
     }
   }
 }
