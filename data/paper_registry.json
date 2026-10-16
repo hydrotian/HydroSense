@@ -149044,6 +149044,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl125708": {
+      "title": "SWOT-Fitted River Bathymetry for Global Hydrodynamic Models",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-16",
+      "sources": [
+        "daily-2026-10-08"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157091,6 +157101,12 @@
       "timestamp": "2026-10-15T10:17:54.281293",
       "date": "2026-10-07",
       "papers_found": 2
+    },
+    "daily-2026-10-08": {
+      "type": "daily",
+      "timestamp": "2026-10-16T10:16:36.573302",
+      "date": "2026-10-08",
+      "papers_found": 1
     }
   }
 }
