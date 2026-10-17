@@ -13778,6 +13778,90 @@
       "url": "https://openai.com/index/sullivan-cromwell",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03341-3": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.nature.com/articles/d41586-026-03341-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03112-0": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.nature.com/articles/d41586-026-03112-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03308-4": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.nature.com/articles/d41586-026-03308-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03303-9": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.nature.com/articles/d41586-026-03303-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03195-9": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.nature.com/articles/d41586-026-03195-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03338-y": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.nature.com/articles/d41586-026-03338-y",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/s41467-026-78454-4": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.nature.com/articles/s41467-026-78454-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zj86b2z": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.science.org/content/article/how-scientists-domesticated-killer-bacterium",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.za3oagd": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.science.org/content/article/usda-scientists-get-reprieve-lab-closures-how-long",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146864": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=167932": {
+      "first_seen": "2026-10-17",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://openai.com/index/itau-generative-ai": {
+      "first_seen": "2026-10-17",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+      "first_seen": "2026-10-17",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/benefit-street-partners": {
+      "first_seen": "2026-10-17",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
