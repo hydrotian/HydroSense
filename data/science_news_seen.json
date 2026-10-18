@@ -13862,6 +13862,12 @@
       "url": "https://openai.com/index/benefit-street-partners",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/": {
+      "first_seen": "2026-10-18",
+      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
