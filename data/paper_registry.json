@@ -149054,6 +149054,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/gmd-19-9463-2026": {
+      "title": "Benchmarking a new urban scheme in the ORCHIDEE 2.2 land surface model",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-10-19",
+      "sources": [
+        "weekly-2026-W41"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157125,6 +157135,29 @@
       "timestamp": "2026-10-19T10:07:30.573039",
       "date": "2026-10-11",
       "papers_found": 0
+    },
+    "weekly-2026-W41": {
+      "type": "weekly",
+      "timestamp": "2026-10-19T10:11:19.808347",
+      "date": "2026-10-12",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
