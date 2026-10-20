@@ -149064,6 +149064,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl125793": {
+      "title": "Hydropeaking Catalyzes Redox Reactions in Impacted Aquifers: A First Field Evidence",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-20",
+      "sources": [
+        "daily-2026-10-12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2600941123": {
+      "title": "Extensive Glacier Loss in the Coterminous United States",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-10-20",
+      "sources": [
+        "daily-2026-10-12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2612829123": {
+      "title": "Improved Assessment of Alaskan Arctic Coastal Wave Exposure Accounting for Landfast Ice",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-10-20",
+      "sources": [
+        "daily-2026-10-12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124649": {
+      "title": "Contribution of the Pacific Decadal Oscillation to Global Mean Sea Level Trends: Revisited",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-20",
+      "sources": [
+        "daily-2026-10-12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2025rg000923": {
+      "title": "Meteorological Aspects of the Congo Basin and Western Equatorial Africa",
+      "journal": "Reviews of Geophysics",
+      "first_seen": "2026-10-20",
+      "sources": [
+        "daily-2026-10-12"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157158,6 +157208,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-10-12": {
+      "type": "daily",
+      "timestamp": "2026-10-20T10:13:17.894758",
+      "date": "2026-10-12",
+      "papers_found": 5
     }
   }
 }
