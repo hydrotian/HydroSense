@@ -14114,6 +14114,198 @@
       "url": "https://openai.com/index/low-resource-programming-languages",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03355-x": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03355-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03311-9": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03311-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03326-2": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03326-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02975-7": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-02975-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03062-7": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03062-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03327-1": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03327-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03310-w": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03310-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03358-8": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03358-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03200-1": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03200-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03316-4": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03316-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03151-7": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03151-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03359-7": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/d41586-026-03359-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41587-026-03348-1": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.nature.com/articles/s41587-026-03348-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z032aq1": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.science.org/content/article/archaeologists-spar-over-age-key-south-american-dig-site",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z3yglsm": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zh6if8c": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.science.org/content/article/glue-gun-ant-fires-sticky-webs-its-enemies",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zsukjxp": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.science.org/content/article/could-your-chatbot-tip-scientific-rival-it-s-possible-researchers-say",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zbtfi9e": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.science.org/content/article/biologist-david-sabatini-wins-6-million-defamation-lawsuit",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/": {
+      "first_seen": "2026-10-21",
+      "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146053": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146061": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146121": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146124": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146128": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146137": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146141": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145205": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145274": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1145276": {
+      "first_seen": "2026-10-21",
+      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/ted-taylor-restaurant": {
+      "first_seen": "2026-10-21",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/terminal-x": {
+      "first_seen": "2026-10-21",
+      "url": "https://openai.com/index/terminal-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/openai-to-acquire-orchestra-bio": {
+      "first_seen": "2026-10-21",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
