@@ -149134,6 +149134,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41586-026-11126-x": {
+      "title": "Advancing subseasonal forecasting with machine learning",
+      "journal": "Nature",
+      "first_seen": "2026-10-22",
+      "sources": [
+        "daily-2026-10-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-026-11166-3": {
+      "title": "Interhemispheric monsoon dynamics over the past 450,000 years",
+      "journal": "Nature",
+      "first_seen": "2026-10-22",
+      "sources": [
+        "daily-2026-10-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124622": {
+      "title": "Changes in Flood Frequency and Seasonality Across Midwestern U.S. Watersheds Under a Warming Climate",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-22",
+      "sources": [
+        "daily-2026-10-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-78045-3": {
+      "title": "Global expansion of compound drought-heatwave risk",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-22",
+      "sources": [
+        "daily-2026-10-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-78572-z": {
+      "title": "A South Atlantic atmospheric river dipole as a key precursor of Amazon wildfires",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-22",
+      "sources": [
+        "daily-2026-10-14"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157240,6 +157290,12 @@
       "timestamp": "2026-10-21T10:09:07.660561",
       "date": "2026-10-13",
       "papers_found": 2
+    },
+    "daily-2026-10-14": {
+      "type": "daily",
+      "timestamp": "2026-10-22T10:13:47.152841",
+      "date": "2026-10-14",
+      "papers_found": 5
     }
   }
 }
