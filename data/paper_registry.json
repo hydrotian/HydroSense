@@ -149184,6 +149184,76 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s44221-026-00731-9": {
+      "title": "Atmospheric drying translates unevenly into river drought",
+      "journal": "Nature Water",
+      "first_seen": "2026-10-23",
+      "sources": [
+        "daily-2026-10-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aen2357": {
+      "title": "'Super' El Niño spurs research on ecosystem impacts",
+      "journal": "Science",
+      "first_seen": "2026-10-23",
+      "sources": [
+        "daily-2026-10-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124074": {
+      "title": "Observation of Daily Flood Hazard During the SWOT Cal/Val Orbit",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-23",
+      "sources": [
+        "daily-2026-10-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125653": {
+      "title": "Regime Shifts During Compound Drought-Heatwave Events Amplify Ecosystem and Heat Stress Risks",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-23",
+      "sources": [
+        "daily-2026-10-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125508": {
+      "title": "Multidecadal Changes in Atmospheric Dryness Over East Asia Dominated by Internal Climate Variability",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-23",
+      "sources": [
+        "daily-2026-10-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122071": {
+      "title": "No Evidence for Strongly Enhanced Northern Hemisphere Cooling From Extratropical Versus Tropical Eruptions",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-23",
+      "sources": [
+        "daily-2026-10-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0345.1": {
+      "title": "MJO Predictability: Its Sources and Limits",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-10-23",
+      "sources": [
+        "daily-2026-10-15"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157296,6 +157366,12 @@
       "timestamp": "2026-10-22T10:13:47.152841",
       "date": "2026-10-14",
       "papers_found": 5
+    },
+    "daily-2026-10-15": {
+      "type": "daily",
+      "timestamp": "2026-10-23T10:14:23.844715",
+      "date": "2026-10-15",
+      "papers_found": 7
     }
   }
 }
