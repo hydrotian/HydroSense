@@ -149254,6 +149254,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41561-026-02123-w": {
+      "title": "Palaeoclimate constraints narrow uncertainty in future Arctic winter sea ice projections",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-10-24",
+      "sources": [
+        "daily-2026-10-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124766": {
+      "title": "Flood Responses to Climate Warming on Tribal Lands Using High-Resolution Hydrodynamic Modeling",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-24",
+      "sources": [
+        "daily-2026-10-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123775": {
+      "title": "Offshore Freshened Groundwater Distribution Is Controlled by Along- and Cross-Shore Topographic Variability",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-24",
+      "sources": [
+        "daily-2026-10-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124051": {
+      "title": "Interpretable Machine Learning Reveals Global Nonlinear Responses of Soil Respiration to Climate",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-24",
+      "sources": [
+        "daily-2026-10-16"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157372,6 +157412,12 @@
       "timestamp": "2026-10-23T10:14:23.844715",
       "date": "2026-10-15",
       "papers_found": 7
+    },
+    "daily-2026-10-16": {
+      "type": "daily",
+      "timestamp": "2026-10-24T10:10:09.200991",
+      "date": "2026-10-16",
+      "papers_found": 4
     }
   }
 }
