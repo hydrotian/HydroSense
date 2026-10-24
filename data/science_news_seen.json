@@ -14792,6 +14792,132 @@
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11303-y": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/s41586-026-11303-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03318-2": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/d41586-026-03318-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03418-z": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/d41586-026-03418-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03416-1": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/d41586-026-03416-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03383-7": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/d41586-026-03383-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03108-w": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/d41586-026-03108-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03417-0": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/d41586-026-03417-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02582-6": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/d41586-026-02582-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-78406-y": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/s41467-026-78406-y",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/d41591-026-00054-y": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/d41591-026-00054-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42003-026-11199-4": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.nature.com/articles/s42003-026-11199-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.ztypw1c": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.science.org/content/article/stash-hundreds-human-teeth-reveal-surprising-maya-burial-practice",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zrsjhtb": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.science.org/content/article/first-dinos-only-ate-fruit-munched-parrots",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z4vkjbw": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.science.org/content/article/kennedy-select-maha-aligned-researcher-head-mental-health-institute-overruling-nih",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.ziapm3u": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.science.org/content/article/flickering-signals-monkey-brains-hint-how-we-become-conscious-what-we-see",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/": {
+      "first_seen": "2026-10-24",
+      "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/": {
+      "first_seen": "2026-10-24",
+      "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147628": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=168189": {
+      "first_seen": "2026-10-24",
+      "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
+      "first_seen": "2026-10-24",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/securing-our-frontier-model-training-environment": {
+      "first_seen": "2026-10-24",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
