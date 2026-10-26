@@ -14918,6 +14918,30 @@
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11328-3": {
+      "first_seen": "2026-10-26",
+      "url": "https://www.nature.com/articles/s41586-026-11328-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-62755-1": {
+      "first_seen": "2026-10-26",
+      "url": "https://www.nature.com/articles/s41598-026-62755-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/": {
+      "first_seen": "2026-10-26",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/": {
+      "first_seen": "2026-10-26",
+      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
