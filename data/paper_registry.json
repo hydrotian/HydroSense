@@ -149294,6 +149294,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.5194/hess-30-6359-2026": {
+      "title": "Basin-scale evaluation of the Noah-MP land surface model for runoff and snow generation in the Missouri River Basin",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-10-26",
+      "sources": [
+        "weekly-2026-W42"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157424,6 +157434,29 @@
       "timestamp": "2026-10-26T10:06:22.993916",
       "date": "2026-10-18",
       "papers_found": 0
+    },
+    "weekly-2026-W42": {
+      "type": "weekly",
+      "timestamp": "2026-10-26T10:10:14.900533",
+      "date": "2026-10-19",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
