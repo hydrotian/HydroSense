@@ -149304,6 +149304,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2619357123": {
+      "title": "Geography of groundwater use and depletion in internationally shared aquifers",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-10-27",
+      "sources": [
+        "daily-2026-10-19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124953": {
+      "title": "More Frequent Atmospheric Rivers and Associated Precipitation Extremes Induced by the Baroclinic Annular Mode",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-27",
+      "sources": [
+        "daily-2026-10-19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-78622-6": {
+      "title": "Projected intensification of soil salinization in global drylands under future aridity increase",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-27",
+      "sources": [
+        "daily-2026-10-19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-78863-5": {
+      "title": "The 2023 North Atlantic marine heatwave could have evolved into a far more extreme event",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-27",
+      "sources": [
+        "daily-2026-10-19"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-78260-y": {
+      "title": "Resolving short-term meteorological variability amplifies projected glacier loss and sea-level rise",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-27",
+      "sources": [
+        "daily-2026-10-19"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157457,6 +157507,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-10-19": {
+      "type": "daily",
+      "timestamp": "2026-10-27T10:12:29.289887",
+      "date": "2026-10-19",
+      "papers_found": 5
     }
   }
 }
