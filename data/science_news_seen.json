@@ -15122,6 +15122,186 @@
       "url": "https://openai.com/index/introducing-gpt-6-1-terra",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03445-w": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03445-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03404-5": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03404-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03388-2": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03388-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03407-2": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03407-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03405-4": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03405-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03276-9": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03276-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11302-z": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/s41586-026-11302-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03406-3": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03406-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03385-5": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03385-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02814-9": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-02814-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03449-6": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03449-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03390-8": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03390-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03461-w": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03461-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03396-2": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03396-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03384-6": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03384-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03403-6": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03403-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03394-4": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/d41586-026-03394-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-025-14337-w": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.nature.com/articles/s41598-025-14337-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zow83t2": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.science.org/content/article/ibm-links-two-quantum-chips-key-step-toward-bigger-computers",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zw83j58": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zij1ww4": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/": {
+      "first_seen": "2026-10-28",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/": {
+      "first_seen": "2026-10-28",
+      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147693": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147142": {
+      "first_seen": "2026-10-28",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+      "first_seen": "2026-10-28",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://openai.com/index/legora-agentic-operating-system-for-legal-work": {
+      "first_seen": "2026-10-28",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/retell-ai": {
+      "first_seen": "2026-10-28",
+      "url": "https://openai.com/index/retell-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/oracle-apps-in-chatgpt": {
+      "first_seen": "2026-10-28",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/check-point-daybreak": {
+      "first_seen": "2026-10-28",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

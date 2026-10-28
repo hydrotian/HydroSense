@@ -149354,6 +149354,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl123473": {
+      "title": "Millennial‐Scale Climate States Alter Atlantic Multidecadal Variability Mechanisms in a Climate Model",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-28",
+      "sources": [
+        "daily-2026-10-20"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157513,6 +157523,12 @@
       "timestamp": "2026-10-27T10:12:29.289887",
       "date": "2026-10-19",
       "papers_found": 5
+    },
+    "daily-2026-10-20": {
+      "type": "daily",
+      "timestamp": "2026-10-28T10:10:50.772470",
+      "date": "2026-10-20",
+      "papers_found": 1
     }
   }
 }
