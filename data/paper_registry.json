@@ -149364,6 +149364,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41586-026-11168-1": {
+      "title": "Amazon carbon emissions driven by human actions amplified by droughts",
+      "journal": "Nature",
+      "first_seen": "2026-10-29",
+      "sources": [
+        "daily-2026-10-21"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157528,6 +157538,12 @@
       "type": "daily",
       "timestamp": "2026-10-28T10:10:50.772470",
       "date": "2026-10-20",
+      "papers_found": 1
+    },
+    "daily-2026-10-21": {
+      "type": "daily",
+      "timestamp": "2026-10-29T10:12:43.678397",
+      "date": "2026-10-21",
       "papers_found": 1
     }
   }
