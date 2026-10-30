@@ -149374,6 +149374,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.aed3379": {
+      "title": "Late Holocene reexpansion of the Laurentide Ice Sheet",
+      "journal": "Science",
+      "first_seen": "2026-10-30",
+      "sources": [
+        "daily-2026-10-22"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125267": {
+      "title": "Rapid Infiltration Signatures From Global Infiltration Observations",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-10-30",
+      "sources": [
+        "daily-2026-10-22"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157545,6 +157565,12 @@
       "timestamp": "2026-10-29T10:12:43.678397",
       "date": "2026-10-21",
       "papers_found": 1
+    },
+    "daily-2026-10-22": {
+      "type": "daily",
+      "timestamp": "2026-10-30T10:10:33.072937",
+      "date": "2026-10-22",
+      "papers_found": 2
     }
   }
 }
