@@ -15686,6 +15686,90 @@
       "url": "https://openai.com/index/legora",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03386-4": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.nature.com/articles/d41586-026-03386-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03479-0": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.nature.com/articles/d41586-026-03479-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41591-026-00056-w": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.nature.com/articles/d41591-026-00056-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03270-z": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.nature.com/articles/s41592-026-03270-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zuvdacz": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zom5rz0": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/": {
+      "first_seen": "2026-10-30",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147838": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147830": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147824": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=168400": {
+      "first_seen": "2026-10-30",
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/updated-model-spec": {
+      "first_seen": "2026-10-30",
+      "url": "https://openai.com/index/updated-model-spec",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+      "first_seen": "2026-10-30",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/ropes-gray-ai-diligence": {
+      "first_seen": "2026-10-30",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
