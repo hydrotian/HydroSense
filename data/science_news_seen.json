@@ -15770,6 +15770,108 @@
       "url": "https://openai.com/index/ropes-gray-ai-diligence",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03553-7": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.nature.com/articles/d41586-026-03553-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11337-2": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.nature.com/articles/s41586-026-11337-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03543-9": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.nature.com/articles/d41586-026-03543-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03368-6": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.nature.com/articles/d41586-026-03368-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03502-4": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.nature.com/articles/d41586-026-03502-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03455-8": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.nature.com/articles/d41586-026-03455-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03512-2": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.nature.com/articles/d41586-026-03512-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-79191-4": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.nature.com/articles/s41467-026-79191-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z26axxu": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.science.org/content/article/early-career-researchers-right-unionize-nih-upheld-against-agency-s-petition",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z1mn0li": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/": {
+      "first_seen": "2026-10-31",
+      "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/": {
+      "first_seen": "2026-10-31",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147843": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=168464": {
+      "first_seen": "2026-10-31",
+      "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/helping-websites-express-ai-training-preferences": {
+      "first_seen": "2026-10-31",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
+      "first_seen": "2026-10-31",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/fair-use-benefits-everyone": {
+      "first_seen": "2026-10-31",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
