@@ -149394,6 +149394,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-78688-2": {
+      "title": "Climate-driven water stress in the United States is seasonal, regional, and shaped by adaptation",
+      "journal": "Nature Communications",
+      "first_seen": "2026-10-31",
+      "sources": [
+        "daily-2026-10-23"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157571,6 +157581,12 @@
       "timestamp": "2026-10-30T10:10:33.072937",
       "date": "2026-10-22",
       "papers_found": 2
+    },
+    "daily-2026-10-23": {
+      "type": "daily",
+      "timestamp": "2026-10-31T10:14:51.476225",
+      "date": "2026-10-23",
+      "papers_found": 1
     }
   }
 }
