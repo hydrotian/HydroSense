@@ -15872,6 +15872,24 @@
       "url": "https://openai.com/index/fair-use-benefits-everyone",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-79039-x": {
+      "first_seen": "2026-11-01",
+      "url": "https://www.nature.com/articles/s41467-026-79039-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/": {
+      "first_seen": "2026-11-01",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/": {
+      "first_seen": "2026-11-01",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
