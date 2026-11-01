@@ -149404,6 +149404,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl124039": {
+      "title": "On the Stability and Sensitivity of Climate-Informed Flood Frequency Models",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-01",
+      "sources": [
+        "daily-2026-10-24"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122710": {
+      "title": "Distributions of Short-Duration High-Intensity Precipitation Events in the United States Under Intermediate and Pessimistic Climate Change Scenarios",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-01",
+      "sources": [
+        "daily-2026-10-24"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157587,6 +157607,12 @@
       "timestamp": "2026-10-31T10:14:51.476225",
       "date": "2026-10-23",
       "papers_found": 1
+    },
+    "daily-2026-10-24": {
+      "type": "daily",
+      "timestamp": "2026-11-01T11:06:15.359811",
+      "date": "2026-10-24",
+      "papers_found": 2
     }
   }
 }
