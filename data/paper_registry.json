@@ -149444,6 +149444,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.3390/rs18213673": {
+      "title": "Scale-Dependent Agreement of Hydrological Loading Displacements from GNSS, GRACE, and a Land Surface Model in the Heihe River Basin",
+      "journal": "Remote Sensing",
+      "first_seen": "2026-11-02",
+      "sources": [
+        "weekly-2026-W43"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157639,6 +157649,29 @@
       "timestamp": "2026-11-02T11:09:41.603479",
       "date": "2026-10-25",
       "papers_found": 2
+    },
+    "weekly-2026-W43": {
+      "type": "weekly",
+      "timestamp": "2026-11-02T11:17:57.343408",
+      "date": "2026-10-26",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
