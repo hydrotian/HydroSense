@@ -149424,6 +149424,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122195": {
+      "title": "EMIT Reveals Elevated Calcite Signatures in Shorelines of Lake Powell and Lake Mead Exposed by Drought and Colorado River Management",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-02",
+      "sources": [
+        "daily-2026-10-25"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl126805": {
+      "title": "A Shift of Multidecadal Trend in Coastal Upwelling Off Southern Vietnam in the South China Sea Around 1999",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-02",
+      "sources": [
+        "daily-2026-10-25"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157612,6 +157632,12 @@
       "type": "daily",
       "timestamp": "2026-11-01T11:06:15.359811",
       "date": "2026-10-24",
+      "papers_found": 2
+    },
+    "daily-2026-10-25": {
+      "type": "daily",
+      "timestamp": "2026-11-02T11:09:41.603479",
+      "date": "2026-10-25",
       "papers_found": 2
     }
   }
