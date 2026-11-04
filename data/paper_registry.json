@@ -149484,6 +149484,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2538010123": {
+      "title": "Holocene millennial climate variability influenced by tropical–Antarctic ocean–atmosphere interactions",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-11-04",
+      "sources": [
+        "daily-2026-10-27"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157708,6 +157718,12 @@
       "timestamp": "2026-11-03T11:10:22.212448",
       "date": "2026-10-26",
       "papers_found": 3
+    },
+    "daily-2026-10-27": {
+      "type": "daily",
+      "timestamp": "2026-11-04T11:09:30.236206",
+      "date": "2026-10-27",
+      "papers_found": 1
     }
   }
 }
