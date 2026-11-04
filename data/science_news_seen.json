@@ -16148,6 +16148,150 @@
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03544-8": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03544-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03505-1": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03505-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03277-8": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03277-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03538-6": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03538-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03340-4": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03340-4",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03503-3": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03503-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03508-y": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03508-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03504-2": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03504-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03554-6": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03554-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03540-y": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03540-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03545-7": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/d41586-026-03545-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03250-3": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/s41592-026-03250-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-78923-w": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/s41467-026-78923-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41598-026-78103-2": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.nature.com/articles/s41598-026-78103-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zz1a6mm": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.science.org/content/article/early-career-scientists-cost-ai-can-be-problem",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zr72c9z": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.science.org/content/article/walrus-tusks-carved-bali-are-being-illegally-sold-native-american-art-investigation",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zt4wmpp": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.science.org/content/article/former-head-global-health-fund-returns-eyeing-huge-opportunity-despite-political-and",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zig91lr": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.science.org/content/article/european-scientists-face-uncertainty-pandemic-recovery-fund-winds-down",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147940": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147934": {
+      "first_seen": "2026-11-04",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
+      "first_seen": "2026-11-04",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+      "first_seen": "2026-11-04",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/cisco-cyber": {
+      "first_seen": "2026-11-04",
+      "url": "https://openai.com/index/cisco-cyber",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+      "first_seen": "2026-11-04",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
