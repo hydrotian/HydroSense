@@ -149484,6 +149484,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41561-026-02107-w": {
+      "title": "Vegetation increasingly controlled by atmospheric dryness rather than soil moisture",
+      "journal": "Nature Geoscience",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "daily-2026-10-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-026-11199-8": {
+      "title": "Spatial and sectoral water demand assessment for the African continent",
+      "journal": "Nature",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "daily-2026-10-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41586-026-11180-5": {
+      "title": "Stone and water governed early human settlement of the desert",
+      "journal": "Nature",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "daily-2026-10-28"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0097.1": {
+      "title": "Air pollution amplifies the humid heat anomalies in India",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-11-05",
+      "sources": [
+        "daily-2026-10-28"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157708,6 +157748,12 @@
       "timestamp": "2026-11-03T11:10:22.212448",
       "date": "2026-10-26",
       "papers_found": 3
+    },
+    "daily-2026-10-28": {
+      "type": "daily",
+      "timestamp": "2026-11-05T11:12:19.251122",
+      "date": "2026-10-28",
+      "papers_found": 4
     }
   }
 }
