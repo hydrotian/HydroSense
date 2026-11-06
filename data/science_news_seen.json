@@ -16688,6 +16688,144 @@
       "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03585-z": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/d41586-026-03585-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11336-3": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/s41586-026-11336-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11351-4": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/s41586-026-11351-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03568-0": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/d41586-026-03568-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03596-w": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/d41586-026-03596-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41591-026-04724-9": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/s41591-026-04724-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03338-w": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/s41592-026-03338-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-79287-x": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/s41467-026-79287-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03269-6": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.nature.com/articles/s41592-026-03269-6",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.science.org/doi/10.1126/science.zcvmxbi": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.science.org/content/article/noise-pollution-causing-potentially-massive-problems-wildlife-across-globe",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zanhi8b": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z30fbq8": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/": {
+      "first_seen": "2026-11-06",
+      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/": {
+      "first_seen": "2026-11-06",
+      "url": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148090": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1144908": {
+      "first_seen": "2026-11-06",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": {
+      "first_seen": "2026-11-06",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/australian-universities-ai-native-graduates": {
+      "first_seen": "2026-11-06",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/cultfit-builds-with-codex": {
+      "first_seen": "2026-11-06",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-gpt-6-cyber": {
+      "first_seen": "2026-11-06",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/merge-builds-with-openai": {
+      "first_seen": "2026-11-06",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/ads/customers/flipsnack": {
+      "first_seen": "2026-11-06",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/franklin-templeton": {
+      "first_seen": "2026-11-06",
+      "url": "https://openai.com/index/franklin-templeton",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

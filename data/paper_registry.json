@@ -149524,6 +149524,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl125450": {
+      "title": "Reconstruction of Rock Uplift in South‐Central Germany Since Late Mesozoic Times",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-06",
+      "sources": [
+        "daily-2026-10-29"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157754,6 +157764,12 @@
       "timestamp": "2026-11-05T11:12:19.251122",
       "date": "2026-10-28",
       "papers_found": 4
+    },
+    "daily-2026-10-29": {
+      "type": "daily",
+      "timestamp": "2026-11-06T11:11:34.511414",
+      "date": "2026-10-29",
+      "papers_found": 1
     }
   }
 }
