@@ -149534,6 +149534,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s43017-026-00856-1": {
+      "title": "Using open-weight models to investigate human-driven changes in hydrology",
+      "journal": "Nature Reviews Earth & Environment",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "daily-2026-10-30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02791-x": {
+      "title": "Atmospheric stabilization of the East Antarctic ice sheet under warming",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "daily-2026-10-30"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl123196": {
+      "title": "Seasonal Modulation of ENSO Teleconnections to Horn of Africa Rainfall",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-07",
+      "sources": [
+        "daily-2026-10-30"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157770,6 +157800,12 @@
       "timestamp": "2026-11-06T11:11:34.511414",
       "date": "2026-10-29",
       "papers_found": 1
+    },
+    "daily-2026-10-30": {
+      "type": "daily",
+      "timestamp": "2026-11-07T11:08:31.409205",
+      "date": "2026-10-30",
+      "papers_found": 3
     }
   }
 }

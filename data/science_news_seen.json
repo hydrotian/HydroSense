@@ -16826,6 +16826,114 @@
       "url": "https://openai.com/index/franklin-templeton",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03595-x": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.nature.com/articles/d41586-026-03595-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03630-x": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.nature.com/articles/d41586-026-03630-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03632-9": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.nature.com/articles/d41586-026-03632-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03442-z": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.nature.com/articles/d41586-026-03442-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11233-9": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.nature.com/articles/s41586-026-11233-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03587-x": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.nature.com/articles/d41586-026-03587-x",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03622-x": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.nature.com/articles/d41586-026-03622-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03450-z": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.nature.com/articles/d41586-026-03450-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zrhwj3w": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z95o88q": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.science.org/content/article/harvard-grad-students-strike-again-citing-inadequate-harassment-protections",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zfm02wu": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.science.org/content/article/californians-poised-approve-controversial-8-4-billion-initiative-fund-immunology",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z3ebwax": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.science.org/doi/10.1126/science.zsaszkb": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.science.org/content/article/congressional-veteran-and-rookie-lay-out-possible-science-agenda-democrats",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/": {
+      "first_seen": "2026-11-07",
+      "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148154": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=168674": {
+      "first_seen": "2026-11-07",
+      "url": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/partnering-with-hacktron": {
+      "first_seen": "2026-11-07",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+      "first_seen": "2026-11-07",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
