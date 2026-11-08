@@ -16934,6 +16934,12 @@
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/": {
+      "first_seen": "2026-11-08",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
