@@ -16940,6 +16940,48 @@
       "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03631-w": {
+      "first_seen": "2026-11-09",
+      "url": "https://www.nature.com/articles/d41586-026-03631-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03627-6": {
+      "first_seen": "2026-11-09",
+      "url": "https://www.nature.com/articles/d41586-026-03627-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03308-2": {
+      "first_seen": "2026-11-09",
+      "url": "https://www.nature.com/articles/s41592-026-03308-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42256-026-01328-3": {
+      "first_seen": "2026-11-09",
+      "url": "https://www.nature.com/articles/s42256-026-01328-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-77651-5": {
+      "first_seen": "2026-11-09",
+      "url": "https://www.nature.com/articles/s41467-026-77651-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/": {
+      "first_seen": "2026-11-09",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148166": {
+      "first_seen": "2026-11-09",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

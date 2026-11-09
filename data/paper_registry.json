@@ -149564,6 +149564,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl122313": {
+      "title": "How the River Network Shapes Spatiotemporal Drought Behavior Across Europe",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "daily-2026-11-01"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157812,6 +157822,12 @@
       "timestamp": "2026-11-08T11:05:57.965715",
       "date": "2026-10-31",
       "papers_found": 0
+    },
+    "daily-2026-11-01": {
+      "type": "daily",
+      "timestamp": "2026-11-09T11:11:55.798334",
+      "date": "2026-11-01",
+      "papers_found": 1
     }
   }
 }
