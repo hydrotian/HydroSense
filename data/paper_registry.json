@@ -149574,6 +149574,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.2166/hydro.2026.115": {
+      "title": "Advancing long-horizon hydrological forecasting: a Mamba-based approach with explainable AI for generalized streamflow prediction",
+      "journal": "Journal of Hydroinformatics",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "weekly-2026-W44"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-10309-2026": {
+      "title": "Using a two-stage Rosenbrock solver to increase computational efficiency in the DOE's Exascale Earth System Model version 1 (E3SMv1)",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-11-09",
+      "sources": [
+        "weekly-2026-W44"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157828,6 +157848,29 @@
       "timestamp": "2026-11-09T11:11:55.798334",
       "date": "2026-11-01",
       "papers_found": 1
+    },
+    "weekly-2026-W44": {
+      "type": "weekly",
+      "timestamp": "2026-11-09T11:21:07.338729",
+      "date": "2026-11-09",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
