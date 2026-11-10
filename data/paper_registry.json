@@ -149594,6 +149594,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl125455": {
+      "title": "Impact of Reservoirs on Streamflow Extremes in India",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-10",
+      "sources": [
+        "daily-2026-11-02"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157871,6 +157881,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-11-02": {
+      "type": "daily",
+      "timestamp": "2026-11-10T11:10:19.928516",
+      "date": "2026-11-02",
+      "papers_found": 1
     }
   }
 }
