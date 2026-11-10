@@ -16982,6 +16982,180 @@
       "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03645-4": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03645-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03643-6": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03643-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03644-5": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03644-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03623-w": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03623-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03629-4": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03629-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03588-w": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03588-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03628-5": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03628-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03654-3": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03654-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03626-7": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-03626-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11375-w": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/s41586-026-11375-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02998-0": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-02998-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02903-9": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/d41586-026-02903-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41591-026-04725-8": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.nature.com/articles/s41591-026-04725-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zw4ahc0": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.science.org/content/article/neurons-dish-are-newest-computing-machines",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zz1d7k6": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zb7u0ba": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.science.org/content/article/researchers-sue-block-nsf-demolishing-social-science-directorate",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zrukrlb": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/": {
+      "first_seen": "2026-11-10",
+      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/": {
+      "first_seen": "2026-11-10",
+      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148194": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148182": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148176": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147654": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=168601": {
+      "first_seen": "2026-11-10",
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/closing-ai-guidance-gap-education": {
+      "first_seen": "2026-11-10",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+      "first_seen": "2026-11-10",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/control-room": {
+      "first_seen": "2026-11-10",
+      "url": "https://openai.com/index/control-room",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/coderabbit-codex-daybreak": {
+      "first_seen": "2026-11-10",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/kuken": {
+      "first_seen": "2026-11-10",
+      "url": "https://openai.com/index/kuken",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
