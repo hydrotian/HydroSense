@@ -149604,6 +149604,56 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1073/pnas.2611210123": {
+      "title": "Forcing dataset updates impact regional but not global Earth radiation budget trends in the GFDL AM4 climate model",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "daily-2026-11-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124606": {
+      "title": "Specialized SWOT SSH Data Assimilation Improves the Representation of Multiscale Variability in the Ocean Model",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "daily-2026-11-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124400": {
+      "title": "Recent Slowing Arctic-Amplified Warming Drives an Unprecedented Water Recovery in the World's Most Voluminous Freshwater Lake",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "daily-2026-11-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1175/bams-d-25-0305.1": {
+      "title": "From the Drought Impact Reporter to the Drought Impacts Toolkit: Evolution, Experience, and Data from Tracking Drought Impacts Across Two Decades",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "daily-2026-11-03"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02776-w": {
+      "title": "Zero emissions commitment depends on warming level",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-11-11",
+      "sources": [
+        "daily-2026-11-03"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157887,6 +157937,12 @@
       "timestamp": "2026-11-10T11:10:19.928516",
       "date": "2026-11-02",
       "papers_found": 1
+    },
+    "daily-2026-11-03": {
+      "type": "daily",
+      "timestamp": "2026-11-11T11:16:50.964247",
+      "date": "2026-11-03",
+      "papers_found": 5
     }
   }
 }
