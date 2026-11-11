@@ -17156,6 +17156,174 @@
       "url": "https://openai.com/index/kuken",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03624-9": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03624-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03448-7": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03448-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03278-7": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03278-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03635-6": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03635-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03589-9": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03589-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03017-y": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03017-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03578-y": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03578-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03620-z": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03620-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03625-8": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.nature.com/articles/d41586-026-03625-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zzi99jx": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.science.org/content/article/what-makes-dinosaur-famous-jurassic-park-mostly",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zxasfav": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.science.org/content/article/pathogen-hunters-track-microbes-around-world-are-their-data-real",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zhk4uk0": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.science.org/content/article/researchers-have-wish-list-can-new-congress-deliver",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zf5bdog": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.science.org/content/article/can-researchers-bring-order-confusing-world-ai-benchmarks",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/": {
+      "first_seen": "2026-11-11",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/": {
+      "first_seen": "2026-11-11",
+      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148150": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1147726": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=168606": {
+      "first_seen": "2026-11-11",
+      "url": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": {
+      "first_seen": "2026-11-11",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://deepmind.google/blog/introducing-alphaproof-code/": {
+      "first_seen": "2026-11-11",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/": {
+      "first_seen": "2026-11-11",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/gilbert-tobin-sam-nickless": {
+      "first_seen": "2026-11-11",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/chatgpt-plus-for-veterans": {
+      "first_seen": "2026-11-11",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+      "first_seen": "2026-11-11",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-businesses-chatgpt": {
+      "first_seen": "2026-11-11",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/singapore-airlines-travel-work": {
+      "first_seen": "2026-11-11",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/ai-effect-on-freelance-work": {
+      "first_seen": "2026-11-11",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/cogent-security": {
+      "first_seen": "2026-11-11",
+      "url": "https://openai.com/index/cogent-security",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
