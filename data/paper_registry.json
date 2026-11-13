@@ -149674,6 +149674,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.ael8929": {
+      "title": "Start cryosphere flood warnings at the source",
+      "journal": "Science",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "daily-2026-11-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl122717": {
+      "title": "Saltwater Intrusion Seasonality Under Climate Change: Interacting Effects of River Discharge, Sea-Level Rise, and Bathymetry",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "daily-2026-11-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124018": {
+      "title": "Calibrating the Geomorphic Clock: Remote Sensing of Sediment Storage and Transit Timescales in Alluvial River Corridors",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "daily-2026-11-05"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl127221": {
+      "title": "Historical Groundwater Memory Predicts Site-Specific Persistence Horizons Across Germany",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-13",
+      "sources": [
+        "daily-2026-11-05"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -157969,6 +158009,12 @@
       "timestamp": "2026-11-12T11:12:43.289989",
       "date": "2026-11-04",
       "papers_found": 2
+    },
+    "daily-2026-11-05": {
+      "type": "daily",
+      "timestamp": "2026-11-13T11:11:26.502986",
+      "date": "2026-11-05",
+      "papers_found": 4
     }
   }
 }
