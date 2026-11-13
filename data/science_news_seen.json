@@ -17714,6 +17714,120 @@
       "url": "https://openai.com/index/jiostar-vijay-seshadri",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03638-3": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03639-2": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.nature.com/articles/d41586-026-03639-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03665-0": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.nature.com/articles/d41586-026-03665-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11409-3": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.nature.com/articles/s41586-026-11409-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03666-z": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.nature.com/articles/d41586-026-03666-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03565-3": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.nature.com/articles/d41586-026-03565-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03573-3": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.nature.com/articles/d41586-026-03573-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03705-9": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.nature.com/articles/d41586-026-03705-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/": {
+      "first_seen": "2026-11-13",
+      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148474": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148498": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148483": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148444": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=168928": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=169152": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=168783": {
+      "first_seen": "2026-11-13",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
+      "first_seen": "2026-11-13",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/customer-stories/amplitude": {
+      "first_seen": "2026-11-13",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/customer-stories/gondola": {
+      "first_seen": "2026-11-13",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
