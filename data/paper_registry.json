@@ -149714,6 +149714,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl125616": {
+      "title": "Tree Rings Indicate Potential for Severe Soil Moisture Drought in California Is Much Greater Than Observations Suggest",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "daily-2026-11-06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125735": {
+      "title": "Enhanced Surface Coupling but Suppressed Convective Triggering During Humid-Hot Extremes in the Yangtze River Basin",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "daily-2026-11-06"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl124730": {
+      "title": "High-Resolution Discharge Inversion in a Small Alpine Watershed: Combining Monitoring Images and Triaxial Seismic Data",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-14",
+      "sources": [
+        "daily-2026-11-06"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158015,6 +158045,12 @@
       "timestamp": "2026-11-13T11:11:26.502986",
       "date": "2026-11-05",
       "papers_found": 4
+    },
+    "daily-2026-11-06": {
+      "type": "daily",
+      "timestamp": "2026-11-14T11:10:58.860537",
+      "date": "2026-11-06",
+      "papers_found": 3
     }
   }
 }
