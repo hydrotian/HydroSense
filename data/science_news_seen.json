@@ -17828,6 +17828,54 @@
       "url": "https://openai.com/business/customer-stories/gondola",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-79121-4": {
+      "first_seen": "2026-11-15",
+      "url": "https://www.nature.com/articles/s41467-026-79121-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/": {
+      "first_seen": "2026-11-15",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/": {
+      "first_seen": "2026-11-15",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/": {
+      "first_seen": "2026-11-15",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/": {
+      "first_seen": "2026-11-15",
+      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/": {
+      "first_seen": "2026-11-15",
+      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148551": {
+      "first_seen": "2026-11-15",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-chatgpt-wallet": {
+      "first_seen": "2026-11-15",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
