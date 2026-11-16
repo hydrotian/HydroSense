@@ -149744,6 +149744,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl126007": {
+      "title": "Urban Building Foundations Alter Seawater Intrusion Dynamics in Coastal Aquifers",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "daily-2026-11-08"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158057,6 +158067,12 @@
       "timestamp": "2026-11-15T11:05:33.236590",
       "date": "2026-11-07",
       "papers_found": 0
+    },
+    "daily-2026-11-08": {
+      "type": "daily",
+      "timestamp": "2026-11-16T11:06:50.848177",
+      "date": "2026-11-08",
+      "papers_found": 1
     }
   }
 }
