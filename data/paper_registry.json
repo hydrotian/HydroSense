@@ -149754,6 +149754,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026jd047646": {
+      "title": "Enhanced Land-Surface Processes Sustain Evapotranspiration and Improve Tropical Climate Variability in a Coupled Earth System Model",
+      "journal": "Journal of Geophysical Research - Atmospheres",
+      "first_seen": "2026-11-16",
+      "sources": [
+        "weekly-2026-W45"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158073,6 +158083,29 @@
       "timestamp": "2026-11-16T11:06:50.848177",
       "date": "2026-11-08",
       "papers_found": 1
+    },
+    "weekly-2026-W45": {
+      "type": "weekly",
+      "timestamp": "2026-11-16T11:20:39.426233",
+      "date": "2026-11-16",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
