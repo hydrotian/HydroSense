@@ -149764,6 +149764,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41558-026-02797-5": {
+      "title": "Regional climate change approaches Paris limits",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-11-17",
+      "sources": [
+        "daily-2026-11-09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-78922-x": {
+      "title": "Archival and palaeoenvironmental documentation of extreme climate events reveals generational amnesia in collective memory",
+      "journal": "Nature Communications",
+      "first_seen": "2026-11-17",
+      "sources": [
+        "daily-2026-11-09"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41467-026-77004-2": {
+      "title": "Repeated loss of the West Antarctic Ice Sheet’s Amundsen Sea sector during late Pleistocene interglacials",
+      "journal": "Nature Communications",
+      "first_seen": "2026-11-17",
+      "sources": [
+        "daily-2026-11-09"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158106,6 +158136,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-11-09": {
+      "type": "daily",
+      "timestamp": "2026-11-17T11:10:53.878273",
+      "date": "2026-11-09",
+      "papers_found": 3
     }
   }
 }
