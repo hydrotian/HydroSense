@@ -17936,6 +17936,228 @@
       "url": "https://openai.com/index/our-new-blog-for-science",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03744-2": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03744-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03742-4": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03742-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03743-3": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03743-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03714-8": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03714-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03760-2": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03760-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11399-2": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/s41586-026-11399-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03715-7": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03715-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03765-x": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03765-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03706-8": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03706-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03713-9": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03713-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03763-z": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03763-z",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03752-2": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03752-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03762-0": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/d41586-026-03762-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-78924-9": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.nature.com/articles/s41467-026-78924-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z5zyxkw": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.science.org/content/article/chinese-gene-therapy-researchers-fired-after-probe-child-s-death",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zhemhsb": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.science.org/content/article/scientific-peer-review-should-rate-quality-and-impact-separately-study-argues",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zj9su5x": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.science.org/content/article/energy-department-delay-atom-smasher-and-speed-ai-quantum-and-fusion-projects",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zohraiw": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.science.org/content/article/supreme-court-rejects-trump-s-bid-appeal-decision-restoring-terminated-grants",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zou61fw": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.science.org/content/article/neanderthal-brain-gene-may-lower-odds-schizophrenia",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zv8yrgb": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.science.org/content/article/longtime-nih-contractor-named-director-infectious-disease-institute",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/": {
+      "first_seen": "2026-11-17",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/": {
+      "first_seen": "2026-11-17",
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148624": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148565": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148599": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1146070": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=169228": {
+      "first_seen": "2026-11-17",
+      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/expanding-chatgpt-for-academic-researchers": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/strengthening-online-child-safety": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/science-at-the-frontier": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/customer-stories/revolut": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/our-first-phase-of-embedded-assessments": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/the-kings-trust-and-openai": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/customer-stories/holiday-extras-dots": {
+      "first_seen": "2026-11-17",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
