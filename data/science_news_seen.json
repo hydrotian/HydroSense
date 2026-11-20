@@ -18704,6 +18704,192 @@
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03751-3": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03751-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-10974-x": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/s41586-026-10974-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03465-6": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03465-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11388-5": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/s41586-026-11388-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11445-z": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/s41586-026-11445-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03748-y": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03748-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03783-9": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03783-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03746-0": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03746-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03753-1": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03753-1",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03379-3": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03379-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11421-7": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/s41586-026-11421-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11436-0": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/s41586-026-11436-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03775-9": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03775-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03606-x": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03606-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03788-4": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/d41586-026-03788-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43588-026-01082-x": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.nature.com/articles/s43588-026-01082-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z2bj5r9": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zdb7p8w": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.science.org/content/article/flawed-research-papers-should-be-retracted-faster-u-s-academy-urges",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zeop6z7": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zhhvkxl": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.science.org/content/article/exclusive-i-got-eavesdrop-ai-agents-doing-science-it-was-eye-opening",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.science.org/doi/10.1126/science.zkvkp64": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.science.org/content/article/china-importing-thousands-research-primates-sparking-fears-monkey-trade-war",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/": {
+      "first_seen": "2026-11-20",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/": {
+      "first_seen": "2026-11-20",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148979": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148934": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1148922": {
+      "first_seen": "2026-11-20",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": {
+      "first_seen": "2026-11-20",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/learn/deploying-daybreak-red": {
+      "first_seen": "2026-11-20",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/learn/pr-scans-demo": {
+      "first_seen": "2026-11-20",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/learn/codex-security-plugin-demo": {
+      "first_seen": "2026-11-20",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
+      "first_seen": "2026-11-20",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }

@@ -149794,6 +149794,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1126/science.aen7366": {
+      "title": "Tracking danger on the peaks",
+      "journal": "Science",
+      "first_seen": "2026-11-20",
+      "sources": [
+        "daily-2026-11-12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aef5636": {
+      "title": "The cryosphere beyond a planetary safe operating space",
+      "journal": "Science",
+      "first_seen": "2026-11-20",
+      "sources": [
+        "daily-2026-11-12"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1126/science.aeg2366": {
+      "title": "Climate aridity amplifies global riverine nitrate beyond human inputs",
+      "journal": "Science",
+      "first_seen": "2026-11-20",
+      "sources": [
+        "daily-2026-11-12"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158154,6 +158184,12 @@
       "timestamp": "2026-11-19T11:09:23.352206",
       "date": "2026-11-11",
       "papers_found": 0
+    },
+    "daily-2026-11-12": {
+      "type": "daily",
+      "timestamp": "2026-11-20T11:11:26.241772",
+      "date": "2026-11-12",
+      "papers_found": 3
     }
   }
 }
