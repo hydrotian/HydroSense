@@ -18890,6 +18890,162 @@
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03680-1": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03680-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03806-5": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03806-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03776-8": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03776-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03590-2": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03590-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03805-6": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03805-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03789-3": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03789-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03812-7": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03812-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03799-1": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03799-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03787-5": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03787-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03519-9": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03519-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03790-w": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03790-w",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03811-8": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/d41586-026-03811-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-79392-x": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/s41467-026-79392-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43018-026-01252-w": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.nature.com/articles/s43018-026-01252-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zbwnxjo": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zqrgqca": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/": {
+      "first_seen": "2026-11-21",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/": {
+      "first_seen": "2026-11-21",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/": {
+      "first_seen": "2026-11-21",
+      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/": {
+      "first_seen": "2026-11-21",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149399": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.technologyreview.com/?p=1149371": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=169214": {
+      "first_seen": "2026-11-21",
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/combatting-adversarial-distillation": {
+      "first_seen": "2026-11-21",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/customer-stories/hebbia": {
+      "first_seen": "2026-11-21",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/introducing-medchembench": {
+      "first_seen": "2026-11-21",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
