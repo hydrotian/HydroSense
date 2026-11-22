@@ -149824,6 +149824,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl126105": {
+      "title": "Graph-Based Automated Discovery of Concise Soil Hydraulic Functions From Data",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "daily-2026-11-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125482": {
+      "title": "Estimates of Rare Storm Surges in Poorly Gauged Coastal Areas",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "daily-2026-11-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125244": {
+      "title": "Low Frequency Icequakes Generated During Transient Cavity Drainage on a Greenlandic Outlet Glacier",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "daily-2026-11-14"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1029/2026gl125220": {
+      "title": "Spatial-Temporal Compounding Summer Extremes Driven by Preferred Circulation Trajectories Over Europe",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-22",
+      "sources": [
+        "daily-2026-11-14"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158190,6 +158230,12 @@
       "timestamp": "2026-11-20T11:11:26.241772",
       "date": "2026-11-12",
       "papers_found": 3
+    },
+    "daily-2026-11-14": {
+      "type": "daily",
+      "timestamp": "2026-11-22T11:12:15.315808",
+      "date": "2026-11-14",
+      "papers_found": 4
     }
   }
 }

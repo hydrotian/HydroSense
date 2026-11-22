@@ -5804,7 +5804,7 @@
     },
     "https://www.science.org/doi/10.1126/science.zxwp0a2": {
       "first_seen": "2026-08-14",
-      "url": "https://www.science.org/content/article/una-investigación-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
+      "url": "https://www.science.org/content/article/una-investigaci\u00f3n-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
       "decision": "rejected",
       "bucket": null
     },
@@ -6040,7 +6040,7 @@
       "date": "2026-08-18T00:00:00+00:00"
     },
     "https://www.nature.com/articles/d41586-026-02576-4": {
-      "title": "Asia’s longevity gains must be translated into better health",
+      "title": "Asia\u2019s longevity gains must be translated into better health",
       "kept": false,
       "date": "2026-08-18T00:00:00+00:00"
     },
@@ -6055,7 +6055,7 @@
       "date": "2026-08-17T00:00:00+00:00"
     },
     "https://www.nature.com/articles/s41586-026-11009-1": {
-      "title": "Programmable remodelling of carbon–nitrogen connectivity in amines",
+      "title": "Programmable remodelling of carbon\u2013nitrogen connectivity in amines",
       "kept": false,
       "date": "2026-08-17T00:00:00+00:00"
     },
@@ -6130,12 +6130,12 @@
       "date": "2026-08-18T09:00:00+00:00"
     },
     "https://www.technologyreview.com/?p=1142200": {
-      "title": "What Flock’s defenders are missing",
+      "title": "What Flock\u2019s defenders are missing",
       "kept": false,
       "date": "2026-08-17T19:16:09+00:00"
     },
     "https://www.technologyreview.com/?p=1142175": {
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
       "kept": false,
       "date": "2026-08-17T12:10:00+00:00"
     },
@@ -6145,7 +6145,7 @@
       "date": "2026-08-17T15:11:17+00:00"
     },
     "https://openai.com/index/the-defenders-window": {
-      "title": "The Defender’s Window",
+      "title": "The Defender\u2019s Window",
       "kept": false,
       "date": "2026-08-17T05:30:00+00:00"
     },
@@ -18890,6 +18890,61 @@
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03803-8": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://www.nature.com/articles/s41467-026-79404-w": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://www.nature.com/articles/s41467-026-78602-w": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://www.technologyreview.com/?p=1149399": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://www.technologyreview.com/?p=1149371": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
+    },
+    "https://www.quantamagazine.org/?p=169214": {
+      "decision": "rejected",
+      "bucket": null,
+      "date": "2026-11-22"
     }
   }
 }
