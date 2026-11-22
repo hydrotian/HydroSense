@@ -162,6 +162,7 @@ class CrossRefClient:
     def __init__(self, email: str = None):
         self.base_url = "https://api.crossref.org"
         self.session = requests.Session()
+        self._email = email
         if email:
             self.session.headers.update({'User-Agent': f'HydroSense/2.0 (mailto:{email})'})
         else:
@@ -184,6 +185,8 @@ class CrossRefClient:
                     'offset': offset,
                     'select': 'DOI,title,author,published,container-title,abstract,type,subject'
                 }
+                if hasattr(self, '_email') and self._email:
+                    params['mailto'] = self._email
 
                 response = self.session.get(f"{self.base_url}/works", params=params, timeout=30)
                 response.raise_for_status()
@@ -792,6 +795,7 @@ def main():
             paper['journal_name'] = journal['name']
             paper['category'] = journal['category']
             all_papers.append(paper)
+        time.sleep(0.5)  # delay between journal requests to avoid CrossRef rate limits
 
     logger.info(f"Total papers fetched: {len(all_papers)}")
 
