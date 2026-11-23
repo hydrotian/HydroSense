@@ -149864,6 +149864,46 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1175/BAMS-D-25-0172.1": {
+      "title": "Advancing Climate Services in South Asia: The SARCI Framework for Actionable Climate Information and Regional Capacity Building",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "daily-2026-11-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-023-01778-2": {
+      "title": "A need for actionable climate projections across the Global South",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "daily-2026-11-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-021-01125-3": {
+      "title": "Climate services promise better decisions but mainly focus on better data",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "daily-2026-11-15"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/nclimate3378": {
+      "title": "Improving the use of climate information in decision-making",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "daily-2026-11-15"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158235,6 +158275,12 @@
       "type": "daily",
       "timestamp": "2026-11-22T11:12:15.315808",
       "date": "2026-11-14",
+      "papers_found": 4
+    },
+    "daily-2026-11-15": {
+      "type": "daily",
+      "timestamp": "2026-11-23T11:08:09.656007",
+      "date": "2026-11-15",
       "papers_found": 4
     }
   }
