@@ -149904,6 +149904,286 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1175/bams-d-26-0074.1": {
+      "title": "Syukuro Manabe Contributions to the Hydrologic Sciences",
+      "journal": "Bulletin of the American Meteorological Society",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-10719-2026": {
+      "title": "A hybrid physics-ML framework for integrating groundwater dynamics into land surface modeling",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/hess-30-6867-2026": {
+      "title": "Quantifying key parameter sensitivities for water table depth in hydrological schemes of CoLM-PSUADE",
+      "journal": "Hydrology and Earth System Sciences",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2026.104208": {
+      "title": "Improving hydrological partitioning simulations by incorporating subsurface critical zone structure",
+      "journal": "Journal of Hydrology Regional Studies",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00382-026-08454-z": {
+      "title": "A regional climate modeling investigation of wetland-related coupled hydrologic-atmospheric processes in central South America",
+      "journal": "Climate Dynamics",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/gmd-19-10699-2026": {
+      "title": "PLSTM-Reg v1.0: a regional physics-encoded LSTM model for simulating reservoir operations without site-specific training",
+      "journal": "Geoscientific Model Development",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2026.104210": {
+      "title": "Hydrological controls on deep learning streamflow transferability across contrasting basins",
+      "journal": "Journal of Hydrology Regional Studies",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1111/1752-1688.70172": {
+      "title": "HydroFusion-GRU: A Hydrological Feedback-Guided Deep Learning Framework for Short-Term Daily Streamflow Forecasting",
+      "journal": "JAWRA Journal of the American Water Resources Association",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s00477-026-03416-7": {
+      "title": "Spatially transferable and interpretable machine learning for multi-horizon probabilistic early warning of hydrologic drought onset",
+      "journal": "Stochastic Environmental Research and Risk Assessment",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3389/frwa.2026.1927367": {
+      "title": "Integration of artificial intelligence and machine learning with isotope hydrology",
+      "journal": "Frontiers in Water",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2026.104102": {
+      "title": "Modelling climate change impacts on river temperatures in two Norwegian catchments",
+      "journal": "Journal of Hydrology Regional Studies",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2026.136837": {
+      "title": "Trade-offs and synergies in multi-variable distributed hydrological model calibration in the transboundary Blue Nile Basin",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2026.104177": {
+      "title": "Cumulative impacts of climate change, permafrost thaw and wildfire drive increasing streamflow in a discontinuous permafrost watershed",
+      "journal": "Journal of Hydrology Regional Studies",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2026.104155": {
+      "title": "Assessing future eco-hydrological behaviour of a typical Sahelian agro-ecosystem under climate change",
+      "journal": "Journal of Hydrology Regional Studies",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1061/jhyeff.heeng-7008": {
+      "title": "Revisiting the Dunne Diagram: Seasonal Variation and Spatial Pattern of Runoff Components",
+      "journal": "Journal of Hydrologic Engineering",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jhydrol.2026.136793": {
+      "title": "Assessing lateral inflows to a sub-arctic stream using distributed temperature sensing, terrain metrics, and process-based modeling",
+      "journal": "Journal of Hydrology",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.2166/wcc.2026.412": {
+      "title": "Modelling the hydrological response of a complex tropical wetland system to shared socioeconomic pathway climate scenarios using SWAT+",
+      "journal": "Journal of Water and Climate Change",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/nhess-26-5711-2026": {
+      "title": "Reservoir-induced seismicity in China: Systematic characterization and implications for hazard assessment",
+      "journal": "Natural Hazards and Earth System Sciences",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.3390/cli14110246": {
+      "title": "Changes in Climate Extremes and Exploratory Reservoir Associations in the Jinsha River Basin, China",
+      "journal": "Climate",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2026.104199": {
+      "title": "Importance of glacier shrinkage for sustaining runoff in Panj River of Pamir, Central Asia",
+      "journal": "Journal of Hydrology Regional Studies",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ecolind.2026.115815": {
+      "title": "A new framework for assessing coordinated water management in arid river basins: A case study of the Tarim River Basin",
+      "journal": "Ecological Indicators",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s10113-026-02725-5": {
+      "title": "Climate, groundwater stress, and agricultural resilience in the Mississippi Delta",
+      "journal": "Regional Environmental Change",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41598-026-74724-9": {
+      "title": "Flood simulation study of the lower Tumen River based on a hydrological-hydrodynamic coupled model",
+      "journal": "Scientific Reports",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.ejrh.2026.104156": {
+      "title": "Vegetation loss and response to hydrological drought on the islands of the Congo River",
+      "journal": "Journal of Hydrology Regional Studies",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1016/j.jenvman.2026.131245": {
+      "title": "Climate-driven hydrologic change and soil organic carbon dynamics in a temperate floodplain",
+      "journal": "Journal of Environmental Management",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.5194/tc-20-6353-2026": {
+      "title": "Diverging runoff drives uncertainty in Antarctic surface mass balance projections under a high emission scenario",
+      "journal": "The Cryosphere",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1080/02626667.2026.2750415": {
+      "title": "Impacts of climate change on agricultural subsurface drainage hydrology in France",
+      "journal": "Hydrological Sciences Journal",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1007/s11600-026-02077-y": {
+      "title": "Satellite-driven monitoring of suspended sediment concentration in large river systems: an application to the Loire River",
+      "journal": "Acta Geophysica",
+      "first_seen": "2026-11-23",
+      "sources": [
+        "weekly-2026-W46"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158282,6 +158562,29 @@
       "timestamp": "2026-11-23T11:08:09.656007",
       "date": "2026-11-15",
       "papers_found": 4
+    },
+    "weekly-2026-W46": {
+      "type": "weekly",
+      "timestamp": "2026-11-23T11:29:40.413550",
+      "date": "2026-11-23",
+      "topics": [
+        "hydrology",
+        "hydrologic model",
+        "river",
+        "runoff",
+        "streamflow",
+        "reservoir",
+        "water management",
+        "flood",
+        "drought",
+        "seasonal",
+        "land surface model",
+        "climate change",
+        "hydropower",
+        "surface water",
+        "irrigation",
+        "earth system model"
+      ]
     }
   }
 }
