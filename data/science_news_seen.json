@@ -18963,6 +18963,180 @@
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03824-3": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03824-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03822-5": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03822-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03825-2": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03825-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03823-4": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03823-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11449-9": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/s41586-026-11449-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03827-0": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03827-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11448-w": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/s41586-026-11448-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11458-8": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/s41586-026-11458-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03720-w": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03720-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03808-3": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03808-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03818-1": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03818-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02203-2": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-02203-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03721-9": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03721-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03724-6": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03724-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03795-5": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/d41586-026-03795-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s43588-026-01109-3": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/s43588-026-01109-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-79690-4": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.nature.com/articles/s41467-026-79690-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z0o969l": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.science.org/content/article/tiny-tracking-device-documents-record-breaking-hummingbird-journey",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zs2rtqq": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.science.org/content/article/both-poles-warm-water-eating-away-sea-ice-below",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zuoucq4": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.science.org/content/article/fire-brazilian-university-scorches-research-debilitating-mosquito-borne-disease",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/": {
+      "first_seen": "2026-11-24",
+      "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149569": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149548": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149392": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.quantamagazine.org/?p=169527": {
+      "first_seen": "2026-11-24",
+      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/": {
+      "first_seen": "2026-11-24",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://openai.com/index/introducing-shirudo": {
+      "first_seen": "2026-11-24",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": {
+      "first_seen": "2026-11-24",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/customer-stories/richpanel-ai-customer-support": {
+      "first_seen": "2026-11-24",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
