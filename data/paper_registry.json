@@ -150184,6 +150184,36 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/d41586-026-03715-7": {
+      "title": "As El Niño builds, studies of extreme marine heatwaves must start now",
+      "journal": "Nature",
+      "first_seen": "2026-11-24",
+      "sources": [
+        "daily-2026-11-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1073/pnas.2626255123": {
+      "title": "Peak water: Trends in decoupling regional and global water use",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "first_seen": "2026-11-24",
+      "sources": [
+        "daily-2026-11-16"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02796-6": {
+      "title": "Hazardous glacial lakes need reservoir governance",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-11-24",
+      "sources": [
+        "daily-2026-11-16"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158585,6 +158615,12 @@
         "irrigation",
         "earth system model"
       ]
+    },
+    "daily-2026-11-16": {
+      "type": "daily",
+      "timestamp": "2026-11-24T11:09:24.755868",
+      "date": "2026-11-16",
+      "papers_found": 3
     }
   }
 }
