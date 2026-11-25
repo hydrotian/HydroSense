@@ -150214,6 +150214,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-79566-7": {
+      "title": "Expansion of North Atlantic Deep Water during Northern Hemisphere Glaciation",
+      "journal": "Nature Communications",
+      "first_seen": "2026-11-25",
+      "sources": [
+        "daily-2026-11-17"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158621,6 +158631,12 @@
       "timestamp": "2026-11-24T11:09:24.755868",
       "date": "2026-11-16",
       "papers_found": 3
+    },
+    "daily-2026-11-17": {
+      "type": "daily",
+      "timestamp": "2026-11-25T11:11:51.122802",
+      "date": "2026-11-17",
+      "papers_found": 1
     }
   }
 }
