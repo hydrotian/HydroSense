@@ -19137,6 +19137,210 @@
       "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03718-4": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03718-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03809-2": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03809-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03725-5": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03725-5",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03821-6": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03821-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03829-y": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03829-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03836-z": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03836-z",
+      "decision": "kept",
+      "bucket": "ai-method"
+    },
+    "https://www.nature.com/articles/d41586-026-03381-9": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03381-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03723-7": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03723-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03810-9": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03810-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03719-3": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03719-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03667-y": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03667-y",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03542-w": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03542-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11403-9": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/s41586-026-11403-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11474-8": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/s41586-026-11474-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03804-7": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03804-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03380-w": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03380-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03847-w": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/d41586-026-03847-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41467-026-79791-0": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.nature.com/articles/s41467-026-79791-0",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://www.science.org/doi/10.1126/science.z126pyy": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.science.org/content/article/enormous-fear-scientist-shares-arrest-ice-despite-pristine-paper-trail",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.z9ow10b": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.science.org/content/article/when-will-insect-size-robots-be-able-fly-beyond-lab",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zix00cr": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.science.org/content/article/scientists-scramble-track-lead-plume-planned-u-s-army-blast",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zn6tldv": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.science.org/content/article/mathathon-reimagines-math-age-ai",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.science.org/doi/10.1126/science.zrgaw7m": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.science.org/content/article/national-academies-corrects-some-not-all-errors-delayed-retractions-report",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/": {
+      "first_seen": "2026-11-25",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/": {
+      "first_seen": "2026-11-25",
+      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/": {
+      "first_seen": "2026-11-25",
+      "url": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149702": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149669": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149622": {
+      "first_seen": "2026-11-25",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+      "first_seen": "2026-11-25",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/index/searching-for-distant-planets-with-astra": {
+      "first_seen": "2026-11-25",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "decision": "kept",
+      "bucket": "cross-discipline"
+    },
+    "https://openai.com/business/customer-stories/intentful-dots": {
+      "first_seen": "2026-11-25",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/customer-stories/ifood": {
+      "first_seen": "2026-11-25",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://openai.com/business/customer-stories/clay-plugins-openai": {
+      "first_seen": "2026-11-25",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
