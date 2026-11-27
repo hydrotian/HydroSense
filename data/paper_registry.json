@@ -150224,6 +150224,16 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1038/s41467-026-79541-2": {
+      "title": "Greenland ice sheet retreat intensifies the African monsoon through a polar-tropical atmospheric teleconnection",
+      "journal": "Nature Communications",
+      "first_seen": "2026-11-27",
+      "sources": [
+        "daily-2026-11-19"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158643,6 +158653,12 @@
       "timestamp": "2026-11-26T11:08:29.149202",
       "date": "2026-11-18",
       "papers_found": 0
+    },
+    "daily-2026-11-19": {
+      "type": "daily",
+      "timestamp": "2026-11-27T11:08:31.591740",
+      "date": "2026-11-19",
+      "papers_found": 1
     }
   }
 }

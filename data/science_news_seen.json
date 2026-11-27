@@ -19713,6 +19713,96 @@
       "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
       "decision": "kept",
       "bucket": "cross-discipline"
+    },
+    "https://www.nature.com/articles/d41586-026-03800-x": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/d41586-026-03800-x",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03849-8": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/d41586-026-03849-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11475-7": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/s41586-026-11475-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03874-7": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/d41586-026-03874-7",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-02752-6": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/d41586-026-02752-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03875-6": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/d41586-026-03875-6",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03828-z": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/d41586-026-03828-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03894-3": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/d41586-026-03894-3",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42256-026-01330-9": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/s42256-026-01330-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41592-026-03387-1": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/s41592-026-03387-1",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42256-026-01321-w": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/s42256-026-01321-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s42256-026-01329-2": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.nature.com/articles/s42256-026-01329-2",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/": {
+      "first_seen": "2026-11-27",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149946": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149934": {
+      "first_seen": "2026-11-27",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
