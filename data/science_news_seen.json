@@ -19803,6 +19803,60 @@
       "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
       "decision": "rejected",
       "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03885-4": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.nature.com/articles/d41586-026-03885-4",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03801-w": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.nature.com/articles/d41586-026-03801-w",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03900-8": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.nature.com/articles/d41586-026-03900-8",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41586-026-11411-9": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.nature.com/articles/s41586-026-11411-9",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03754-0": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.nature.com/articles/d41586-026-03754-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/d41586-026-03523-z": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.nature.com/articles/d41586-026-03523-z",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.nature.com/articles/s41579-026-01400-0": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.nature.com/articles/s41579-026-01400-0",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149960": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "decision": "rejected",
+      "bucket": null
+    },
+    "https://www.technologyreview.com/?p=1149857": {
+      "first_seen": "2026-11-28",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "decision": "rejected",
+      "bucket": null
     }
   }
 }
