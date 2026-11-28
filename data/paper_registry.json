@@ -150234,6 +150234,26 @@
       ],
       "appearance_count": 1,
       "important": false
+    },
+    "10.1029/2026gl125010": {
+      "title": "Nonlinear Dynamics of Ecosystem Resilience Under Drought Disturbances",
+      "journal": "Geophysical Research Letters",
+      "first_seen": "2026-11-28",
+      "sources": [
+        "daily-2026-11-20"
+      ],
+      "appearance_count": 1,
+      "important": false
+    },
+    "10.1038/s41558-026-02805-8": {
+      "title": "Concurrent atmospheric phenomena amplify precipitation extremes under anthropogenic climate change",
+      "journal": "Nature Climate Change",
+      "first_seen": "2026-11-28",
+      "sources": [
+        "daily-2026-11-20"
+      ],
+      "appearance_count": 1,
+      "important": false
     }
   },
   "runs": {
@@ -158659,6 +158679,12 @@
       "timestamp": "2026-11-27T11:08:31.591740",
       "date": "2026-11-19",
       "papers_found": 1
+    },
+    "daily-2026-11-20": {
+      "type": "daily",
+      "timestamp": "2026-11-28T11:10:09.231933",
+      "date": "2026-11-20",
+      "papers_found": 2
     }
   }
 }
